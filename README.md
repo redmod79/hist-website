@@ -1,5 +1,7 @@
 # The Historicist Proof: Does Bible Prophecy Span History?
 
+**[Read the study online](https://redmod79.github.io/hist-website/)**
+
 A 19-study biblical investigation examining whether Daniel and Revelation describe a continuous span of history from the prophet's time to the second coming of Christ. 496 evidence items classified.
 
 ## Studies
