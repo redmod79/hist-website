@@ -1,0 +1,369 @@
+# Daniel 7: The Beasts, the Little Horn, and the Judgment
+
+## Question
+What are the four beasts of Daniel 7, what is the little horn that arises among the ten, and what is the judgment scene of Daniel 7:9-14? How does this chapter expand Daniel 2's succession principle and introduce the heavenly court that both Daniel 8:14 and Revelation build upon?
+
+## Summary Answer
+Daniel 7 presents four sequential kingdoms -- represented as lion, bear, leopard, and a terrifying fourth beast -- corresponding to the four metals of Daniel 2 and identifiable through cross-reference as Babylon, Medo-Persia, Greece, and Rome. A "little horn" arises from the fourth beast among its ten divisions, speaks against the Most High, wears out the saints, and thinks to change times and laws for "a time, times, and half a time." This persecution is terminated by a heavenly judgment scene (7:9-14) in which the Ancient of Days convenes a court, books are opened, and one like the Son of Man approaches God -- not earth -- to receive an everlasting kingdom. This judgment scene is the mechanism Daniel 2 lacked: it explains HOW dominion transfers from human empires to God's eternal kingdom. Revelation builds directly upon this framework, with the throne scene of Rev 4-5 paralleling Dan 7:9-14 and the composite beast of Rev 13 absorbing all four Daniel 7 beasts into a single entity.
+
+## Key Verses
+
+> **Daniel 7:3** "And four great beasts came up from the sea, diverse one from another."
+
+> **Daniel 7:7-8** "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns. I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things."
+
+> **Daniel 7:9-10** "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
+
+> **Daniel 7:13-14** "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed."
+
+> **Daniel 7:25** "And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time."
+
+> **Daniel 7:27** "And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him."
+
+> **Revelation 13:2** "And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority."
+
+> **Revelation 13:5** "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months."
+
+## Evidence Classification
+
+### 1. Explicit Statements Table
+
+| # | Explicit Statement | Reference | Classification |
+|---|---|---|---|
+| E1 | Daniel receives a vision in "the first year of Belshazzar king of Babylon," establishing the starting point during the Babylonian period | Dan 7:1 | Neutral |
+| E2 | "Four great beasts came up from the sea, diverse one from another" -- four distinct entities emerge in the vision | Dan 7:3 | Neutral |
+| E3 | The first beast is "like a lion" with "eagle's wings"; its wings are plucked and it is given a man's heart | Dan 7:4 | Neutral |
+| E4 | The second beast is "another beast, a second, like to a bear," raised on one side with three ribs in its mouth; it is commanded: "Arise, devour much flesh" | Dan 7:5 | Neutral |
+| E5 | The third beast appears "after this" -- "another, like a leopard" with four wings and four heads; "dominion was given to it" | Dan 7:6 | Neutral |
+| E6 | The fourth beast appears "after this" -- "dreadful and terrible, and strong exceedingly" with "great iron teeth"; it "devoured and brake in pieces" and "was diverse from all the beasts"; it has ten horns | Dan 7:7 | Neutral |
+| E7 | Among the ten horns "there came up another little horn, before whom three of the first horns were plucked up by the roots"; this horn has "eyes like the eyes of man, and a mouth speaking great things" | Dan 7:8 | Neutral |
+| E8 | Thrones are placed and the Ancient of Days takes His seat; His garment is "white as snow" and His hair "like the pure wool"; His throne is "the fiery flame" with "wheels as burning fire" | Dan 7:9 | Neutral |
+| E9 | "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened" | Dan 7:10 | Neutral |
+| E10 | The beast is "slain, and his body destroyed, and given to the burning flame" as a result of "the great words which the horn spake" | Dan 7:11 | Neutral |
+| E11 | "The rest of the beasts" had "their dominion taken away: yet their lives were prolonged for a season and time" | Dan 7:12 | Neutral |
+| E12 | "One like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him" | Dan 7:13 | Neutral |
+| E13 | "There was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed" | Dan 7:14 | Historicist |
+| E14 | The angel interprets: "These great beasts, which are four, are four kings, which shall arise out of the earth" | Dan 7:17 | Neutral |
+| E15 | "The saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever" | Dan 7:18 | Historicist |
+| E16 | "The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces" | Dan 7:23 | Neutral |
+| E17 | "The ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings" | Dan 7:24 | Neutral |
+| E18 | The little horn "shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time" | Dan 7:25 | Neutral |
+| E19 | "The judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end" | Dan 7:26 | Neutral |
+| E20 | "The kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him" | Dan 7:27 | Historicist |
+| E21 | Nebuchadnezzar is identified as "this head of gold" -- the first kingdom in the metallic image sequence | Dan 2:38 | Neutral |
+| E22 | "After thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth" -- explicit sequential numbering | Dan 2:39 | Historicist |
+| E23 | "The fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things" | Dan 2:40 | Neutral |
+| E24 | "In the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed... it shall break in pieces and consume all these kingdoms, and it shall stand for ever" | Dan 2:44 | Historicist |
+| E25 | "The ram which thou sawest having two horns are the kings of Media and Persia" | Dan 8:20 | Neutral |
+| E26 | "The rough goat is the king of Grecia: and the great horn that is between his eyes is the first king" | Dan 8:21 | Neutral |
+| E27 | After the great horn is broken, "four kingdoms shall stand up out of the nation, but not in his power" | Dan 8:22 | Neutral |
+| E28 | A throne is set in heaven with one sitting upon it, surrounded by twenty-four elders in white raiment on twenty-four thrones | Rev 4:2-4 | Neutral |
+| E29 | "Out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne" | Rev 4:5 | Neutral |
+| E30 | "I beheld, and I heard the voice of many angels round about the throne... the number of them was ten thousand times ten thousand, and thousands of thousands" -- identical numerical formula to Dan 7:10 | Rev 5:11 | Neutral |
+| E31 | The Lamb comes and takes the book from the right hand of the One on the throne | Rev 5:7 | Neutral |
+| E32 | A beast rises from the sea with seven heads and ten horns, "upon his heads the name of blasphemy" | Rev 13:1 | Neutral |
+| E33 | The beast is "like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority" -- combining Daniel's four beasts in reverse order | Rev 13:2 | Neutral |
+| E34 | "There was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months" | Rev 13:5 | Neutral |
+| E35 | "He opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven" | Rev 13:6 | Neutral |
+| E36 | "It was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations" | Rev 13:7 | Neutral |
+| E37 | The woman is nourished in the wilderness "for a time, and times, and half a time, from the face of the serpent" | Rev 12:14 | Neutral |
+| E38 | The woman flees into the wilderness "a thousand two hundred and threescore days" | Rev 12:6 | Neutral |
+| E39 | "The holy city shall they tread under foot forty and two months" | Rev 11:2 | Neutral |
+| E40 | "I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth" | Rev 11:3 | Neutral |
+| E41 | "A time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished" -- Hebrew equivalent of Dan 7:25's Aramaic time period | Dan 12:7 | Neutral |
+| E42 | "Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven" -- Jesus identifies Himself as Daniel's Son of Man | Matt 26:64 | Neutral |
+| E43 | "This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven" -- second coming direction is FROM heaven TO earth | Acts 1:11 | Neutral |
+| E44 | "The Lord himself shall descend from heaven with a shout" -- second coming direction is descent from heaven | 1 Thess 4:16 | Neutral |
+| E45 | "That man of sin be revealed, the son of perdition; who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God" | 2 Thess 2:3-4 | Neutral |
+| E46 | "The ten horns which thou sawest are ten kings" -- identical interpretive equation to Dan 7:24 | Rev 17:12 | Neutral |
+| E47 | "I saw thrones, and they sat upon them, and judgment was given unto them... and they lived and reigned with Christ a thousand years" | Rev 20:4 | Neutral |
+| E48 | "I saw a great white throne, and him that sat on it... the books were opened... the dead were judged out of those things which were written in the books" | Rev 20:11-12 | Neutral |
+| E49 | "They shall reign for ever and ever" -- saints' eternal reign | Rev 22:5 | Neutral |
+| E50 | "He cometh with clouds; and every eye shall see him" -- second coming direction is TO earth, every eye sees | Rev 1:7 | Neutral |
+| E51 | Christ appears "like unto the Son of man" with "head and hairs white like wool, as white as snow" -- merging Dan 7:9 (Ancient of Days) and Dan 7:13 (Son of Man) | Rev 1:13-14 | Neutral |
+| E52 | "The LORD shall endure for ever: he hath prepared his throne for judgment" | Psa 9:7 | Neutral |
+| E53 | "Righteousness and judgment are the habitation of his throne. A fire goeth before him" | Psa 97:2-3 | Neutral |
+
+### 2. Necessary Implications Table
+
+| # | Necessary Implication | Based on | Why it is unavoidable |
+|---|---|---|---|
+| N1 | Daniel 7's four beasts represent four sequential kingdoms, corresponding structurally to Daniel 2's four metals | E2, E3-E6, E14, E16, E22 | The angel states "these great beasts, which are four, are four kings" (E14). The fourth beast is "the fourth kingdom upon earth" (E16). The sequential markers ("another, a second" in v.5; "after this" in vv.6-7; "fourth" in v.7) match Dan 2's "after thee" (E22). Both present exactly four entities in numerical order. |
+| N2 | Daniel 8:20-21 identifies the second kingdom as Medo-Persia and the third as Greece; Babylon is named as the first (Dan 2:38). These identifications anchor the four-kingdom sequence. | E21, E25, E26 | The angel names "the kings of Media and Persia" (E25) and "the king of Grecia" (E26). Nebuchadnezzar is "this head of gold" (E21). The sequence Babylon -> Medo-Persia -> Greece is directly stated. |
+| N3 | The little horn of Dan 7 arises from within the fourth kingdom, after its tenfold division, and is distinct in nature from political kings | E7, E17 | Dan 7:8 states the horn comes up "among" the ten horns (E7). Dan 7:24 states the ten horns are from "this kingdom" (the fourth), that "another shall rise after them," and "he shall be diverse from the first" (E17). Both sides agree the little horn is a subsequent power within the fourth kingdom. |
+| N4 | The judgment scene of Dan 7:9-14 is set in heaven and constitutes a judicial proceeding, not a single act | E8, E9, E12 | Thrones are placed, the Ancient of Days sits, the judgment "sits/takes its seat," and books are opened (E8, E9). The Son of Man comes "to the Ancient of Days" in this heavenly setting (E12). The "sitting" of the judgment (v.10, repeated v.26) denotes an ongoing court session. Both sides agree the scene depicts a heavenly tribunal. |
+| N5 | In Dan 7:13 the Son of Man's movement is directionally toward God (the Ancient of Days), not toward earth | E12 | The text states "came to the Ancient of days, and they brought him near before him" (E12). The Aramaic preposition עַד ("to") + verb מְטָה ("arrived/reached") + causative הַקְרְבוּהִי ("they brought him near") establish approach toward the Ancient of Days. The direction is heavenward. |
+| N6 | Daniel 7 expands Daniel 2 by inserting a judgment scene between the fourth kingdom and the everlasting kingdom | E6-E13, E23, E24 | Dan 2 transitions directly from the fourth kingdom (iron, E23) to God's eternal kingdom (E24). Dan 7 inserts the heavenly court (E8-E9), the Son of Man receiving dominion (E12-E13), and the removal of the horn's power (E10) between the fourth beast (E6) and the everlasting kingdom (E13). This structural expansion is observable. |
+| N7 | Revelation's composite beast (Rev 13:1-2) incorporates all four of Daniel 7's beasts into a single entity, using verbatim vocabulary from Daniel 7 (LXX) | E32, E33, E34 | Rev 13:2 names leopard, bear, and lion (E33) -- three of Daniel's four beasts in reverse order. Rev 13:1 has "ten horns" (E32) from Daniel's fourth beast. Rev 13:5 states "a mouth speaking great things and blasphemies" (E34), the identical Greek phrase (στόμα λαλοῦν μεγάλα) found in the Theodotion text of Dan 7:8 (Rahlfs and Hanhart, 2006). The literary dependence is observable textual fact. |
+| N8 | The time period "time, times, and half a time" (Dan 7:25) is mathematically equivalent to 42 months (Rev 11:2, 13:5) and 1260 days (Rev 11:3, 12:6), expressed in three languages (Aramaic, Hebrew, Greek) | E18, E37, E38, E39, E40, E41 | Dan 7:25 = "time, times, and dividing of time" (Aramaic, E18). Dan 12:7 = "time, times, and a half" (Hebrew, E41). Rev 12:14 = "time, times, and half a time" (Greek, E37). 3.5 times x 12 months = 42 months (E39, E34). 42 months x 30 days = 1260 days (E38, E40). The mathematical identity is arithmetical fact. |
+
+### 3. Inferences Table
+
+| # | Claim | Type | What the Bible actually says | Why this is an inference | Criteria |
+|---|-------|------|-----|------|----------|
+| I1 | Daniel 7's four-kingdom sequence followed by judgment represents continuous, gap-free history from Babylon to the establishment of God's eternal kingdom (Barnes, 1853; Elliott, 1862; Newton, 1754) | I-A | Dan 7:3-7 presents four beasts with sequential markers: "another, a second" (7:5, E4), "after this" (7:6-7, E5-E6), "fourth" (7:7, E6). The angel interprets them as four kingdoms (7:17, 23, E14, E16). The judgment terminates with an everlasting kingdom (7:14, 27, E13, E20). The succession language is "after thee" (Dan 2:39, E22) and "after this" (Dan 7:6-7). The endpoint is explicitly eternal (E13, E15, E20, E24). | No single verse states "this sequence is continuous and gap-free from Babylon to the eschaton." The inference systematizes the sequential markers and the eternal endpoint into a comprehensive historical-scope claim. | #5 (systematizing multiple E/N items) |
+| I2 | The fourth kingdom is Rome, because it follows the named sequence Babylon -> Medo-Persia -> Greece | I-A | Dan 2:38 identifies Babylon (E21). Dan 8:20 identifies Medo-Persia (E25). Dan 8:21 identifies Greece (E26). The fourth kingdom follows Greece sequentially (E6, E16, E22, E23). Dan 7:7 describes "great iron teeth" matching Dan 2:40's "strong as iron" (E23). Historically, Rome succeeded Greece as the dominant Mediterranean power. | The text does not name the fourth kingdom. The identification requires combining the named sequence with historical knowledge of what empire followed Greece. | #5 (systematizing); #4b (extra-biblical historical knowledge) |
+| I3 | The little horn of Daniel 7 represents the Roman papacy | I-A | The little horn arises from the fourth beast (Rome, per I2) after its tenfold division (E17). It is "diverse" from political kings (E17). It speaks "against the most High" (E18). It "wears out the saints" (E18). It thinks "to change times and laws" (E18). Its power lasts "a time, times, and the dividing of time" (E18) = 3.5 times. Historically, the papacy arose among the divided Roman successor kingdoms (Gibbon, *Decline and Fall*, chs. 36-39; Heather, 2005), was a religious-political power (diverse from secular kings), claimed divine prerogatives (Gregory VII, *Dictatus Papae*, 1075; Boniface VIII, *Unam Sanctam*, 1302), persecuted dissenters (Lea, 1887), altered the church calendar and the numbering of the Decalogue (Council of Laodicea, Canon 29, c. 364; cf. *Catechism of the Catholic Church* §2168-2195 with Exodus 20:3-17), and exercised temporal supremacy for approximately 1260 years (AD 538-1798 under the day-year principle; for 538: Justinian, *Codex* 1.1.8 and *Novella* 131; for 1798: Chadwick, 1981). | The text does not name the little horn. The identification requires matching all textual specifications to a historical entity and applying the day-year principle to the time period. | #5 (systematizing); #4b (extra-biblical historical identification); #1 (day-year application adds a concept for the time period) |
+| I4 | The judgment scene of Dan 7:9-14 describes a pre-advent, investigative judgment in heaven that precedes the second coming | I-A | Dan 7:13 describes the Son of Man coming TO the Ancient of Days (E12, N5), not to earth. The judgment "sits" (E9, E19) as a court proceeding. Books are opened (E9). The result is the removal of the little horn's dominion (E19) and the giving of the kingdom to the Son of Man (E13) and saints (E15, E20). Second-coming passages describe Christ descending FROM heaven TO earth (Acts 1:11, E43; 1 Thess 4:16, E44; Rev 1:7, E50). Dan 7:13-14 precedes the saints' final possession of the kingdom (E15, E20). | The text describes the Son of Man approaching God and the judgment sitting. The inference that this constitutes a "pre-advent investigative judgment" systematizes these observations into a doctrinal category. The term "investigative" adds a concept not stated in the text (the nature of what the opened books contain or the purpose of the examination). | #5 (systematizing); #1 (adding the "investigative" concept) |
+| I5 | The fourth kingdom is Greece, not Rome, making the little horn Antiochus IV Epiphanes (preterist reading; Collins, 1993; Goldingay, 1989) | I-B | FOR: Dan 7:6 presents the third beast as a leopard with four heads (E5). Dan 8:21-22 identifies Greece and its fourfold division (E26, E27). The little horn in Dan 8 emerges from the Greek successor kingdoms. AGAINST: Dan 8:20 treats "Media and Persia" as ONE kingdom, not two (E25). The fourth beast has ten horns, not four (E6, E17). The angel's interpretation reaches an "everlasting kingdom" (E13, E20), which did not follow Antiochus. The iron teeth of the fourth beast (E6) match the iron of Dan 2:40 (E23), which is the FOURTH metal following bronze/Greece. Dan 7:25's little horn acts for "a time, times, and half a time" (E18), and the judgment terminates in eternal dominion (E13). | Identifying the fourth kingdom as Greece requires treating Media and Persia as separate kingdoms, contradicting Dan 8:20 (E25). It also requires the judgment scene (E8-E13) and everlasting kingdom (E13, E20) to follow immediately after Antiochus's era, which has no historical fulfillment. | #2 (choosing between Media-Persia-as-one vs. two); #1 (adding gap between Antiochus and the eternal kingdom) |
+| I6 | The little horn is exclusively a future individual Antichrist with no past historical fulfillment (futurist reading) | I-D | FOR: The little horn's characteristics (E7, E17, E18) could describe a future individual who arises in the end times. 2 Thess 2:3-4 (E45) describes a "man of sin" revealed before the second coming. AGAINST: Dan 7:24 states the little horn arises from the fourth kingdom's ten divisions (E17), which the text presents as already part of the historical sequence following Greece. The sequential markers (E22, E5, E6) do not indicate a gap. The four-kingdom succession is presented as continuous (N1). | Placing the entire fulfillment in the future requires inserting a gap of indeterminate length between the fourth kingdom's division and the little horn's appearance. No gap is stated in the text. This imports a dispensationalist "parenthesis" concept (Scofield, 1909; Walvoord, 1971). | #3 (applying external dispensationalist framework); #1 (adding gap concept) |
+| I7 | The "time, times, and half a time" of Dan 7:25 represents 1260 literal years under the day-year principle | I-A | Dan 7:25 states "a time and times and the dividing of time" (E18). In Dan 4, the same Aramaic word עִדָּן means "year" (Dan 4:16, 23, 25, 32). Num 14:34 states "each day for a year" (hist-01 E36). Ezek 4:6 states "I have appointed thee each day for a year" (hist-01 E37). 3.5 times = 3.5 years. Under the day-year principle: 3.5 x 360 = 1260 prophetic days = 1260 literal years. | The text of Dan 7:25 does not state that the period should be converted from days to years. The day-year principle is introduced in hist-01 but requires verification through the 70-weeks prophecy (assigned to Study 3). The application to this specific period adds a concept. | #5 (systematizing day-year texts with this period); #1 (adding day-year conversion concept) |
+
+### I-B Resolution: I5 -- The fourth kingdom is Greece, not Rome
+
+**Step 1 -- Tension:**
+- FOR (Greece): E5 (third beast = leopard with four heads), E26-E27 (Gabriel identifies Greece and its fourfold division), and the literary proximity of the little horn in Dan 8 to the Greek context.
+- AGAINST (Rome): E25 (Dan 8:20 treats "Media and Persia" as one kingdom, the ram -- eliminating the option of separating them to make Greece the fourth), E6 (fourth beast has TEN horns, not four -- the tenfold division does not match Greece's fourfold breakup), E23 (fourth kingdom is "strong as iron," matching Dan 2:40's iron which is the FOURTH metal following bronze/Greece), E13 and E20 (the judgment terminates in an everlasting kingdom, which did not follow Antiochus), E18 (the little horn's characteristics -- wearing out saints, changing times and laws, 3.5 times -- exceed what Antiochus accomplished).
+
+**Step 2 -- Clarity Assessment:**
+
+| Item | Level | Rationale |
+|------|-------|-----------|
+| E25 (Media and Persia as one kingdom) | Plain | Gabriel's interpretation: "the ram... are the kings of Media AND Persia" -- one animal, one kingdom. No ambiguity. |
+| E6 (ten horns on fourth beast) | Plain | The text states "ten horns" without qualification. Observable textual fact. |
+| E23 (fourth kingdom = iron) | Plain | Dan 2:40 directly states the fourth kingdom is iron. The fourth beast has "iron teeth" (Dan 7:7). Iron is the fourth metal after gold, silver, bronze. |
+| E13, E20 (everlasting kingdom) | Plain | "His dominion is an everlasting dominion, which shall not pass away" (E13). "Whose kingdom is an everlasting kingdom" (E20). No ambiguity in the terminus. |
+| E26-E27 (Greece and fourfold division) | Plain | Gabriel identifies Greece and its division into four. But this identifies the THIRD kingdom, not the fourth. |
+| Dan 8 literary context | Contextually Clear | The Dan 8 little horn emerges in a Greek context, but Dan 8:17 states "at the time of the end shall be the vision" (extending scope beyond Greece). |
+
+**Step 3 -- Weight:**
+The AGAINST side has four Plain-level E-items: (1) Media and Persia are one kingdom (E25), eliminating the four-kingdom count that requires separating them; (2) ten horns on the fourth beast (E6), not matching Greece's fourfold division; (3) iron in both Dan 2 and Dan 7 for the fourth kingdom (E23); (4) the everlasting kingdom terminus (E13, E20), which did not follow Antiochus. The FOR side's primary support (E26-E27) identifies Greece as the THIRD kingdom, not the fourth.
+
+**Step 4 -- SIS Application:**
+Gabriel's plain identification of Media-Persia as one kingdom (Dan 8:20, one ram = one entity) governs the count. If Media-Persia is the second kingdom and Greece the third, the fourth is the next historical power -- Rome. The iron vocabulary shared between Dan 2:40 (fourth metal) and Dan 7:7 (fourth beast's teeth) constitutes a verified SIS connection (#4a) confirming the correspondence.
+
+**Step 5 -- Resolution: Strong**
+Plain statements on the AGAINST side (one-kingdom Media-Persia, ten horns, iron vocabulary, everlasting terminus) with no Plain statement requiring the fourth kingdom to be Greece. The FOR position requires separating Media and Persia into two kingdoms despite Gabriel treating them as one. The fourth-kingdom-is-Greece reading is resolved STRONG against.
+
+---
+
+## Positional Tally
+
+| Tier | Historicist | Anti-Historicist | Neutral | Total |
+|------|-------------|------------------|---------|-------|
+| Explicit (E) | 5 | 0 | 48 | 53 |
+| Necessary Implication (N) | 0 | 0 | 8 | 8 |
+| I-A (Evidence-Extending) | 4 | 0 | 0 | 4 |
+| I-B (Competing-Evidence) | 0 | 1 | 0 | 1 |
+| I-D (Counter-Evidence External) | 0 | 1 | 0 | 1 |
+| **TOTAL** | **9** | **2** | **56** | **67** |
+
+**Summary:**
+- Explicit statements: 53 (5 Historicist, 0 Anti-Historicist, 48 Neutral)
+- Necessary implications: 8 (all Neutral -- observable structural and textual facts accepted by all sides)
+- Inferences: 6 (4 I-A Historicist, 1 I-B Anti-Historicist [resolved STRONG against], 1 I-D Anti-Historicist)
+
+**I-B Resolution:**
+- I5 (fourth kingdom is Greece / little horn is Antiochus): Resolved STRONG against. Gabriel's identification of Media-Persia as one kingdom (Dan 8:20) eliminates the four-kingdom count required for Greece to be fourth. The iron vocabulary, ten-horn division, and everlasting-kingdom terminus all support Rome as the fourth kingdom.
+
+---
+
+## Analysis
+
+### 1. The Four Beasts: Daniel 2's Succession Principle in Symbolic Form
+
+Daniel 7 retells the story of Daniel 2 through a different symbolic medium. Where Daniel 2 presents a metallic image seen by a pagan king, Daniel 7 presents four beasts seen by a prophet. The structural correspondence is precise: gold/lion (first), silver/bear (second), bronze/leopard (third), iron/fourth beast (fourth), God's kingdom/everlasting dominion (fifth and final). The text establishes this correspondence through shared vocabulary. The fourth beast has "great iron teeth" (Dan 7:7), and the fourth section of the image is "strong as iron: forasmuch as iron breaketh in pieces and subdueth all things" (Dan 2:40). The iron terminology is unique to the fourth entity in both visions, creating a verified textual link between the two chapters.
+
+The sequential markers in Daniel 7 are explicit and emphatic. The first beast is called קַדְמָיְתָא ("first," v.4). The second is introduced with אָחֳרִי תִנְיָנָה ("another, a second," v.5) -- two sequential words doubling the emphasis. The third is introduced with בָּאתַר דְּנָה ("after this," v.6), a temporal marker. The fourth uses the same temporal marker בָּאתַר דְּנָה ("after this," v.7) plus the ordinal רְבִיעָאָה ("fourth"). This cascade of sequence markers -- first, another-second, after-this, after-this-fourth -- mirrors the succession language of Daniel 2: "Thou art this head of gold. And after thee shall arise another kingdom... and another third kingdom" (Dan 2:38-39).
+
+The identification of the kingdoms relies on the chain of explicit names across Daniel's visions. Daniel 2:38 names Babylon (E21). Daniel 8:20 names Medo-Persia (E25). Daniel 8:21 names Greece (E26). The fourth kingdom is unnamed but follows Greece in a gap-free sequential presentation. The prior study (hist-01) established this as an I-A inference (I5 in that study: "Daniel's fourth kingdom is Rome"), noting that the identification follows from systematizing the named sequence with historical succession. The iron teeth of the fourth beast, matching the iron of the fourth metal (E23), provide additional internal evidence.
+
+Daniel 7 adds symbolic detail that Daniel 2 lacks. The lion's eagle wings and man's heart transformation (Dan 7:4) correspond to Nebuchadnezzar's experience in Daniel 4 -- a connection within the book of Daniel itself. The bear raised on one side with three ribs (Dan 7:5) adds characteristics absent from the silver chest of Dan 2. The leopard with four heads and four wings (Dan 7:6) depicts the speed and fourfold division of the Greek empire, confirmed by Gabriel's interpretation of the goat's broken horn producing four successor kingdoms (Dan 8:22). The fourth beast's uniqueness ("diverse from all the beasts that were before it," Dan 7:7) corresponds to Rome's distinctive mixed nature (iron and clay, Dan 2:41-43), encompassing republican, imperial, and divided phases unlike any predecessor.
+
+### 2. The Little Horn: Textual Constraints for Identification
+
+Daniel 7:8 introduces the little horn with a series of precise specifications, expanded in the angel's interpretation (vv.24-25). These specifications function as textual constraints -- any proposed identification must account for all of them.
+
+The text states the little horn: (1) emerges from the fourth beast, not an independent power (Dan 7:8, "came up among them," E7); (2) arises AFTER the fourth beast divides into ten (Dan 7:24, "another shall rise after them," E17); (3) is "diverse from the first" -- different in nature from the ten political kings (Dan 7:24, E17); (4) subdues three of the ten kings (Dan 7:8, "three of the first horns plucked up by the roots," E7; Dan 7:24, "he shall subdue three kings," E17); (5) has "eyes like the eyes of man" -- human intelligence and discernment (Dan 7:8, E7); (6) "speaks great words against the most High" -- blasphemous claims directed at God (Dan 7:25, E18); (7) "wears out the saints of the most High" -- prolonged persecution (Dan 7:25, E18); (8) "thinks to change times and laws" -- claims authority over sacred times and divine law (Dan 7:25, E18); (9) exercises power for "a time, times, and the dividing of time" -- a bounded period of 3.5 "times" (Dan 7:25, E18).
+
+The Aramaic vocabulary deepens several of these specifications. The phrase מִלִּין לְצַד עִלָּאָה ("words against/to the side of the Most High") uses the preposition לְצַד in a hostile sense, indicating not merely speaking about God but speaking in opposition to God's authority. The verb יְבַלֵּא ("shall wear out," pael imperfect) describes continuous, grinding attrition -- not a sudden massacre but a prolonged process of exhausting resistance. The phrase יִסְבַּר לְהַשְׁנָיָה זִמְנִין וְדָת ("shall intend to change appointed times and law") uses יִסְבַּר ("shall intend/think"), indicating a deliberate program of alteration, and זִמְנִין ("appointed times"), referring to divinely established times or festivals.
+
+The connection between Daniel 7's little horn and Paul's "man of sin" in 2 Thessalonians 2:3-4 rests on shared characteristics. Paul describes a figure who "opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God" (E45). Daniel 7:25 describes one who "speaks great words against the most High" (E18). Both depict a power that claims divine prerogatives. Paul places this figure's revelation before the second coming (2 Thess 2:3, "that day shall not come, except there come a falling away first"), consistent with Daniel 7's placement of the little horn before the judgment.
+
+### 3. The Judgment Scene: The Heavenly Court of Daniel 7:9-14
+
+The judgment scene constitutes the theological center of Daniel 7. It is the element that Daniel 7 adds to Daniel 2's framework, and it is the element that Revelation develops most extensively.
+
+The scene opens with thrones being "placed" (Dan 7:9). The Aramaic כָרְסָוָן רְמִיו uses the peil (passive) of רמה, which means "were set/placed" (HALOT, Aramaic רמה; Goldingay, 1989, pp. 160-161). The KJV's "cast down" is misleading; the context makes clear that thrones are being established for a court session, as the next clause states the Ancient of Days "did sit" (יְתִב). The multiple thrones (plural כָרְסָוָן) indicate a tribunal, not a solitary judge -- consistent with Revelation 4:4's twenty-four thrones surrounding the central throne.
+
+The Ancient of Days (עַתִּיק יוֹמִין) is described with imagery conveying eternality, purity, and authority: garment white as snow, hair like pure wool, throne of fiery flame, burning wheels (Dan 7:9, E8). This imagery reappears in Revelation: Christ is depicted with "head and hairs white like wool, as white as snow" (Rev 1:14, E51), merging the Ancient of Days description with the Son of Man. The fire imagery connects to the Psalms' established theology: "A fire goeth before him, and burneth up his enemies round about" (Psa 97:3, E53).
+
+The judicial proceeding involves: (a) heavenly attendants numbering "thousand thousands" and "ten thousand times ten thousand" (Dan 7:10, E9) -- the identical formula appears in Rev 5:11 (E30); (b) the judgment "taking its seat" (דִּינָא יְתִב, Dan 7:10) -- using the same verb יתב as the Ancient of Days "sitting," equating the Judge's session with the court's session; (c) books being opened (סִפְרִין פְּתִיחוּ, Dan 7:10, E9) -- reappearing in Rev 20:12 ("the books were opened," E48). The word דִּינָא (H1780, "judgment") appears at three critical points: the judgment sits (v.10), judgment is given to the saints (v.22), and the judgment shall sit to remove dominion (v.26). This three-fold repetition frames the entire second half of the chapter as a judicial proceeding.
+
+The direction of the Son of Man's movement in Dan 7:13 is a critical textual detail. The text states: "one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him" (E12). The Aramaic preposition עַד ("to/unto") combined with the verb מְטָה ("he arrived/reached") establishes that the Son of Man moves TOWARD the Ancient of Days. The haf'el (causative) form הַקְרְבוּהִי ("they caused him to approach/brought him near") confirms the direction: courtiers present the Son of Man BEFORE the Ancient of Days (N5). This is movement toward God in the heavenly court, not movement toward earth.
+
+By contrast, second-coming passages consistently describe the opposite direction. Acts 1:11 states Christ "shall so come in like manner as ye have seen him go into heaven" -- movement FROM heaven TO earth (E43). 1 Thessalonians 4:16 states "the Lord himself shall descend from heaven" (E44). Revelation 1:7 states "he cometh with clouds; and every eye shall see him" (E50) -- visible arrival on earth. The directional contrast establishes that Dan 7:13-14 and the second coming are distinct events. The Son of Man first approaches God to receive the kingdom (Dan 7:13-14), and subsequently comes to earth to execute it.
+
+### 4. Daniel 7's Expansion of Daniel 2
+
+The structural relationship between Daniel 2 and Daniel 7 reveals a deliberate pattern of expansion. Daniel 2 presents: four metals -> stone strikes image -> stone fills the earth (Dan 2:31-35, 44-45). Daniel 7 presents: four beasts -> judgment scene (thrones, Ancient of Days, books, Son of Man) -> everlasting kingdom given to saints (Dan 7:3-27). Both reach the same endpoint -- God's everlasting kingdom (Dan 2:44, E24; Dan 7:14, 27, E13, E20). But Daniel 7 inserts a judicial mechanism between the last human kingdom and the divine kingdom.
+
+This insertion answers a question Daniel 2 leaves open: HOW does dominion transfer from human empires to God's kingdom? Daniel 2 simply states that the stone "smote the image upon his feet" (Dan 2:34) and "became a great mountain" (Dan 2:35). Daniel 7 provides the mechanism: a heavenly court convenes (vv.9-10), examines the evidence (books opened), renders a verdict (judgment given to the saints, v.22), removes the little horn's dominion (v.26), and transfers the kingdom to the saints (v.27). The judgment is the missing step -- the judicial process by which God's kingdom replaces human kingdoms.
+
+The structural parallel can be stated precisely:
+
+| Daniel 2 | Daniel 7 | Correspondence |
+|-----------|----------|---------------|
+| Head of gold (2:32, 38) | Lion with eagle wings (7:4) | First kingdom: Babylon |
+| Chest of silver (2:32, 39) | Bear raised on one side (7:5) | Second kingdom: Medo-Persia |
+| Belly of bronze (2:32, 39) | Leopard with four heads (7:6) | Third kingdom: Greece |
+| Legs of iron (2:33, 40) | Fourth beast with iron teeth (7:7) | Fourth kingdom |
+| Feet of iron/clay (2:33, 41-43) | Ten horns (7:7, 24) | Division of fourth kingdom |
+| [No equivalent] | Little horn (7:8, 24-25) | Daniel 7 ADDS this element |
+| [No equivalent] | Judgment scene (7:9-14) | Daniel 7 ADDS this element |
+| Stone smites image (2:34-35) | Beast destroyed by fire (7:11) | Destruction of human kingdoms |
+| Stone fills earth (2:35, 44) | Saints possess everlasting kingdom (7:27) | God's eternal kingdom |
+
+The two elements Daniel 7 adds -- the little horn and the judgment scene -- are precisely what Daniel 8:14 and Revelation develop further. Daniel 8:14's "Unto two thousand and three hundred days; then shall the sanctuary be cleansed [vindicated]" addresses the consequences of the little horn's activity (Dan 8:9-13). Revelation's throne scene (Rev 4-5) and judgment passages (Rev 20:4, 11-12) elaborate Daniel 7's heavenly court.
+
+### 5. The Time Period: Cross-Language Equivalence
+
+Daniel 7:25's "a time and times and the dividing of time" introduces a prophetic time period that recurs across Daniel and Revelation in five equivalent expressions across three languages. The mathematical identity is:
+
+- "A time and times and the dividing of time" (Aramaic, Dan 7:25) = 1 + 2 + 0.5 = 3.5 times
+- "A time, times, and an half" (Hebrew, Dan 12:7) = 3.5 times
+- "A time, and times, and half a time" (Greek, Rev 12:14) = 3.5 times
+- "Forty and two months" (Greek, Rev 11:2; 13:5) = 42 months = 3.5 years
+- "A thousand two hundred and threescore days" (Greek, Rev 11:3; 12:6) = 1260 days = 42 months = 3.5 years
+
+The Aramaic word עִדָּן (H5732) means "a set time; technically, a year" (BDB, p. 1105). In Daniel 4, עִדָּן unambiguously means "year": Nebuchadnezzar's "seven times" (שִׁבְעָה עִדָּנִין, Dan 4:16, 23, 25, 32) = seven years of beast-like madness. The same word in Dan 7:25 yields: 1 עִדָּן (time/year) + 2 עִדָּנִין (times/years) + half עִדָּן (time/year) = 3.5 years.
+
+This cross-language equivalence constitutes one of the most direct verbal connections between Daniel and Revelation. The Aramaic expression (Dan 7:25) is rendered in Hebrew (Dan 12:7) and then in Greek (Rev 12:14), while Revelation also provides the arithmetical equivalents (42 months, 1260 days). Whether these 3.5 years are literal (1,278 days) or prophetic (1260 years under the day-year principle) remains the subject of the day-year verification in Study 3. The textual fact of the cross-language equivalence is independent of that question.
+
+### 6. Daniel 7 and Revelation: The Composite Beast and the Throne Scene
+
+Revelation builds upon Daniel 7 in two primary ways: the composite beast of Rev 13 and the throne scene of Rev 4-5.
+
+**The Composite Beast (Rev 13:1-7):** Revelation's sea beast combines all four of Daniel's beasts into a single entity. Rev 13:2 describes it as "like unto a leopard" (Dan 7:6), with "feet... as the feet of a bear" (Dan 7:5) and "mouth as the mouth of a lion" (Dan 7:4). The listing in reverse order (leopard-bear-lion, 3rd-2nd-1st) is consistent with John looking backward through the historical sequence from his first-century vantage point. The "ten horns" (Rev 13:1, E32) come from Daniel's fourth beast (Dan 7:7). The dragon gives the beast "his power, and his seat, and great authority" (Rev 13:2), corresponding to the fourth beast's role as the source of the little horn's power.
+
+The verbatim quotation in Rev 13:5 is decisive. The Greek στόμα λαλοῦν μεγάλα καὶ βλασφημίας ("a mouth speaking great things and blasphemies," E34) matches the Theodotion text of Dan 7:8 word-for-word (στόμα λαλοῦν μεγάλα; Rahlfs and Hanhart, 2006; Beale, 1999, pp. 691-696). This is not allusion or echo -- it is direct quotation. The time period also matches: Dan 7:25's 3.5 times equals Rev 13:5's 42 months (N8). The war against saints is parallel: "the same horn made war with the saints, and prevailed against them" (Dan 7:21) corresponds to "it was given unto him to make war with the saints, and to overcome them" (Rev 13:7, E36).
+
+**The Throne Scene (Rev 4-5):** Revelation's heavenly throne room echoes Daniel 7:9-14 in specific detail. Both feature thrones set/placed (Dan 7:9, כָרְסָוָן רְמִיו; Rev 4:2, θρόνος ἔκειτο). Both feature a central figure seated (Dan 7:9, the Ancient of Days "sat"; Rev 4:2, "one sat on the throne"). Both feature white garments (Dan 7:9; Rev 4:4). Both feature fire from the throne (Dan 7:9-10; Rev 4:5). Both feature attendants numbering "ten thousand times ten thousand, and thousands of thousands" (Dan 7:10, E9; Rev 5:11, E30). Both feature a figure approaching the One on the throne to receive authority (Dan 7:13-14, the Son of Man; Rev 5:6-7, the Lamb).
+
+This parallel chain demonstrates that Revelation's throne scene is a developed form of Daniel 7's judgment scene. The elements are the same; Revelation adds detail (the twenty-four elders, the sealed book, the Lamb's worthiness, the new song).
+
+### 7. The Saints Possess the Kingdom
+
+The pastoral climax of Daniel 7 is stated three times. In Dan 7:18: "the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever" (E15). In Dan 7:22: "judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom." In Dan 7:27: "the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High" (E20).
+
+This three-fold repetition emphasizes that the judgment's purpose is not merely punitive (destroying the little horn) but restorative (vindicating and empowering those who were persecuted). The same pattern appears in Revelation: the saints who endured the beast's war (Rev 13:7, 10) are later seen on thrones receiving judgment (Rev 20:4, E47) and reigning "for ever and ever" (Rev 22:5, E49). The judgment reverses the power relationship: those who were "worn out" become those who reign.
+
+---
+
+## Word Studies
+
+### Key Aramaic Terms
+
+**דִּינָא (dina, H1780) -- "judgment":** Appears 5 times in Aramaic Daniel. In Dan 7:10, 22, and 26, it designates the heavenly court. The phrase דִּינָא יְתִב ("the judgment sat/took its seat") pictures a court convening as a formal judicial body. The LXX translates דִּין as κρίσις (G2920), creating the terminological bridge to Revelation's judgment language (Rev 14:7, "the hour of his judgment is come," ἡ ὥρα τῆς κρίσεως αὐτοῦ).
+
+**עַתִּיק יוֹמִין (attiyq yomin, [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} + H3118) -- "Ancient of Days":** This title is unique to Daniel 7 (vv.9, 13, 22). The root עתק means "to advance," giving the sense of "One Advanced in Days" -- the Eternal God. The imagery of white garments and wool-like hair conveys dignity, purity, and venerability. Revelation applies this imagery to Christ (Rev 1:14), merging the Ancient of Days and the Son of Man into a single divine figure.
+
+**עִדָּן (iddan, H5732) -- "time/year":** 13 occurrences in Aramaic Daniel. In Dan 4 it unambiguously means "year" (seven times = seven years). In Dan 7:25 it yields the 3.5-times formula. BDB defines it as "a set time; technically, a year" (Brown, Driver, and Briggs, 1906, p. 1105).
+
+### Key Greek Terms
+
+**στόμα λαλοῦν μεγάλα (stoma laloun megala) -- "a mouth speaking great things":** This exact phrase appears in both the Theodotion text of Dan 7:8 (Rahlfs and Hanhart, 2006) and Rev 13:5, constituting a verbatim literary quotation (Beale, 1999, pp. 691-696). The participle λαλοῦν (present active, "speaking") indicates continuous action -- an ongoing program of blasphemous speech.
+
+**βλασφημία (blasphemia, G988) -- "blasphemy":** 19 NT occurrences. In Revelation's beast passages: Rev 13:1 (names of blasphemy), Rev 13:5 (speaking blasphemies), Rev 13:6 (blasphemy against God). The concentration of this term in the beast passages links them directly to Dan 7:25's "words against the most High."
+
+---
+
+## Difficult Passages
+
+### 1. Is Daniel 7:13 the Second Coming or a Pre-Advent Heavenly Event?
+
+The traditional reading applies Dan 7:13 to the second coming, supported by Jesus' own citation in Matt 26:64 ("Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven"). However, the text of Dan 7:13 describes the Son of Man coming "to the Ancient of days" -- movement toward God, not toward earth. The Aramaic preposition עַד ("to") and verb מְטָה ("he arrived") establish this directional sense, and הַקְרְבוּהִי ("they brought him near") confirms it.
+
+The resolution is straightforward: Daniel 7:13 is simply not a second coming passage. The text describes the Son of Man approaching God to receive a kingdom -- an enthronement/judgment event in heaven. Other passages (Acts 1:11, 1 Thess 4:16, Rev 1:7) genuinely describe Christ's return to earth with clouds, and those are a different event entirely. There is no need to reinterpret the "clouds" language in second-coming passages; Christ may very well come with clouds at the second coming. The point is that Dan 7:13 itself describes movement toward God, not toward earth, and the clouds imagery in second-coming passages refers to a distinct occasion. Jesus' citation in Matt 26:64 combines two elements: "sitting on the right hand of power" (Psalm 110:1, enthronement) and "coming in the clouds of heaven" (Dan 7:13). Both can be understood as referring to the Son of Man's heavenly investiture, which the high priest would witness through its effects -- but even if "coming in the clouds" carries second-coming overtones in Jesus' usage, this does not retroactively change what Dan 7:13 describes. Daniel's vision depicts the approach to God; the second coming is a separate event that may employ similar imagery.
+
+### 2. The Little Horn -- Preterist, Futurist, or Historicist Identification?
+
+The preterist position identifies the little horn as Antiochus IV Epiphanes (Collins, 1993; Goldingay, 1989). The I-B resolution above demonstrated this is resolved STRONG against: Dan 8:20 treats Media-Persia as one kingdom, the fourth beast has ten horns (not matching Greece's fourfold division), and the everlasting kingdom terminus did not follow Antiochus.
+
+The futurist position identifies the little horn as a future individual Antichrist (Scofield, 1909; Walvoord, 1971). This requires inserting a gap between the fourth kingdom's division and the little horn's appearance -- a dispensationalist "parenthesis" concept not stated in the text (I-D classification). The sequential markers present continuous succession without pause.
+
+The historicist position identifies the little horn as the Roman papacy, matching all eight textual specifications (Barnes, 1853; Elliott, 1862; Newton, 1754): (1) emerges from the fourth kingdom (Rome); (2) arises after Rome's division into approximately ten successor kingdoms (Gibbon, *Decline and Fall*, chs. 35-38; Heather, 2005); (3) is "diverse" -- a religious-political power unlike secular kings; (4) subdued three rival kingdoms (the Heruli, Vandals, and Ostrogoths were removed by imperial military action, at times in alliance with papal interests; Procopius, *History of the Wars*, books 3-7; Hodgkin, 1880-1899); (5) has "eyes like the eyes of man" -- human leadership and intelligence; (6) speaks "against the most High" -- claims of divine authority on earth (Gregory VII, *Dictatus Papae*, 1075; Boniface VIII, *Unam Sanctam*, 1302); (7) "wears out the saints" -- centuries of persecution (Lea, 1887; Sumption, 1978); (8) "thinks to change times and laws" -- alteration of the Sabbath commandment and the church calendar (Council of Laodicea, Canon 29, c. 364; cf. *Catechism of the Catholic Church* §2168-2195 with Exodus 20:3-17). The time period of 3.5 times (= 1260 years under the day-year principle) is associated with AD 538-1798, from Justinian's establishment of papal supremacy (Justinian, *Codex* 1.1.8; *Novella* 131; Bryce, 1904) to Napoleon's removal of Pius VI (Chadwick, 1981). This identification is classified as I-A because it requires systematizing the textual specifications with historical evidence.
+
+### 3. "Thrones Were Cast Down" vs. "Thrones Were Placed"
+
+The KJV's "thrones were cast down" (Dan 7:9) has been used to argue that earthly thrones are overthrown. However, the Aramaic כָרְסָוָן רְמִיו uses the peil (passive) of רמה, which means "were placed/set" in this context (HALOT, Aramaic רמה; Goldingay, 1989, pp. 160-161). The subsequent clause -- "the Ancient of Days did sit" -- confirms that the thrones are being established for occupancy, not destroyed. Modern translations (NASB, ESV, NIV) render this as "thrones were placed" or "thrones were set in place." The parallel in Rev 4:2 (θρόνος ἔκειτο, "a throne was set") supports the "placed" reading.
+
+### 4. Does the Judgment of Daniel 7 Occur Before or After the Second Coming?
+
+The text presents a sequence: little horn persecutes (v.21) -> Ancient of Days comes and judgment is given to the saints (v.22) -> saints possess the kingdom (v.22b). The Son of Man approaches God (not earth) in v.13 to receive the kingdom (v.14). This places the judgment and the kingdom-reception before the second coming. However, Rev 20:11-12 also describes a judgment with books opened AFTER the millennium. The resolution is that Daniel 7 and Rev 20 may describe different phases of the same judicial process. Daniel 7's judgment scene terminates the little horn's dominion and gives the kingdom to the Son of Man and saints -- a pre-advent event. Rev 20:11-15 describes the final sentencing of the wicked -- a post-millennial event. The opening of books appears in both scenes, but the context and timing differ.
+
+---
+
+## Conclusion
+
+The textual evidence of Daniel 7 establishes several findings with varying levels of confidence.
+
+At the Explicit tier (53 items), the text presents four sequential beasts interpreted by an angel as four kingdoms (Dan 7:17, 23). The succession is marked by explicit ordinals and temporal markers (first, another-second, after-this, after-this-fourth). A little horn arises from the fourth beast's ten-horn division, speaking against the Most High, wearing out the saints, and thinking to change times and laws for a bounded period of 3.5 "times" (Dan 7:24-25). A judgment scene convenes in heaven with thrones placed, the Ancient of Days seated, books opened, and the judgment "taking its seat" (Dan 7:9-10). The Son of Man comes TO the Ancient of Days and receives an everlasting kingdom (Dan 7:13-14). The saints ultimately possess the kingdom forever (Dan 7:18, 22, 27). Five E-items are classified Historicist (those stating the everlasting kingdom as terminus and temporal succession language), zero are Anti-Historicist.
+
+At the Necessary Implication tier (8 items), the following are established: the four beasts correspond to Daniel 2's four metals (N1); the kingdoms are identifiable through Gabriel's naming of three (N2); the little horn arises from within the fourth kingdom and is distinct from political kings (N3); the judgment is a heavenly judicial proceeding (N4); the Son of Man's movement in Dan 7:13 is toward God, not toward earth (N5); Daniel 7 expands Daniel 2 by inserting the judgment mechanism (N6); Revelation's composite beast incorporates all four Daniel 7 beasts with verbatim vocabulary (N7); and the "time, times, and half a time" is mathematically equivalent to 42 months and 1260 days across three languages (N8).
+
+At the Inference tier (6 items), four I-A inferences support the Historicist position: continuous gap-free succession (I1), Rome as the fourth kingdom (I2), the papacy as the little horn (I3), and a pre-advent heavenly judgment (I4). One I-B inference supports the Anti-Historicist position (the fourth kingdom is Greece / little horn is Antiochus, I5), resolved STRONG against by Gabriel's treatment of Media-Persia as one kingdom, the ten-horn count, the iron vocabulary link, and the everlasting-kingdom terminus. One I-D inference supports the Anti-Historicist position (the little horn is exclusively a future Antichrist, I6), requiring a gap concept the text does not state.
+
+The chapter's contribution to the historicist proof series is twofold. First, it expands the succession principle established in Daniel 2 by adding the judgment mechanism -- the heavenly court that explains HOW dominion transfers from human empires to God's eternal kingdom. Second, it introduces the throne-room and judgment vocabulary (thrones, Ancient of Days, books, Son of Man, everlasting dominion) that Revelation develops extensively. The verbal and structural links -- the identical numerical formula for heavenly attendants (Dan 7:10 = Rev 5:11), the verbatim Greek phrase for the beast's speech (Dan 7:8 Theodotion = Rev 13:5), the cross-language time-period equivalence (Dan 7:25 = Dan 12:7 = Rev 12:14 = Rev 11:2-3 = Rev 12:6 = Rev 13:5) -- constitute observable textual connections, not interpretive constructs. These connections establish that Revelation presupposes, absorbs, and develops Daniel 7's prophetic framework.
+
+Evidence items registered in D:/bible/bible-studies/hist-evidence.db
+
+---
+
+## References
+
+Barnes, Albert. *Notes on the Book of Daniel.* New York: Leavitt & Allen, 1853.
+
+Beale, G. K. *The Book of Revelation: A Commentary on the Greek Text.* New International Greek Testament Commentary. Grand Rapids: Eerdmans, 1999.
+
+Boniface VIII. *Unam Sanctam.* Papal Bull, 1302.
+
+Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and Aramaic Lexicon of the Old Testament.* Oxford: Clarendon Press, 1906.
+
+Bryce, James. *The Holy Roman Empire.* New ed. London: Macmillan, 1904.
+
+*Catechism of the Catholic Church.* 2nd ed. Vatican City: Libreria Editrice Vaticana, 1997.
+
+Chadwick, Owen. *The Popes and European Revolution.* Oxford History of the Christian Church. Oxford: Clarendon Press, 1981.
+
+Collins, John J. *Daniel: A Commentary on the Book of Daniel.* Hermeneia. Minneapolis: Fortress Press, 1993.
+
+Council of Laodicea. Canon 29. c. 364 AD. In Schaff, Philip, ed., *Nicene and Post-Nicene Fathers,* 2nd series, vol. 14. New York: Christian Literature Company, 1900.
+
+Elliott, E. B. *Horae Apocalypticae; or, A Commentary on the Apocalypse.* 5th ed. 4 vols. London: Seeley, Jackson, and Halliday, 1862.
+
+Gibbon, Edward. *The History of the Decline and Fall of the Roman Empire.* Edited by J. B. Bury. 7 vols. London: Methuen, 1896-1900. Chs. 35-41.
+
+Goldingay, John E. *Daniel.* Word Biblical Commentary 30. Dallas: Word Books, 1989.
+
+Gregory VII. *Dictatus Papae.* 1075. In Schaff, Philip. *History of the Christian Church,* vol. 5, pt. 1. New York: Scribner's, 1907.
+
+Heather, Peter. *The Fall of the Roman Empire: A New History of Rome and the Barbarians.* Oxford: Oxford University Press, 2005.
+
+Hodgkin, Thomas. *Italy and Her Invaders.* 8 vols. Oxford: Clarendon Press, 1880-1899.
+
+Justinian I. *Codex Justinianus* 1.1.8. In *Corpus Iuris Civilis,* vol. 2. Edited by Paul Krueger. Berlin: Weidmann, 1877.
+
+Justinian I. *Novella* 131. In *Corpus Iuris Civilis,* vol. 3. Edited by Rudolf Schoell and Wilhelm Kroll. Berlin: Weidmann, 1895.
+
+Koehler, Ludwig, and Walter Baumgartner. *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT). Translated and edited by M. E. J. Richardson. 5 vols. Leiden: Brill, 1994-2000.
+
+Lea, Henry Charles. *A History of the Inquisition of the Middle Ages.* 3 vols. New York: Harper & Brothers, 1887.
+
+Newton, Thomas. *Dissertations on the Prophecies, Which Have Remarkably Been Fulfilled, and at This Time Are Fulfilling in the World.* London: J. and R. Tonson, 1754.
+
+Procopius. *History of the Wars.* Translated by H. B. Dewing. 5 vols. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1914-1928. Books 3-7.
+
+Rahlfs, Alfred, and Robert Hanhart, eds. *Septuaginta.* Rev. ed. Stuttgart: Deutsche Bibelgesellschaft, 2006.
+
+Schaff, Philip. *History of the Christian Church.* 8 vols. New York: Scribner's, 1882-1910. Esp. vols. 3-5.
+
+Scofield, C. I., ed. *Scofield Reference Bible.* New York: Oxford University Press, 1909.
+
+Sumption, Jonathan. *The Albigensian Crusade.* London: Faber and Faber, 1978.
+
+Walvoord, John F. *Daniel: The Key to Prophetic Revelation.* Chicago: Moody Press, 1971.
+
+---
+*Study completed: 2026-03-11*
+*Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md, CONCLUSION.md*

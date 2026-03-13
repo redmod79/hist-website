@@ -1,0 +1,353 @@
+site_name: "The Historicist Proof"
+site_description: A 19-study biblical investigation examining whether Daniel and Revelation describe a continuous span of history from the prophet's time to the second coming. 496 evidence items classified.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Studies:
+
+    # ── Cluster A -- Daniel Foundation ──
+    - "Cluster A -- Daniel Foundation":
+
+      - "01 -- How to Read Apocalyptic Prophecy":
+        - studies/hist-01-how-to-read-apocalyptic-prophecy/CONCLUSION.md
+        - Analysis: studies/hist-01-how-to-read-apocalyptic-prophecy/03-analysis.md
+        - Verses: studies/hist-01-how-to-read-apocalyptic-prophecy/02-verses.md
+        - Word Studies: studies/hist-01-how-to-read-apocalyptic-prophecy/04-word-studies.md
+        - Topics: studies/hist-01-how-to-read-apocalyptic-prophecy/01-topics.md
+        - Research Scope: studies/hist-01-how-to-read-apocalyptic-prophecy/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/hist-01-how-to-read-apocalyptic-prophecy/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-01-how-to-read-apocalyptic-prophecy/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-01-how-to-read-apocalyptic-prophecy/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-01-how-to-read-apocalyptic-prophecy/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-01-how-to-read-apocalyptic-prophecy/raw-data/strongs-lookups.md
+      - "02 -- Daniel 7: Beasts, Little Horn, Judgment":
+        - studies/hist-02-daniel-7-beasts-little-horn-judgment/CONCLUSION.md
+        - Analysis: studies/hist-02-daniel-7-beasts-little-horn-judgment/03-analysis.md
+        - Verses: studies/hist-02-daniel-7-beasts-little-horn-judgment/02-verses.md
+        - Word Studies: studies/hist-02-daniel-7-beasts-little-horn-judgment/04-word-studies.md
+        - Topics: studies/hist-02-daniel-7-beasts-little-horn-judgment/01-topics.md
+        - Research Scope: studies/hist-02-daniel-7-beasts-little-horn-judgment/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/hist-02-daniel-7-beasts-little-horn-judgment/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-02-daniel-7-beasts-little-horn-judgment/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-02-daniel-7-beasts-little-horn-judgment/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-02-daniel-7-beasts-little-horn-judgment/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-02-daniel-7-beasts-little-horn-judgment/raw-data/strongs-lookups.md
+      - "03 -- The 70 Weeks: Jesus Fulfills the Timeline":
+        - studies/hist-03-70-weeks-jesus-fulfills-timeline/CONCLUSION.md
+        - Analysis: studies/hist-03-70-weeks-jesus-fulfills-timeline/03-analysis.md
+        - Verses: studies/hist-03-70-weeks-jesus-fulfills-timeline/02-verses.md
+        - Word Studies: studies/hist-03-70-weeks-jesus-fulfills-timeline/04-word-studies.md
+        - Topics: studies/hist-03-70-weeks-jesus-fulfills-timeline/01-topics.md
+        - Research Scope: studies/hist-03-70-weeks-jesus-fulfills-timeline/PROMPT.md
+        - Raw Data:
+          - "Greek Parsing": studies/hist-03-70-weeks-jesus-fulfills-timeline/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-03-70-weeks-jesus-fulfills-timeline/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-03-70-weeks-jesus-fulfills-timeline/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-03-70-weeks-jesus-fulfills-timeline/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-03-70-weeks-jesus-fulfills-timeline/raw-data/strongs-lookups.md
+          - "Web Research": studies/hist-03-70-weeks-jesus-fulfills-timeline/raw-data/web-research.md
+      - "04 -- Daniel 8: The Little Horn Identified":
+        - studies/hist-04-daniel-8-little-horn-identified/CONCLUSION.md
+        - Analysis: studies/hist-04-daniel-8-little-horn-identified/03-analysis.md
+        - Verses: studies/hist-04-daniel-8-little-horn-identified/02-verses.md
+        - Word Studies: studies/hist-04-daniel-8-little-horn-identified/04-word-studies.md
+        - Topics: studies/hist-04-daniel-8-little-horn-identified/01-topics.md
+        - Research Scope: studies/hist-04-daniel-8-little-horn-identified/PROMPT.md
+        - Raw Data:
+          - "Grammar References": studies/hist-04-daniel-8-little-horn-identified/raw-data/grammar-references.md
+          - "Hebrew Parsing": studies/hist-04-daniel-8-little-horn-identified/raw-data/hebrew-parsing.md
+          - "Historical Sources": studies/hist-04-daniel-8-little-horn-identified/raw-data/historical-sources.md
+          - "Nave's Topics": studies/hist-04-daniel-8-little-horn-identified/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-04-daniel-8-little-horn-identified/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-04-daniel-8-little-horn-identified/raw-data/strongs-lookups.md
+      - "05 -- Daniel 8-9 Connected: The 2300 Days":
+        - studies/hist-05-daniel-8-9-connected-2300-days/CONCLUSION.md
+        - Analysis: studies/hist-05-daniel-8-9-connected-2300-days/03-analysis.md
+        - Verses: studies/hist-05-daniel-8-9-connected-2300-days/02-verses.md
+        - Word Studies: studies/hist-05-daniel-8-9-connected-2300-days/04-word-studies.md
+        - Topics: studies/hist-05-daniel-8-9-connected-2300-days/01-topics.md
+        - Research Scope: studies/hist-05-daniel-8-9-connected-2300-days/PROMPT.md
+        - Raw Data:
+          - "Hebrew Parsing": studies/hist-05-daniel-8-9-connected-2300-days/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-05-daniel-8-9-connected-2300-days/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-05-daniel-8-9-connected-2300-days/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-05-daniel-8-9-connected-2300-days/raw-data/strongs-lookups.md
+          - "Web Research": studies/hist-05-daniel-8-9-connected-2300-days/raw-data/web-research.md
+      - "06 -- The Sanctuary Vindicated (1844)":
+        - studies/hist-06-sanctuary-vindicated-1844/CONCLUSION.md
+        - Analysis: studies/hist-06-sanctuary-vindicated-1844/03-analysis.md
+        - Verses: studies/hist-06-sanctuary-vindicated-1844/02-verses.md
+        - Word Studies: studies/hist-06-sanctuary-vindicated-1844/04-word-studies.md
+        - Topics: studies/hist-06-sanctuary-vindicated-1844/01-topics.md
+        - Research Scope: studies/hist-06-sanctuary-vindicated-1844/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-06-sanctuary-vindicated-1844/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-06-sanctuary-vindicated-1844/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-06-sanctuary-vindicated-1844/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-06-sanctuary-vindicated-1844/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-06-sanctuary-vindicated-1844/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-06-sanctuary-vindicated-1844/raw-data/strongs-lookups.md
+      - "07 -- How the NT Treats Daniel 7-12":
+        - studies/hist-07-nt-connects-daniel-7-12/CONCLUSION.md
+        - Analysis: studies/hist-07-nt-connects-daniel-7-12/03-analysis.md
+        - Verses: studies/hist-07-nt-connects-daniel-7-12/02-verses.md
+        - Word Studies: studies/hist-07-nt-connects-daniel-7-12/04-word-studies.md
+        - Topics: studies/hist-07-nt-connects-daniel-7-12/01-topics.md
+        - Research Scope: studies/hist-07-nt-connects-daniel-7-12/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/hist-07-nt-connects-daniel-7-12/raw-data/concept-context.md
+          - "Greek Parsing": studies/hist-07-nt-connects-daniel-7-12/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/hist-07-nt-connects-daniel-7-12/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-07-nt-connects-daniel-7-12/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-07-nt-connects-daniel-7-12/raw-data/strongs-lookups.md
+
+    # ── Cluster B -- Scope and Framework ──
+    - "Cluster B -- Scope and Framework":
+
+      - "08 -- 'Shortly Come to Pass'":
+        - studies/hist-08-shortly-come-to-pass/CONCLUSION.md
+        - Analysis: studies/hist-08-shortly-come-to-pass/03-analysis.md
+        - Verses: studies/hist-08-shortly-come-to-pass/02-verses.md
+        - Word Studies: studies/hist-08-shortly-come-to-pass/04-word-studies.md
+        - Topics: studies/hist-08-shortly-come-to-pass/01-topics.md
+        - Research Scope: studies/hist-08-shortly-come-to-pass/PROMPT.md
+        - Raw Data:
+          - "Concept Context": studies/hist-08-shortly-come-to-pass/raw-data/concept-context.md
+          - "Greek Parsing": studies/hist-08-shortly-come-to-pass/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-08-shortly-come-to-pass/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-08-shortly-come-to-pass/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-08-shortly-come-to-pass/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-08-shortly-come-to-pass/raw-data/strongs-lookups.md
+      - "09 -- Why Not Preterism, Futurism, or Idealism?":
+        - studies/hist-09-why-not-preterism-futurism-idealism/CONCLUSION.md
+        - Analysis: studies/hist-09-why-not-preterism-futurism-idealism/03-analysis.md
+        - Verses: studies/hist-09-why-not-preterism-futurism-idealism/02-verses.md
+        - Word Studies: studies/hist-09-why-not-preterism-futurism-idealism/04-word-studies.md
+        - Topics: studies/hist-09-why-not-preterism-futurism-idealism/01-topics.md
+        - Research Scope: studies/hist-09-why-not-preterism-futurism-idealism/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-09-why-not-preterism-futurism-idealism/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-09-why-not-preterism-futurism-idealism/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-09-why-not-preterism-futurism-idealism/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-09-why-not-preterism-futurism-idealism/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-09-why-not-preterism-futurism-idealism/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-09-why-not-preterism-futurism-idealism/raw-data/strongs-lookups.md
+
+    # ── Cluster C -- Revelation Sequences ──
+    - "Cluster C -- Revelation Sequences":
+
+      - "10 -- The Seven Churches":
+        - studies/hist-10-seven-churches/CONCLUSION.md
+        - Analysis: studies/hist-10-seven-churches/03-analysis.md
+        - Verses: studies/hist-10-seven-churches/02-verses.md
+        - Word Studies: studies/hist-10-seven-churches/04-word-studies.md
+        - Topics: studies/hist-10-seven-churches/01-topics.md
+        - Research Scope: studies/hist-10-seven-churches/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-10-seven-churches/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-10-seven-churches/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/hist-10-seven-churches/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-10-seven-churches/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-10-seven-churches/raw-data/strongs-lookups.md
+      - "11 -- Rev 12: Woman, Dragon, 1260 Years":
+        - studies/hist-11-revelation-12-woman-dragon-1260/CONCLUSION.md
+        - Analysis: studies/hist-11-revelation-12-woman-dragon-1260/03-analysis.md
+        - Verses: studies/hist-11-revelation-12-woman-dragon-1260/02-verses.md
+        - Word Studies: studies/hist-11-revelation-12-woman-dragon-1260/04-word-studies.md
+        - Topics: studies/hist-11-revelation-12-woman-dragon-1260/01-topics.md
+        - Research Scope: studies/hist-11-revelation-12-woman-dragon-1260/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/strongs-lookups.md
+          - "Web Searches": studies/hist-11-revelation-12-woman-dragon-1260/raw-data/web-searches.md
+      - "12 -- Rev 13-14: Beast, Three Angels, Harvest":
+        - studies/hist-12-revelation-13-14-beast-three-angels/CONCLUSION.md
+        - Analysis: studies/hist-12-revelation-13-14-beast-three-angels/03-analysis.md
+        - Verses: studies/hist-12-revelation-13-14-beast-three-angels/02-verses.md
+        - Word Studies: studies/hist-12-revelation-13-14-beast-three-angels/04-word-studies.md
+        - Topics: studies/hist-12-revelation-13-14-beast-three-angels/01-topics.md
+        - Research Scope: studies/hist-12-revelation-13-14-beast-three-angels/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-12-revelation-13-14-beast-three-angels/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-12-revelation-13-14-beast-three-angels/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-12-revelation-13-14-beast-three-angels/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-12-revelation-13-14-beast-three-angels/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-12-revelation-13-14-beast-three-angels/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-12-revelation-13-14-beast-three-angels/raw-data/strongs-lookups.md
+      - "13 -- The Olivet Discourse Spans History":
+        - studies/hist-13-olivet-discourse-spans-history/CONCLUSION.md
+        - Analysis: studies/hist-13-olivet-discourse-spans-history/03-analysis.md
+        - Verses: studies/hist-13-olivet-discourse-spans-history/02-verses.md
+        - Word Studies: studies/hist-13-olivet-discourse-spans-history/04-word-studies.md
+        - Topics: studies/hist-13-olivet-discourse-spans-history/01-topics.md
+        - Research Scope: studies/hist-13-olivet-discourse-spans-history/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-13-olivet-discourse-spans-history/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-13-olivet-discourse-spans-history/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/hist-13-olivet-discourse-spans-history/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-13-olivet-discourse-spans-history/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-13-olivet-discourse-spans-history/raw-data/strongs-lookups.md
+          - "Synoptic Comparison": studies/hist-13-olivet-discourse-spans-history/raw-data/synoptic-comparison.md
+      - "14 -- The Seven Seals Span History":
+        - studies/hist-14-seven-seals-span-history/CONCLUSION.md
+        - Analysis: studies/hist-14-seven-seals-span-history/03-analysis.md
+        - Verses: studies/hist-14-seven-seals-span-history/02-verses.md
+        - Word Studies: studies/hist-14-seven-seals-span-history/04-word-studies.md
+        - Topics: studies/hist-14-seven-seals-span-history/01-topics.md
+        - Research Scope: studies/hist-14-seven-seals-span-history/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-14-seven-seals-span-history/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-14-seven-seals-span-history/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/hist-14-seven-seals-span-history/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-14-seven-seals-span-history/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-14-seven-seals-span-history/raw-data/strongs-lookups.md
+      - "15 -- Trumpets: Warnings Before Judgment":
+        - studies/hist-15-trumpets-warnings-before-judgment/CONCLUSION.md
+        - Analysis: studies/hist-15-trumpets-warnings-before-judgment/03-analysis.md
+        - Verses: studies/hist-15-trumpets-warnings-before-judgment/02-verses.md
+        - Word Studies: studies/hist-15-trumpets-warnings-before-judgment/04-word-studies.md
+        - Topics: studies/hist-15-trumpets-warnings-before-judgment/01-topics.md
+        - Research Scope: studies/hist-15-trumpets-warnings-before-judgment/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-15-trumpets-warnings-before-judgment/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-15-trumpets-warnings-before-judgment/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-15-trumpets-warnings-before-judgment/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-15-trumpets-warnings-before-judgment/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-15-trumpets-warnings-before-judgment/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-15-trumpets-warnings-before-judgment/raw-data/strongs-lookups.md
+      - "16 -- Bowls: After Judgment":
+        - studies/hist-16-bowls-after-judgment/CONCLUSION.md
+        - Analysis: studies/hist-16-bowls-after-judgment/03-analysis.md
+        - Verses: studies/hist-16-bowls-after-judgment/02-verses.md
+        - Word Studies: studies/hist-16-bowls-after-judgment/04-word-studies.md
+        - Topics: studies/hist-16-bowls-after-judgment/01-topics.md
+        - Research Scope: studies/hist-16-bowls-after-judgment/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-16-bowls-after-judgment/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-16-bowls-after-judgment/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-16-bowls-after-judgment/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-16-bowls-after-judgment/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-16-bowls-after-judgment/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-16-bowls-after-judgment/raw-data/strongs-lookups.md
+
+    # ── Cluster D -- Integration ──
+    - "Cluster D -- Integration":
+
+      - "17 -- One Second Coming, Many Angles":
+        - studies/hist-17-one-second-coming-many-angles/CONCLUSION.md
+        - Analysis: studies/hist-17-one-second-coming-many-angles/03-analysis.md
+        - Verses: studies/hist-17-one-second-coming-many-angles/02-verses.md
+        - Word Studies: studies/hist-17-one-second-coming-many-angles/04-word-studies.md
+        - Topics: studies/hist-17-one-second-coming-many-angles/01-topics.md
+        - Research Scope: studies/hist-17-one-second-coming-many-angles/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-17-one-second-coming-many-angles/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-17-one-second-coming-many-angles/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/hist-17-one-second-coming-many-angles/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/hist-17-one-second-coming-many-angles/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-17-one-second-coming-many-angles/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-17-one-second-coming-many-angles/raw-data/strongs-lookups.md
+      - "18 -- Recapitulation: Three Views, One Timeline":
+        - studies/hist-18-recapitulation-three-views-one-timeline/CONCLUSION.md
+        - Analysis: studies/hist-18-recapitulation-three-views-one-timeline/03-analysis.md
+        - Verses: studies/hist-18-recapitulation-three-views-one-timeline/02-verses.md
+        - Word Studies: studies/hist-18-recapitulation-three-views-one-timeline/04-word-studies.md
+        - Topics: studies/hist-18-recapitulation-three-views-one-timeline/01-topics.md
+        - Research Scope: studies/hist-18-recapitulation-three-views-one-timeline/PROMPT.md
+        - Raw Data:
+          - "Existing Studies": studies/hist-18-recapitulation-three-views-one-timeline/raw-data/existing-studies.md
+          - "Greek Parsing": studies/hist-18-recapitulation-three-views-one-timeline/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/hist-18-recapitulation-three-views-one-timeline/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/hist-18-recapitulation-three-views-one-timeline/raw-data/parallels.md
+          - "Strong's Lookups": studies/hist-18-recapitulation-three-views-one-timeline/raw-data/strongs-lookups.md
+
+    # ── Synthesis ──
+    - "Synthesis":
+
+      - "19 -- Comprehensive Synthesis":
+        - studies/hist-19-comprehensive-synthesis/CONCLUSION.md
+        - Analysis: studies/hist-19-comprehensive-synthesis/03-analysis.md
+        - Verses: studies/hist-19-comprehensive-synthesis/02-verses.md
+        - Word Studies: studies/hist-19-comprehensive-synthesis/04-word-studies.md
+        - Topics: studies/hist-19-comprehensive-synthesis/01-topics.md
+        - Raw Data:
+          - "Anti-Historicist Evidence": studies/hist-19-comprehensive-synthesis/raw-data/anti-historicist-evidence.md
+          - "Evidence Tally": studies/hist-19-comprehensive-synthesis/raw-data/evidence-tally.md
+          - "Historicist Evidence": studies/hist-19-comprehensive-synthesis/raw-data/historicist-evidence.md
+          - "I-B Resolutions": studies/hist-19-comprehensive-synthesis/raw-data/ib-resolutions.md
+          - "Per-Study Breakdown": studies/hist-19-comprehensive-synthesis/raw-data/per-study-breakdown.md
+
+  - Methodology: methodology.md
+  - "Tools & Process": tools.md
