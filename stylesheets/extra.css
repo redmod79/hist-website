@@ -1,0 +1,25 @@
+/* Make inline cross-reference links more visible */
+.md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link) {
+  color: #7c4dff;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+}
+
+.md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link):hover {
+  color: #651fff;
+  text-decoration-style: solid;
+  background-color: rgba(124, 77, 255, 0.1);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] .md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link) {
+  color: #b388ff;
+}
+
+[data-md-color-scheme="slate"] .md-content a[href*="../"]:not(.md-nav__link):not(.md-footer__link):hover {
+  color: #e040fb;
+  background-color: rgba(179, 136, 255, 0.15);
+}
