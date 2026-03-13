@@ -144,7 +144,7 @@ def find_study_folders() -> list[tuple[str, Path]]:
     return folders
 
 
-def copy_study(key: str, src: Path):
+def copy_study(key: str, src: Path, preserved_simples: dict):
     """Copy a study folder into docs/studies/."""
     dest = DOCS_STUDIES / src.name
     dest.mkdir(parents=True, exist_ok=True)
@@ -154,6 +154,15 @@ def copy_study(key: str, src: Path):
         src_file = src / fname
         if src_file.exists():
             shutil.copy2(src_file, dest / fname)
+
+    # Restore preserved conclusion-simple.md, or copy from source
+    simple_path = dest / "conclusion-simple.md"
+    if src.name in preserved_simples:
+        simple_path.write_text(preserved_simples[src.name], encoding="utf-8")
+    else:
+        simple_src = src / "conclusion-simple.md"
+        if simple_src.exists():
+            shutil.copy2(simple_src, dest / "conclusion-simple.md")
 
     # Copy METADATA.yaml if present
     meta = src / "METADATA.yaml"
@@ -188,9 +197,14 @@ def build_nav_entry(key: str, slug: str) -> dict:
     dest = DOCS_STUDIES / slug
     items = []
 
-    # Landing page: CONCLUSION.md
+    # Landing page: conclusion-simple.md if it exists, else CONCLUSION.md
+    simple = dest / "conclusion-simple.md"
     conclusion = dest / "CONCLUSION.md"
-    if conclusion.exists():
+    if simple.exists():
+        items.append(f"studies/{slug}/conclusion-simple.md")
+        if conclusion.exists():
+            items.append({"Conclusion": f"studies/{slug}/CONCLUSION.md"})
+    elif conclusion.exists():
         items.append(f"studies/{slug}/CONCLUSION.md")
 
     # Other standard files
@@ -366,7 +380,11 @@ def generate_index_md():
     content.append("**Hierarchy:** E > N > I-A > I-B (resolved by SIS) > I-C > I-D")
     content.append("")
     content.append("[**Read the Methodology**](methodology.md){ .md-button }")
-    content.append("[**Skip to the Final Synthesis**](studies/hist-19-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
+    synth_simple = DOCS_STUDIES / "hist-19-comprehensive-synthesis" / "conclusion-simple.md"
+    if synth_simple.exists():
+        content.append("[**Skip to the Final Synthesis**](studies/hist-19-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
+    else:
+        content.append("[**Skip to the Final Synthesis**](studies/hist-19-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
     content.append("")
     content.append("---")
     content.append("")
@@ -390,7 +408,11 @@ def generate_index_md():
                     slug = d.name
                     break
             if slug:
-                link = f"studies/{slug}/CONCLUSION.md"
+                simple_path = DOCS_STUDIES / slug / "conclusion-simple.md"
+                if simple_path.exists():
+                    link = f"studies/{slug}/conclusion-simple.md"
+                else:
+                    link = f"studies/{slug}/CONCLUSION.md"
                 content.append(f"| {num} | [{short}]({link}) | {full} |")
             else:
                 content.append(f"| {num} | {short} | {full} |")
@@ -404,6 +426,7 @@ def generate_index_md():
     content.append("")
     content.append("| File | Contents |")
     content.append("|------|----------|")
+    content.append("| **Simple Conclusion** | A plain-language summary of the study's findings -- no technical jargon or evidence tables |")
     content.append("| **Conclusion** | The final evidence classification with Explicit/Necessary Implication/Inference tables, I-B resolutions, tally, and assessment |")
     content.append("| **Analysis** | Verse-by-verse analysis, identified patterns, connections between passages, both-sides arguments |")
     content.append("| **Verses** | Full KJV text for every passage examined, organized thematically |")
@@ -439,7 +462,11 @@ def generate_index_md():
     content.append("")
     content.append("The Historicist position never requires overriding explicit text (zero I-D items). The Anti-Historicist position requires overriding explicit statements in 20 documented cases.")
     content.append("")
-    content.append("[**Read the Full Synthesis**](studies/hist-19-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
+    synth_simple2 = DOCS_STUDIES / "hist-19-comprehensive-synthesis" / "conclusion-simple.md"
+    if synth_simple2.exists():
+        content.append("[**Read the Full Synthesis**](studies/hist-19-comprehensive-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
+    else:
+        content.append("[**Read the Full Synthesis**](studies/hist-19-comprehensive-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
     content.append("")
     content.append("---")
     content.append("")
@@ -729,10 +756,17 @@ def main():
     print("Building Historicist Proof Series website")
     print("=" * 60)
 
-    # Clean docs/studies/
+    # Preserve any existing conclusion-simple.md files before cleaning
+    preserved_simples = {}
     if DOCS_STUDIES.exists():
+        for d in DOCS_STUDIES.iterdir():
+            if d.is_dir():
+                simple = d / "conclusion-simple.md"
+                if simple.exists():
+                    preserved_simples[d.name] = simple.read_text(encoding="utf-8")
         shutil.rmtree(DOCS_STUDIES)
     DOCS_STUDIES.mkdir(parents=True)
+    print(f"  Preserved {len(preserved_simples)} conclusion-simple.md files")
 
     # Find all study folders
     print("\n[1/7] Finding study folders...")
@@ -742,7 +776,7 @@ def main():
     # Copy studies
     print("\n[2/7] Copying study files...")
     for key, src in study_folders:
-        dest = copy_study(key, src)
+        dest = copy_study(key, src, preserved_simples)
         print(f"  {key}: {src.name} -> {dest.relative_to(PROJECT_ROOT)}")
 
     # Copy methodology
