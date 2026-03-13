@@ -1,13 +1,13 @@
 # Raw Strong's Lookup Data
 
-## [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} -- din (Aramaic judgment)
-[H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} - 5 total occurrences, 4 unique translations:
+## H1780 -- din (Aramaic judgment)
+H1780 - 5 total occurrences, 4 unique translations:
      2 ( 40.0%) judgment
      1 ( 20.0%) the judgment
      1 ( 20.0%) and judgment
      1 ( 20.0%) But the judgment
 
-Lexicon: דִּין (dîyn), masculine noun. (Aramaic) corresponding to [H1779](https://www.blueletterbible.org/lexicon/h1779/kjv/wlc/0-1/){:target="_blank"}: judgment.
+Lexicon: דִּין (dîyn), masculine noun. (Aramaic) corresponding to H1779: judgment.
 BDB: absolute ד׳ Daniel 4:34 = justice; emphatic דִּינָה Ezra 7:26 "judgment be executed upon him"; דִּינָא = judges, court Daniel 7:10, 26; Daniel 7:22.
 
 Verses as "judgment": Ezr 7:26, Dan 4:37
@@ -15,8 +15,8 @@ Verses as "the judgment": Dan 7:10
 
 ---
 
-## [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} -- attiyq (Aramaic: ancient/advanced)
-[H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} - 3 total occurrences, 2 unique translations:
+## H6268 -- attiyq (Aramaic: ancient/advanced)
+H6268 - 3 total occurrences, 2 unique translations:
      2 ( 66.7%) Ancient
      1 ( 33.3%) and the Ancient
 
@@ -26,17 +26,17 @@ Verses as "Ancient": Dan 7:13, Dan 7:22
 
 ---
 
-## [H6267](https://www.blueletterbible.org/lexicon/h6267/kjv/wlc/0-1/){:target="_blank"} -- attiyq (Hebrew cognate: ancient/drawn)
-[H6267](https://www.blueletterbible.org/lexicon/h6267/kjv/wlc/0-1/){:target="_blank"} - 2 total occurrences, 2 unique translations:
+## H6267 -- attiyq (Hebrew cognate: ancient/drawn)
+H6267 - 2 total occurrences, 2 unique translations:
      1 ( 50.0%) ancient
      1 ( 50.0%) drawn
 
-Lexicon: עַתִּיק (ʻattîyq), adjective. From [H6275](https://www.blueletterbible.org/lexicon/h6275/kjv/wlc/0-1/){:target="_blank"}; removed, i.e. weaned; also antique. 1 Chr 4:22, Isa 28:9.
+Lexicon: עַתִּיק (ʻattîyq), adjective. From H6275; removed, i.e. weaned; also antique. 1 Chr 4:22, Isa 28:9.
 
 ---
 
-## [H7162](https://www.blueletterbible.org/lexicon/h7162/kjv/wlc/0-1/){:target="_blank"} -- qeren (Aramaic: horn)
-[H7162](https://www.blueletterbible.org/lexicon/h7162/kjv/wlc/0-1/){:target="_blank"} - 21 total occurrences, 11 unique translations:
+## H7162 -- qeren (Aramaic: horn)
+H7162 - 21 total occurrences, 11 unique translations:
      4 ( 19.0%) of the cornet
      4 ( 19.0%) horns
      4 ( 19.0%) horn
@@ -46,25 +46,25 @@ Lexicon: קֶרֶן (qeren), feminine noun. (Aramaic) horn. 1. instrument of mus
 
 ---
 
-## [H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"} -- ochori (Aramaic: another/sequential)
-[H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"} - 6 total occurrences, 2 unique translations:
+## H317 -- ochori (Aramaic: another/sequential)
+H317 - 6 total occurrences, 2 unique translations:
      5 ( 83.3%) another
      1 ( 16.7%) the other
 
-Lexicon: אָחֳרִי (ʼochŏrîy), adjective feminine. Another. Dan 2:39(2x), 7:5, 6, 8, 20. For masculine form see [H321](https://www.blueletterbible.org/lexicon/h321/kjv/wlc/0-1/){:target="_blank"} אָחֳרָן.
+Lexicon: אָחֳרִי (ʼochŏrîy), adjective feminine. Another. Dan 2:39(2x), 7:5, 6, 8, 20. For masculine form see H321 אָחֳרָן.
 
 ---
 
-## [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} -- ze'iyr (Aramaic: little/small)
-[H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} - 5 total occurrences, 1 unique translation:
+## H2191 -- ze'iyr (Aramaic: little/small)
+H2191 - 5 total occurrences, 1 unique translation:
      5 (100.0%) a little
 
 Lexicon: זְעֵיר (zᵉʻêyr), masculine noun. From unused root meaning to dwindle; small, little.
 
 ---
 
-## [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} -- iddan (Aramaic: time/year)
-[H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} - 15 total occurrences, 9 unique translations:
+## H5732 -- iddan (Aramaic: time/year)
+H5732 - 15 total occurrences, 9 unique translations:
      4 ( 26.7%) times
      2 ( 13.3%) the time
      2 ( 13.3%) at
@@ -78,8 +78,8 @@ Verses as "a time": Dan 7:25
 
 ---
 
-## [H3118](https://www.blueletterbible.org/lexicon/h3118/kjv/wlc/0-1/){:target="_blank"} -- yom (Aramaic: day)
-[H3118](https://www.blueletterbible.org/lexicon/h3118/kjv/wlc/0-1/){:target="_blank"} - 20 total occurrences, 10 unique translations:
+## H3118 -- yom (Aramaic: day)
+H3118 - 20 total occurrences, 10 unique translations:
      4 ( 20.0%) the
      3 ( 15.0%) days
      3 ( 15.0%) of days
@@ -90,16 +90,16 @@ Lexicon: יוֹם (yôwm), masculine noun. (Aramaic) day. עַתִּיק י׳ "o
 
 ---
 
-## [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} -- shaphat (Hebrew: to judge)
-[H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} - 220 total occurrences, 122 unique translations:
+## H8199 -- shaphat (Hebrew: to judge)
+H8199 - 220 total occurrences, 122 unique translations:
 Major: judge(13), the judge(9), judged(9), to judge(8), judges(8), shall judge(6), the judges(6)
 
 Lexicon: שָׁפַט (shâphaṭ), verb. To judge, i.e. pronounce sentence (for or against); to vindicate or punish; to govern. Range: avenge, condemn, contend, defend, execute (judgment), judge, plead, reason, rule.
 
 ---
 
-## [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} -- thronos (Greek: throne)
-[G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} - 61 total occurrences, 7 unique translations:
+## G2362 -- thronos (Greek: throne)
+G2362 - 61 total occurrences, 7 unique translations:
     47 ( 77.0%) throne
      4 (  6.6%) thrones
      3 (  4.9%) seats
@@ -113,8 +113,8 @@ Verses as "throne" (47): Mat 5:34; 23:22; Luk 1:32; Act 2:30; 7:49; Heb 1:8; 4:1
 
 ---
 
-## [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} -- blasphemia (Greek: blasphemy)
-[G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} - 18 total occurrences, 7 unique translations:
+## G988 -- blasphemia (Greek: blasphemy)
+G988 - 18 total occurrences, 7 unique translations:
      7 ( 38.9%) blasphemy
      5 ( 27.8%) blasphemies
      2 ( 11.1%) of blasphemy
@@ -126,8 +126,8 @@ Verses as "blasphemy": Mat 12:31; 26:65; Mar 7:22; 14:64; Col 3:8; Rev 2:9; 13:6
 
 ---
 
-## [G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} -- keras (Greek: horn)
-[G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} - 11 total occurrences, 2 unique translations:
+## G2768 -- keras (Greek: horn)
+G2768 - 11 total occurrences, 2 unique translations:
     10 ( 90.9%) horns
      1 (  9.1%) an horn
 
@@ -137,8 +137,8 @@ Verses as "horns": Rev 5:6; 9:13; 12:3; 13:1(2x); 13:11; 17:3,7,12,16.
 
 ---
 
-## [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} -- krisis (Greek: judgment/decision)
-[G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} - 34 total occurrences, 6 unique translations:
+## G2920 -- krisis (Greek: judgment/decision)
+G2920 - 34 total occurrences, 6 unique translations:
     18 ( 52.9%) judgment
      8 ( 23.5%) of judgment
      2 each: damnation, the judgment, accusation, judgments

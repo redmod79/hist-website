@@ -1,6 +1,6 @@
 # Strong's Lookups Raw Data
 
-## [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — νικάω (nikao) — overcome, conquer
+## G3528 — νικάω (nikao) — overcome, conquer
 **Transliteration:** nikao | **Pronunciation:** nik-ah | **POS:** verb | **BLB Count:** 28
 **Definition:** to subdue (literally or figuratively) — conquer, overcome
 **KJV Translations (22 occurrences):**
@@ -36,17 +36,17 @@
 | Rev 17:14 | shall overcome | Lamb shall overcome them |
 | Rev 21:7 | overcometh | Final overcomer capstone |
 
-## [G5245](https://www.blueletterbible.org/lexicon/g5245/kjv/tr/0-1/){:target="_blank"} — ὑπερνικάω (hupernikao) — more than conquer
+## G5245 — ὑπερνικάω (hupernikao) — more than conquer
 **Transliteration:** hupernikao | **POS:** verb | **BLB Count:** 1
 **Definition:** to vanquish beyond, gain a decisive victory — more than conquer
 **Single occurrence:** Rom 8:37 — "we are more than conquerors through him that loved us"
 
-## [G3534](https://www.blueletterbible.org/lexicon/g3534/kjv/tr/0-1/){:target="_blank"} — νῖκος (nikos) — victory
+## G3534 — νῖκος (nikos) — victory
 **Transliteration:** nikos | **POS:** neuter noun | **BLB Count:** 4
 **Definition:** a conquest (concretely), by implication
 **Occurrences:** Mat 12:20; 1 Cor 15:54, 55, 57 — all translated "victory"
 
-## [G1577](https://www.blueletterbible.org/lexicon/g1577/kjv/tr/0-1/){:target="_blank"} — ἐκκλησία (ekklesia) — church, assembly
+## G1577 — ἐκκλησία (ekklesia) — church, assembly
 **Transliteration:** ekklesia | **Pronunciation:** ek-klay-see | **POS:** feminine noun | **BLB Count:** 118
 **Definition:** a calling out; a popular meeting, especially a religious congregation
 **KJV Translations (112 occurrences):**
@@ -77,7 +77,7 @@
 
 **KEY FINDING:** ekklesia appears 20x in Rev 1-3 and then DISAPPEARS from the text entirely until Rev 22:16 (the epilogue). The word is absent from chapters 4-21.
 
-## [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} — μετανοέω (metanoeo) — repent
+## G3340 — μετανοέω (metanoeo) — repent
 **Transliteration:** metanoeo | **Pronunciation:** met-an-o-eh | **POS:** verb | **BLB Count:** 34
 **Definition:** to think differently or afterwards; to reconsider
 
@@ -95,7 +95,7 @@
 
 **KEY FINDING:** Five repentance calls to five churches (Ephesus 2:5, Pergamos 2:16, Thyatira 2:21, Sardis 3:3, Laodicea 3:19). Smyrna and Philadelphia receive NO call to repent. Later in Revelation (9:20; 16:9,11), three times people REFUSE to repent — a tragic contrast.
 
-## [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} — πνεῦμα (pneuma) — spirit
+## G4151 — πνεῦμα (pneuma) — spirit
 **Transliteration:** pneuma | **Pronunciation:** pnyoo | **POS:** neuter noun | **BLB Count:** 385
 **Definition:** a current of air, breath; by analogy, a spirit
 
@@ -108,7 +108,7 @@
 **"The Spirit saith unto the churches" Formula:**
 - Rev 2:7, 2:11, 2:17, 2:29, 3:6, 3:13, 3:22 — seven occurrences, verbatim identical
 
-## [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} — στέφανος (stephanos) — crown (victor's wreath)
+## G4735 — στέφανος (stephanos) — crown (victor's wreath)
 **Transliteration:** stephanos | **Pronunciation:** stef | **POS:** masculine noun | **BLB Count:** 18
 **Definition:** a chaplet (as a badge of royalty, a prize in the public games or a symbol of honor); a wreath
 
@@ -134,7 +134,7 @@
 
 **KEY FINDING:** stephanos (victor's crown) vs. diadema (royal crown). The churches receive stephanos — the crown earned through struggle. Same crown given to first seal rider (6:2). NOT diadema, which belongs to Christ as King (Rev 19:12).
 
-## [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} — ἔρχομαι (erchomai) — come
+## G2064 — ἔρχομαι (erchomai) — come
 **Transliteration:** erchomai | **POS:** verb | **BLB Count:** 643
 **Definition:** middle voice of a primary verb; to come or go
 

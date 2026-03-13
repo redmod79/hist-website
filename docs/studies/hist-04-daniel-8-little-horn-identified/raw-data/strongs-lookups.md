@@ -1,6 +1,6 @@
 # Raw Strong's Lookup Data
 
-## [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} — יֶתֶר (yether)
+## H3499 — יֶתֶר (yether)
 **Transliteration:** yether
 **Pronunciation:** yeh-ther
 **Part of Speech:** masculine noun (n-m)
@@ -27,7 +27,7 @@
 
 ---
 
-## [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} — מִצְּעִירָה (mits'eirah)
+## H4704 — מִצְּעִירָה (mits'eirah)
 **Transliteration:** mitstsᵉʻîyrâh
 **Pronunciation:** mits-tseh-ee-raw
 **Part of Speech:** feminine noun (n-f)
@@ -38,11 +38,11 @@
 **Only occurrence:** Daniel 8:9
 **Significance:** This is a HAPAX LEGOMENON — occurs nowhere else in the Hebrew Bible. The noun form (not adjective) emphasizes the STATE or ORIGIN of littleness. The horn comes "from littleness" (min + noun) rather than simply being described as "little" (adjective). This matches Rome's origin as a small city-state on the Tiber that grew to become the greatest empire.
 
-**Contrast with [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} (ze'ir):** Dan 7:8's Aramaic "little horn" uses ze'ir as an adjective. Dan 8:9 uses the noun mits'eirah with the preposition min ("from"), emphasizing origin/source of the smallness.
+**Contrast with H2191 (ze'ir):** Dan 7:8's Aramaic "little horn" uses ze'ir as an adjective. Dan 8:9 uses the noun mits'eirah with the preposition min ("from"), emphasizing origin/source of the smallness.
 
 ---
 
-## [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"} — גָּדַל (gadal)
+## H1431 — גָּדַל (gadal)
 **Transliteration:** gadal
 **Pronunciation:** gaw-dal
 **Part of Speech:** verb
@@ -64,7 +64,7 @@
 
 ---
 
-## [H3966](https://www.blueletterbible.org/lexicon/h3966/kjv/wlc/0-1/){:target="_blank"} — מְאֹד (me'od)
+## H3966 — מְאֹד (me'od)
 **Transliteration:** me'od
 **Pronunciation:** meh-ode
 **Part of Speech:** masculine adjective, adverb, substantive
@@ -78,7 +78,7 @@
 
 ---
 
-## [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} — עַז (az)
+## H5794 — עַז (az)
 **Transliteration:** az
 **Pronunciation:** az
 **Part of Speech:** adjective
@@ -99,7 +99,7 @@ These are the ONLY TWO passages where az panim occurs as a construct phrase in t
 
 ---
 
-## [H6440](https://www.blueletterbible.org/lexicon/h6440/kjv/wlc/0-1/){:target="_blank"} — פָּנִים (panim)
+## H6440 — פָּנִים (panim)
 **Transliteration:** panim
 **Pronunciation:** paw-neem
 **Part of Speech:** noun, masculine plural
@@ -107,11 +107,11 @@ These are the ONLY TWO passages where az panim occurs as a construct phrase in t
 **BLB Count:** (very common word)
 **Definition:** a horn (as projecting); by implication — face, presence, before.
 
-**Significance for this study:** Combined with [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} (az) to form the unique phrase "fierce countenance" (az panim) in only Deut 28:50 and Dan 8:23.
+**Significance for this study:** Combined with H5794 (az) to form the unique phrase "fierce countenance" (az panim) in only Deut 28:50 and Dan 8:23.
 
 ---
 
-## [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} — תָּמִיד (tamid)
+## H8548 — תָּמִיד (tamid)
 **Transliteration:** tamid
 **Pronunciation:** taw-meed
 **Part of Speech:** masculine noun
@@ -128,7 +128,7 @@ These are the ONLY TWO passages where az panim occurs as a construct phrase in t
 
 ---
 
-## [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} — פֶּשַׁע (pesha)
+## H6588 — פֶּשַׁע (pesha)
 **Transliteration:** pesha
 **Pronunciation:** peh-shah
 **Part of Speech:** masculine noun
@@ -143,7 +143,7 @@ These are the ONLY TWO passages where az panim occurs as a construct phrase in t
 
 ---
 
-## [H7161](https://www.blueletterbible.org/lexicon/h7161/kjv/wlc/0-1/){:target="_blank"} — קֶרֶן (qeren)
+## H7161 — קֶרֶן (qeren)
 **Transliteration:** qeren
 **Pronunciation:** keh-ren
 **Part of Speech:** feminine noun, proper locative noun
@@ -157,7 +157,7 @@ These are the ONLY TWO passages where az panim occurs as a construct phrase in t
 
 ---
 
-## [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} — זְעֵיר (ze'ir)
+## H2191 — זְעֵיר (ze'ir)
 **Transliteration:** ze'ir
 **Pronunciation:** zeh-ayr
 **Part of Speech:** masculine noun
@@ -165,7 +165,7 @@ These are the ONLY TWO passages where az panim occurs as a construct phrase in t
 **BLB Count:** 5
 **Definition:** from an unused root meaning to dwindle; small — little.
 
-**Significance:** This is the Aramaic/Hebrew word used in Dan 7:8 for "another LITTLE horn" — it functions as a simple adjective describing the horn's size. Contrast with [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} (mits'eirah) in Dan 8:9 which is a noun with the preposition min, describing the horn's ORIGIN in a state of littleness.
+**Significance:** This is the Aramaic/Hebrew word used in Dan 7:8 for "another LITTLE horn" — it functions as a simple adjective describing the horn's size. Contrast with H4704 (mits'eirah) in Dan 8:9 which is a noun with the preposition min, describing the horn's ORIGIN in a state of littleness.
 
 | Feature | Dan 7:8 (ze'ir) | Dan 8:9 (mits'eirah) |
 |---------|-----------------|---------------------|

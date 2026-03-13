@@ -5,7 +5,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} — therion (beast)
+## G2342 — therion (beast)
 - **Original:** therion
 - **Transliteration:** thay-ree'-on
 - **Part of Speech:** neuter noun
@@ -17,7 +17,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} — Babylon
+## G897 — Babylon
 - **Original:** Babylōn
 - **Part of Speech:** proper locative noun
 - **Definition:** Of Hebrew origin (H894); Babylon, the capital of Chaldea (literally or figuratively)
@@ -27,11 +27,11 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} — Babel / Babylon
+## H894 — Babel / Babylon
 - **Original:** babel
 - **Transliteration:** Babel
 - **Part of Speech:** proper locative noun
-- **Definition:** From [H1101](https://www.blueletterbible.org/lexicon/h1101/kjv/wlc/0-1/){:target="_blank"} (balal, "to confuse"); confusion; Babel (i.e. Babylon)
+- **Definition:** From H1101 (balal, "to confuse"); confusion; Babel (i.e. Babylon)
 - **Count:** 262 OT occurrences
 - **Key prophetic uses:**
   - Isaiah 13-14: Oracle against Babylon -- destruction, desolation
@@ -42,7 +42,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} — tachos (speed/shortly)
+## G5034 — tachos (speed/shortly)
 - **Original:** tachos
 - **Part of Speech:** neuter noun
 - **Definition:** From tachy ("quick"); a brief space of time, quickness
@@ -62,7 +62,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G5585](https://www.blueletterbible.org/lexicon/g5585/kjv/tr/0-1/){:target="_blank"} — psephizo (count/calculate)
+## G5585 — psephizo (count/calculate)
 - **Original:** psephizo
 - **Part of Speech:** verb
 - **Definition:** From psephos (pebble used for counting); to use pebbles in enumeration, to compute, calculate
@@ -73,7 +73,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G706](https://www.blueletterbible.org/lexicon/g706/kjv/tr/0-1/){:target="_blank"} — arithmos (number)
+## G706 — arithmos (number)
 - **Original:** arithmos
 - **Part of Speech:** masculine noun
 - **Definition:** From airo; a number (as reckoned up)
@@ -87,7 +87,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G4690](https://www.blueletterbible.org/lexicon/g4690/kjv/tr/0-1/){:target="_blank"} — sperma (seed)
+## G4690 — sperma (seed)
 - **Original:** sperma
 - **Part of Speech:** neuter noun
 - **Definition:** From speiro; something sown, seed (including descendant)
@@ -103,7 +103,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G1484](https://www.blueletterbible.org/lexicon/g1484/kjv/tr/0-1/){:target="_blank"} — ethnos (nation/Gentile)
+## G1484 — ethnos (nation/Gentile)
 - **Original:** ethnos
 - **Part of Speech:** neuter noun
 - **Definition:** Probably from etho; a race (as of the same habit), a tribe; specifically a foreign (non-Jewish) one
@@ -113,7 +113,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} — drakon (dragon)
+## G1404 — drakon (dragon)
 - **Original:** drakon
 - **Part of Speech:** masculine noun
 - **Definition:** Probably from derkomai (to look); a fabulous kind of serpent, dragon
@@ -123,7 +123,7 @@ search_strongs.py, semantic_strongs.py
 
 ---
 
-## [H4438](https://www.blueletterbible.org/lexicon/h4438/kjv/wlc/0-1/){:target="_blank"} — malkuth (kingdom/reign)
+## H4438 — malkuth (kingdom/reign)
 - **Original:** malkuth
 - **Part of Speech:** feminine noun
 - **Definition:** From malak; a rule; concretely, a dominion: empire, kingdom, realm, reign, royal
@@ -145,13 +145,13 @@ search_strongs.py, semantic_strongs.py
 
 | Strong's | Word | Relevance Score |
 |----------|------|----------------|
-| [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} | Babel/Babylon | Core |
-| [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} | Babylōn | Core |
-| [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} | thērion (beast) | Core |
-| [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} | drakōn (dragon) | Core |
-| [H4438](https://www.blueletterbible.org/lexicon/h4438/kjv/wlc/0-1/){:target="_blank"} | malkuth (kingdom) | Core |
-| [H4468](https://www.blueletterbible.org/lexicon/h4468/kjv/wlc/0-1/){:target="_blank"} | mamlakuth (kingdom) | Supporting |
-| [G1411](https://www.blueletterbible.org/lexicon/g1411/kjv/tr/0-1/){:target="_blank"} | dynamis (power) | Supporting |
-| [G2904](https://www.blueletterbible.org/lexicon/g2904/kjv/tr/0-1/){:target="_blank"} | kratos (dominion) | Supporting |
-| [H3581](https://www.blueletterbible.org/lexicon/h3581/kjv/wlc/0-1/){:target="_blank"} | koach (power) | Supporting |
-| [H6726](https://www.blueletterbible.org/lexicon/h6726/kjv/wlc/0-1/){:target="_blank"} | Tsiyown (Zion) | Supporting |
+| H894 | Babel/Babylon | Core |
+| G897 | Babylōn | Core |
+| G2342 | thērion (beast) | Core |
+| G1404 | drakōn (dragon) | Core |
+| H4438 | malkuth (kingdom) | Core |
+| H4468 | mamlakuth (kingdom) | Supporting |
+| G1411 | dynamis (power) | Supporting |
+| G2904 | kratos (dominion) | Supporting |
+| H3581 | koach (power) | Supporting |
+| H6726 | Tsiyown (Zion) | Supporting |

@@ -2,13 +2,13 @@
 
 ---
 
-## [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} -- שָׁבוּעַ (shabuwa) -- "week / seven"
+## H7620 -- שָׁבוּעַ (shabuwa) -- "week / seven"
 
 **Original:** שָׁבוּעַ (shâbûwaʻ)
 **Transliteration:** shabuwa
 **Pronunciation:** shaw-boo'-ah
 **Part of Speech:** masculine noun
-**Definition:** properly, passive participle as a denominative of [H7651](https://www.blueletterbible.org/lexicon/h7651/kjv/wlc/0-1/){:target="_blank"} (seven); literally, "sevened," i.e. a week (specifically, of years): seven, week.
+**Definition:** properly, passive participle as a denominative of H7651 (seven); literally, "sevened," i.e. a week (specifically, of years): seven, week.
 **BLB Count:** 20 occurrences in 18 verses
 
 ### Translations
@@ -45,7 +45,7 @@ This same-author, same-book distinction is the strongest grammatical evidence th
 
 ---
 
-## [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} -- חָתַךְ (chathak) -- "cut off / determine"
+## H2852 -- חָתַךְ (chathak) -- "cut off / determine"
 
 **Original:** חָתַךְ (châthak)
 **Transliteration:** chathak
@@ -66,13 +66,13 @@ This same-author, same-book distinction is the strongest grammatical evidence th
 
 ---
 
-## [H4899](https://www.blueletterbible.org/lexicon/h4899/kjv/wlc/0-1/){:target="_blank"} -- מָשִׁיחַ (mashiyach) -- "anointed / Messiah"
+## H4899 -- מָשִׁיחַ (mashiyach) -- "anointed / Messiah"
 
 **Original:** מָשִׁיחַ (mâshîyach)
 **Transliteration:** mashiyach
 **Pronunciation:** maw-shee'-akh
 **Part of Speech:** masculine noun
-**Definition:** from [H4886](https://www.blueletterbible.org/lexicon/h4886/kjv/wlc/0-1/){:target="_blank"} (mashach, "to anoint"); anointed; usually a consecrated person (as a king, priest, or saint); specifically, the Messiah: anointed, Messiah.
+**Definition:** from H4886 (mashach, "to anoint"); anointed; usually a consecrated person (as a king, priest, or saint); specifically, the Messiah: anointed, Messiah.
 **BLB Count:** 39 occurrences
 
 ### Key Translations
@@ -90,17 +90,17 @@ Daniel 9:25-26 is the ONLY place in the OT where the KJV transliterates mashiyac
 - **Priestly anointing:** Lev 4:3,5,16; 6:22 -- "the priest that is anointed"
 - **Royal anointing:** 1Sa 16:6; 24:6,10; 26:9 -- "the LORD's anointed" (referring to Saul, then David)
 - **Prophetic/Messianic:** Psa 2:2 ("against the LORD and against his anointed"); Isa 45:1 (Cyrus as "his anointed"); Dan 9:25-26 (Messiah the Prince)
-- **Greek equivalent:** [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} Χριστός (Christos) = "Christ" = "the Anointed One"
+- **Greek equivalent:** G5547 Χριστός (Christos) = "Christ" = "the Anointed One"
 
 ---
 
-## [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} -- בְּרִית (beriyth) -- "covenant"
+## H1285 -- בְּרִית (beriyth) -- "covenant"
 
 **Original:** בְּרִית (bᵉrîyth)
 **Transliteration:** beriyth
 **Pronunciation:** ber-eeth'
 **Part of Speech:** feminine noun
-**Definition:** from [H1254](https://www.blueletterbible.org/lexicon/h1254/kjv/wlc/0-1/){:target="_blank"} (in the sense of cutting); a compact (because made by passing between pieces of flesh): confederacy, covenant, league.
+**Definition:** from H1254 (in the sense of cutting); a compact (because made by passing between pieces of flesh): confederacy, covenant, league.
 **BLB Count:** 284 occurrences
 
 ### In Daniel 9
@@ -112,7 +112,7 @@ The beriyth in Dan 9:27 is "confirmed" (gabar, Hiphil = made strong), not "made"
 
 ---
 
-## [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} -- כָּרַת (karath) -- "cut off / make covenant"
+## H3772 -- כָּרַת (karath) -- "cut off / make covenant"
 
 **Original:** כָּרַת (kârath)
 **Transliteration:** karath
@@ -131,7 +131,7 @@ This word has a remarkable dual meaning:
 
 ---
 
-## [H1396](https://www.blueletterbible.org/lexicon/h1396/kjv/wlc/0-1/){:target="_blank"} -- גָּבַר (gabar) -- "prevail / confirm / be strong"
+## H1396 -- גָּבַר (gabar) -- "prevail / confirm / be strong"
 
 **Original:** גָּבַר (gâbar)
 **Transliteration:** gabar
@@ -159,13 +159,13 @@ The 3ms subject ("he") must be identified from context. The sustained subject fr
 
 ---
 
-## [H5057](https://www.blueletterbible.org/lexicon/h5057/kjv/wlc/0-1/){:target="_blank"} -- נָגִיד (nagiyd) -- "prince / ruler / leader"
+## H5057 -- נָגִיד (nagiyd) -- "prince / ruler / leader"
 
 **Original:** נָגִיד (nâgîyd)
 **Transliteration:** nagiyd
 **Pronunciation:** naw-gheed'
 **Part of Speech:** masculine noun
-**Definition:** from [H5046](https://www.blueletterbible.org/lexicon/h5046/kjv/wlc/0-1/){:target="_blank"}; a commander (as occupying the front), civil, military or religious; generally, honorable themes: captain, chief, excellent thing, governor, leader, noble, prince, ruler.
+**Definition:** from H5046; a commander (as occupying the front), civil, military or religious; generally, honorable themes: captain, chief, excellent thing, governor, leader, noble, prince, ruler.
 **BLB Count:** 44 occurrences
 
 ### The Two "Princes" in Daniel 9
@@ -176,7 +176,7 @@ These are explicitly distinct figures. The first is identified as Messiah. The s
 
 ---
 
-## [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} -- חָתַם (chatham) -- "seal / seal up"
+## H2856 -- חָתַם (chatham) -- "seal / seal up"
 
 **Original:** חָתַם (châtham)
 **Transliteration:** chatham
@@ -195,13 +195,13 @@ These are explicitly distinct figures. The first is identified as Messiah. The s
 
 ---
 
-## [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} -- Χριστός (Christos) -- "Christ / Anointed"
+## G5547 -- Χριστός (Christos) -- "Christ / Anointed"
 
 **Original:** Χριστός (Christós)
 **Transliteration:** Christos
 **Pronunciation:** khris-tos'
 **Part of Speech:** masculine noun
-**Definition:** from [G5548](https://www.blueletterbible.org/lexicon/g5548/kjv/tr/0-1/){:target="_blank"} (chrio, "to anoint"); anointed, i.e. the Messiah, an epithet of Jesus: Christ.
+**Definition:** from G5548 (chrio, "to anoint"); anointed, i.e. the Messiah, an epithet of Jesus: Christ.
 **BLB Count:** 569 occurrences (LXX + NT)
 
 ### Significance
@@ -209,13 +209,13 @@ These are explicitly distinct figures. The first is identified as Messiah. The s
 
 ---
 
-## [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} -- πληρόω (pleroo) -- "fulfil / fill / complete"
+## G4137 -- πληρόω (pleroo) -- "fulfil / fill / complete"
 
 **Original:** πληρόω (plēróō)
 **Transliteration:** pleroo
 **Pronunciation:** play-ro'-o
 **Part of Speech:** verb
-**Definition:** from [G4134](https://www.blueletterbible.org/lexicon/g4134/kjv/tr/0-1/){:target="_blank"} (pleres); to make replete, i.e. (literally) to cram (a net), level up (a hollow), or (figuratively) to furnish, satisfy, execute, finish, verify.
+**Definition:** from G4134 (pleres); to make replete, i.e. (literally) to cram (a net), level up (a hollow), or (figuratively) to furnish, satisfy, execute, finish, verify.
 **BLB Count:** 90 occurrences
 
 ### In Mark 1:15

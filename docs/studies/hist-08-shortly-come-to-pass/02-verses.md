@@ -186,7 +186,7 @@ What does "shortly come to pass" (*en tachei*) in Revelation 1:1 and 22:6 actual
 > **1:18** Neither their silver nor their gold shall be able to deliver them in the day of the LORD'S wrath...
 
 **Hebrew:** קָרֹוב... קָרֹוב וּמַהֵר מְאֹד — "near... near and hastening greatly"
-**Note:** DUAL markers: qarov (near, cf. engys) + maher (hastening, root of meherah [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"}, cf. tachos)
+**Note:** DUAL markers: qarov (near, cf. engys) + maher (hastening, root of meherah H4120, cf. tachos)
 
 ### Habakkuk 2:3
 > **2:3** For the vision is yet for an **appointed time**, but at the end it shall speak, and not lie: **though it tarry, wait for it**; because **it will surely come, it will not tarry**.

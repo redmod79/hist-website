@@ -97,7 +97,7 @@
 #### Revelation 22:10
 **Context:** The angel's command to John, directly contrasting with Daniel 12:4, 9.
 **Direct statement:** "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand."
-**Original language:** Me sphragises (aorist active subjunctive of sphragizo, [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"}, with negative me) = "Do not seal!" -- a prohibitive command. The time characterization ho kairos engys estin ("the time is near") matches Rev 1:3.
+**Original language:** Me sphragises (aorist active subjunctive of sphragizo, G4972, with negative me) = "Do not seal!" -- a prohibitive command. The time characterization ho kairos engys estin ("the time is near") matches Rev 1:3.
 **Cross-references:** Dan 12:4 ("shut up the words, and seal the book, even to the time of the end"), Dan 12:9 ("the words are closed up and sealed till the time of the end"). The contrast is direct: Daniel is told to seal; John is told not to seal. Daniel's reason: "to the time of the end." John's reason: "the time is at hand."
 **Relationship to other evidence:** The seal/unseal contrast establishes a literary relationship between Daniel and Revelation. The historicist position reads this as Revelation opening what Daniel sealed -- the time of the end has arrived, and the prophecies are now being fulfilled across history. The anti-historicist position reads "the time is at hand" as indicating imminent first-century fulfillment. The text states the contrast without specifying the duration of "the time."
 

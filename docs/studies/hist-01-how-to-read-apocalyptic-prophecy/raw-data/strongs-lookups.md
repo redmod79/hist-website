@@ -1,9 +1,9 @@
 # Raw Strong's Lookup Output
 
-## [G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} — semaino (signify)
+## G4591 — semaino (signify)
 
 ### Lookup
-[G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} - 3 total occurrences in KJV Strong's data, 2 unique translations:
+G4591 - 3 total occurrences in KJV Strong's data, 2 unique translations:
 - 2 (66.7%) "and signified"
 - 1 (33.3%) "to signify"
 
@@ -23,10 +23,10 @@
 
 ---
 
-## [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} — apokalypsis (revelation)
+## G602 — apokalypsis (revelation)
 
 ### Lookup
-[G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} - 18 total occurrences, 11 unique translations:
+G602 - 18 total occurrences, 11 unique translations:
 - 5 (27.8%) "revelation"
 - 2 (11.1%) "revelations"
 - 2 (11.1%) "the revelation"
@@ -53,10 +53,10 @@ Rom 8:19
 
 ---
 
-## [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} — chazon (vision)
+## H2377 — chazon (vision)
 
 ### Lookup
-[H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} - 37 total occurrences, 12 unique translations:
+H2377 - 37 total occurrences, 12 unique translations:
 - 10 (27.0%) "the vision"
 - 9 (24.3%) "vision"
 - 3 (8.1%) "The vision"
@@ -77,10 +77,10 @@ Rom 8:19
 
 ---
 
-## [H4759](https://www.blueletterbible.org/lexicon/h4759/kjv/wlc/0-1/){:target="_blank"} — mar'ah (vision/appearance)
+## H4759 — mar'ah (vision/appearance)
 
 ### Lookup
-[H4759](https://www.blueletterbible.org/lexicon/h4759/kjv/wlc/0-1/){:target="_blank"} - 11 total occurrences, 8 unique translations:
+H4759 - 11 total occurrences, 8 unique translations:
 - 3 (27.3%) "the vision"
 - 2 (18.2%) "in the visions"
 - Other: lookingglasses, in a vision, visions, In the visions, vision, by the vision
@@ -96,10 +96,10 @@ Rom 8:19
 
 ---
 
-## [H2472](https://www.blueletterbible.org/lexicon/h2472/kjv/wlc/0-1/){:target="_blank"} — chalom (dream)
+## H2472 — chalom (dream)
 
 ### Lookup
-[H2472](https://www.blueletterbible.org/lexicon/h2472/kjv/wlc/0-1/){:target="_blank"} - 65 total occurrences, 28 unique translations:
+H2472 - 65 total occurrences, 28 unique translations:
 - 15 (23.1%) "a dream"
 - 7 (10.8%) "in a dream"
 - 4 (6.2%) "of dreams"
@@ -117,10 +117,10 @@ Rom 8:19
 
 ---
 
-## [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} — propheteia (prophecy)
+## G4394 — propheteia (prophecy)
 
 ### Lookup
-[G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} - 19 total occurrences, 8 unique translations:
+G4394 - 19 total occurrences, 8 unique translations:
 - 11 (57.9%) "prophecy"
 - 2 (10.5%) "prophesying"
 - Other: prophecies, prophesyings, the prophecies, the prophecy, of this prophecy, of prophecy
@@ -139,10 +139,10 @@ Mat 13:14; Rom 12:6; 1Co 12:10; 1Co 13:2; 1Ti 4:14; 2Pe 1:20; Rev 11:6; Rev 22:7
 
 ---
 
-## [H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} — raz (Aramaic secret/mystery)
+## H7328 — raz (Aramaic secret/mystery)
 
 ### Lookup
-[H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} - 9 total occurrences, 5 unique translations:
+H7328 - 9 total occurrences, 5 unique translations:
 - 4 (44.4%) "secret"
 - 2 (22.2%) "secrets"
 - 1 each: the secret, The secret, of secrets
@@ -161,10 +161,10 @@ Dan 2:18; Dan 2:30; Dan 2:47; Dan 4:9
 
 ---
 
-## [G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} — mysterion (mystery)
+## G3466 — mysterion (mystery)
 
 ### Lookup
-[G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} - 27 total occurrences, 6 unique translations:
+G3466 - 27 total occurrences, 6 unique translations:
 - 18 (66.7%) "mystery"
 - 4 (14.8%) "mysteries"
 - 2 (7.4%) "a mystery"
@@ -184,10 +184,10 @@ Mar 4:11; Rom 11:25; Eph 1:9; 3:3; 3:4; 3:9; 5:32; 6:19; Col 1:26; 1:27; 2:2; 4:
 
 ---
 
-## [H4437](https://www.blueletterbible.org/lexicon/h4437/kjv/wlc/0-1/){:target="_blank"} — malkuw (Aramaic kingdom)
+## H4437 — malkuw (Aramaic kingdom)
 
 ### Lookup
-[H4437](https://www.blueletterbible.org/lexicon/h4437/kjv/wlc/0-1/){:target="_blank"} - 65 total occurrences, 30 unique translations (top):
+H4437 - 65 total occurrences, 30 unique translations (top):
 - 9 (13.8%) "the kingdom"
 - 8 (12.3%) "kingdom"
 - 7 (10.8%) "in the kingdom"
@@ -204,10 +204,10 @@ Mar 4:11; Rom 11:25; Eph 1:9; 3:3; 3:4; 3:9; 5:32; 6:19; Col 1:26; 1:27; 2:2; 4:
 
 ---
 
-## [G932](https://www.blueletterbible.org/lexicon/g932/kjv/tr/0-1/){:target="_blank"} — basileia (kingdom)
+## G932 — basileia (kingdom)
 
 ### Lookup
-[G932](https://www.blueletterbible.org/lexicon/g932/kjv/tr/0-1/){:target="_blank"} - 156 total occurrences, 6 unique translations:
+G932 - 156 total occurrences, 6 unique translations:
 - 140 (89.7%) "kingdom"
 - 6 (3.8%) "the kingdom"
 - 4 (2.6%) "kingdoms"
@@ -225,10 +225,10 @@ Mar 4:11; Rom 11:25; Eph 1:9; 3:3; 3:4; 3:9; 5:32; 6:19; Col 1:26; 1:27; 2:2; 4:
 
 ---
 
-## [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} — sphragizo (to seal)
+## G4972 — sphragizo (to seal)
 
 ### Lookup
-[G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} - 25 total occurrences, 12 unique translations:
+G4972 - 25 total occurrences, 12 unique translations:
 - 14 (56.0%) "sealed"
 - Other: sealing, have sealed, hath, shall stop, ye were sealed with, ye are sealed, we have sealed, which were sealed, Seal up, set a seal, Seal
 

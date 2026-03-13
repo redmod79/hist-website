@@ -23,7 +23,7 @@
 ### Revelation 6:15-17
 **Context:** Immediately following the cosmic upheaval of the sixth seal. The reaction of humanity is described.
 **Direct statement:** "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?"
-**Original language:** The phrase ἀπὸ προσώπου τοῦ καθημένου ἐπὶ τοῦ θρόνου (apo prosōpou tou kathēmenou epi tou thronou) means "from the face of him who sits on the throne" — they see a visible person. ὀργῆς τοῦ Ἀρνίου (orgēs tou Arniou) means "wrath of the Lamb" — [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} orgē. ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν (hē hēmera hē megalē tēs orgēs autōn) means "the great day of their wrath."
+**Original language:** The phrase ἀπὸ προσώπου τοῦ καθημένου ἐπὶ τοῦ θρόνου (apo prosōpou tou kathēmenou epi tou thronou) means "from the face of him who sits on the throne" — they see a visible person. ὀργῆς τοῦ Ἀρνίου (orgēs tou Arniou) means "wrath of the Lamb" — G3709 orgē. ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν (hē hēmera hē megalē tēs orgēs autōn) means "the great day of their wrath."
 **Cross-references:** The seven social classes (kings, great men, rich men, chief captains, mighty men, bondmen, free men) parallel Rev 19:18 (kings, captains, mighty men, free, bond, small, great). Hosea 10:8 provides the OT source: "they shall say to the mountains, Cover us; and to the hills, Fall on us" (cited by Jesus in Luke 23:30).
 **Relationship to other evidence:** The universality of the social classes (from highest to lowest) matches Rev 1:7's "every eye" and "all kindreds." All humanity sees and responds. The question "who shall be able to stand?" (6:17) is answered in Rev 7 (the 144,000 sealed). The "wrath of the Lamb" (orgē, G3709) connects to the wrath chain: Rev 14:10, 16:19, 19:15.
 
@@ -41,16 +41,16 @@
 ### Revelation 14:17-20 (Grape Harvest/Winepress)
 **Context:** Immediately following the grain harvest. A second angel with a sickle gathers grapes.
 **Direct statement:** "And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God. And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs."
-**Original language:** ληνὸν τοῦ θυμοῦ τοῦ Θεοῦ τὸν μέγαν (lēnon tou thymou tou Theou ton megan) = "the great winepress of the wrath of God." [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} ληνός (lēnos) = winepress. [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} θυμός (thymos) = wrath/fury.
+**Original language:** ληνὸν τοῦ θυμοῦ τοῦ Θεοῦ τὸν μέγαν (lēnon tou thymou tou Theou ton megan) = "the great winepress of the wrath of God." G3025 ληνός (lēnos) = winepress. G2372 θυμός (thymos) = wrath/fury.
 **Cross-references:** Joel 3:13 combines sickle and winepress. Isa 63:1-6 is the OT source of the winepress-of-judgment imagery. Rev 19:15 uses the identical word ληνός for the winepress Christ treads.
-**Relationship to other evidence:** [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lēnos) in eschatological context appears only in Rev 14:19, 14:20, and 19:15. The shared vocabulary binds these passages as describing the same event. The "wrath of God" language (θυμός here, ὀργή at 6:16-17 and 19:15) forms part of the wrath chain connecting chapters 6, 14, and 19.
+**Relationship to other evidence:** G3025 (lēnos) in eschatological context appears only in Rev 14:19, 14:20, and 19:15. The shared vocabulary binds these passages as describing the same event. The "wrath of God" language (θυμός here, ὀργή at 6:16-17 and 19:15) forms part of the wrath chain connecting chapters 6, 14, and 19.
 
 ---
 
 ### Revelation 16:15-21 (Seventh Bowl)
 **Context:** The sixth bowl gathers kings to Armageddon. The seventh bowl is poured into the air.
 **Direct statement:** "Behold, I come as a thief" (v. 15). "And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done" (v. 17). "And every island fled away, and the mountains were not found" (v. 20).
-**Original language:** Rev 16:20: πᾶσα νῆσος ἔφυγεν (pasa nēsos ephygen) = "every island fled" (φεύγω [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"}, Aor Act Ind 3S). ὄρη οὐχ εὑρέθησαν (orē ouch heurethēsan) = "mountains were not found" (εὑρίσκω [G2147](https://www.blueletterbible.org/lexicon/g2147/kjv/tr/0-1/){:target="_blank"}, Aor Pass Ind 3P).
+**Original language:** Rev 16:20: πᾶσα νῆσος ἔφυγεν (pasa nēsos ephygen) = "every island fled" (φεύγω G5343, Aor Act Ind 3S). ὄρη οὐχ εὑρέθησαν (orē ouch heurethēsan) = "mountains were not found" (εὑρίσκω G2147, Aor Pass Ind 3P).
 **Cross-references:** Compare Rev 6:14: "every mountain and island were moved (ἐκινήθησαν, κινέω G2795) out of their places." Same entities (mountains and islands), different verbs: "moved" (6:14) vs. "fled/not found" (16:20). The "thief" language at 16:15 matches 1 Thess 5:2 and 2 Pet 3:10.
 **Relationship to other evidence:** The cosmic destruction in 16:20 matches 6:14 and 20:11 — three descriptions of the same end event with intensifying vocabulary. The "It is done" declaration marks the climax of the bowl sequence, and the narrative then flows into Babylon's fall (17-18) and Christ's return (19:11-21).
 
@@ -60,7 +60,7 @@
 **Context:** After the fall of Babylon (Rev 17-18) and the heavenly rejoicing (Rev 19:1-10), heaven opens for Christ's return.
 **Direct statement:** "And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war... And he was clothed with a vesture dipped in blood: and his name is called The Word of God... And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God. And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS."
 **Original language:** Rev 19:15: πατεῖ τὴν ληνὸν τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς τοῦ Θεοῦ τοῦ Παντοκράτορος — a five-genitive chain: "the winepress of the wine of the wrath of the anger of God the Almighty." πατεῖ (patei, Pres Act Ind 3S, from πατέω G3961) = "he treads." βεβαμμένον αἵματι (bebammenon haimati, Perf Pass Ptcp, from βάπτω G911) = "dipped in blood."
-**Cross-references:** Rev 19:13 "vesture dipped in blood" echoes Isa 63:1-3 where the warrior comes from Edom with "dyed garments" and blood-stained raiment from treading the winepress. Rev 19:15's winepress = Rev 14:19-20's winepress (same word, [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} lēnos). The "rod of iron" echoes Psa 2:9.
+**Cross-references:** Rev 19:13 "vesture dipped in blood" echoes Isa 63:1-3 where the warrior comes from Edom with "dyed garments" and blood-stained raiment from treading the winepress. Rev 19:15's winepress = Rev 14:19-20's winepress (same word, G3025 lēnos). The "rod of iron" echoes Psa 2:9.
 **Relationship to other evidence:** This is the culminating second coming passage in Revelation. The winepress (G3025) links to 14:19-20. The wrath vocabulary (θυμός + ὀργή) links to 6:16-17 and 14:10,19. The social classes in the supper scene (19:18: "kings, captains, mighty men, free, bond") match 6:15.
 
 ---
@@ -84,7 +84,7 @@
 ### Isaiah 63:1-6 (The Winepress Warrior)
 **Context:** A prophetic vision of the LORD as a warrior returning from judgment.
 **Direct statement:** "I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments" (63:3). "For the day of vengeance is in mine heart, and the year of my redeemed is come" (63:4).
-**Original language:** פּוּרָה דָּרַכְתִּי לְבַדִּי (purah daraktiy l'baddiy) = "Winepress I-have-trodden alone." [H6333](https://www.blueletterbible.org/lexicon/h6333/kjv/wlc/0-1/){:target="_blank"} purah = winepress. [H1869](https://www.blueletterbible.org/lexicon/h1869/kjv/wlc/0-1/){:target="_blank"} darak (Qal Perf 1s) = "I have trodden" — completed action. The shift from Perfect (daraktiy) to Imperfect (v'edrekem, "and I will tread them") indicates the warrior has begun and will continue. The verb גאל (ga'al, "to stain/pollute") in v. 3 is an ironic homophone with the more common גאל "to redeem" — the warrior who redeems (v. 4, "year of my redeemed") also stains his garments with judgment blood.
+**Original language:** פּוּרָה דָּרַכְתִּי לְבַדִּי (purah daraktiy l'baddiy) = "Winepress I-have-trodden alone." H6333 purah = winepress. H1869 darak (Qal Perf 1s) = "I have trodden" — completed action. The shift from Perfect (daraktiy) to Imperfect (v'edrekem, "and I will tread them") indicates the warrior has begun and will continue. The verb גאל (ga'al, "to stain/pollute") in v. 3 is an ironic homophone with the more common גאל "to redeem" — the warrior who redeems (v. 4, "year of my redeemed") also stains his garments with judgment blood.
 **Cross-references:** Rev 19:13 "vesture dipped in blood" echoes Isa 63:1 "dyed garments." Rev 19:15 "he treadeth the winepress" echoes Isa 63:3 "I have trodden the winepress." The winepress imagery flows from this OT passage into both Rev 14:19-20 and 19:15.
 **Relationship to other evidence:** This is the foundational OT source for the Revelation winepress passages. The same warrior who speaks in righteousness and is mighty to save (Isa 63:1) is the Rider called "Faithful and True" who "in righteousness he doth judge" (Rev 19:11).
 
@@ -141,7 +141,7 @@
 ### Matthew 25:1,6 (Apantesis #1)
 **Context:** Parable of the ten virgins, immediately following the Olivet Discourse.
 **Direct statement:** "Ten virgins, which took their lamps, and went forth to meet [eis apantēsin, G529] the bridegroom" (v. 1). "Behold, the bridegroom cometh; go ye out to meet [eis apantēsin] him" (v. 6). "The bridegroom came; and they that were ready went in with him to the marriage" (v. 10).
-**Relationship to other evidence:** The apantēsis pattern: the virgins go OUT to meet the approaching bridegroom, then return WITH him to the marriage feast. They do not depart permanently. This is the first of three NT uses of [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"}.
+**Relationship to other evidence:** The apantēsis pattern: the virgins go OUT to meet the approaching bridegroom, then return WITH him to the marriage feast. They do not depart permanently. This is the first of three NT uses of G529.
 
 ---
 
@@ -252,7 +252,7 @@
 
 ### Lamentations 1:15
 **Direct statement:** "The Lord hath trodden the virgin, the daughter of Judah, as in a winepress."
-**Original language:** [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"} gath (winepress) + [H1869](https://www.blueletterbible.org/lexicon/h1869/kjv/wlc/0-1/){:target="_blank"} darak (to tread) — same vocabulary as Isa 63:2-3.
+**Original language:** H1660 gath (winepress) + H1869 darak (to tread) — same vocabulary as Isa 63:2-3.
 **Relationship to other evidence:** Part of the winepress imagery chain. God treading his people "as in a winepress" establishes the metaphor of treading = divine judgment.
 
 ---
@@ -331,7 +331,7 @@ Multiple passages describe the coming "as a thief" (1 Thess 5:2; 2 Pet 3:10; Rev
 
 The weight of the gathered evidence points toward a single, visible, public second coming described from multiple angles in Revelation.
 
-The four primary Revelation passages (1:7, 6:12-17, 14:14-20, 19:11-21) are connected by three interlocking chains: (1) the winepress chain (Isa 63 → Rev 14:19-20 → Rev 19:15, using [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} lēnos), (2) the wrath chain (Rev 6:16-17 → 14:10,19 → 16:19 → 19:15, using [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} orgē and [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} thymos), and (3) the cosmic destruction chain (Rev 6:14 → 16:20 → 20:11, using mountains/islands with escalating verbs). The social classes mentioned in Rev 6:15 and 19:18 also overlap.
+The four primary Revelation passages (1:7, 6:12-17, 14:14-20, 19:11-21) are connected by three interlocking chains: (1) the winepress chain (Isa 63 → Rev 14:19-20 → Rev 19:15, using G3025 lēnos), (2) the wrath chain (Rev 6:16-17 → 14:10,19 → 16:19 → 19:15, using G3709 orgē and G2372 thymos), and (3) the cosmic destruction chain (Rev 6:14 → 16:20 → 20:11, using mountains/islands with escalating verbs). The social classes mentioned in Rev 6:15 and 19:18 also overlap.
 
 The rapture passage (1 Thess 4:16-17) describes the most public, audible event possible — shout, archangel, trumpet. The word harpazō (G726) describes the action of being taken up, not a secret manner. The word apantēsis (G529) places the event within the civic delegation pattern, where the welcoming party goes out to escort the arriving dignitary back.
 
@@ -345,4 +345,4 @@ No passage in the gathered data describes a secret, invisible, or partial coming
 
 **Rev 4:1 "Come up hither" as rapture**: The command ἀνάβα ὧδε at Rev 4:1 is a 2nd person singular aorist imperative — addressed to John alone for a visionary ascent. The same verb ἀναβαίνω appears at Rev 11:12 in the plural (ἀνάβατε ὧδε), addressed to the two witnesses. Neither instance is a corporate rapture. The claim that ἐκκλησία disappears after Rev 3 is refuted by (a) ἅγιος ("saints") designating God's people 13 times in Rev 4-20 (5:8; 8:3,4; 11:18; 13:7,10; 14:12; 15:3; 16:6; 17:6; 18:24; 19:8; 20:9) and (b) Rev 22:16 restoring ἐκκλησία: "these things in the churches."
 
-**2 Thess 2:3 ἀποστασία as "departure/rapture"**: [G646](https://www.blueletterbible.org/lexicon/g646/kjv/tr/0-1/){:target="_blank"} ἀποστασία appears only at Acts 21:21 (religious defection from Moses) and 2 Thess 2:3. The LXX uses it for religious rebellion (Josh 22:22; 2 Chr 29:19; Jer 2:19). In 2 Thess 2:3, ἀποστασία is grammatically parallel with the man of sin's revelation as twin negative preconditions (ἐὰν μή... πρῶτον καί...). Paul uses ἐπισυναγωγή (G1997) for the gathering in 2 Thess 2:1 — a different word — making it clear ἀποστασία in v.3 means something other than gathering.
+**2 Thess 2:3 ἀποστασία as "departure/rapture"**: G646 ἀποστασία appears only at Acts 21:21 (religious defection from Moses) and 2 Thess 2:3. The LXX uses it for religious rebellion (Josh 22:22; 2 Chr 29:19; Jer 2:19). In 2 Thess 2:3, ἀποστασία is grammatically parallel with the man of sin's revelation as twin negative preconditions (ἐὰν μή... πρῶτον καί...). Paul uses ἐπισυναγωγή (G1997) for the gathering in 2 Thess 2:1 — a different word — making it clear ἀποστασία in v.3 means something other than gathering.

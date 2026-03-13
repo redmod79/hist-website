@@ -40,7 +40,7 @@
 3. **yatsa** (came forth) — 3ms, MASCULINE verb — refers to the power/king behind the horn.
 4. **wattigdal** (and it grew great) — 3fs, FEMININE verb — agrees with qeren (horn, feminine). The verb-gender switch from masculine yatsa to feminine wattigdal within a single verse demonstrates the oscillation between the masculine reality (king/power) and the feminine symbol (horn).
 5. **mits'eirah** (from-littleness) — HAPAX LEGOMENON (H4704). A feminine NOUN, not an adjective. With the preposition min, it emphasizes ORIGIN from a state of smallness.
-6. **yether** (excess/surplus) — [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"}. This is stage THREE of the gadal progression: wattigdal yether = "grew surpassingly/exceedingly great." The Qal stem (not Hiphil like the ram and goat) suggests organic, innate expansion. Yether conveys surplus/excess beyond what preceded.
+6. **yether** (excess/surplus) — H3499. This is stage THREE of the gadal progression: wattigdal yether = "grew surpassingly/exceedingly great." The Qal stem (not Hiphil like the ram and goat) suggests organic, innate expansion. Yether conveys surplus/excess beyond what preceded.
 
 The three directions of growth (south, east, pleasant land) describe territorial expansion.
 

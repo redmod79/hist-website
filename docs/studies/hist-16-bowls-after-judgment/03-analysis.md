@@ -332,7 +332,7 @@ The word study data reveals several decisive patterns that the English translati
 
 **Lev 16:17 -> Rev 15:8:** Three shared structural elements: (1) universal exclusion (*kol adam lo yihyeh* / *oudeis edynato*), (2) sanctuary location (*ohel mo'ed* / *naos*), (3) temporal "until" limit (*ad tse'to* / *achri telesthosin*). The difference: Lev 16:17 is a prohibition during atonement; Rev 15:8 is an inability during judgment. The heavenly antitype intensifies from command to physical/spiritual reality.
 
-**Exo 40:34-35 / 1 Ki 8:10-11 -> Rev 15:8:** Four shared elements: glory fills, inability to enter, sanctuary space, something fills the sacred space. The difference: these OT passages are inauguration; Rev 15 is judgment. Rev 15:8 lacks inauguration vocabulary (*enkainizo*, [G1457](https://www.blueletterbible.org/lexicon/g1457/kjv/tr/0-1/){:target="_blank"}, never appears in Revelation) and is surrounded by judgment vocabulary (plagues, wrath, *teleo*). The inauguration imagery is absorbed into a judgment framework.
+**Exo 40:34-35 / 1 Ki 8:10-11 -> Rev 15:8:** Four shared elements: glory fills, inability to enter, sanctuary space, something fills the sacred space. The difference: these OT passages are inauguration; Rev 15 is judgment. Rev 15:8 lacks inauguration vocabulary (*enkainizo*, G1457, never appears in Revelation) and is surrounded by judgment vocabulary (plagues, wrath, *teleo*). The inauguration imagery is absorbed into a judgment framework.
 
 **Isa 6:4 -> Rev 15:8:** Smoke vocabulary aligns: *'ashan* (Hebrew) corresponds to *kapnos* (Greek), not *'anan/nephele* (cloud). Both texts depict the overwhelming divine presence that excludes creature access.
 

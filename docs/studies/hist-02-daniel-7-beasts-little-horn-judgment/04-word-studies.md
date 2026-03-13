@@ -2,14 +2,14 @@
 
 ## Aramaic Terms (Daniel 7)
 
-### דִּין (din) -- [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Judgment
+### דִּין (din) -- H1780 -- Aramaic: Judgment
 **Original:** דִּין
 **Transliteration:** dîyn
 **Pronunciation:** deen
 **Part of Speech:** Masculine noun
 **BLB Count:** 5 occurrences
 
-**Definition:** (Aramaic) corresponding to [H1779](https://www.blueletterbible.org/lexicon/h1779/kjv/wlc/0-1/){:target="_blank"}; judgment.
+**Definition:** (Aramaic) corresponding to H1779; judgment.
 
 **Full Lexicon Entry (BDB):**
 Absolute דּ׳ Daniel 4:34 = justice (of ways of God); emphatic דִּינָה מִתְעֲבֵד מִנֵּהּ Ezra 7:26 "judgment be executed upon him"; דִּינָא = judges, court Daniel 7:10, 26; Daniel 7:22 (reading וְד׳ יְהִב [יְתִב וְשָׁלְטָנָא], Ew Bev Kmp Dr); MT however = "judgment was given in favour of."
@@ -37,14 +37,14 @@ The Aramaic construction דִּינָא יְתִב pictures judgment as a court 
 
 ---
 
-### עַתִּיק (attiyq) -- [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Ancient/Advanced in Days
+### עַתִּיק (attiyq) -- H6268 -- Aramaic: Ancient/Advanced in Days
 **Original:** עַתִּיק
 **Transliteration:** ʻattîyq
 **Pronunciation:** at-teek
 **Part of Speech:** Adjective
 **BLB Count:** 3 occurrences (all in Daniel 7)
 
-**Definition:** (Aramaic) corresponding to [H6267](https://www.blueletterbible.org/lexicon/h6267/kjv/wlc/0-1/){:target="_blank"}; venerable; advanced, aged.
+**Definition:** (Aramaic) corresponding to H6267; venerable; advanced, aged.
 
 **Full Lexicon Entry (BDB):**
 Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Daniel 7:9, Daniel 7:13, Daniel 7:22 (compare Syriac Ecclus 25:4).
@@ -60,20 +60,20 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 - Dan 7:13 -- "came to the Ancient of days" (עַד עַתִּיק יוֹמַיָּא מְטָה)
 - Dan 7:22 -- "until the Ancient of days came" (עַד דִּי אֲתָה עַתִּיק יוֹמַיָּא)
 
-**Hebrew Cognate (H6267):** עַתִּיק -- same word in Biblical Hebrew, meaning "ancient, removed." Only 2 occurrences: 1 Chr 4:22 and Isa 28:9. Root: [H6275](https://www.blueletterbible.org/lexicon/h6275/kjv/wlc/0-1/){:target="_blank"} (עתק, to advance, move forward).
+**Hebrew Cognate (H6267):** עַתִּיק -- same word in Biblical Hebrew, meaning "ancient, removed." Only 2 occurrences: 1 Chr 4:22 and Isa 28:9. Root: H6275 (עתק, to advance, move forward).
 
 **Significance:** The title "Ancient of Days" (עַתִּיק יוֹמִין) is unique to Daniel 7. It designates the Eternal God as the presiding judge. The construct phrase literally means "advanced/venerable of days" -- emphasizing God's eternality and the gravity of the judicial proceeding. The white garment and white-as-wool hair (Dan 7:9) reinforce this image of dignity and purity.
 
 ---
 
-### קֶרֶן (qeren) -- [H7162](https://www.blueletterbible.org/lexicon/h7162/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Horn
+### קֶרֶן (qeren) -- H7162 -- Aramaic: Horn
 **Original:** קֶרֶן
 **Transliteration:** qeren
 **Pronunciation:** keh-ren
 **Part of Speech:** Feminine noun
 **BLB Count:** 14 occurrences (in Aramaic Daniel)
 
-**Definition:** (Aramaic) corresponding to [H7161](https://www.blueletterbible.org/lexicon/h7161/kjv/wlc/0-1/){:target="_blank"}; a horn (literally or for sound): horn, cornet.
+**Definition:** (Aramaic) corresponding to H7161; a horn (literally or for sound): horn, cornet.
 
 **Translations:**
 | Count | Translation |
@@ -97,14 +97,14 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ---
 
-### אָחֳרִי (ochori) -- [H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Another (Sequential)
+### אָחֳרִי (ochori) -- H317 -- Aramaic: Another (Sequential)
 **Original:** אָחֳרִי
 **Transliteration:** ʼochŏrîy
 **Pronunciation:** okh-or-ee
 **Part of Speech:** Adjective (feminine form)
 **BLB Count:** 6 occurrences
 
-**Definition:** (Aramaic) from [H312](https://www.blueletterbible.org/lexicon/h312/kjv/wlc/0-1/){:target="_blank"}; other, another.
+**Definition:** (Aramaic) from H312; other, another.
 
 **Translations:**
 | Count | Translation |
@@ -119,13 +119,13 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 - Dan 7:8 -- "another little horn" (קֶרֶן אָחֳרִי זְעֵירָה)
 - Dan 7:20 -- "the other which came up" (אָחֳרִי)
 
-**Related masculine form:** [H321](https://www.blueletterbible.org/lexicon/h321/kjv/wlc/0-1/){:target="_blank"} אָחֳרָן (achoran) -- used in Dan 7:24: "another shall rise after them" (אָחֳרָן יְקוּם אַחֲרֵיהוֹן).
+**Related masculine form:** H321 אָחֳרָן (achoran) -- used in Dan 7:24: "another shall rise after them" (אָחֳרָן יְקוּם אַחֲרֵיהוֹן).
 
 **Significance:** The word אָחֳרִי emphasizes SEQUENCE -- each entity comes after the previous one. In Dan 7:8, the little horn is "another" (sequential, arising among the ten). In Dan 7:24, the masculine form אָחֳרָן is used with אַחֲרֵיהוֹן ("after them"), doubly emphasizing temporal sequence.
 
 ---
 
-### זְעֵיר (ze'iyr) -- [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Little/Small
+### זְעֵיר (ze'iyr) -- H2191 -- Aramaic: Little/Small
 **Original:** זְעֵיר
 **Transliteration:** zᵉʻêyr
 **Pronunciation:** zeh-ayr
@@ -143,14 +143,14 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ---
 
-### עִדָּן (iddan) -- [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Time/Set Time/Year
+### עִדָּן (iddan) -- H5732 -- Aramaic: Time/Set Time/Year
 **Original:** עִדָּן
 **Transliteration:** ʻiddân
 **Pronunciation:** id-dawn
 **Part of Speech:** Masculine noun
 **BLB Count:** 13 occurrences
 
-**Definition:** (Aramaic) from a root corresponding to that of [H5708](https://www.blueletterbible.org/lexicon/h5708/kjv/wlc/0-1/){:target="_blank"}; a set time; technically, a year.
+**Definition:** (Aramaic) from a root corresponding to that of H5708; a set time; technically, a year.
 
 **Full Lexicon Entry (BDB):**
 1. In general, time, as duration: Dan 2:8; 7:12; involving specific conditions: Dan 2:9, 21; (point of) time: Dan 3:5, 15.
@@ -174,14 +174,14 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ---
 
-### יוֹם (yom) -- [H3118](https://www.blueletterbible.org/lexicon/h3118/kjv/wlc/0-1/){:target="_blank"} -- Aramaic: Day
+### יוֹם (yom) -- H3118 -- Aramaic: Day
 **Original:** יוֹם
 **Transliteration:** yôwm
 **Pronunciation:** yome
 **Part of Speech:** Masculine noun
 **BLB Count:** 16 occurrences
 
-**Definition:** (Aramaic) corresponding to [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"}; a day.
+**Definition:** (Aramaic) corresponding to H3117; a day.
 
 **Key Uses:**
 - Dan 7:9,13,22 -- עַתִּיק יוֹמִין "Ancient of days" (plural: "days")
@@ -197,7 +197,7 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ## Greek Terms
 
-### θρόνος (thronos) -- [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} -- Throne
+### θρόνος (thronos) -- G2362 -- Throne
 **Original:** θρόνος
 **Transliteration:** thrónos
 **Pronunciation:** thron-os
@@ -231,14 +231,14 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ---
 
-### βλασφημία (blasphemia) -- [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} -- Blasphemy
+### βλασφημία (blasphemia) -- G988 -- Blasphemy
 **Original:** βλασφημία
 **Transliteration:** blasphēmía
 **Pronunciation:** blas-fay-me-ah
 **Part of Speech:** Feminine noun
 **BLB Count:** 19 occurrences
 
-**Definition:** From [G989](https://www.blueletterbible.org/lexicon/g989/kjv/tr/0-1/){:target="_blank"}; vilification (especially against God): blasphemy, evil speaking.
+**Definition:** From G989; vilification (especially against God): blasphemy, evil speaking.
 
 **Translations:**
 | Count | Translation |
@@ -262,7 +262,7 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ---
 
-### κέρας (keras) -- [G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} -- Horn
+### κέρας (keras) -- G2768 -- Horn
 **Original:** κέρας
 **Transliteration:** kéras
 **Pronunciation:** ker-as
@@ -294,7 +294,7 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ## Additional Hebrew/Aramaic Terms
 
-### שָׁפַט (shaphat) -- [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} -- Hebrew: To Judge
+### שָׁפַט (shaphat) -- H8199 -- Hebrew: To Judge
 **Original:** שָׁפַט
 **Transliteration:** shâphaṭ
 **Pronunciation:** shaw-fat
@@ -309,7 +309,7 @@ Construct (מַיָּא-) יוֺמִין ע׳ "one advanced, aged, in days" Dani
 
 ---
 
-### κρίσις (krisis) -- [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} -- Greek: Judgment/Decision
+### κρίσις (krisis) -- G2920 -- Greek: Judgment/Decision
 **Original:** κρίσις
 **Transliteration:** krísis
 **Pronunciation:** kree-sis

@@ -93,17 +93,17 @@ INVESTIGATIVE METHODOLOGY:
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} | παρουσία (parousia) — "coming, presence" | Primary word for second coming; 24 NT occurrences; translated "coming" 18x, "presence" 1x. Key in Matt 24:3; 1 Thess 4:15; 2 Thess 2:1,8 |
-| [G2015](https://www.blueletterbible.org/lexicon/g2015/kjv/tr/0-1/){:target="_blank"} | ἐπιφάνεια (epiphaneia) — "appearing, manifestation" | Second coming term; 6 occurrences; 2 Thess 2:8; 1 Tim 6:14; 2 Tim 4:1,8; Tit 2:13 |
-| [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} | ἀποκάλυψις (apokalypsis) — "revelation, disclosure" | Second coming term; 18 occurrences; 2 Thess 1:7; 1 Pet 1:7,13; 4:13; Rev 1:1 |
-| [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"} | ἁρπάζω (harpazo) — "to seize, catch up" | The "rapture" word; 13 occurrences; 1 Thess 4:17; Rev 12:5; 2 Cor 12:2,4; Jude 1:23; Matt 13:19; John 6:15; 10:12,28; Acts 8:39; 23:10 |
-| [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} | ἀπάντησις (apantesis) — "a (friendly) encounter, meeting" | Civic delegation term; 4 occurrences: Matt 25:1,6; Acts 28:15; 1 Thess 4:17. Critical for understanding the rapture as public welcome, not secret departure |
-| [G528](https://www.blueletterbible.org/lexicon/g528/kjv/tr/0-1/){:target="_blank"} | ἀπαντάω (apantao) — "to meet away, encounter" | Verb form of apantesis; 7 occurrences |
-| [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} | ληνός (lenos) — "winepress, wine-vat" | 5 NT occurrences; Rev 14:19,20; 19:15 — binds winepress imagery across Revelation |
-| [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"} | גַּת (gath) — "winepress" | Hebrew winepress; Isa 63:2; Lam 1:15; Judg 6:11; Neh 13:15 — OT source for Rev winepress |
-| [H6333](https://www.blueletterbible.org/lexicon/h6333/kjv/wlc/0-1/){:target="_blank"} | פּוּרָה (purah) — "winepress" | Isa 63:3 — treading the winepress in anger; direct source of Rev 14:19-20 and 19:15 |
-| [H1869](https://www.blueletterbible.org/lexicon/h1869/kjv/wlc/0-1/){:target="_blank"} | דָּרַךְ (darak) — "to tread" | Used in treading the winepress; Isa 63:3 |
-| [G3631](https://www.blueletterbible.org/lexicon/g3631/kjv/tr/0-1/){:target="_blank"} | οἶνος (oinos) — "wine" | 33 NT occurrences; Rev 14:8,10; 16:19; 17:2; 18:3; 19:15 — connects Babylon's wine with wrath imagery |
+| G3952 | παρουσία (parousia) — "coming, presence" | Primary word for second coming; 24 NT occurrences; translated "coming" 18x, "presence" 1x. Key in Matt 24:3; 1 Thess 4:15; 2 Thess 2:1,8 |
+| G2015 | ἐπιφάνεια (epiphaneia) — "appearing, manifestation" | Second coming term; 6 occurrences; 2 Thess 2:8; 1 Tim 6:14; 2 Tim 4:1,8; Tit 2:13 |
+| G602 | ἀποκάλυψις (apokalypsis) — "revelation, disclosure" | Second coming term; 18 occurrences; 2 Thess 1:7; 1 Pet 1:7,13; 4:13; Rev 1:1 |
+| G726 | ἁρπάζω (harpazo) — "to seize, catch up" | The "rapture" word; 13 occurrences; 1 Thess 4:17; Rev 12:5; 2 Cor 12:2,4; Jude 1:23; Matt 13:19; John 6:15; 10:12,28; Acts 8:39; 23:10 |
+| G529 | ἀπάντησις (apantesis) — "a (friendly) encounter, meeting" | Civic delegation term; 4 occurrences: Matt 25:1,6; Acts 28:15; 1 Thess 4:17. Critical for understanding the rapture as public welcome, not secret departure |
+| G528 | ἀπαντάω (apantao) — "to meet away, encounter" | Verb form of apantesis; 7 occurrences |
+| G3025 | ληνός (lenos) — "winepress, wine-vat" | 5 NT occurrences; Rev 14:19,20; 19:15 — binds winepress imagery across Revelation |
+| H1660 | גַּת (gath) — "winepress" | Hebrew winepress; Isa 63:2; Lam 1:15; Judg 6:11; Neh 13:15 — OT source for Rev winepress |
+| H6333 | פּוּרָה (purah) — "winepress" | Isa 63:3 — treading the winepress in anger; direct source of Rev 14:19-20 and 19:15 |
+| H1869 | דָּרַךְ (darak) — "to tread" | Used in treading the winepress; Isa 63:3 |
+| G3631 | οἶνος (oinos) — "wine" | 33 NT occurrences; Rev 14:8,10; 16:19; 17:2; 18:3; 19:15 — connects Babylon's wine with wrath imagery |
 
 ### Related Existing Studies
 
@@ -171,18 +171,18 @@ INVESTIGATIVE METHODOLOGY:
 
 3. **Rev 14:14-20 — Harvest and Winepress: Son of Man on the Cloud**
    - WHAT: Investigate the dual harvest: (a) the grain harvest by the Son of Man on a white cloud with a sharp sickle (vv. 14-16), and (b) the grape harvest/winepress of the wrath of God (vv. 17-20). Determine whether these two harvests describe two aspects of one event.
-   - WHY: Tool discoveries show CLOUD topic lists REV 14:14 as SYMBOLICAL. WINE PRESS topic lists REV 14:19,20 as figurative judgment. The prior study identified Joel 3:13 ("Put ye in the sickle, for the harvest is ripe; the press is full") as the OT source combining both sickle and press in one verse. [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lenos, winepress) appears only in Rev 14:19,20 and 19:15 in NT — binding these two passages.
-   - HOW: Retrieve Rev 14:14-20 with full chapter context. Run greek_parser.py on REV 14:14 (Son of Man, cloud, sickle), 14:19 (winepress), 14:20 (blood). Run cross-testament parallels on REV 14:15 and REV 14:19. Retrieve Joel 3:13-14 and Matt 13:39-43 (harvest = end of the world). Look up [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lenos) with --verses.
+   - WHY: Tool discoveries show CLOUD topic lists REV 14:14 as SYMBOLICAL. WINE PRESS topic lists REV 14:19,20 as figurative judgment. The prior study identified Joel 3:13 ("Put ye in the sickle, for the harvest is ripe; the press is full") as the OT source combining both sickle and press in one verse. G3025 (lenos, winepress) appears only in Rev 14:19,20 and 19:15 in NT — binding these two passages.
+   - HOW: Retrieve Rev 14:14-20 with full chapter context. Run greek_parser.py on REV 14:14 (Son of Man, cloud, sickle), 14:19 (winepress), 14:20 (blood). Run cross-testament parallels on REV 14:15 and REV 14:19. Retrieve Joel 3:13-14 and Matt 13:39-43 (harvest = end of the world). Look up G3025 (lenos) with --verses.
 
 4. **Rev 19:11-21 — The Rider on the White Horse: Victory, Winepress, Beast Destroyed**
    - WHAT: Investigate Christ's return as conquering King — white horse, "Faithful and True," eyes as flame, vesture dipped in blood, sword from mouth, "KING OF KINGS AND LORD OF LORDS," the winepress, and the beast/false prophet captured.
-   - WHY: Tool discoveries show ANTICHRIST topic lists REV 19:20 as destruction. LAMB OF GOD topic includes REV 17:14 ("Lamb shall overcome them: for he is Lord of lords, and King of kings") and 19:17. The winepress (G3025) in 19:15 is the same word as 14:19-20. The "vesture dipped in blood" (19:13) echoes Isa 63:1-3 (H1660, [H6333](https://www.blueletterbible.org/lexicon/h6333/kjv/wlc/0-1/){:target="_blank"}, H1869). The prior study confirmed the wrath/winepress chain as proof of one-event unity.
+   - WHY: Tool discoveries show ANTICHRIST topic lists REV 19:20 as destruction. LAMB OF GOD topic includes REV 17:14 ("Lamb shall overcome them: for he is Lord of lords, and King of kings") and 19:17. The winepress (G3025) in 19:15 is the same word as 14:19-20. The "vesture dipped in blood" (19:13) echoes Isa 63:1-3 (H1660, H6333, H1869). The prior study confirmed the wrath/winepress chain as proof of one-event unity.
    - HOW: Retrieve Rev 19:11-21 with full chapter context. Run greek_parser.py on REV 19:11-16 (key titles, winepress, sword). Run cross-testament parallels on REV 19:15. Retrieve Isa 63:1-6 in full. Compare Rev 19:13 "dipped in blood" with Isa 63:3 "their blood shall be sprinkled upon my garments." Retrieve 2 Thess 2:8 for destruction of the lawless one "with the brightness of his coming."
 
 5. **The Winepress Chain: Isa 63:1-6 to Rev 14:19-20 to Rev 19:15**
    - WHAT: Trace the winepress imagery from OT to NT as a connecting chain proving these passages describe one event. Isaiah 63:1-6 is the warrior treading the winepress in anger. Rev 14:19-20 is the angel casting grapes into "the great winepress of the wrath of God." Rev 19:15 is Christ who "treadeth the winepress of the fierceness and wrath of Almighty God."
-   - WHY: Tool discoveries found [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"} (gath, winepress) in Isa 63:2 and [H6333](https://www.blueletterbible.org/lexicon/h6333/kjv/wlc/0-1/){:target="_blank"} (purah, winepress) in Isa 63:3. [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lenos, winepress) appears only in Rev 14:19,20 and 19:15. The WINE PRESS topic in Nave's explicitly lists Isa 63:2,3 under FIGURATIVE as "treading the winepress of sufferings" and Rev 14:19,20 under FIGURATIVE as "judgments of God." Joel 3:13 combines sickle and winepress. This chain is one of the strongest links proving one event.
-   - HOW: Retrieve Isa 63:1-6 in full. Run hebrew_parser.py on ISA 63:3 to parse the treading/winepress vocabulary. Retrieve Joel 3:13. Retrieve Lam 1:15 (another [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"} usage). Run cross-testament parallels on ISA 63:3 (both directions). Create a word-chain table mapping [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"}/H6333/H1869 through [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"}/G3631.
+   - WHY: Tool discoveries found H1660 (gath, winepress) in Isa 63:2 and H6333 (purah, winepress) in Isa 63:3. G3025 (lenos, winepress) appears only in Rev 14:19,20 and 19:15. The WINE PRESS topic in Nave's explicitly lists Isa 63:2,3 under FIGURATIVE as "treading the winepress of sufferings" and Rev 14:19,20 under FIGURATIVE as "judgments of God." Joel 3:13 combines sickle and winepress. This chain is one of the strongest links proving one event.
+   - HOW: Retrieve Isa 63:1-6 in full. Run hebrew_parser.py on ISA 63:3 to parse the treading/winepress vocabulary. Retrieve Joel 3:13. Retrieve Lam 1:15 (another H1660 usage). Run cross-testament parallels on ISA 63:3 (both directions). Create a word-chain table mapping H1660/H6333/H1869 through G3025/G3631.
 
 6. **The Cosmic Destruction Chain: Rev 6:14 = Rev 16:20 (Same Event, Different Sequences)**
    - WHAT: Investigate how Rev 6:14 ("every mountain and island were moved out of their places") and Rev 16:20 ("every island fled away, and the mountains were not found") describe the same event from different vantage points in the narrative, demonstrating recapitulation.
@@ -191,13 +191,13 @@ INVESTIGATIVE METHODOLOGY:
 
 7. **1 Thess 4:13-18 — The "Rapture" Passage: Public, Audible, Visible**
    - WHAT: Investigate the full passage that is the primary source for rapture doctrine. Determine whether the text describes a secret event or a maximally public one: "the Lord himself shall descend from heaven with a SHOUT, with the voice of the ARCHANGEL, and with the TRUMP of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up (G726 harpazo) together with them in the clouds, to meet (G529 apantesis) the Lord in the air."
-   - WHY: Tool discoveries found [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"} (harpazo) with 13 occurrences — "to seize, catch up" — and [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} (apantesis) with only 4 occurrences (Matt 25:1,6; Acts 28:15; 1 Thess 4:17). The RESURRECTION topic lists 1 Thess 4:14,16 as a key resurrection text. The TRUMPET topic lists 1 Thess 4:16 under SYMBOLICAL alongside 1 Cor 15:52 and Matt 24:31. The semantic search for "rapture caught up" returned TRIBULATION (0.42) and ARMAGEDDON (0.38) — suggesting the concept is eschatological, not a separate pre-tribulation event. The three sensory descriptors (shout, voice, trumpet) make this the LOUDEST event described in Scripture.
-   - HOW: Retrieve 1 Thess 4:13-18 with full chapter context. Run greek_parser.py on 1TH 4:16-17 (the entire passage). Look up [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"} (harpazo) with --verses to see every usage. Look up [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} (apantesis) with --verses to see the civic delegation context: Matt 25:6 (virgins go out to MEET the bridegroom) and Acts 28:15 (Romans came to MEET Paul, then escorted him BACK). Run cross-testament parallels on 1TH 4:16 and 1TH 4:17.
+   - WHY: Tool discoveries found G726 (harpazo) with 13 occurrences — "to seize, catch up" — and G529 (apantesis) with only 4 occurrences (Matt 25:1,6; Acts 28:15; 1 Thess 4:17). The RESURRECTION topic lists 1 Thess 4:14,16 as a key resurrection text. The TRUMPET topic lists 1 Thess 4:16 under SYMBOLICAL alongside 1 Cor 15:52 and Matt 24:31. The semantic search for "rapture caught up" returned TRIBULATION (0.42) and ARMAGEDDON (0.38) — suggesting the concept is eschatological, not a separate pre-tribulation event. The three sensory descriptors (shout, voice, trumpet) make this the LOUDEST event described in Scripture.
+   - HOW: Retrieve 1 Thess 4:13-18 with full chapter context. Run greek_parser.py on 1TH 4:16-17 (the entire passage). Look up G726 (harpazo) with --verses to see every usage. Look up G529 (apantesis) with --verses to see the civic delegation context: Matt 25:6 (virgins go out to MEET the bridegroom) and Acts 28:15 (Romans came to MEET Paul, then escorted him BACK). Run cross-testament parallels on 1TH 4:16 and 1TH 4:17.
 
 8. **The Apantesis (G529) — Civic Delegation Meaning Eliminates "Departure" Reading**
    - WHAT: Investigate the three NT uses of apantesis (G529): Matt 25:1,6 (virgins go out to meet bridegroom, then RETURN with him); Acts 28:15 (Roman Christians go out to meet Paul, then ESCORT him back); 1 Thess 4:17 (saints caught up to meet the Lord in the air). Determine the consistent pattern: the delegation goes OUT to meet the arriving dignitary and RETURNS with him.
-   - WHY: [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} is the noun form; [G528](https://www.blueletterbible.org/lexicon/g528/kjv/tr/0-1/){:target="_blank"} (apantao) is the verb. The semantic search for "meeting encounter civic delegation" found [G528](https://www.blueletterbible.org/lexicon/g528/kjv/tr/0-1/){:target="_blank"} (score 0.277) and [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} (score 0.276). In every NT usage, apantesis describes going out to meet someone who is ARRIVING, then accompanying them to the destination. This is a Greco-Roman civic custom (apantesis/adventus) where a city's delegation goes out to welcome an approaching ruler and escort them into the city. The pattern destroys the secret rapture reading: saints are not secretly removed — they are a welcoming party for the arriving King.
-   - HOW: Retrieve all three apantesis (G529) passages: Matt 25:1-13, Acts 28:15, 1 Thess 4:17. Run greek_parser.py on each. Create a comparison table showing the pattern: who goes out, whom they meet, and what happens next. Also look up [G528](https://www.blueletterbible.org/lexicon/g528/kjv/tr/0-1/){:target="_blank"} (apantao) with --verses for the verb occurrences to check for consistent pattern.
+   - WHY: G529 is the noun form; G528 (apantao) is the verb. The semantic search for "meeting encounter civic delegation" found G528 (score 0.277) and G529 (score 0.276). In every NT usage, apantesis describes going out to meet someone who is ARRIVING, then accompanying them to the destination. This is a Greco-Roman civic custom (apantesis/adventus) where a city's delegation goes out to welcome an approaching ruler and escort them into the city. The pattern destroys the secret rapture reading: saints are not secretly removed — they are a welcoming party for the arriving King.
+   - HOW: Retrieve all three apantesis (G529) passages: Matt 25:1-13, Acts 28:15, 1 Thess 4:17. Run greek_parser.py on each. Create a comparison table showing the pattern: who goes out, whom they meet, and what happens next. Also look up G528 (apantao) with --verses for the verb occurrences to check for consistent pattern.
 
 9. **Matt 24:29-31 — Elect Gathered AFTER Tribulation, Not Before**
    - WHAT: Investigate the Olivet Discourse timing: "Immediately AFTER the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven... And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory. And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds."
@@ -206,8 +206,8 @@ INVESTIGATIVE METHODOLOGY:
 
 10. **Against the Secret Rapture: No Biblical Basis for Two-Phase Coming**
     - WHAT: Investigate whether there is any biblical text that teaches a two-phase second coming (secret rapture followed by glorious appearing). Examine 2 Thess 2:1-8 (gathering and destruction at the same coming), 2 Thess 1:7-10 (apokalypsis = visible revelation = when He comes to be glorified), 1 Cor 15:51-52 (the "mystery" of change at the last trumpet), and the interchangeability of parousia/apokalypsis/epiphaneia.
-    - WHY: Tool discoveries found [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (parousia, 24 occ.), [G2015](https://www.blueletterbible.org/lexicon/g2015/kjv/tr/0-1/){:target="_blank"} (epiphaneia, 6 occ.), and [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis, 18 occ.) — three different Greek words used for the second coming. The prior study established Paul uses all three interchangeably for one event (2 Thess 2:1 parousia = 2:8 parousia = 2:8 epiphaneia = 1:7 apokalypsis). If these described two separate events, one would expect consistent vocabulary distinguishing them. The ANTICHRIST topic lists 2 Thess 2:3-12 and Rev 19:20 — the man of sin is destroyed at the parousia (2 Thess 2:8), and the beast is captured at Rev 19:20 — same event.
-    - HOW: Retrieve 2 Thess 1:7-10 and 2 Thess 2:1-8 with full chapter context. Run greek_parser.py on 2TH 2:1 (parousia + episynagoge), 2TH 2:8 (parousia + epiphaneia), and 2TH 1:7 (apokalypsis). Retrieve 1 Cor 15:51-52. Look up [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (parousia) with --verses. Look up [G2015](https://www.blueletterbible.org/lexicon/g2015/kjv/tr/0-1/){:target="_blank"} (epiphaneia) with --verses. Create a table mapping every NT use of parousia, epiphaneia, and apokalypsis when referring to the second coming, showing they are interchangeable. Also retrieve Titus 2:13 ("the blessed hope, and the glorious appearing") and 1 Pet 1:7,13 (apokalypsis of Jesus Christ).
+    - WHY: Tool discoveries found G3952 (parousia, 24 occ.), G2015 (epiphaneia, 6 occ.), and G602 (apokalypsis, 18 occ.) — three different Greek words used for the second coming. The prior study established Paul uses all three interchangeably for one event (2 Thess 2:1 parousia = 2:8 parousia = 2:8 epiphaneia = 1:7 apokalypsis). If these described two separate events, one would expect consistent vocabulary distinguishing them. The ANTICHRIST topic lists 2 Thess 2:3-12 and Rev 19:20 — the man of sin is destroyed at the parousia (2 Thess 2:8), and the beast is captured at Rev 19:20 — same event.
+    - HOW: Retrieve 2 Thess 1:7-10 and 2 Thess 2:1-8 with full chapter context. Run greek_parser.py on 2TH 2:1 (parousia + episynagoge), 2TH 2:8 (parousia + epiphaneia), and 2TH 1:7 (apokalypsis). Retrieve 1 Cor 15:51-52. Look up G3952 (parousia) with --verses. Look up G2015 (epiphaneia) with --verses. Create a table mapping every NT use of parousia, epiphaneia, and apokalypsis when referring to the second coming, showing they are interchangeable. Also retrieve Titus 2:13 ("the blessed hope, and the glorious appearing") and 1 Pet 1:7,13 (apokalypsis of Jesus Christ).
 
 ---
 
@@ -229,17 +229,17 @@ You are the Research Agent. Execute this study by:
      - **Against secret rapture** (2 Thess 1:7-10, 2 Thess 2:1-8, Titus 2:13, 1 Pet 1:7,13)
      - **Additional OT sources** (Dan 7:13, Zech 12:10, Joel 2:30-31)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (parousia) — trace all NT "coming" occurrences
-     - [G2015](https://www.blueletterbible.org/lexicon/g2015/kjv/tr/0-1/){:target="_blank"} (epiphaneia) — all 6 occurrences
-     - [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis) — second-coming usages
-     - [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"} (harpazo) — all 13 occurrences with --verses
-     - [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} (apantesis) — all 4 occurrences with --verses, CRITICAL for civic delegation argument
-     - [G528](https://www.blueletterbible.org/lexicon/g528/kjv/tr/0-1/){:target="_blank"} (apantao) — verb form occurrences
-     - [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lenos) — winepress occurrences
-     - [G3631](https://www.blueletterbible.org/lexicon/g3631/kjv/tr/0-1/){:target="_blank"} (oinos) — wine in Revelation
-     - [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"} (gath) — Hebrew winepress
-     - [H6333](https://www.blueletterbible.org/lexicon/h6333/kjv/wlc/0-1/){:target="_blank"} (purah) — Hebrew winepress (Isa 63)
-     - [H1869](https://www.blueletterbible.org/lexicon/h1869/kjv/wlc/0-1/){:target="_blank"} (darak) — to tread (Isa 63)
+     - G3952 (parousia) — trace all NT "coming" occurrences
+     - G2015 (epiphaneia) — all 6 occurrences
+     - G602 (apokalypsis) — second-coming usages
+     - G726 (harpazo) — all 13 occurrences with --verses
+     - G529 (apantesis) — all 4 occurrences with --verses, CRITICAL for civic delegation argument
+     - G528 (apantao) — verb form occurrences
+     - G3025 (lenos) — winepress occurrences
+     - G3631 (oinos) — wine in Revelation
+     - H1660 (gath) — Hebrew winepress
+     - H6333 (purah) — Hebrew winepress (Isa 63)
+     - H1869 (darak) — to tread (Isa 63)
    - `raw-data/` - Raw tool output organized by category
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
 
@@ -285,11 +285,11 @@ You are the Research Agent. Execute this study by:
    - ISA 63:1-3 (winepress vocabulary: gath, purah, darak)
 
 10. **Required word traces** (run search_strongs.py --verses for each):
-    - [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} (parousia) — all translations
-    - [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"} (harpazo) — all translations
-    - [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} (apantesis) — all translations
-    - [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lenos) — all translations
-    - [G2015](https://www.blueletterbible.org/lexicon/g2015/kjv/tr/0-1/){:target="_blank"} (epiphaneia) — all translations
+    - G3952 (parousia) — all translations
+    - G726 (harpazo) — all translations
+    - G529 (apantesis) — all translations
+    - G3025 (lenos) — all translations
+    - G2015 (epiphaneia) — all translations
 
 ## Workflow
 answer-question

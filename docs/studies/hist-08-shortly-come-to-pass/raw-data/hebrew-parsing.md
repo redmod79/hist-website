@@ -63,7 +63,7 @@ Key words:
 - יֹום־יְהוָה (yom-YHWH) — "the day of YHWH"
 - הַגָּדֹול (haggadol) — "the great [day]"
 - קָרֹוב (qarov) — Verb, Qal InfAbs of קרב — "approaching" — REPEATED for emphasis
-- וּמַהֵר (umaher) — Conj + Verb, Piel InfAbs of מהר — "and hastening" — ROOT of [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} meherah
+- וּמַהֵר (umaher) — Conj + Verb, Piel InfAbs of מהר — "and hastening" — ROOT of H4120 meherah
 - מְאֹד (me'od) — "exceedingly/greatly"
 - Full: "Near is the great day of YHWH — near and hastening greatly"
 - DUAL MARKERS: qarov (near) + maher (hastening) — mirrors Rev's en tachei + kairos engys

@@ -1,6 +1,6 @@
 # Raw Data: Strong's Concordance Lookups
 
-## [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} — חָתַךְ (chathak)
+## H2852 — חָתַךְ (chathak)
 **Transliteration:** châthak
 **Pronunciation:** khaw-thak
 **Part of Speech:** verb
@@ -11,7 +11,7 @@
 
 **Morphology in Dan 9:24:** נֶחְתַּךְ (nechtakh) = Niphal.Perfect.3ms
 
-## [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"} — מַרְאֶה (mar'eh)
+## H4758 — מַרְאֶה (mar'eh)
 **Transliteration:** marʼeh
 **Pronunciation:** mar-eh
 **Part of Speech:** masculine noun
@@ -22,7 +22,7 @@
 - "the vision" occurrences: Ezekiel 11:24; **Daniel 8:16; Daniel 8:27; Daniel 9:23**
 - Daniel occurrences: Dan 1:4, 1:13, 1:15, **8:15, 8:16, 8:26, 8:27, 9:23**, 10:1, 10:6, 10:18
 
-## [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} — חָזוֹן (chazon)
+## H2377 — חָזוֹן (chazon)
 **Transliteration:** châzôwn
 **Pronunciation:** khaw-zone
 **Part of Speech:** masculine noun
@@ -50,7 +50,7 @@
 
 **Pattern:** In Daniel 8, chazon = the whole symbolic vision; mar'eh = the specific appearance/time element. Daniel 8:26 places both in one verse with DISTINCT referents. Daniel 9:23 directs understanding specifically to the mar'eh.
 
-## [H995](https://www.blueletterbible.org/lexicon/h995/kjv/wlc/0-1/){:target="_blank"} — בִּין (biyn)
+## H995 — בִּין (biyn)
 **Transliteration:** bîyn
 **Pronunciation:** bene
 **Part of Speech:** verb
@@ -79,7 +79,7 @@
 | 12:8 | אָבִינָה (avinah) | Qal.Impf.1s | "I understood not" |
 | 12:10 | יָבִינוּ (yavinu) | Qal.Impf.3mp | "the wise shall understand" |
 
-## [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} — צָדַק (tsadaq)
+## H6663 — צָדַק (tsadaq)
 **Transliteration:** tsâdaq
 **Pronunciation:** tsaw-dak
 **Part of Speech:** verb
@@ -95,7 +95,7 @@
 - Dan 9:24: צֶדֶק (tsedeq) — Noun.ms.Cst = "righteousness" (everlasting righteousness)
 - Dan 12:3: (related usage in wider context)
 
-## [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} — שָׁבוּעַ (shabuwa)
+## H7620 — שָׁבוּעַ (shabuwa)
 **Transliteration:** shâbûwaʻ
 **Pronunciation:** shaw-boo
 **Part of Speech:** masculine noun
@@ -104,7 +104,7 @@
 **Occurrences:** 24 total, 10 unique translations
 - "weeks" (9x), "of weeks" (4x), "week" (3x)
 
-### All [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} Occurrences
+### All H7620 Occurrences
 | Reference | Translation | Context |
 |-----------|-------------|---------|
 | Gen 29:27 | "week" | "Fulfil her WEEK" — a YEAR-WEEK (7 years of service) |
@@ -127,7 +127,7 @@
 
 **Critical observation:** In Dan 10:2-3, Daniel adds YAMIM (days) to shabuim = "weeks of DAYS" (literal weeks). In Dan 9:24-27, shabuim appears WITHOUT yamim = year-weeks (as in Gen 29:27-28). The qualifier "of days" distinguishes literal weeks from the unmarked year-weeks.
 
-## [H6680](https://www.blueletterbible.org/lexicon/h6680/kjv/wlc/0-1/){:target="_blank"} — צָוָה (tsavah)
+## H6680 — צָוָה (tsavah)
 **Transliteration:** tsâvâh
 **Pronunciation:** tsaw-vaw
 **Part of Speech:** verb
@@ -135,7 +135,7 @@
 **Definition:** a primitive root; (intensively) to constitute, enjoin — appoint, (for-)bid, (give a) charge, (give a, give in, send with) command(-er, -ment), send a messenger, put, (set) in order.
 **Relevant to DAN 9:25:** "from the going forth of the commandment (davar/word) to restore and to build Jerusalem"
 
-## [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"} — גָּזַר (gazar) — COMPARISON WORD
+## H1504 — גָּזַר (gazar) — COMPARISON WORD
 **Transliteration:** gâzar
 **Pronunciation:** gaw-zar
 **Part of Speech:** verb
@@ -147,7 +147,7 @@
 
 **Significance:** If Daniel wanted simply to say "decreed/determined" in 9:24, he had gazar available. He chose chathak instead — a word whose PRIMARY meaning is "to cut off."
 
-## [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"} — חָרַץ (charats) — COMPARISON WORD
+## H2782 — חָרַץ (charats) — COMPARISON WORD
 **Transliteration:** chârats
 **Pronunciation:** khaw-rats
 **Part of Speech:** verb

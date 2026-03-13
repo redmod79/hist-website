@@ -69,18 +69,18 @@ This study follows the hist-series methodology (D:/bible/bible-studies/hist-seri
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} | thronos (throne) | Throne scene -- Dan 7:9 and Rev 4-5 |
-| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | mishpat (judgment, verdict) | Judicial terminology in Dan 7 judgment scene |
-| [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} | din (Aramaic: judgment) | Aramaic judgment terminology in Dan 7:10,22,26 |
-| [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} | blasphemia (blasphemy) | Blasphemy of little horn -- Dan 7:25 / Rev 13:5-6 |
-| [G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} | keras (horn) | Greek NT horn symbolism -- Rev 5:6; 12:3; 13:1; 17:3-16 |
-| [H7872](https://www.blueletterbible.org/lexicon/h7872/kjv/wlc/0-1/){:target="_blank"} | seybah (old age, gray hair) | Imagery of the Ancient of Days (Dan 7:9) |
-| [H6267](https://www.blueletterbible.org/lexicon/h6267/kjv/wlc/0-1/){:target="_blank"} | attiyq (ancient, removed) | Aramaic root for "Ancient" in Ancient of Days |
-| [H8177](https://www.blueletterbible.org/lexicon/h8177/kjv/wlc/0-1/){:target="_blank"} | se'ar (Aramaic: hair) | "Hair of his head like pure wool" (Dan 7:9) |
-| [H3836](https://www.blueletterbible.org/lexicon/h3836/kjv/wlc/0-1/){:target="_blank"} | laban (white) | White garments imagery (Dan 7:9) |
-| [H948](https://www.blueletterbible.org/lexicon/h948/kjv/wlc/0-1/){:target="_blank"} | buwts (fine linen) | White garment material, priestly imagery |
-| [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} | shaphat (to judge) | Root verb for judgment, judicial vindication |
-| [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} | krisis (judgment, decision) | NT judgment terminology |
+| G2362 | thronos (throne) | Throne scene -- Dan 7:9 and Rev 4-5 |
+| H4941 | mishpat (judgment, verdict) | Judicial terminology in Dan 7 judgment scene |
+| H1780 | din (Aramaic: judgment) | Aramaic judgment terminology in Dan 7:10,22,26 |
+| G988 | blasphemia (blasphemy) | Blasphemy of little horn -- Dan 7:25 / Rev 13:5-6 |
+| G2768 | keras (horn) | Greek NT horn symbolism -- Rev 5:6; 12:3; 13:1; 17:3-16 |
+| H7872 | seybah (old age, gray hair) | Imagery of the Ancient of Days (Dan 7:9) |
+| H6267 | attiyq (ancient, removed) | Aramaic root for "Ancient" in Ancient of Days |
+| H8177 | se'ar (Aramaic: hair) | "Hair of his head like pure wool" (Dan 7:9) |
+| H3836 | laban (white) | White garments imagery (Dan 7:9) |
+| H948 | buwts (fine linen) | White garment material, priestly imagery |
+| H8199 | shaphat (to judge) | Root verb for judgment, judicial vindication |
+| G2920 | krisis (judgment, decision) | NT judgment terminology |
 
 ### Related Existing Studies
 
@@ -101,12 +101,12 @@ This study follows the hist-series methodology (D:/bible/bible-studies/hist-seri
 - Daniel 8 uses ONE symbol: little horn covers Rome's entire trajectory (pagan expansion + papal religious warfare)
 - The Aramaic phrase for Daniel 7's horn is qeren ochori ze'irah ("horn, another, little") -- emphasizing sequence ("another" among the ten)
 - Daniel 7:25's characteristics are "unmistakably papal": 1260 years, speaking against Most High, thinking to change times and laws, wearing out saints
-- Key Strong's: [H7162](https://www.blueletterbible.org/lexicon/h7162/kjv/wlc/0-1/){:target="_blank"} (qeren, horn), [H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"} (ochori, another/sequential), [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} (ze'irah, little)
+- Key Strong's: H7162 (qeren, horn), H317 (ochori, another/sequential), H2191 (ze'irah, little)
 - The conjunction ve ("and") in Dan 8:13 connects TWO separate desolating powers: ha-tamid (paganism) AND ha-pesha shomem (papacy)
 
 **From rome-daniel-8-little-horn/CONCLUSION.md:**
 - 24 prophetic specifications in Daniel 8 systematically matched against Rome's historical record: 23 STRONG matches, 1 MODERATE-STRONG, 0 failures
-- The three-stage greatness escalation (gadal) is decisive: ram = "became great," goat = "very great," little horn = "exceeding great" (yether, [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} -- surplus/preeminence). This ELIMINATES Antiochus Epiphanes
+- The three-stage greatness escalation (gadal) is decisive: ram = "became great," goat = "very great," little horn = "exceeding great" (yether, H3499 -- surplus/preeminence). This ELIMINATES Antiochus Epiphanes
 - Deut 28:49-50 uses identical Hebrew phrase az panim ("fierce countenance") to describe Rome, matching Dan 8:23
 - The Daniel 7 confirmation: fourth beast (pagan Rome) + little horn (papal Rome) in Dan 7 parallels single little horn covering both phases in Dan 8
 - Against God: Dan 7 = "speaks against Most High"; Dan 8 = "stands against Prince of princes" -- same target, different phase
@@ -138,9 +138,9 @@ This study follows the hist-series methodology (D:/bible/bible-studies/hist-seri
 
 1. **Daniel 7's Four Beasts as Sequential Kingdoms (the succession principle expanded):** WHAT: Examine Daniel 7:1-8,17,23 to establish that the four beasts represent four sequential kingdoms, corresponding to Daniel 2's metals. WHY: Tool discoveries show DANIEL topic (Dan 7), HORN symbolism (Dan 7:7-24), and prior study (hist-01) established the sequential succession principle from Daniel 2. Daniel 7 EXPANDS that principle by adding symbolic detail (animal characteristics, horns, the little horn, the judgment). HOW: Retrieve Daniel 7:1-8 with full chapter context. Parse the Aramaic sequential markers ("after this" in 7:5-7). Cross-reference Dan 2:38-40 with Dan 7:3-7 and Dan 8:20-21 to verify the four-kingdom identification chain. Run hebrew_parser.py on Dan 7:3-8 for the Aramaic sequence markers.
 
-2. **The Ten Horns and the Little Horn (Dan 7:7-8, 19-25):** WHAT: Analyze the ten horns of the fourth beast and the "another little horn" that arises among them, examining every specification Daniel gives. WHY: The HORN topic (Dan 7:7-24) and prior grammar study identified key Aramaic terms: qeren ochori ze'irah ("horn, another, little"). The little horn's characteristics (eyes, mouth, speaks against Most High, wears out saints, changes times and laws, 3.5 times) are the textual constraints that must govern any identification. HOW: Retrieve Dan 7:7-8, 19-26 with full context. Run hebrew_parser.py on Dan 7:8 (the little horn description) and Dan 7:24-25 (the interpretive passage). Look up [H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"} (ochori), [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} (ze'irah). Document every specification of the little horn as a textual constraint table.
+2. **The Ten Horns and the Little Horn (Dan 7:7-8, 19-25):** WHAT: Analyze the ten horns of the fourth beast and the "another little horn" that arises among them, examining every specification Daniel gives. WHY: The HORN topic (Dan 7:7-24) and prior grammar study identified key Aramaic terms: qeren ochori ze'irah ("horn, another, little"). The little horn's characteristics (eyes, mouth, speaks against Most High, wears out saints, changes times and laws, 3.5 times) are the textual constraints that must govern any identification. HOW: Retrieve Dan 7:7-8, 19-26 with full context. Run hebrew_parser.py on Dan 7:8 (the little horn description) and Dan 7:24-25 (the interpretive passage). Look up H317 (ochori), H2191 (ze'irah). Document every specification of the little horn as a textual constraint table.
 
-3. **The Judgment Scene (Dan 7:9-14) -- The Heavenly Court:** WHAT: Analyze the judgment scene as a distinct pericope: thrones set, Ancient of Days seated, books opened, Son of Man approaches God (not comes to earth), receives everlasting dominion. WHY: The ANCIENT OF DAYS topic (Dan 7:9,13,22), THRONE topic (PSA 9:4,7; REV 4:2-10), and JUDGMENT topic (Dan 7:9,10) all converge here. The Strong's search found [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} (din, Aramaic judgment), [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} (thronos), [H6267](https://www.blueletterbible.org/lexicon/h6267/kjv/wlc/0-1/){:target="_blank"} (attiyq, ancient). This scene is the climactic center of the chapter and introduces the heavenly court concept that both Dan 8:14 and Revelation build upon. HOW: Retrieve Dan 7:9-14 with full chapter context. Run hebrew_parser.py on Dan 7:9-10 (Ancient of Days description) and Dan 7:13-14 (Son of Man). Look up [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} (attiyq, ancient), [H3118](https://www.blueletterbible.org/lexicon/h3118/kjv/wlc/0-1/){:target="_blank"} (yom, day -- Aramaic), [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} (din, judgment). Run cross-testament parallels (BOTH directions) on Dan 7:9, Dan 7:10, Dan 7:13, Dan 7:14 to find all OT and NT connections. Run concept_context.py on Dan 7:9 and Dan 7:13.
+3. **The Judgment Scene (Dan 7:9-14) -- The Heavenly Court:** WHAT: Analyze the judgment scene as a distinct pericope: thrones set, Ancient of Days seated, books opened, Son of Man approaches God (not comes to earth), receives everlasting dominion. WHY: The ANCIENT OF DAYS topic (Dan 7:9,13,22), THRONE topic (PSA 9:4,7; REV 4:2-10), and JUDGMENT topic (Dan 7:9,10) all converge here. The Strong's search found H1780 (din, Aramaic judgment), G2362 (thronos), H6267 (attiyq, ancient). This scene is the climactic center of the chapter and introduces the heavenly court concept that both Dan 8:14 and Revelation build upon. HOW: Retrieve Dan 7:9-14 with full chapter context. Run hebrew_parser.py on Dan 7:9-10 (Ancient of Days description) and Dan 7:13-14 (Son of Man). Look up H6268 (attiyq, ancient), H3118 (yom, day -- Aramaic), H1780 (din, judgment). Run cross-testament parallels (BOTH directions) on Dan 7:9, Dan 7:10, Dan 7:13, Dan 7:14 to find all OT and NT connections. Run concept_context.py on Dan 7:9 and Dan 7:13.
 
 4. **"One Like the Son of Man" -- Direction of Movement (Dan 7:13-14):** WHAT: Establish from the text that the Son of Man comes TO the Ancient of Days (approaches God in the heavenly court), not TO earth. This is a pre-advent judicial scene, not the second coming. WHY: The prior study (01-daniel-precedent) identified that "one like the Son of man came with the clouds of heaven, and came to the Ancient of days" (Dan 7:13). The Son of Man chain (Dan 7:13 -> Matt 26:64 -> Rev 1:7, 1:13, 14:14) is critical. The direction of movement determines whether this is the second coming or a pre-advent heavenly event. HOW: Retrieve Dan 7:13-14 and parse the Aramaic preposition "to" (ad) in "came to the Ancient of Days." Cross-reference with Matt 26:64; Rev 1:7; Rev 14:14. Compare the DIRECTION in Dan 7:13 (TO God) with the direction in second-coming passages (TO earth: Acts 1:11; 1 Thess 4:16-17; Rev 1:7). This textual distinction is critical.
 
@@ -181,16 +181,16 @@ You are the Research Agent. Execute this study by:
      - **Isaiah 6:1-4** -- throne vision (parallel imagery)
      - **Revelation 1:7,13-14; 14:14** -- Son of Man imagery in Revelation
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} (din, Aramaic judgment) -- CRITICAL for Dan 7:10,22,26
-     - [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"}/H6267 (attiyq, ancient) -- for "Ancient of Days"
-     - [H7162](https://www.blueletterbible.org/lexicon/h7162/kjv/wlc/0-1/){:target="_blank"} (qeren, Aramaic horn) -- for horn symbolism
-     - [H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"} (ochori, another/sequential) -- for little horn's sequential nature
-     - [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} (ze'irah, little) -- for "little" horn
-     - [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} (thronos, throne) -- for throne scene connections
-     - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia, blasphemy) -- for blasphemy parallels
-     - [G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} (keras, horn) -- for NT horn symbolism
-     - [H3118](https://www.blueletterbible.org/lexicon/h3118/kjv/wlc/0-1/){:target="_blank"} (yom, Aramaic day) -- for "Ancient of Days"
-     - [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} (iddan, Aramaic time) -- for "time, times, half a time"
+     - H1780 (din, Aramaic judgment) -- CRITICAL for Dan 7:10,22,26
+     - H6268/H6267 (attiyq, ancient) -- for "Ancient of Days"
+     - H7162 (qeren, Aramaic horn) -- for horn symbolism
+     - H317 (ochori, another/sequential) -- for little horn's sequential nature
+     - H2191 (ze'irah, little) -- for "little" horn
+     - G2362 (thronos, throne) -- for throne scene connections
+     - G988 (blasphemia, blasphemy) -- for blasphemy parallels
+     - G2768 (keras, horn) -- for NT horn symbolism
+     - H3118 (yom, Aramaic day) -- for "Ancient of Days"
+     - H5732 (iddan, Aramaic time) -- for "time, times, half a time"
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -225,10 +225,10 @@ You are the Research Agent. Execute this study by:
     - Run greek_parser.py on REV 4:2-4 (throne scene)
 
 11. **Required word traces:**
-    - [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} (din) -- look up with --lexicon and --verses for "judgment" in Aramaic Daniel
-    - [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} (iddan) -- look up with --lexicon and --verses for "time" in Dan 7:25 and equivalents
-    - [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} (thronos) -- look up with --verses for "throne" (especially in Revelation)
-    - [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} (attiyq yomin) -- look up with --lexicon for "Ancient of Days" terminology
+    - H1780 (din) -- look up with --lexicon and --verses for "judgment" in Aramaic Daniel
+    - H5732 (iddan) -- look up with --lexicon and --verses for "time" in Dan 7:25 and equivalents
+    - G2362 (thronos) -- look up with --verses for "throne" (especially in Revelation)
+    - H6268 (attiyq yomin) -- look up with --lexicon for "Ancient of Days" terminology
 
 12. **Additional research tasks:**
     - Search for any Nave's topics listed under "JESUS, SON OF MAN" to gather all Son of Man references

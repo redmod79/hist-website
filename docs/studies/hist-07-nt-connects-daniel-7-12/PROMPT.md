@@ -78,19 +78,19 @@ This is study **hist-07** in the Historicist Proof series. It must follow the me
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} | blasphemia (blasphemy) | Rev 13:5-6 quotes Dan 7:8 LXX; verbal link between Daniel and Revelation |
-| [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} | blasphemeo (to blaspheme) | Verb form in Rev 13:6; Dan 7:25 concept |
-| [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} | bdelygma (abomination) | Matt 24:15; Mark 13:14; Rev 17:4-5; translates Hebrew shiqquts (H8251) |
-| [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} | eremosis (desolation) | Matt 24:15; Mark 13:14; Luke 21:20 -- appears ONLY in Synoptic Olivet Discourse, "Daniel marker" word |
-| [G4973](https://www.blueletterbible.org/lexicon/g4973/kjv/tr/0-1/){:target="_blank"} | sphragis (seal) | Rev 5:1-9 (seven seals); connects to Dan 12:4,9 sealing motif |
-| [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} | sphragizo (to seal) | Rev 22:10 "seal NOT"; Dan 12:4 "seal the book" |
-| [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} | propheteia (prophecy) | Rev 22:10 "the prophecy of this book" |
-| [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} | apokalypsis (revelation) | Rev 1:1 "the revelation of Jesus Christ" |
-| [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} | dei (must/it is necessary) | Rev 1:1 "ha dei genesthai" = Dan 2:28 LXX "ha dei genesthai" |
-| [G318](https://www.blueletterbible.org/lexicon/g318/kjv/tr/0-1/){:target="_blank"} | ananke (necessity/constraint) | Related to divine necessity in prophetic fulfillment |
-| [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} | shiqquts (abomination/idol) | Dan 9:27; 11:31; 12:11 -- always idolatrous, never generic |
-| [H8074](https://www.blueletterbible.org/lexicon/h8074/kjv/wlc/0-1/){:target="_blank"} | shamem (to be desolate) | Dan 9:27 Piel meshomem (causative); Dan 12:11 Qal shomem |
-| [H1080](https://www.blueletterbible.org/lexicon/h1080/kjv/wlc/0-1/){:target="_blank"} | bela (Aramaic: to wear out) | Dan 7:25 "wear out the saints" -- unique Aramaic term |
+| G988 | blasphemia (blasphemy) | Rev 13:5-6 quotes Dan 7:8 LXX; verbal link between Daniel and Revelation |
+| G987 | blasphemeo (to blaspheme) | Verb form in Rev 13:6; Dan 7:25 concept |
+| G946 | bdelygma (abomination) | Matt 24:15; Mark 13:14; Rev 17:4-5; translates Hebrew shiqquts (H8251) |
+| G2050 | eremosis (desolation) | Matt 24:15; Mark 13:14; Luke 21:20 -- appears ONLY in Synoptic Olivet Discourse, "Daniel marker" word |
+| G4973 | sphragis (seal) | Rev 5:1-9 (seven seals); connects to Dan 12:4,9 sealing motif |
+| G4972 | sphragizo (to seal) | Rev 22:10 "seal NOT"; Dan 12:4 "seal the book" |
+| G4394 | propheteia (prophecy) | Rev 22:10 "the prophecy of this book" |
+| G602 | apokalypsis (revelation) | Rev 1:1 "the revelation of Jesus Christ" |
+| G1163 | dei (must/it is necessary) | Rev 1:1 "ha dei genesthai" = Dan 2:28 LXX "ha dei genesthai" |
+| G318 | ananke (necessity/constraint) | Related to divine necessity in prophetic fulfillment |
+| H8251 | shiqquts (abomination/idol) | Dan 9:27; 11:31; 12:11 -- always idolatrous, never generic |
+| H8074 | shamem (to be desolate) | Dan 9:27 Piel meshomem (causative); Dan 12:11 Qal shomem |
+| H1080 | bela (Aramaic: to wear out) | Dan 7:25 "wear out the saints" -- unique Aramaic term |
 
 ### Related Existing Studies
 
@@ -123,7 +123,7 @@ This is study **hist-07** in the Historicist Proof series. It must follow the me
 - The sealed/unsealed reversal (Dan 12:4 vs Rev 22:10) confirms this structural-temporal claim -- Daniel sealed because the kairos was distant; John told NOT to seal because the kairos is near
 - Rev 1:1 and 22:6 form an inclusio (identical phrase "ha dei genesthai en tachei"), framing the entire book
 - Rev 1:3 and 22:10 form a SECOND inclusio ("ho kairos engys"), creating double framing
-- [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} tachos has a semantic range including both temporal proximity and manner-of-action
+- G5034 tachos has a semantic range including both temporal proximity and manner-of-action
 - The Daniel allusion establishes inaugurated eschatology: the "latter days" have entered fulfillment
 - The kairos/chronos distinction (G2540 vs G5550) signals appointed/decisive time, not merely elapsed duration
 - 2 Pet 3:8-9 directly addresses the "delay" question within an apostolic framework
@@ -134,7 +134,7 @@ This is study **hist-07** in the Historicist Proof series. It must follow the me
 - Mark 13:14's masculine hestekota modifying neuter bdelygma = constructio ad sensum, indicating a PERSON
 - shiqquts (H8251) is used exclusively for idolatrous objects in all 28 OT occurrences -- never for generic sin
 - Luke 21:20 replaces the Semitic idiom with "Jerusalem surrounded by armies" but retains eremosis (G2050)
-- [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} eremosis appears in the NT ONLY in the three Synoptic Olivet Discourse passages -- it is effectively a "Daniel marker" word
+- G2050 eremosis appears in the NT ONLY in the three Synoptic Olivet Discourse passages -- it is effectively a "Daniel marker" word
 
 **From daniel-7-8-9-revelation-parallels/CONCLUSION.md:**
 - Master parallel chart documents 20+ thematic parallels between Daniel 7-9 and Revelation
@@ -167,23 +167,23 @@ This is study **hist-07** in the Historicist Proof series. It must follow the me
 
 ### Focus Areas
 
-1. **The Rev 1:1 / Dan 2:28 LXX Verbal Link ("ha dei genesthai")**: The opening of Revelation quotes the core formula from Daniel 2:28 LXX but substitutes "en tachei" for "ep' eschatou ton hemeron." This is the programmatic claim that positions Revelation as Daniel's continuation. The research agent should retrieve REV 1:1, DAN 2:28 (full context Dan 2:26-30), REV 22:6, run greek_parser.py on REV 1:1 and REV 22:6, and look up [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} (dei) and [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis). Also retrieve LUK 2:26 and ACT 4:12 for dei usage context.
+1. **The Rev 1:1 / Dan 2:28 LXX Verbal Link ("ha dei genesthai")**: The opening of Revelation quotes the core formula from Daniel 2:28 LXX but substitutes "en tachei" for "ep' eschatou ton hemeron." This is the programmatic claim that positions Revelation as Daniel's continuation. The research agent should retrieve REV 1:1, DAN 2:28 (full context Dan 2:26-30), REV 22:6, run greek_parser.py on REV 1:1 and REV 22:6, and look up G1163 (dei) and G602 (apokalypsis). Also retrieve LUK 2:26 and ACT 4:12 for dei usage context.
 
-2. **The Sealed-to-Unsealed Arc (Dan 8:26, 12:4,9 vs. Rev 5:1-9, 22:10)**: Daniel is commanded to seal his visions; Revelation systematically unseals them. This frames Revelation as the fulfillment era of Daniel's prophecies. The research agent should retrieve DAN 8:26, DAN 12:4, DAN 12:9, REV 5:1-9, REV 22:10, run cross-testament parallels for REV 5:1 (both directions), and look up [G4973](https://www.blueletterbible.org/lexicon/g4973/kjv/tr/0-1/){:target="_blank"} (sphragis) and [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} (sphragizo) with --verses.
+2. **The Sealed-to-Unsealed Arc (Dan 8:26, 12:4,9 vs. Rev 5:1-9, 22:10)**: Daniel is commanded to seal his visions; Revelation systematically unseals them. This frames Revelation as the fulfillment era of Daniel's prophecies. The research agent should retrieve DAN 8:26, DAN 12:4, DAN 12:9, REV 5:1-9, REV 22:10, run cross-testament parallels for REV 5:1 (both directions), and look up G4973 (sphragis) and G4972 (sphragizo) with --verses.
 
-3. **Jesus' Olivet Discourse as Multi-Chapter Daniel Synthesis (Matt 24, Mark 13, Luke 21)**: Jesus weaves Dan 8-9-11-12 (abomination), Dan 12:1 (tribulation), and Dan 7:13 (Son of Man) into a single prophetic discourse, treating Daniel 7-12 as ONE interconnected prophecy. The research agent should retrieve MATT 24:15-31 (full chapter context), MARK 13:14-27, LUKE 21:20-28, MATT 26:64, MARK 14:62, run greek_parser.py on MATT 24:15 and MARK 13:14, and look up [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} (bdelygma), [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} (eremosis).
+3. **Jesus' Olivet Discourse as Multi-Chapter Daniel Synthesis (Matt 24, Mark 13, Luke 21)**: Jesus weaves Dan 8-9-11-12 (abomination), Dan 12:1 (tribulation), and Dan 7:13 (Son of Man) into a single prophetic discourse, treating Daniel 7-12 as ONE interconnected prophecy. The research agent should retrieve MATT 24:15-31 (full chapter context), MARK 13:14-27, LUKE 21:20-28, MATT 26:64, MARK 14:62, run greek_parser.py on MATT 24:15 and MARK 13:14, and look up G946 (bdelygma), G2050 (eremosis).
 
-4. **Paul's Man of Sin as Daniel 7+8+11 Composite (2 Thess 2:1-12)**: Paul fuses Dan 7:25 (lawlessness, speaking against God), Dan 8:11 (sanctuary usurpation), and Dan 11:36 (self-exaltation above every god) into ONE figure. The research agent should retrieve 2TH 2:1-12 (full chapter), DAN 7:25, DAN 8:11, DAN 11:36-37, run greek_parser.py on 2TH 2:3-4 and 2TH 2:8, look up [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} (anomia), [G3485](https://www.blueletterbible.org/lexicon/g3485/kjv/tr/0-1/){:target="_blank"} (naos), [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia), and run cross-testament parallels for 2TH 2:4 (both directions).
+4. **Paul's Man of Sin as Daniel 7+8+11 Composite (2 Thess 2:1-12)**: Paul fuses Dan 7:25 (lawlessness, speaking against God), Dan 8:11 (sanctuary usurpation), and Dan 11:36 (self-exaltation above every god) into ONE figure. The research agent should retrieve 2TH 2:1-12 (full chapter), DAN 7:25, DAN 8:11, DAN 11:36-37, run greek_parser.py on 2TH 2:3-4 and 2TH 2:8, look up G458 (anomia), G3485 (naos), G684 (apoleia), and run cross-testament parallels for 2TH 2:4 (both directions).
 
-5. **Revelation 13's Composite Beast as Daniel 7 Synthesis (Rev 13:1-7)**: John combines ALL FOUR Daniel 7 beasts into one creature (Rev 13:2), quotes Dan 7:8 verbatim in Greek (Rev 13:5), attacks Dan 8's sanctuary (Rev 13:6), and operates for Dan 7:25's 3.5-year period (Rev 13:5). The research agent should retrieve REV 13:1-7 (full chapter context), DAN 7:3-8, DAN 7:21, DAN 7:25, run greek_parser.py on REV 13:1-2, REV 13:5-6, and look up [G3917](https://www.blueletterbible.org/lexicon/g3917/kjv/tr/0-1/){:target="_blank"} (pardalis/leopard), [G715](https://www.blueletterbible.org/lexicon/g715/kjv/tr/0-1/){:target="_blank"} (arkos/bear), [G3023](https://www.blueletterbible.org/lexicon/g3023/kjv/tr/0-1/){:target="_blank"} (leon/lion), [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} (therion/beast).
+5. **Revelation 13's Composite Beast as Daniel 7 Synthesis (Rev 13:1-7)**: John combines ALL FOUR Daniel 7 beasts into one creature (Rev 13:2), quotes Dan 7:8 verbatim in Greek (Rev 13:5), attacks Dan 8's sanctuary (Rev 13:6), and operates for Dan 7:25's 3.5-year period (Rev 13:5). The research agent should retrieve REV 13:1-7 (full chapter context), DAN 7:3-8, DAN 7:21, DAN 7:25, run greek_parser.py on REV 13:1-2, REV 13:5-6, and look up G3917 (pardalis/leopard), G715 (arkos/bear), G3023 (leon/lion), G2342 (therion/beast).
 
-6. **The Time-Period Chain Linking Daniel 7, 12, and Revelation**: The formula "time, times, half a time" traverses three languages: Aramaic iddan (Dan 7:25), Hebrew moed (Dan 12:7), Greek kairos (Rev 12:14). This single formula links the three chapters and proves Revelation treats them as describing the same period. The research agent should retrieve DAN 7:25, DAN 12:7, REV 12:6, REV 12:14, REV 11:2-3, REV 13:5, run greek_parser.py on REV 12:14, and look up [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} (iddan), [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed), [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} (kairos).
+6. **The Time-Period Chain Linking Daniel 7, 12, and Revelation**: The formula "time, times, half a time" traverses three languages: Aramaic iddan (Dan 7:25), Hebrew moed (Dan 12:7), Greek kairos (Rev 12:14). This single formula links the three chapters and proves Revelation treats them as describing the same period. The research agent should retrieve DAN 7:25, DAN 12:7, REV 12:6, REV 12:14, REV 11:2-3, REV 13:5, run greek_parser.py on REV 12:14, and look up H5732 (iddan), H4150 (moed), G2540 (kairos).
 
 7. **The Son of Man Across Daniel and the NT**: Dan 7:13's "one like the Son of man" is the most echoed Daniel passage in the NT. Jesus adopts it as his primary self-designation, and John merges the Son of Man (Dan 7:13) with the Ancient of Days (Dan 7:9) in Rev 1:13-16. The research agent should retrieve DAN 7:13-14, DAN 7:9-10, REV 1:13-16, REV 14:14, MATT 24:30, MATT 26:64, ACT 7:56, run cross-testament parallels for REV 1:13 and REV 14:14 (both directions).
 
 8. **The "Ten Horns = Ten Kings" Verbal Parallel (Dan 7:24 / Rev 17:12)**: This is one of the highest-scoring cross-testament verbal parallels. Both passages use nearly identical language to interpret the same symbol. The research agent should retrieve DAN 7:24, REV 17:12, REV 17:8-14 (full context), run greek_parser.py on REV 17:12, and run cross-testament parallels for REV 17:12 (both directions).
 
-9. **John's Antichrist and the "Already at Work" Temporal Marker (1 John 2:18, 4:3; 2 Thess 2:7)**: Both John and Paul describe the antagonist power as ALREADY emerging in the first century. This temporal marker connects the epistolary tradition to the apocalyptic tradition and places the power's origin within apostolic times. The research agent should retrieve 1JN 2:18-22, 1JN 4:1-3, 2JN 1:7, 2TH 2:7, run greek_parser.py on 1JN 2:18 and 2TH 2:7, look up [G500](https://www.blueletterbible.org/lexicon/g500/kjv/tr/0-1/){:target="_blank"} (antichristos) with --verses.
+9. **John's Antichrist and the "Already at Work" Temporal Marker (1 John 2:18, 4:3; 2 Thess 2:7)**: Both John and Paul describe the antagonist power as ALREADY emerging in the first century. This temporal marker connects the epistolary tradition to the apocalyptic tradition and places the power's origin within apostolic times. The research agent should retrieve 1JN 2:18-22, 1JN 4:1-3, 2JN 1:7, 2TH 2:7, run greek_parser.py on 1JN 2:18 and 2TH 2:7, look up G500 (antichristos) with --verses.
 
 10. **The Kingdom Given to Saints (Dan 7:14,18,27 / Rev 11:15, 20:4, 22:5)**: Daniel's kingdom promise is echoed throughout the NT by Jesus (Matt 25:34; Luke 12:32), Paul (1 Cor 6:2-3), and Revelation (11:15; 20:4; 22:5). The research agent should retrieve DAN 7:14, DAN 7:18, DAN 7:27, REV 11:15, REV 20:4, REV 22:5, MATT 25:34, LUK 12:32, 1CO 6:2-3, and run cross-testament parallels for REV 11:15 (both directions).
 
@@ -209,21 +209,21 @@ You are the Research Agent. Execute this study by:
      - **Antichrist/already at work** (1 John 2:18-22, 1 John 4:1-3, 2 John 1:7, 2 Thess 2:7)
      - **Kingdom given to saints** (Dan 7:14,18,27, Rev 11:15, Rev 20:4, Rev 22:5, Matt 25:34, Luke 12:32, 1 Cor 6:2-3)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} (dei) -- "must/necessary" -- critical: the shared formula word
-     - [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis) -- "revelation/unveiling"
-     - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia) -- trace in Rev 13:5-6 and Dan 7 LXX
-     - [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} (bdelygma) -- "abomination" -- the Daniel marker
-     - [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} (eremosis) -- "desolation" -- NT only in Olivet Discourse
-     - [G4973](https://www.blueletterbible.org/lexicon/g4973/kjv/tr/0-1/){:target="_blank"} (sphragis) -- "seal" -- Rev 5:1-9 connection to Dan 12:4
-     - [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} (sphragizo) -- "to seal" -- Rev 22:10 vs Dan 12:4
-     - [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} (anomia) -- "lawlessness" -- 2 Thess 2:3 connection to Dan 7:25
-     - [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} (apoleia) -- "perdition" -- links 2 Thess 2:3 to Rev 17:8,11
-     - [G500](https://www.blueletterbible.org/lexicon/g500/kjv/tr/0-1/){:target="_blank"} (antichristos) -- all 5 NT occurrences
-     - [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} (kairos) -- "appointed time" -- Rev 12:14 from Dan 7:25 LXX
-     - [G3485](https://www.blueletterbible.org/lexicon/g3485/kjv/tr/0-1/){:target="_blank"} (naos) -- "temple/shrine" -- 2 Thess 2:4 sanctuary context
-     - [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} (shiqquts) -- "abomination/idol" -- all Daniel occurrences
-     - [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} (iddan) -- Aramaic "time" -- Dan 7:25 time formula
-     - [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} (moed) -- Hebrew "appointed time" -- Dan 12:7 time formula
+     - G1163 (dei) -- "must/necessary" -- critical: the shared formula word
+     - G602 (apokalypsis) -- "revelation/unveiling"
+     - G988 (blasphemia) -- trace in Rev 13:5-6 and Dan 7 LXX
+     - G946 (bdelygma) -- "abomination" -- the Daniel marker
+     - G2050 (eremosis) -- "desolation" -- NT only in Olivet Discourse
+     - G4973 (sphragis) -- "seal" -- Rev 5:1-9 connection to Dan 12:4
+     - G4972 (sphragizo) -- "to seal" -- Rev 22:10 vs Dan 12:4
+     - G458 (anomia) -- "lawlessness" -- 2 Thess 2:3 connection to Dan 7:25
+     - G684 (apoleia) -- "perdition" -- links 2 Thess 2:3 to Rev 17:8,11
+     - G500 (antichristos) -- all 5 NT occurrences
+     - G2540 (kairos) -- "appointed time" -- Rev 12:14 from Dan 7:25 LXX
+     - G3485 (naos) -- "temple/shrine" -- 2 Thess 2:4 sanctuary context
+     - H8251 (shiqquts) -- "abomination/idol" -- all Daniel occurrences
+     - H5732 (iddan) -- Aramaic "time" -- Dan 7:25 time formula
+     - H4150 (moed) -- Hebrew "appointed time" -- Dan 12:7 time formula
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -255,11 +255,11 @@ You are the Research Agent. Execute this study by:
    - Run greek_parser.py on: REV 1:1, REV 22:6, REV 22:10, MATT 24:15, MARK 13:14, 2TH 2:3-4, 2TH 2:7-8, REV 13:1-2, REV 13:5-6, REV 12:14, REV 17:12, 1JN 2:18, 1JN 4:3
 
 10. **Required word traces (run --verses for each):**
-    - [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} (dei) -- trace where "must" appears in eschatological contexts
-    - [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} (bdelygma) -- all NT occurrences
-    - [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} (eremosis) -- all NT occurrences (should be only 3: Matt 24:15, Mark 13:14, Luke 21:20)
-    - [G500](https://www.blueletterbible.org/lexicon/g500/kjv/tr/0-1/){:target="_blank"} (antichristos) -- all NT occurrences
-    - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia) -- trace in Revelation
+    - G1163 (dei) -- trace where "must" appears in eschatological contexts
+    - G946 (bdelygma) -- all NT occurrences
+    - G2050 (eremosis) -- all NT occurrences (should be only 3: Matt 24:15, Mark 13:14, Luke 21:20)
+    - G500 (antichristos) -- all NT occurrences
+    - G988 (blasphemia) -- trace in Revelation
 
 11. **References requirement:** The analysis agent MUST include a References section citing specific commentators (especially Beale, Mounce, Aune, Bauckham for Revelation-Daniel connections). NO Ellen White or Adventist pioneers.
 

@@ -17,9 +17,9 @@
 
 **Key observation**: The MESSIAH/Christ concept in Revelation 1:1 threads through the entire book, connecting the opening revelation to the kingdom (11:15, 12:10), the testimony of the saints (12:17), and the reign (20:4,6).
 
-## Additional Context: [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} (dei - "must") in Eschatological Contexts
+## Additional Context: G1163 (dei - "must") in Eschatological Contexts
 
-From search_strongs --verses [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} "must", key eschatological uses:
+From search_strongs --verses G1163 "must", key eschatological uses:
 - **Rev 1:1** -- "things which must shortly come to pass"
 - **Rev 4:1** -- "things which must be hereafter"
 - **Rev 10:11** -- "Thou must prophesy again"
@@ -36,7 +36,7 @@ From search_strongs --verses [G1163](https://www.blueletterbible.org/lexicon/g11
 
 The word dei (G1163) expresses divine necessity -- things that MUST happen because God has decreed them. Its appearance in both Rev 1:1 and Dan 2:28 LXX establishes that the same divine necessity governs both visions.
 
-## [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} (bdelygma) NT Distribution
+## G946 (bdelygma) NT Distribution
 - Mat 24:15 -- "the abomination of desolation" (with explicit Daniel attribution)
 - Mar 13:14 -- "the abomination of desolation" (implicit Daniel reference)
 - Luk 16:15 -- "that which is highly esteemed among men is abomination in the sight of God" (different context)
@@ -45,7 +45,7 @@ The word dei (G1163) expresses divine necessity -- things that MUST happen becau
 
 Note: 4 of 5 NT uses of bdelygma are in eschatological/apocalyptic contexts directly connected to Daniel.
 
-## [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} (eremosis) Complete NT Distribution
+## G2050 (eremosis) Complete NT Distribution
 ALL 3 occurrences:
 1. Mat 24:15 -- "τὸ βδέλυγμα τῆς ἐρημώσεως" -- "the abomination of desolation"
 2. Mar 13:14 -- "τὸ βδέλυγμα τῆς ἐρημώσεως" -- "the abomination of desolation"

@@ -75,20 +75,20 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G5357](https://www.blueletterbible.org/lexicon/g5357/kjv/tr/0-1/){:target="_blank"} | phiale (broad shallow cup, "vial") | The bowl vessels themselves -- 12 occurrences in Revelation |
-| [G4127](https://www.blueletterbible.org/lexicon/g4127/kjv/tr/0-1/){:target="_blank"} | plege (stroke, wound, plague) | Labels both trumpet and bowl judgments; 19 NT uses (10 = "plagues") |
-| [G1668](https://www.blueletterbible.org/lexicon/g1668/kjv/tr/0-1/){:target="_blank"} | helkos (ulcer, sore) | 1st bowl produces "sores" -- links to Exo 9:9-10 boils |
-| [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} | kapnos (smoke) | 12 of 13 NT uses in Revelation; Rev 15:8 smoke from God's glory |
-| [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} | blasphemeo (blaspheme) | Bowl-exclusive response: 16:9, 16:11, 16:21 |
-| [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} | metanoeo (repent) | "Repented not" refrain: 9:20-21 (trumpets), 16:9,11 (bowls) |
-| [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} | thymos (fierce wrath, passion) | Bowl-execution wrath word: 15:1,7; 16:1,19 |
-| [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} | orge (settled wrath, anger) | Trumpet-climax wrath word: 6:16-17; 11:18; combined at 16:19 |
-| [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | ginomai (become, happen) | Gegonen "It is done" perfect tense at 16:17 |
-| [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} | teleo (complete, finish) | "Filled up" wrath at 15:1; "fulfilled" plagues at 15:8 |
-| [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} | eschatos (last, final) | "Seven LAST plagues" at 15:1 -- implies prior plagues |
-| [H6227](https://www.blueletterbible.org/lexicon/h6227/kjv/wlc/0-1/){:target="_blank"} | ashan (smoke) | OT smoke of theophany (Isa 6:4) |
-| [H3519](https://www.blueletterbible.org/lexicon/h3519/kjv/wlc/0-1/){:target="_blank"} | kabod (glory, weight) | Glory of the LORD filling tabernacle/temple (Exo 40:34; 1Ki 8:11) |
-| [H4046](https://www.blueletterbible.org/lexicon/h4046/kjv/wlc/0-1/){:target="_blank"} | maggephah (pestilence, plague, defeat) | OT plague word for divine judgments |
+| G5357 | phiale (broad shallow cup, "vial") | The bowl vessels themselves -- 12 occurrences in Revelation |
+| G4127 | plege (stroke, wound, plague) | Labels both trumpet and bowl judgments; 19 NT uses (10 = "plagues") |
+| G1668 | helkos (ulcer, sore) | 1st bowl produces "sores" -- links to Exo 9:9-10 boils |
+| G2586 | kapnos (smoke) | 12 of 13 NT uses in Revelation; Rev 15:8 smoke from God's glory |
+| G987 | blasphemeo (blaspheme) | Bowl-exclusive response: 16:9, 16:11, 16:21 |
+| G3340 | metanoeo (repent) | "Repented not" refrain: 9:20-21 (trumpets), 16:9,11 (bowls) |
+| G2372 | thymos (fierce wrath, passion) | Bowl-execution wrath word: 15:1,7; 16:1,19 |
+| G3709 | orge (settled wrath, anger) | Trumpet-climax wrath word: 6:16-17; 11:18; combined at 16:19 |
+| G1096 | ginomai (become, happen) | Gegonen "It is done" perfect tense at 16:17 |
+| G5055 | teleo (complete, finish) | "Filled up" wrath at 15:1; "fulfilled" plagues at 15:8 |
+| G2078 | eschatos (last, final) | "Seven LAST plagues" at 15:1 -- implies prior plagues |
+| H6227 | ashan (smoke) | OT smoke of theophany (Isa 6:4) |
+| H3519 | kabod (glory, weight) | Glory of the LORD filling tabernacle/temple (Exo 40:34; 1Ki 8:11) |
+| H4046 | maggephah (pestilence, plague, defeat) | OT plague word for divine judgments |
 
 ### Related Existing Studies
 
@@ -137,7 +137,7 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
 **From hist-15-trumpets-warnings-before-judgment/CONCLUSION.md:**
 - Trumpets function as warnings during active intercessory period
 - Incense scene (Rev 8:3-5) depicts prayers ascending = open intercession; bowl introduction (Rev 15:8) = no one enters
-- 1/3 limitation (tritos, [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"}, 13+ times in trumpets, ZERO in bowls) marks trumpet judgments as partial
+- 1/3 limitation (tritos, G5154, 13+ times in trumpets, ZERO in bowls) marks trumpet judgments as partial
 - "Repented not" (Rev 9:20-21) presupposes repentance possible only while probation open
 - Feast of Trumpets (Lev 23:24, Tishri 1) precedes Day of Atonement (Lev 23:27, Tishri 10)
 
@@ -174,12 +174,12 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
 1. **Rev 15:1 -- "Last Plagues" (eschatos) and "Filled Up" Wrath (teleo)**
    - WHAT: The designation of the bowls as "seven LAST plagues" (eschatas) and the statement "in them is filled up (etelesthe) the wrath of God."
    - WHY: Tool discoveries show eschatas (G2078) explicitly implies PRIOR plagues (trumpets). The teleo (G5055) root forms an inclusio across Rev 15 (15:1 and 15:8), framing the chapter with completion language. This establishes that the bowls are the FINAL installment of a graduated series, not an isolated event.
-   - HOW: Retrieve Rev 15:1 with full chapter context. Run greek_parser.py on REV 15:1 to parse etelesthe (tense, voice, mood). Look up [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} (eschatos) and [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} (teleo) via search_strongs.py --lexicon. Run cross-testament parallels on REV 15:1 (both directions).
+   - HOW: Retrieve Rev 15:1 with full chapter context. Run greek_parser.py on REV 15:1 to parse etelesthe (tense, voice, mood). Look up G2078 (eschatos) and G5055 (teleo) via search_strongs.py --lexicon. Run cross-testament parallels on REV 15:1 (both directions).
 
 2. **Rev 15:5-8 -- Temple Opened, Smoke Fills, "No Man Able to Enter"**
    - WHAT: The entire scene of Rev 15:5-8: temple of the tabernacle of the testimony opened, seven angels emerge, golden bowls of wrath distributed, smoke from God's glory and power fills the temple, no one can enter until plagues fulfilled.
-   - WHY: Tool discoveries identify this as the pivot point from intercession to judgment. The unique triple-genitive phrase naos tes skenes tou martyriou (G3485+[G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"}+G3142) identifies the source of judgment as the place where the law resides. The kapnos (G2586, smoke) vocabulary aligns with Isa 6:4 (not the inauguration anan/cloud), and the dual source "from the glory of God and from his power" has no OT parallel.
-   - HOW: Retrieve Rev 15:5-8 with full chapter context. Run greek_parser.py on REV 15:5, REV 15:8. Look up [G3485](https://www.blueletterbible.org/lexicon/g3485/kjv/tr/0-1/){:target="_blank"} (naos), [G4633](https://www.blueletterbible.org/lexicon/g4633/kjv/tr/0-1/){:target="_blank"} (skene), [G3142](https://www.blueletterbible.org/lexicon/g3142/kjv/tr/0-1/){:target="_blank"} (martyrion), [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} (kapnos). Run cross-testament parallels on REV 15:8 (both directions).
+   - WHY: Tool discoveries identify this as the pivot point from intercession to judgment. The unique triple-genitive phrase naos tes skenes tou martyriou (G3485+G4633+G3142) identifies the source of judgment as the place where the law resides. The kapnos (G2586, smoke) vocabulary aligns with Isa 6:4 (not the inauguration anan/cloud), and the dual source "from the glory of God and from his power" has no OT parallel.
+   - HOW: Retrieve Rev 15:5-8 with full chapter context. Run greek_parser.py on REV 15:5, REV 15:8. Look up G3485 (naos), G4633 (skene), G3142 (martyrion), G2586 (kapnos). Run cross-testament parallels on REV 15:8 (both directions).
 
 3. **Rev 15:8 and Lev 16:17 Parallel -- Day of Atonement Exclusion**
    - WHAT: The textual parallel between Rev 15:8 ("no man was able to enter into the temple... until") and Lev 16:17 ("no man shall be in the tabernacle of the congregation... until he come out").
@@ -188,7 +188,7 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
 
 4. **Rev 15:8 and Exo 40:34-35 / 1Ki 8:10-11 -- Glory/Smoke Filling Temple**
    - WHAT: The verbal overlap between Rev 15:8 and the OT glory-filling passages (inauguration events where glory fills the sanctuary and no one can enter/minister).
-   - WHY: Tool discoveries show 4 shared elements with Exo 40:34-35 and 4 with 1Ki 8:10-11. The critical finding is that Rev 15 uses JUDGMENT vocabulary (plagues, wrath, fulfilled) throughout and LACKS inauguration vocabulary (enkainizo, [G1457](https://www.blueletterbible.org/lexicon/g1457/kjv/tr/0-1/){:target="_blank"}, never appears in Revelation). The inauguration imagery is absorbed into a judgment framework.
+   - WHY: Tool discoveries show 4 shared elements with Exo 40:34-35 and 4 with 1Ki 8:10-11. The critical finding is that Rev 15 uses JUDGMENT vocabulary (plagues, wrath, fulfilled) throughout and LACKS inauguration vocabulary (enkainizo, G1457, never appears in Revelation). The inauguration imagery is absorbed into a judgment framework.
    - HOW: Retrieve EXO 40:34-35 and 1KI 8:10-11 with context. Run hebrew_parser.py on EXO 40:34-35. Run cross-testament parallels on EXO 40:35 and 1KI 8:10 (both directions).
 
 5. **Rev 16:1-12 -- First Six Bowls: ALL Affected, No 1/3 Limitation**
@@ -199,7 +199,7 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
 6. **Rev 16:9,11,21 -- "Repented Not" / "Blasphemed God" -- Character Fixed**
    - WHAT: The threefold response pattern in the bowl sequence: blasphemy + non-repentance (16:9), blasphemy + non-repentance (16:11), blasphemy alone (16:21).
    - WHY: Tool discoveries show blasphemeo (G987) is EXCLUSIVE to the bowl response -- it appears 3 times in Rev 16 and zero times in Rev 9:20-21 (trumpet response). The impenitence escalation from passive refusal (trumpets) to active hostility (bowls) demonstrates that characters are fixed. The verbal echo between Rev 14:7 ("give him glory," command) and Rev 16:9 ("repented not to give him glory," refusal) links the bowls to the explicit rejection of the first angel's message.
-   - HOW: Retrieve Rev 16:9, 16:11, 16:21 with context. Run greek_parser.py on REV 16:9 and REV 16:11. Look up [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} (blasphemeo), [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo). Compare with Rev 9:20-21 and Rev 14:7.
+   - HOW: Retrieve Rev 16:9, 16:11, 16:21 with context. Run greek_parser.py on REV 16:9 and REV 16:11. Look up G987 (blasphemeo), G3340 (metanoeo). Compare with Rev 9:20-21 and Rev 14:7.
 
 7. **Rev 14:10 -- "Without Mixture" (akratos) -- Unmixed Wrath**
    - WHAT: The description of the wrath as "poured out without mixture into the cup of his indignation."
@@ -209,7 +209,7 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
 8. **Rev 16:17-21 -- Seventh Bowl: "It Is Done" (gegonen), Mountains/Islands Flee**
    - WHAT: The 7th bowl's completion declaration, unprecedented earthquake, Babylon remembered, mountains/islands annihilated, talent-weight hail.
    - WHY: Tool discoveries show: (1) gegonen (G1096, perfect active) marks completed-with-standing-results action; (2) dual voice origin "out of the temple" + "from the throne" indicates only God is inside the closed temple; (3) mountain/island escalation from "moved" (Rev 6:14) to "not found" (Rev 16:20) confirms same Second Coming event; (4) combined thymos-orge formula at 16:19 (both wrath words together) represents the culmination of the wrath vocabulary continuum; (5) Strong allusion to Ezk 38:19-22 (5 shared elements).
-   - HOW: Retrieve Rev 16:17-21 with context. Run greek_parser.py on REV 16:17, REV 16:20. Look up [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} (ginomai). Run cross-testament parallels on REV 16:17 and REV 16:20 (both directions). Retrieve EZK 38:19-22.
+   - HOW: Retrieve Rev 16:17-21 with context. Run greek_parser.py on REV 16:17, REV 16:20. Look up G1096 (ginomai). Run cross-testament parallels on REV 16:17 and REV 16:20 (both directions). Retrieve EZK 38:19-22.
 
 9. **The Trumpet-Bowl Systematic Contrast (Structural Evidence for Sequential Relationship)**
    - WHAT: The systematic structural differences between the trumpet and bowl sequences that demonstrate a warning-then-final-judgment relationship.
@@ -251,16 +251,16 @@ You are the Research Agent. Execute this study by:
      - Ezk 38:19-22 (Gog judgment: earthquake, hail, wrath)
      - 2Pe 3:9,15 (longsuffering IS salvation)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [G5357](https://www.blueletterbible.org/lexicon/g5357/kjv/tr/0-1/){:target="_blank"} (phiale) -- bowl/vial; all 12 Revelation occurrences
-     - [G4127](https://www.blueletterbible.org/lexicon/g4127/kjv/tr/0-1/){:target="_blank"} (plege) -- plague/wound; trace NT usage
-     - [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} (kapnos) -- smoke; all 13 NT occurrences (12 in Revelation)
-     - [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} (blasphemeo) -- blaspheme; distribution in Rev 16 vs Rev 9
-     - [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo) -- repent; distribution in churches (Rev 2-3) vs trumpets vs bowls
-     - [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) -- fierce wrath; distribution in bowls
-     - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) -- settled wrath; distribution at sequence climaxes
-     - [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} (teleo) -- complete/finish; Rev 15:1,8 usage
-     - [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} (eschatos) -- last; Rev 15:1 significance
-     - [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} (ginomai) -- gegonen at Rev 16:17
+     - G5357 (phiale) -- bowl/vial; all 12 Revelation occurrences
+     - G4127 (plege) -- plague/wound; trace NT usage
+     - G2586 (kapnos) -- smoke; all 13 NT occurrences (12 in Revelation)
+     - G987 (blasphemeo) -- blaspheme; distribution in Rev 16 vs Rev 9
+     - G3340 (metanoeo) -- repent; distribution in churches (Rev 2-3) vs trumpets vs bowls
+     - G2372 (thymos) -- fierce wrath; distribution in bowls
+     - G3709 (orge) -- settled wrath; distribution at sequence climaxes
+     - G5055 (teleo) -- complete/finish; Rev 15:1,8 usage
+     - G2078 (eschatos) -- last; Rev 15:1 significance
+     - G1096 (ginomai) -- gegonen at Rev 16:17
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -292,10 +292,10 @@ You are the Research Agent. Execute this study by:
     - Run hebrew_parser.py on: LEV 16:17, EXO 40:34-35
 
 11. **Required word traces (--verses for every translation):**
-    - [G5357](https://www.blueletterbible.org/lexicon/g5357/kjv/tr/0-1/){:target="_blank"} (phiale) -- all translation variants
-    - [G4127](https://www.blueletterbible.org/lexicon/g4127/kjv/tr/0-1/){:target="_blank"} (plege) -- all translation variants
-    - [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} (kapnos) -- all translation variants
-    - [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} (blasphemeo) -- all translation variants in Revelation
+    - G5357 (phiale) -- all translation variants
+    - G4127 (plege) -- all translation variants
+    - G2586 (kapnos) -- all translation variants
+    - G987 (blasphemeo) -- all translation variants in Revelation
 
 ## Workflow
 answer-question

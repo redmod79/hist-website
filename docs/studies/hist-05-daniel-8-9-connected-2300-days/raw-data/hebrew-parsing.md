@@ -200,5 +200,5 @@ Hebrew          Lemma        Parsing                   Gloss
 **Key observations:**
 - Messiah "cut off" uses כרת (karat, H3772) — a DIFFERENT "cut off" word than chathak
 - נֶחֱרֶצֶת (necheretset) = Niphal participle of חרץ (charats, H2782) = "determined"
-- Note: Daniel 9:26,27 use [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"} (charats) for "determined" — but 9:24 uses [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak)
+- Note: Daniel 9:26,27 use H2782 (charats) for "determined" — but 9:24 uses H2852 (chathak)
 - If chathak merely meant "determined," Daniel already had charats available for that purpose

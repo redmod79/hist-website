@@ -34,7 +34,7 @@
 **Key Evidence:**
 - Lev 23:23-25: Feast of Trumpets = Tishri 1; "memorial of blowing" (zikron teruah)
 - Lev 23:26-29: Day of Atonement = Tishri 10; "afflict your souls" or "cut off"
-- Hebrew word studies: [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} teruah (alarm/shout), [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} shophar (trumpet), [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} kippur (atonement), [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} kaphar (to cover/atone)
+- Hebrew word studies: H8643 teruah (alarm/shout), H7782 shophar (trumpet), H3725 kippur (atonement), H3722 kaphar (to cover/atone)
 - Three-phase pattern: WARNING (Tishri 1) -> INTERCESSION (Tishri 2-9) -> JUDGMENT (Tishri 10)
 - Rev 8:2-5 maps to pattern: trumpets given (v.2), incense with prayers (v.3-4), censer cast to earth (v.5)
 - Rev 9:20-21: "repented not" = Days of Awe function

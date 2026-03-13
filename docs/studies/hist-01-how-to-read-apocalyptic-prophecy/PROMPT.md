@@ -148,41 +148,41 @@ SOURCE RESTRICTIONS: No Ellen White or Adventist pioneer writings as interpretiv
 **Query 1: "signified symbolic sign communicated"**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} | semaino — "to indicate, signify" (6 NT uses: JHN 12:33; 18:32; 21:19; ACT 11:28; 25:27; REV 1:1) | CRITICAL: Rev 1:1 "signified" — the word establishes symbolic communication |
-| [G4592](https://www.blueletterbible.org/lexicon/g4592/kjv/tr/0-1/){:target="_blank"} | semeion — "sign, indication" (60 NT uses: signs, miracles, sign) | Related to semaino; the noun form of the sign concept |
-| [H226](https://www.blueletterbible.org/lexicon/h226/kjv/wlc/0-1/){:target="_blank"} | oth — "sign, signal, flag, beacon" (40 OT uses) | OT concept of symbolic communication |
-| [G1770](https://www.blueletterbible.org/lexicon/g1770/kjv/tr/0-1/){:target="_blank"} | enneuo — "to nod at, beckon, communicate by signs" | Nonverbal symbolic communication |
-| [H7560](https://www.blueletterbible.org/lexicon/h7560/kjv/wlc/0-1/){:target="_blank"} | resham — Aramaic "to sign, write" | Aramaic term for marking/signing |
+| G4591 | semaino — "to indicate, signify" (6 NT uses: JHN 12:33; 18:32; 21:19; ACT 11:28; 25:27; REV 1:1) | CRITICAL: Rev 1:1 "signified" — the word establishes symbolic communication |
+| G4592 | semeion — "sign, indication" (60 NT uses: signs, miracles, sign) | Related to semaino; the noun form of the sign concept |
+| H226 | oth — "sign, signal, flag, beacon" (40 OT uses) | OT concept of symbolic communication |
+| G1770 | enneuo — "to nod at, beckon, communicate by signs" | Nonverbal symbolic communication |
+| H7560 | resham — Aramaic "to sign, write" | Aramaic term for marking/signing |
 
 **Query 2: "kingdom succession world empire dominion"**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [H4468](https://www.blueletterbible.org/lexicon/h4468/kjv/wlc/0-1/){:target="_blank"} | mamlakuwth — "kingdom, reign" (9 uses) | Aramaic/Hebrew for kingdom realm |
-| [H4438](https://www.blueletterbible.org/lexicon/h4438/kjv/wlc/0-1/){:target="_blank"} | malkuwth — "kingdom, rule, dominion" (91 uses) | Primary Hebrew word for kingdom |
-| [H4437](https://www.blueletterbible.org/lexicon/h4437/kjv/wlc/0-1/){:target="_blank"} | malkuw — Aramaic "kingdom, dominion" (57 uses) | Aramaic kingdom word used in Daniel 2-7 |
-| [H4467](https://www.blueletterbible.org/lexicon/h4467/kjv/wlc/0-1/){:target="_blank"} | mamlakah — "kingdom, dominion, realm" (117 uses) | Another Hebrew kingdom term |
-| [G932](https://www.blueletterbible.org/lexicon/g932/kjv/tr/0-1/){:target="_blank"} | basileia — "kingdom, rule, royalty" (162 NT uses) | Greek kingdom; used in Kingdom of Heaven/God |
-| [H4474](https://www.blueletterbible.org/lexicon/h4474/kjv/wlc/0-1/){:target="_blank"} | mimshal — "dominion, rule" (3 uses) | Hebrew for rule/dominion |
-| [G2963](https://www.blueletterbible.org/lexicon/g2963/kjv/tr/0-1/){:target="_blank"} | kyriotes — "mastery, dominion, government" (4 NT uses) | Greek dominion |
-| [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} | thronos — "throne, stately seat" (62 NT uses) | Throne imagery in Daniel/Revelation judgment scenes |
+| H4468 | mamlakuwth — "kingdom, reign" (9 uses) | Aramaic/Hebrew for kingdom realm |
+| H4438 | malkuwth — "kingdom, rule, dominion" (91 uses) | Primary Hebrew word for kingdom |
+| H4437 | malkuw — Aramaic "kingdom, dominion" (57 uses) | Aramaic kingdom word used in Daniel 2-7 |
+| H4467 | mamlakah — "kingdom, dominion, realm" (117 uses) | Another Hebrew kingdom term |
+| G932 | basileia — "kingdom, rule, royalty" (162 NT uses) | Greek kingdom; used in Kingdom of Heaven/God |
+| H4474 | mimshal — "dominion, rule" (3 uses) | Hebrew for rule/dominion |
+| G2963 | kyriotes — "mastery, dominion, government" (4 NT uses) | Greek dominion |
+| G2362 | thronos — "throne, stately seat" (62 NT uses) | Throne imagery in Daniel/Revelation judgment scenes |
 
 **Query 3: "interpret reveal mystery secret"**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} | mysterion — "secret, mystery" (28 NT uses) | Mystery of God; mystery revealed to prophets |
-| [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} | apokalypsis — "disclosure, revelation, appearing" (18 NT uses) | "Revelation" in Rev 1:1; apocalyptic disclosure |
-| [G601](https://www.blueletterbible.org/lexicon/g601/kjv/tr/0-1/){:target="_blank"} | apokalypto — "to take off the cover, disclose, reveal" (26 NT uses) | Verb form of revelation/unveiling |
-| [H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} | raz — Aramaic "secret, mystery" (9 uses in Daniel) | Daniel's word for the king's dream secret (Dan 2:18-19,27-30,47) |
-| [H5642](https://www.blueletterbible.org/lexicon/h5642/kjv/wlc/0-1/){:target="_blank"} | sethar — Aramaic "to conceal, secret thing" | Dan 2:22 "he revealeth deep and secret things" |
+| G3466 | mysterion — "secret, mystery" (28 NT uses) | Mystery of God; mystery revealed to prophets |
+| G602 | apokalypsis — "disclosure, revelation, appearing" (18 NT uses) | "Revelation" in Rev 1:1; apocalyptic disclosure |
+| G601 | apokalypto — "to take off the cover, disclose, reveal" (26 NT uses) | Verb form of revelation/unveiling |
+| H7328 | raz — Aramaic "secret, mystery" (9 uses in Daniel) | Daniel's word for the king's dream secret (Dan 2:18-19,27-30,47) |
+| H5642 | sethar — Aramaic "to conceal, secret thing" | Dan 2:22 "he revealeth deep and secret things" |
 
 **Query 4: "prophecy vision dream revelation apocalypse"**
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} | propheteia — "prediction, prophecy" (19 NT uses) | Rev 1:3 "the words of this prophecy"; Rev 22:7,10,18,19 |
-| [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} | chazon — "vision, sight, oracle" (35 OT uses) | Daniel's word for prophetic vision (Dan 8:1,2,13,15,17,26) |
-| [H4759](https://www.blueletterbible.org/lexicon/h4759/kjv/wlc/0-1/){:target="_blank"} | mar'ah — "vision, appearance" (12 OT uses) | The "appearance" vision in Dan 8:16,26-27; 9:23; 10:1 |
-| [H5016](https://www.blueletterbible.org/lexicon/h5016/kjv/wlc/0-1/){:target="_blank"} | nebuah — "prophecy, prediction" (3 uses) | Hebrew term for prophetic writing |
-| [G3706](https://www.blueletterbible.org/lexicon/g3706/kjv/tr/0-1/){:target="_blank"} | horasis — "vision, gazing" (4 NT uses) | Rev 9:17 vision; used for apocalyptic sight |
+| G4394 | propheteia — "prediction, prophecy" (19 NT uses) | Rev 1:3 "the words of this prophecy"; Rev 22:7,10,18,19 |
+| H2377 | chazon — "vision, sight, oracle" (35 OT uses) | Daniel's word for prophetic vision (Dan 8:1,2,13,15,17,26) |
+| H4759 | mar'ah — "vision, appearance" (12 OT uses) | The "appearance" vision in Dan 8:16,26-27; 9:23; 10:1 |
+| H5016 | nebuah — "prophecy, prediction" (3 uses) | Hebrew term for prophetic writing |
+| G3706 | horasis — "vision, gazing" (4 NT uses) | Rev 9:17 vision; used for apocalyptic sight |
 
 ### Related Existing Studies
 
@@ -230,9 +230,9 @@ SOURCE RESTRICTIONS: No Ellen White or Adventist pioneer writings as interpretiv
 
 ### Focus Areas
 
-1. **Rev 1:1 "signified" (esemainen, G4591) — The Symbolic Communication Principle**: Tool discoveries show [G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} (semaino) occurs only 6 times in the NT (JHN 12:33; 18:32; 21:19; ACT 11:28; 25:27; REV 1:1), with the related noun [G4592](https://www.blueletterbible.org/lexicon/g4592/kjv/tr/0-1/){:target="_blank"} (semeion, "sign") occurring 60 times. WHY this matters: The opening word "signified" establishes that Revelation communicates through signs/symbols, not literal description. This is THE hermeneutical key the book itself provides. HOW to investigate: Run greek_parser.py on REV 1:1 to get the full morphology. Look up [G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} with --verses to see every NT usage. Run cross_testament_parallels on REV 1:1 both directions. Trace how semaino is used in John's Gospel vs. Revelation.
+1. **Rev 1:1 "signified" (esemainen, G4591) — The Symbolic Communication Principle**: Tool discoveries show G4591 (semaino) occurs only 6 times in the NT (JHN 12:33; 18:32; 21:19; ACT 11:28; 25:27; REV 1:1), with the related noun G4592 (semeion, "sign") occurring 60 times. WHY this matters: The opening word "signified" establishes that Revelation communicates through signs/symbols, not literal description. This is THE hermeneutical key the book itself provides. HOW to investigate: Run greek_parser.py on REV 1:1 to get the full morphology. Look up G4591 with --verses to see every NT usage. Run cross_testament_parallels on REV 1:1 both directions. Trace how semaino is used in John's Gospel vs. Revelation.
 
-2. **Revelation's Self-Identification as Prophecy (Rev 1:3; 22:7,10,18-19)**: The PROPHECY Nave's topic (score 0.81) identifies Revelation as part of the prophetic tradition. Rev 1:3 calls itself "the words of this prophecy" and 22:7,10,18-19 bracket the book with prophetic authority claims. WHY this matters: Revelation declares itself to be prophecy — not allegory, not mere letter, but prophetic vision requiring prophetic hermeneutics. HOW to investigate: Retrieve full text of REV 1:1-3 and REV 22:6-21 with chapter context. Run greek_parser.py on REV 1:3 to parse [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} (propheteia). Compare Rev 22:10's "seal NOT" with Dan 12:4's "seal the book" to establish the continuation principle.
+2. **Revelation's Self-Identification as Prophecy (Rev 1:3; 22:7,10,18-19)**: The PROPHECY Nave's topic (score 0.81) identifies Revelation as part of the prophetic tradition. Rev 1:3 calls itself "the words of this prophecy" and 22:7,10,18-19 bracket the book with prophetic authority claims. WHY this matters: Revelation declares itself to be prophecy — not allegory, not mere letter, but prophetic vision requiring prophetic hermeneutics. HOW to investigate: Retrieve full text of REV 1:1-3 and REV 22:6-21 with chapter context. Run greek_parser.py on REV 1:3 to parse G4394 (propheteia). Compare Rev 22:10's "seal NOT" with Dan 12:4's "seal the book" to establish the continuation principle.
 
 3. **The Angel-Interpreter Pattern in Daniel**: Tool discoveries show GABRIEL (score 0.61) appears at DAN 8:16; 9:21, and the INTERPRETER topic references DAN 2:18-30. The VISION topic shows Daniel's visions at DAN 7; 8; 10. WHY this matters: God does not leave apocalyptic symbols unexplained — He provides the decoding key within the vision itself through an angel-interpreter. This establishes the principle that Scripture interprets its own symbols. HOW to investigate: Retrieve full text of DAN 2:27-45 (Daniel interprets), DAN 7:15-27 (angel interprets), DAN 8:15-26 (Gabriel interprets), DAN 9:20-27 (Gabriel explains). Run hebrew_parser.py on DAN 7:16 to parse the angel's interpretive function. List every instance where the text provides its own symbolic equation (beast=kingdom, horn=king, etc.).
 
@@ -248,7 +248,7 @@ SOURCE RESTRICTIONS: No Ellen White or Adventist pioneer writings as interpretiv
 
 9. **Rev 1:1's Literary Connection to Daniel 2:28 (LXX)**: The nt-ties-daniel-7-12-together study establishes that Revelation consciously draws on Daniel's vocabulary. Rev 1:1 uses the phrase "things which must shortly come to pass" which echoes Dan 2:28 (LXX) "what shall be in the latter days." WHY this matters: If Rev 1:1 deliberately echoes Dan 2:28, then Revelation positions itself as the continuation and unsealing of Daniel's prophetic vision. The Greek vocabulary creates a direct literary connection. HOW to investigate: Run greek_parser.py on REV 1:1. Run parallels on REV 1:1 both directions. Compare the Greek of REV 1:1 (ha dei genesthai en tachei, "things which must come to pass shortly") with DAN 2:28 LXX (ha dei genesthai, "things which must come to pass"). Look for the shared phrase dei genesthai as a verbal link.
 
-10. **The Mystery/Revelation Vocabulary Chain (Daniel to Revelation)**: Strong's searches found [H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} (raz, Aramaic "secret/mystery" in Daniel), [G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} (mysterion, "mystery"), and [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis, "revelation/disclosure"). WHY this matters: Daniel's "secret" (raz) that God reveals to the prophet (Dan 2:19,22,27-30,47) is the same concept as Revelation's "mystery" (mysterion) and "revelation" (apokalypsis). This vocabulary chain shows that apocalyptic prophecy follows the pattern of "hidden → revealed by God → interpreted for His people." HOW to investigate: Look up [H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} (raz) with --verses. Look up [G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} (mysterion) with --verses. Look up [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis) with --verses. Trace how Daniel's "secret" concept connects to Revelation's "mystery" concept. Note especially REV 1:1 (apokalypsis), REV 10:7 (mystery of God), and DAN 2:28-29,47 (God reveals secrets).
+10. **The Mystery/Revelation Vocabulary Chain (Daniel to Revelation)**: Strong's searches found H7328 (raz, Aramaic "secret/mystery" in Daniel), G3466 (mysterion, "mystery"), and G602 (apokalypsis, "revelation/disclosure"). WHY this matters: Daniel's "secret" (raz) that God reveals to the prophet (Dan 2:19,22,27-30,47) is the same concept as Revelation's "mystery" (mysterion) and "revelation" (apokalypsis). This vocabulary chain shows that apocalyptic prophecy follows the pattern of "hidden → revealed by God → interpreted for His people." HOW to investigate: Look up H7328 (raz) with --verses. Look up G3466 (mysterion) with --verses. Look up G602 (apokalypsis) with --verses. Trace how Daniel's "secret" concept connects to Revelation's "mystery" concept. Note especially REV 1:1 (apokalypsis), REV 10:7 (mystery of God), and DAN 2:28-29,47 (God reveals secrets).
 
 ---
 
@@ -271,17 +271,17 @@ You are the Research Agent. Execute this study by:
      - **Group F: Sealed/unsealed contrast** — DAN 12:1-13; REV 22:6-21
      - **Group G: Additional supporting** — REV 17:15; DAN 2:28 (LXX connection); REV 1:19; DAN 7:3-7
    - `04-word-studies.md` — Strong's research for ALL listed numbers:
-     - [G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} (semaino) — CRITICAL: all 6 NT occurrences, trace meaning of "signified"
-     - [G4592](https://www.blueletterbible.org/lexicon/g4592/kjv/tr/0-1/){:target="_blank"} (semeion) — sign/miracle, related to semaino
-     - [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis) — "revelation," used in Rev 1:1
-     - [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} (propheteia) — "prophecy," used in Rev 1:3
-     - [H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} (raz) — Aramaic "secret/mystery" in Daniel
-     - [G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} (mysterion) — "mystery" in NT
-     - [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} (chazon) — "vision" in Daniel
-     - [H4759](https://www.blueletterbible.org/lexicon/h4759/kjv/wlc/0-1/){:target="_blank"} (mar'ah) — "vision/appearance" in Daniel
-     - [H4437](https://www.blueletterbible.org/lexicon/h4437/kjv/wlc/0-1/){:target="_blank"} (malkuw) — Aramaic "kingdom" in Daniel 2-7
-     - [G932](https://www.blueletterbible.org/lexicon/g932/kjv/tr/0-1/){:target="_blank"} (basileia) — "kingdom" in NT
-     - [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} (sphragizo) — "to seal" (Rev 22:10; cf. Dan 12:4)
+     - G4591 (semaino) — CRITICAL: all 6 NT occurrences, trace meaning of "signified"
+     - G4592 (semeion) — sign/miracle, related to semaino
+     - G602 (apokalypsis) — "revelation," used in Rev 1:1
+     - G4394 (propheteia) — "prophecy," used in Rev 1:3
+     - H7328 (raz) — Aramaic "secret/mystery" in Daniel
+     - G3466 (mysterion) — "mystery" in NT
+     - H2377 (chazon) — "vision" in Daniel
+     - H4759 (mar'ah) — "vision/appearance" in Daniel
+     - H4437 (malkuw) — Aramaic "kingdom" in Daniel 2-7
+     - G932 (basileia) — "kingdom" in NT
+     - G4972 (sphragizo) — "to seal" (Rev 22:10; cf. Dan 12:4)
    - `raw-data/` — Raw tool output organized by category (parallels, parsings, Strong's lookups)
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
 
@@ -318,12 +318,12 @@ You are the Research Agent. Execute this study by:
    - Run hebrew_parser.py on EZK 4:6 (parse day-for-year language)
 
 10. **Required word traces:**
-    - [G4591](https://www.blueletterbible.org/lexicon/g4591/kjv/tr/0-1/){:target="_blank"} (semaino) — retrieve all NT occurrences with --verses
-    - [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} (apokalypsis) — retrieve all NT occurrences with --verses
-    - [G4394](https://www.blueletterbible.org/lexicon/g4394/kjv/tr/0-1/){:target="_blank"} (propheteia) — retrieve all NT occurrences with --verses
-    - [H7328](https://www.blueletterbible.org/lexicon/h7328/kjv/wlc/0-1/){:target="_blank"} (raz) — retrieve all Daniel occurrences with --verses
-    - [G3466](https://www.blueletterbible.org/lexicon/g3466/kjv/tr/0-1/){:target="_blank"} (mysterion) — retrieve key NT occurrences with --verses
-    - [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} (sphragizo) — retrieve occurrences relevant to sealing motif
+    - G4591 (semaino) — retrieve all NT occurrences with --verses
+    - G602 (apokalypsis) — retrieve all NT occurrences with --verses
+    - G4394 (propheteia) — retrieve all NT occurrences with --verses
+    - H7328 (raz) — retrieve all Daniel occurrences with --verses
+    - G3466 (mysterion) — retrieve key NT occurrences with --verses
+    - G4972 (sphragizo) — retrieve occurrences relevant to sealing motif
 
 ### Comprehensive Verse List (at least 65 unique references)
 

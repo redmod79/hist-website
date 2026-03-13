@@ -82,15 +82,15 @@ Follow the **Historicist Proof Series methodology** defined in `D:/bible/bible-s
 ### Strong's Numbers Found (from semantic_strongs.py)
 | Strong's | Word | Occurrences | Relevance |
 |----------|------|-------------|-----------|
-| [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} | chathak (cut off/determine) | 1 (hapax: DAN 9:24) | CRITICAL: "cut off" — primary evidence for 70 weeks severed from 2300 days |
-| [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"} | mar'eh (appearance/vision) | 103 | CRITICAL: The specific vision-word linking DAN 8:16,26,27 to DAN 9:23 — distinct from chazon |
-| [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} | chazon (vision) | 35 | CRITICAL: General vision-word used for the broader symbolic vision — contrasts with mar'eh |
-| [H995](https://www.blueletterbible.org/lexicon/h995/kjv/wlc/0-1/){:target="_blank"} | biyn (understand) | 170 | KEY: Gabriel's mission verb — DAN 8:16,17,27; 9:2,22,23 — "make him understand" |
-| [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} | tsadaq (be just/vindicate) | 41 | KEY: Root of nitsdaq in DAN 8:14 — "the sanctuary shall be vindicated" |
-| [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} | shabuwa (week/seven) | 20 | KEY: "Seventy weeks" in DAN 9:24-27; also Gen 29:27 (year-week) and DAN 10:2-3 (day-week) |
-| [H6680](https://www.blueletterbible.org/lexicon/h6680/kjv/wlc/0-1/){:target="_blank"} | tsavah (command/decree) | 494 | SUPPORTING: "From the going forth of the commandment" (DAN 9:25) |
-| [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"} | gazar (cut down/off/divide) | 5 | COMPARISON: Different "cut off" word — helps establish chathak's unique semantic range |
-| [H7082](https://www.blueletterbible.org/lexicon/h7082/kjv/wlc/0-1/){:target="_blank"} | qasas (lop off) | 1 | COMPARISON: Another cutting word — not used in DAN 9:24 |
+| H2852 | chathak (cut off/determine) | 1 (hapax: DAN 9:24) | CRITICAL: "cut off" — primary evidence for 70 weeks severed from 2300 days |
+| H4758 | mar'eh (appearance/vision) | 103 | CRITICAL: The specific vision-word linking DAN 8:16,26,27 to DAN 9:23 — distinct from chazon |
+| H2377 | chazon (vision) | 35 | CRITICAL: General vision-word used for the broader symbolic vision — contrasts with mar'eh |
+| H995 | biyn (understand) | 170 | KEY: Gabriel's mission verb — DAN 8:16,17,27; 9:2,22,23 — "make him understand" |
+| H6663 | tsadaq (be just/vindicate) | 41 | KEY: Root of nitsdaq in DAN 8:14 — "the sanctuary shall be vindicated" |
+| H7620 | shabuwa (week/seven) | 20 | KEY: "Seventy weeks" in DAN 9:24-27; also Gen 29:27 (year-week) and DAN 10:2-3 (day-week) |
+| H6680 | tsavah (command/decree) | 494 | SUPPORTING: "From the going forth of the commandment" (DAN 9:25) |
+| H1504 | gazar (cut down/off/divide) | 5 | COMPARISON: Different "cut off" word — helps establish chathak's unique semantic range |
+| H7082 | qasas (lop off) | 1 | COMPARISON: Another cutting word — not used in DAN 9:24 |
 
 ### Related Existing Studies
 | Study | Question | Score | Relevance |
@@ -111,7 +111,7 @@ Follow the **Historicist Proof Series methodology** defined in `D:/bible/bible-s
 - Two Hebrew words for "vision": chazon (H2377, general vision/symbols) vs. mar'eh (H4758, specific appearance — the time element)
 - DAN 8:26 links mar'eh specifically to "the evening and the morning" (2300 days)
 - DAN 9:23 tells Daniel to "understand the mar'eh" — same word, pointing back to ch. 8's time prophecy
-- [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} chathak = "cut off" (hapax legomenon) — primary meaning is to sever from a larger whole
+- H2852 chathak = "cut off" (hapax legomenon) — primary meaning is to sever from a larger whole
 - Shared vocabulary chain: Gabriel (8:16 / 9:21), mar'eh (8:16,26,27 / 9:23), biyn/understand (8:16,27 / 9:22,23), tsedek root (8:14 nitsdaq / 9:24 tsedeq olamim), qodesh/sanctuary (8:13,14 / 9:24,26)
 - If 70 weeks cut off from 2300 days and share starting point: 457 BC + 2300 = 1844 AD
 
@@ -147,13 +147,13 @@ Follow the **Historicist Proof Series methodology** defined in `D:/bible/bible-s
 
 2. **The Mar'eh vs. Chazon Distinction — Two Vision Words, Two Referents**
    - **WHAT:** Establish that Daniel uses two distinct Hebrew words for "vision" — chazon (H2377) for the overall symbolic vision and mar'eh (H4758) for the specific time-element appearance. Show that DAN 9:23 points back specifically to the mar'eh (time prophecy) of DAN 8, not the chazon (symbolic content).
-   - **WHY:** Strong's data shows [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"} mar'eh (103 occurrences, primarily "appearance/sight") is fundamentally different from [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} chazon (35 occurrences, always "vision"). In Daniel 8, chazon appears in 8:1,2,13,15,17,26 while mar'eh appears in 8:15,16,26,27 and 9:23. DAN 8:26 explicitly links the mar'eh to "the evening and the morning" (2300 days). When Gabriel says in 9:23 "understand the mar'eh," he is pointing to the 2300-day time element.
-   - **HOW:** Research agent must run search_strongs.py --verses [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"} and [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} to trace all Daniel occurrences. Run hebrew_parser.py on DAN 8:1, 8:15, 8:16, 8:26, 8:27, 9:21, 9:23, 9:24 to parse the exact forms. Map every use of each word in Daniel 8-12.
+   - **WHY:** Strong's data shows H4758 mar'eh (103 occurrences, primarily "appearance/sight") is fundamentally different from H2377 chazon (35 occurrences, always "vision"). In Daniel 8, chazon appears in 8:1,2,13,15,17,26 while mar'eh appears in 8:15,16,26,27 and 9:23. DAN 8:26 explicitly links the mar'eh to "the evening and the morning" (2300 days). When Gabriel says in 9:23 "understand the mar'eh," he is pointing to the 2300-day time element.
+   - **HOW:** Research agent must run search_strongs.py --verses H4758 and H2377 to trace all Daniel occurrences. Run hebrew_parser.py on DAN 8:1, 8:15, 8:16, 8:26, 8:27, 9:21, 9:23, 9:24 to parse the exact forms. Map every use of each word in Daniel 8-12.
 
 3. **Chathak (H2852) — The "Cut Off" Hapax Legomenon**
    - **WHAT:** Analyze the meaning of chathak (H2852) in DAN 9:24. This word occurs ONCE in the entire Hebrew Bible (hapax legomenon). Its primary meaning is "to cut off" — implying the 70 weeks are severed from a larger time period.
-   - **WHY:** Strong's confirms [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} has only 1 occurrence, translated "are determined" in KJV. The lexicon defines it as "properly, to cut off, i.e. (figuratively) to decree." The semantic_strongs search found related cutting words: [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"} gazar (cut down/off/divide), [H7082](https://www.blueletterbible.org/lexicon/h7082/kjv/wlc/0-1/){:target="_blank"} qasas (lop off), [H7113](https://www.blueletterbible.org/lexicon/h7113/kjv/wlc/0-1/){:target="_blank"} qetsats (cut off). If "determined" were the only meaning intended, Daniel had other options (H1504 gazar, [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"} charats). The choice of a word whose ROOT meaning is "cut off" implies severance from a larger whole — the 2300 days that Gabriel came to explain.
-   - **HOW:** Research agent must run search_strongs.py --lexicon for [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"}, [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"}, [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"}, and compare semantic ranges. Look up the word in BDB via semantic_grammar.py. Run hebrew_parser.py on DAN 9:24 for full morphological analysis of nechtak. Note: the KJV translation "determined" obscures the cutting metaphor.
+   - **WHY:** Strong's confirms H2852 has only 1 occurrence, translated "are determined" in KJV. The lexicon defines it as "properly, to cut off, i.e. (figuratively) to decree." The semantic_strongs search found related cutting words: H1504 gazar (cut down/off/divide), H7082 qasas (lop off), H7113 qetsats (cut off). If "determined" were the only meaning intended, Daniel had other options (H1504 gazar, H2782 charats). The choice of a word whose ROOT meaning is "cut off" implies severance from a larger whole — the 2300 days that Gabriel came to explain.
+   - **HOW:** Research agent must run search_strongs.py --lexicon for H2852, H1504, H2782, and compare semantic ranges. Look up the word in BDB via semantic_grammar.py. Run hebrew_parser.py on DAN 9:24 for full morphological analysis of nechtak. Note: the KJV translation "determined" obscures the cutting metaphor.
 
 4. **Shared Vocabulary Chain Between Daniel 8 and 9**
    - **WHAT:** Document the systematic vocabulary overlap between the two chapters: Gabriel (8:16 / 9:21), mar'eh (8:16,26,27 / 9:23), biyn/understand (8:16,17,27 / 9:2,22,23), tsedek root (8:14 nitsdaq / 9:24 tsedeq olamim), qodesh/sanctuary (8:13,14 / 9:24,26).
@@ -212,13 +212,13 @@ You are the Research Agent. Execute this study by:
      - **Daniel 7 judgment scene** (connection to 8:14): DAN 7:9-14
      - **Genesis creation day pattern**: GEN 1:5,8,13,19,23,31
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak) — CRITICAL: full lexicon entry, compare with [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"} (gazar), [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"} (charats)
-     - [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"} (mar'eh) — CRITICAL: trace all Daniel occurrences, contrast with [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"}
-     - [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} (chazon) — CRITICAL: trace all Daniel occurrences, contrast with [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"}
-     - [H995](https://www.blueletterbible.org/lexicon/h995/kjv/wlc/0-1/){:target="_blank"} (biyn) — KEY: trace all Daniel 8-9 occurrences as the mission-verb
-     - [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} (tsadaq) — KEY: root of nitsdaq in DAN 8:14
-     - [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} (shabuwa) — KEY: all 20 occurrences, noting GEN 29:27 year-week and DAN 10:2-3 day-week distinction
-     - [H6680](https://www.blueletterbible.org/lexicon/h6680/kjv/wlc/0-1/){:target="_blank"} (tsavah) — Supporting: "commandment" in DAN 9:25
+     - H2852 (chathak) — CRITICAL: full lexicon entry, compare with H1504 (gazar), H2782 (charats)
+     - H4758 (mar'eh) — CRITICAL: trace all Daniel occurrences, contrast with H2377
+     - H2377 (chazon) — CRITICAL: trace all Daniel occurrences, contrast with H4758
+     - H995 (biyn) — KEY: trace all Daniel 8-9 occurrences as the mission-verb
+     - H6663 (tsadaq) — KEY: root of nitsdaq in DAN 8:14
+     - H7620 (shabuwa) — KEY: all 20 occurrences, noting GEN 29:27 year-week and DAN 10:2-3 day-week distinction
+     - H6680 (tsavah) — Supporting: "commandment" in DAN 9:25
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -242,12 +242,12 @@ You are the Research Agent. Execute this study by:
    - These verses contain the critical vocabulary chain (mar'eh, chazon, biyn, chathak, tsadaq, shabuwa)
 
 10. **Required word traces:**
-    - [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} --verses (all translations — should be just DAN 9:24)
-    - [H4758](https://www.blueletterbible.org/lexicon/h4758/kjv/wlc/0-1/){:target="_blank"} --verses filtered to Daniel only
-    - [H2377](https://www.blueletterbible.org/lexicon/h2377/kjv/wlc/0-1/){:target="_blank"} --verses filtered to Daniel only
-    - [H995](https://www.blueletterbible.org/lexicon/h995/kjv/wlc/0-1/){:target="_blank"} --verses filtered to Daniel only
-    - [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} --verses (all 20 occurrences)
-    - [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} --verses filtered to Daniel only
+    - H2852 --verses (all translations — should be just DAN 9:24)
+    - H4758 --verses filtered to Daniel only
+    - H2377 --verses filtered to Daniel only
+    - H995 --verses filtered to Daniel only
+    - H7620 --verses (all 20 occurrences)
+    - H6663 --verses filtered to Daniel only
 
 11. **CRITICAL: References requirement**
     The analysis agent MUST include a **References** section at the end of CONCLUSION.md with full bibliographic entries for every extra-biblical source cited. Every historical, chronological, or scholarly claim in the analysis must have an inline **(Author, Year)** citation. Key sources to document:

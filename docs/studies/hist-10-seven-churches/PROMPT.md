@@ -66,16 +66,16 @@ Do the seven churches of Revelation 2-3 have a three-fold application: (a) liter
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} | nikao (overcome, conquer) | Core overcomer promises in all 7 churches; 17 occurrences in Revelation (61% of all NT uses) |
-| [G5245](https://www.blueletterbible.org/lexicon/g5245/kjv/tr/0-1/){:target="_blank"} | hupernikao (more than conquer) | ROM 8:37 — intensified form of nikao |
-| [G3534](https://www.blueletterbible.org/lexicon/g3534/kjv/tr/0-1/){:target="_blank"} | nikos (victory) | 1CO 15:54,55,57 — victory noun form |
-| [G1577](https://www.blueletterbible.org/lexicon/g1577/kjv/tr/0-1/){:target="_blank"} | ekklesia (church, assembly, called out) | Used 20x in Rev 1-3; the word for "churches" in the sevenfold formula |
-| [G4864](https://www.blueletterbible.org/lexicon/g4864/kjv/tr/0-1/){:target="_blank"} | synagoge (synagogue, assembly) | REV 2:9; 3:9 — "synagogue of Satan" in Smyrna and Philadelphia |
-| [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} | metanoeo (repent, change mind) | Appears in REV 2:5,16,21; 3:3,19 — five repentance calls across the churches |
-| [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} | pneuma (spirit) | REV 1:4; 2:7,11,17,29; 3:1,6,13,22 — "the Spirit saith unto the churches" |
-| [G4762](https://www.blueletterbible.org/lexicon/g4762/kjv/tr/0-1/){:target="_blank"} | strepho (turn) | Synoptic Gospel parallel to repentance |
-| [G1994](https://www.blueletterbible.org/lexicon/g1994/kjv/tr/0-1/){:target="_blank"} | epistrepho (turn back, revert) | NT conversion language |
-| [H7725](https://www.blueletterbible.org/lexicon/h7725/kjv/wlc/0-1/){:target="_blank"} | shub (turn back, return) | OT repentance concept |
+| G3528 | nikao (overcome, conquer) | Core overcomer promises in all 7 churches; 17 occurrences in Revelation (61% of all NT uses) |
+| G5245 | hupernikao (more than conquer) | ROM 8:37 — intensified form of nikao |
+| G3534 | nikos (victory) | 1CO 15:54,55,57 — victory noun form |
+| G1577 | ekklesia (church, assembly, called out) | Used 20x in Rev 1-3; the word for "churches" in the sevenfold formula |
+| G4864 | synagoge (synagogue, assembly) | REV 2:9; 3:9 — "synagogue of Satan" in Smyrna and Philadelphia |
+| G3340 | metanoeo (repent, change mind) | Appears in REV 2:5,16,21; 3:3,19 — five repentance calls across the churches |
+| G4151 | pneuma (spirit) | REV 1:4; 2:7,11,17,29; 3:1,6,13,22 — "the Spirit saith unto the churches" |
+| G4762 | strepho (turn) | Synoptic Gospel parallel to repentance |
+| G1994 | epistrepho (turn back, revert) | NT conversion language |
+| H7725 | shub (turn back, return) | OT repentance concept |
 
 ### Related Existing Studies
 
@@ -230,11 +230,11 @@ You are the Research Agent. Execute this study by:
      - **Apostasy predictions:** 2Th 2:3; 1Ti 4:1-3; 2Ti 3:1-9; 2Pe 2:1
      - **Universal church passages:** Mat 16:18; Eph 5:25-27; Col 1:18,24
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) — CRITICAL: trace ALL Revelation occurrences, document tense/voice/mood for each
-     - [G1577](https://www.blueletterbible.org/lexicon/g1577/kjv/tr/0-1/){:target="_blank"} (ekklesia) — trace all Revelation occurrences; note where the word disappears after ch. 3
-     - [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo) — trace all Revelation occurrences (2:5,16,21; 3:3,19; 9:20; 16:9,11)
-     - [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} (pneuma) — "seven Spirits" in Rev 1:4; 3:1; 4:5; 5:6 and "the Spirit saith" formula
-     - [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} (stephanos) — victor's crown: Rev 2:10; 3:11; 6:2
+     - G3528 (nikao) — CRITICAL: trace ALL Revelation occurrences, document tense/voice/mood for each
+     - G1577 (ekklesia) — trace all Revelation occurrences; note where the word disappears after ch. 3
+     - G3340 (metanoeo) — trace all Revelation occurrences (2:5,16,21; 3:3,19; 9:20; 16:9,11)
+     - G4151 (pneuma) — "seven Spirits" in Rev 1:4; 3:1; 4:5; 5:6 and "the Spirit saith" formula
+     - G4735 (stephanos) — victor's crown: Rev 2:10; 3:11; 6:2
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
 
@@ -271,10 +271,10 @@ You are the Research Agent. Execute this study by:
    - Parse metanoeo forms in REV 2:5,16,21; 3:3,19
 
 10. **Required word traces:**
-    - [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) — run --verses for all translations; compile complete Revelation usage table
-    - [G1577](https://www.blueletterbible.org/lexicon/g1577/kjv/tr/0-1/){:target="_blank"} (ekklesia) — run --verses; document where it appears and disappears in Revelation
-    - [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo) — run --verses for the five church repentance calls plus later refusals
-    - [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} (stephanos) — trace victor's crown across churches and seals
+    - G3528 (nikao) — run --verses for all translations; compile complete Revelation usage table
+    - G1577 (ekklesia) — run --verses; document where it appears and disappears in Revelation
+    - G3340 (metanoeo) — run --verses for the five church repentance calls plus later refusals
+    - G4735 (stephanos) — trace victor's crown across churches and seals
 
 ## Workflow
 answer-question

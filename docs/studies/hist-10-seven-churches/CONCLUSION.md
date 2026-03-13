@@ -129,24 +129,24 @@ The anti-historicist reading — that the churches are exclusively literal first
 
 ## Word Studies
 
-### [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — nikao (overcome, conquer)
+### G3528 — nikao (overcome, conquer)
 Nikao appears 17 times in Revelation (61% of all NT occurrences). All seven church overcomer promises use the present active participle (ho nikon / to nikounti), indicating ongoing, continuous overcoming — not a one-time past achievement. Christ's own victory uses the aorist (enikesa, Rev 3:21; enikesen, Rev 5:5), indicating completed action. The theological relationship is established at Rev 3:21: "even as I also overcame" (hos kago enikesa) — the believer's present overcoming is grounded in Christ's completed victory.
 
 The nikao chain spans the entire book: Christ prevailed to open the seals (5:5) -> believers called to overcome (2:7-3:21) -> first seal rider conquering (6:2) -> saints overcame by the Lamb's blood (12:11) -> beast overcomes saints (13:7) -> Lamb shall overcome (17:14) -> overcomer inherits all things (21:7). This chain connects the churches to every major section of Revelation.
 
-### [G1577](https://www.blueletterbible.org/lexicon/g1577/kjv/tr/0-1/){:target="_blank"} — ekklesia (church, assembly)
+### G1577 — ekklesia (church, assembly)
 Ekklesia appears 20 times in Rev 1-3, then vanishes completely from chapters 4-21, returning only at Rev 22:16 ("testify unto you these things in the churches"). This distribution creates a literary inclusio that frames the entire prophetic content of Revelation as relevant to the churches. The dative plural form (tais ekklesiais) in the seven ear formulas confirms universal address — each message directed to ALL churches, not just the one named.
 
-### [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} — metanoeo (repent)
+### G3340 — metanoeo (repent)
 Five churches receive calls to repent: Ephesus (Rev 2:5), Pergamos (Rev 2:16), Thyatira (Rev 2:21), Sardis (Rev 3:3), Laodicea (Rev 3:19). All use the aorist imperative (metanoeson), demanding decisive, immediate reversal. Smyrna and Philadelphia receive no such call — the two faithful churches. Later in Revelation, three times people refuse to repent (Rev 9:20; 16:9, 11), using the same verb. The contrast between the churches' opportunity to repent and later humanity's refusal adds temporal weight: what was available in the church era gives way to hardening.
 
-### [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} — pneuma (spirit)
+### G4151 — pneuma (spirit)
 The "seven Spirits" (Rev 1:4; 3:1; 4:5; 5:6) are identified as "seven lamps of fire" and "seven eyes...sent forth into all the earth." The sevenfold Spirit formula ("what the Spirit saith unto the churches") appears identically seven times, connecting the divine completeness of the Spirit to the completeness of the church.
 
-### [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} — stephanos (crown)
+### G4735 — stephanos (crown)
 Stephanos (victor's crown, earned through struggle) is distinguished from diadema (royal crown, worn by right of sovereignty). The churches receive stephanos (Rev 2:10; 3:11), the first seal rider receives stephanos (Rev 6:2), but Christ at His return wears diadema (Rev 19:12). The shared stephanos vocabulary between churches and the first seal constitutes a structural link.
 
-### [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} — erchomai (come)
+### G2064 — erchomai (come)
 The "coming" vocabulary shifts across the seven churches: erchomai in its disciplinary sense (Rev 2:5, 2:16) gives way to heko in its eschatological sense (Rev 2:25 "till I come"; 3:3 "as a thief") and then to erchomai tachu (Rev 3:11 "I come quickly"), identical to Rev 22:7, 12, 20. The final church has eiserchomai (Rev 3:20 "I will come in"), preceded by the perfect tense hesteka ("I have taken my stand at the door"). This systematic shift from local judgment to Second Coming imagery across the sequence is textual evidence for temporal progression.
 
 ---

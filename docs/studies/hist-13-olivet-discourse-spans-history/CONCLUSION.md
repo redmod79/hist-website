@@ -161,34 +161,34 @@ The structural correspondence between the Olivet Discourse and the Revelation se
 
 ## Word Studies
 
-### [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} — parousia (coming/presence)
+### G3952 — parousia (coming/presence)
 parousia is the standard technical term for Christ's Second Coming. Of 24 NT occurrences, all 4 in Matthew appear in chapter 24 (vv.3,27,37,39). Paul uses it 10 times in eschatological contexts (1 Cor 15:23; 1 Thess 2:19; 3:13; 4:15; 5:23; 2 Thess 2:1,8,9). James (5:7), Peter (2 Pet 1:16; 3:4,12), and John (1 John 2:28) all use it for the Second Coming. Only 2 Cor 10:10 uses it for Paul's physical "presence." The term carries the connotation of a royal advent (BDAG, p. 781).
 
-### [G1074](https://www.blueletterbible.org/lexicon/g1074/kjv/tr/0-1/){:target="_blank"} — genea (generation/race/age)
+### G1074 — genea (generation/race/age)
 genea occurs 42 times in the NT. Jesus uses "this generation" (he genea haute) in Matt 11:16; 12:39,41,42,45; 16:4; 17:17; 23:36; 24:34; Mark 8:12,38; 9:19; 13:30; Luke 7:31; 9:41; 11:29-32,50-51; 16:8; 17:25; 21:32. In every case outside Matt 24:34, Jesus refers to his contemporaries characterized by a moral quality (faithless, wicked, adulterous). The semantic range includes "contemporaries" (most common), "type/kind" (BDAG, p. 191), and "race/lineage" (TDNT, 1:662-663).
 
-### [G2347](https://www.blueletterbible.org/lexicon/g2347/kjv/tr/0-1/){:target="_blank"} — thlipsis (tribulation/affliction)
+### G2347 — thlipsis (tribulation/affliction)
 thlipsis occurs 45 times in the NT. The phrase thlipsis megale ("great tribulation") appears in Matt 24:21 and Rev 7:14, creating a verbal bridge. thlipsis also appears in Rev 1:9; 2:9,10,22, connecting the church's experience of tribulation throughout Revelation to the Olivet prediction.
 
-### [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} — bdelygma (abomination)
+### G946 — bdelygma (abomination)
 bdelygma occurs 6 times in the NT: Matt 24:15; Mark 13:14; Luke 16:15; Rev 17:4; 21:27. It translates Hebrew shiqquts (H8251), which is exclusively idolatrous in all 28 OT uses. This restricts "the abomination of desolation" to something connected with false worship, not generic sin (BDAG, p. 172).
 
-### [G4930](https://www.blueletterbible.org/lexicon/g4930/kjv/tr/0-1/){:target="_blank"} — synteleia (consummation/end)
+### G4930 — synteleia (consummation/end)
 synteleia occurs 6 times, all but one in Matthew (13:39,40,49; 24:3; 28:20; Heb 9:26). All 5 Matthean uses appear in the phrase synteleia tou aionos ("consummation of the age"). synteleia is stronger than telos — it denotes complete winding-up, not mere termination (TDNT, 8:64-66).
 
-### [G5604](https://www.blueletterbible.org/lexicon/g5604/kjv/tr/0-1/){:target="_blank"} — odin (birth-pang/sorrow)
+### G5604 — odin (birth-pang/sorrow)
 odin occurs only 4 times in the NT (Matt 24:8; Mark 13:8; Acts 2:24; 1 Thess 5:3). Matt 24:8 designates the wars/famines/earthquakes as arche odinon ("beginning of birth-pangs"). 1 Thess 5:3 applies the same metaphor to the day of the Lord: "sudden destruction... as travail [odin] upon a woman with child." This links the Olivet and Pauline eschatological frameworks.
 
-### [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"} — planao (deceive/lead astray)
+### G4105 — planao (deceive/lead astray)
 planao occurs 39 times. In the Olivet Discourse: Matt 24:4,5,11,24; Mark 13:5,6; Luke 21:8 (7x). In Revelation: Rev 2:20; 12:9; 13:14; 18:23; 19:20; 20:3,8,10 (9x). The deception vocabulary bridges the two prophecies, though planao is notably absent from Rev 6:2 (the first seal).
 
-### [G5580](https://www.blueletterbible.org/lexicon/g5580/kjv/tr/0-1/){:target="_blank"} — pseudochristos (false Christ)
+### G5580 — pseudochristos (false Christ)
 pseudochristos occurs only 2 times in the entire NT — Matt 24:24 and Mark 13:22. It is exclusively Olivet Discourse vocabulary, absent from Revelation, the Pauline epistles, and all other NT literature.
 
-### [G5119](https://www.blueletterbible.org/lexicon/g5119/kjv/tr/0-1/){:target="_blank"} — tote (then/at that time)
+### G5119 — tote (then/at that time)
 tote occurs 159 times in the NT and 8 times in Matt 24 (vv.9,10,14,16,21,23,30[x2],40). Each occurrence marks temporal progression — "then" the next event occurs. This sequential chain is a grammatical indicator that the discourse describes ordered events across an extended timeline.
 
-### [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} — shiqquts (abomination/detestable thing)
+### H8251 — shiqquts (abomination/detestable thing)
 shiqquts occurs 28 times in the OT, all referring to idolatrous objects: the gods Milcom, Chemosh, Molech, Ashtoreth, and various pagan idol practices (HALOT, p. 1642). It is never used for generic moral sin (that is toevah, H8441) or ritual uncleanness (sheqets, H8263). This restricts Daniel's "abomination" to an idolatrous entity.
 
 ---

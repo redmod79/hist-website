@@ -148,7 +148,7 @@ Each E-item has been processed through Tree 1 (Tier Classification) and Tree 3 (
 | E5 | Daniel identifies Gabriel as "the man Gabriel, whom I had seen in the vision at the beginning (be-chazon ba-tehillah)" -- explicit back-reference to ch. 8 | Dan 9:21 | Neutral | E114 |
 | E6 | Gabriel states: "I am now come forth to give thee skill and understanding (binah)" -- biyn root resuming 8:16 commission | Dan 9:22 | Neutral | E023 |
 | E7 | Gabriel commands: "understand the matter, and consider the vision (ve-haven ba-mar'eh)" -- directing Daniel to the mar'eh (time-element vision) of ch. 8 | Dan 9:23 | Neutral | E115 |
-| E8 | "Seventy weeks are determined (nechtakh, [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} chathak) upon thy people" -- hapax legomenon whose root means "cut off" | Dan 9:24 | Neutral | E116 |
+| E8 | "Seventy weeks are determined (nechtakh, H2852 chathak) upon thy people" -- hapax legomenon whose root means "cut off" | Dan 9:24 | Neutral | E116 |
 | E9 | "From the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks" | Dan 9:25 | Neutral | E024 |
 | E10 | Artaxerxes grants Ezra authority to "set magistrates and judges" with power of execution "unto death, or to banishment, or to confiscation of goods, or to imprisonment" -- full civil-judicial restoration | Ezra 7:25-26 | Neutral | E118 |
 | E11 | "Unto two thousand and three hundred days (erev boqer); then shall the sanctuary be cleansed (nitsdaq)" -- 2300 evening-mornings and forensic vindication | Dan 8:14 | Neutral | E107 |

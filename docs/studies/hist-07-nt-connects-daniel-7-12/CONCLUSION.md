@@ -124,7 +124,7 @@ The formula "time, times, and half a time" appears in three languages across thr
 - **Hebrew:** Dan 12:7 -- "le-moed mo'adim wa-hetsi"
 - **Greek:** Rev 12:14 -- "kairon kai kairous kai hemisy kairou"
 
-All three words (iddan, [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"}; moed, [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"}; kairos, G2540) carry the sense of "appointed/set time." The LXX translates both the Aramaic iddan and the Hebrew moed with kairos, creating a Greek vocabulary bridge that Revelation reuses.
+All three words (iddan, H5732; moed, H4150; kairos, G2540) carry the sense of "appointed/set time." The LXX translates both the Aramaic iddan and the Hebrew moed with kairos, creating a Greek vocabulary bridge that Revelation reuses.
 
 Rev 12:14 states the period as "a time, and times, and half a time." Rev 12:6 states the same event's duration as "a thousand two hundred and threescore days" (1,260 days). Both describe the woman's nourishment in the wilderness. Rev 11:2 gives "forty and two months." Rev 13:5 also gives "forty and two months." The mathematical equivalency is complete: 3.5 years = 42 months = 1,260 days (using 30-day prophetic months).
 
@@ -359,7 +359,7 @@ The verb "to seal" appears in Dan 12:4 LXX as an imperative ("seal!") and in Rev
 ### bdelygma tes eremoseos (G946 + G2050)
 The phrase "abomination of desolation" translates Hebrew shiqquts meshomem. The Greek bdelygma (G946) carries the idolatrous-sacrilege connotation of its Hebrew source -- shiqquts (H8251) is used in all 28 OT occurrences exclusively for idolatrous objects (HALOT, 1500). eremosis (G2050) appears in the NT only in the three Synoptic Olivet Discourse passages (Matt 24:15; Mark 13:14; Luke 21:20), functioning as a "Daniel marker" -- a lexical signal that the passage is engaging Danielic tradition.
 
-### stoma laloun megala (G4750 + [G2980](https://www.blueletterbible.org/lexicon/g2980/kjv/tr/0-1/){:target="_blank"} + G3173)
+### stoma laloun megala (G4750 + G2980 + G3173)
 The phrase "a mouth speaking great things" is verbatim from LXX Dan 7:8, 20. Rev 13:5 reproduces it exactly and adds "kai blasphemias" ("and blasphemies"). This is the clearest case of direct literary quotation between Daniel and Revelation. The addition of "blasphemies" is an interpretive gloss: John explains that Daniel's "great things" are blasphemies against God. Beale identifies this as "the most obvious verbal allusion to Daniel in the entire Apocalypse" (Beale, 1999, p. 694).
 
 ### anomia / katechon (G458 / G2722)

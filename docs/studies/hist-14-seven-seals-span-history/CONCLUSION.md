@@ -86,7 +86,7 @@ The fifth seal is the single strongest internal proof that the seals span extend
 
 **Phase 2 — PRESENT: Extended Waiting.** The formula heos pote ("until when?" / "how long?") is a temporal interrogative that presupposes both elapsed time and expected future time. It is semantically impossible to ask "how long?" at the moment of an event — the question requires a period of waiting to have already occurred and more waiting to be anticipated. The OT parallels confirm this: Zechariah 1:12 uses the same formula ("O LORD of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?"), referencing the 70-year Babylonian exile — extended historical duration. Psalm 13:1-2 uses "how long" four times to express prolonged suffering. Psalm 6:3 asks "how long?" in the context of ongoing affliction. The formula consistently indicates extended duration in its OT usage (Elliott, 1862).
 
-**Phase 3 — FUTURE: Anticipated Killing.** The response tells the martyrs that MORE fellow servants and brethren "are about to be killed" (mellontes apoktennesthai). The present active participle mellontes (from mello, [G3195](https://www.blueletterbible.org/lexicon/g3195/kjv/tr/0-1/){:target="_blank"} — "being about to") indicates FUTURE intent — additional martyrs are anticipated but have not yet died. The verb apoktennesthai (present passive infinitive of apokteino, G615) describes an ongoing process of killing that is yet to occur. They must wait "until" (heos) these future deaths "should be fulfilled" (plerothōsin — from pleroo, [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} — "to fill up, complete"), indicating a quota or number to be completed. The word pleroo implies a process requiring time (BDAG).
+**Phase 3 — FUTURE: Anticipated Killing.** The response tells the martyrs that MORE fellow servants and brethren "are about to be killed" (mellontes apoktennesthai). The present active participle mellontes (from mello, G3195 — "being about to") indicates FUTURE intent — additional martyrs are anticipated but have not yet died. The verb apoktennesthai (present passive infinitive of apokteino, G615) describes an ongoing process of killing that is yet to occur. They must wait "until" (heos) these future deaths "should be fulfilled" (plerothōsin — from pleroo, G4137 — "to fill up, complete"), indicating a quota or number to be completed. The word pleroo implies a process requiring time (BDAG).
 
 **Why This Requires Extended Historical Duration.** The three phases — past completed martyrdom, present extended waiting, and future anticipated killing — constitute three distinct temporal stages that cannot be compressed into a single moment. A strictly futurist reading that places all seven seals in a brief future tribulation period must explain how past martyrs are ALREADY dead (perfect participle), have been waiting long enough to ask "how long?" and have the answer include "not yet — more must die first." A strictly preterist reading that confines all seals to the first century must explain the FUTURE anticipated killing (mellontes apoktennesthai) and the incomplete quota (plerothōsin). Only a reading that allows the seals to span an extended historical period accommodates all three phases without redefining any term (Barnes, 1851).
 
@@ -124,7 +124,7 @@ The Olivet Discourse (Matt 24:4-31) and the seal sequence (Rev 6:1-17; 8:1) pres
 | 6 | Cosmic signs (Matt 24:29) | Sun/moon/stars (Rev 6:12-14) | helios, selene, aster, pipto (VP208, Strong) |
 | 7 | Son of Man coming (Matt 24:30) | Great day of wrath (Rev 6:15-17) | Universal human response |
 
-The parallel at positions 2-6 is substantive, supported by both content alignment and verified vocabulary overlap. Position 6 (cosmic signs) is the strongest, with four shared Greek terms. Position 1 is contested because the Olivet begins with deception (planao, [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"}; pseudochristos, G5580), while the first seal features conquering (nikao) — the vocabulary does not match. The historicist reading treats this as a thematic difference (Christ warned about deception; the seal depicts the positive gospel advance that deception counterfeits) rather than a sequential mismatch.
+The parallel at positions 2-6 is substantive, supported by both content alignment and verified vocabulary overlap. Position 6 (cosmic signs) is the strongest, with four shared Greek terms. Position 1 is contested because the Olivet begins with deception (planao, G4105; pseudochristos, G5580), while the first seal features conquering (nikao) — the vocabulary does not match. The historicist reading treats this as a thematic difference (Christ warned about deception; the seal depicts the positive gospel advance that deception counterfeits) rather than a sequential mismatch.
 
 Both passages draw on Ezekiel 14:21's four-fold judgment formula (sword, famine, pestilence, beasts) and on Joel/Isaiah cosmic-sign tradition, but with independent vocabulary choices. This suggests shared theological tradition rather than direct literary dependence, strengthening the argument that both describe the same eschatological sequence.
 
@@ -144,28 +144,28 @@ If the sixth seal, the seventh trumpet, and the seventh bowl all reach the same 
 
 ## Word Studies
 
-### [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — nikao (overcome, conquer, prevail)
+### G3528 — nikao (overcome, conquer, prevail)
 Nikao appears 28 times in the NT, 17 in Revelation (61%). The Johannine concentration is 86% (Revelation 17, 1 John 6, John 1). In Revelation, 14+ uses are unambiguously positive (Christ, believers); 2 are temporary beast victories subsequently reversed (Rev 11:7; 13:7). The tense chain traces a theological arc: perfect (John 16:33, completed victory with ongoing results) -> aorist (Rev 5:5, decisive act of prevailing) -> present participle (Rev 6:2, ongoing conquering) -> future (Rev 17:14, certain consummation). The first seal rider's nikao is grammatically parallel to the seven churches' overcoming (ho nikon, present active participle, Rev 2-3) and to Christ's own victory (enikesa, Rev 3:21).
 
-### [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} — stephanos (victor's wreath) vs. [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} — diadema (royal crown)
+### G4735 — stephanos (victor's wreath) vs. G1238 — diadema (royal crown)
 Stephanos (18 NT occurrences) is the victor's wreath — the athletic prize, the reward for faithfulness. Diadema (3 NT occurrences, all in Revelation) is the royal diadem of sovereign authority. In Revelation, stephanos is given to believers (2:10; 3:11), elders (4:4), the first seal rider (6:2), and the Son of Man (14:14). Diadema is worn by the dragon (12:3), the beast (13:1), and Christ at the Second Coming in consummated royal power (19:12). The classification is strict: positive agents wear stephanos; the first seal rider wears stephanos; therefore the first seal rider is classified with the positive agents, not with the dragon and beast.
 
-### [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} — sphazo (slay, slaughter, butcher)
+### G4969 — sphazo (slay, slaughter, butcher)
 Sphazo (10 NT occurrences) is a violent, sacrificial verb. Its perfect passive participle (esphagmenon) describes both the Lamb (Rev 5:6,12) and the martyrs (Rev 6:9), creating a grammatical link: both "have been slaughtered." The shared form indicates the martyrs participate in the Lamb's sacrificial experience. In Rev 6:4, the future active (sphaxousin) describes the second seal's killing. In 1 John 3:12, Cain "slew" Abel. The consistent use connects sacrifice, martyrdom, and violent death under one lexical roof.
 
-### [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} — apokteino (kill)
+### G615 — apokteino (kill)
 Apokteino (75 NT occurrences) is the standard verb for putting to death. It appears in Matt 24:9 (apokteinosin — "they will kill you," Olivet Discourse) and Rev 6:11 (apoktennesthai — "to be killed," fifth seal), creating the VP207 martyrdom vocabulary parallel between the Olivet Discourse and the seals. The present passive infinitive in Rev 6:11 indicates an ONGOING process of killing anticipated in the future.
 
-### [G4578](https://www.blueletterbible.org/lexicon/g4578/kjv/tr/0-1/){:target="_blank"} — seismos (earthquake)
+### G4578 — seismos (earthquake)
 Seismos (14 NT occurrences) appears across multiple prophetic sequences: Matt 24:7 (Olivet), Rev 6:12 (sixth seal), Rev 8:5 (seventh seal transition), Rev 11:19 (seventh trumpet), Rev 16:18 (seventh bowl). Its cross-sequence distribution is part of the shared endpoint language (SP092) that supports recapitulation.
 
-### [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — orge (wrath)
+### G3709 — orge (wrath)
 Orge (36 NT occurrences) appears in the endpoint formula orge + elthen at Rev 6:17 ("the great day of his wrath is come") and Rev 11:18 ("thy wrath is come"), and conceptually at Rev 16:19 ("the fierceness of his wrath"). The phrase "wrath of the Lamb" (orge tou arniou, Rev 6:16) is paradoxical — lambs do not display wrath — and identifies the Lamb with divine judgment authority.
 
-### [G3022](https://www.blueletterbible.org/lexicon/g3022/kjv/tr/0-1/){:target="_blank"} — leukos (white)
+### G3022 — leukos (white)
 Leukos (25 NT occurrences) is uniformly positive in Revelation's 14+ uses: Christ's hair (1:14), overcomers' garments (3:4,5,18), elders' clothing (4:4), martyrs' robes (6:11), great multitude (7:9,13), Son of Man's cloud (14:14), Second Coming horse (19:11), judgment throne (20:11). No instance of deceptive or negative white.
 
-### [G5550](https://www.blueletterbible.org/lexicon/g5550/kjv/tr/0-1/){:target="_blank"} — chronos (time, season)
+### G5550 — chronos (time, season)
 Chronos (53 NT occurrences) denotes measurable, quantitative time (distinguished from kairos, qualitative/decisive time). In Rev 6:11, chronon mikron ("a little time") uses the accusative singular to denote a proportionally small remaining duration. The proportionality argument: if "a little time" is measured against centuries of prior martyrdom, the remaining period is proportionally "little" even if substantial in absolute terms.
 
 ## Evidence Tables

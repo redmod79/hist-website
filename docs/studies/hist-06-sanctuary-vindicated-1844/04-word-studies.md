@@ -1,6 +1,6 @@
 # Word Studies
 
-## [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} — צָדַק (tsadaq) — THE KEY VERB
+## H6663 — צָדַק (tsadaq) — THE KEY VERB
 
 **Original:** צָדַק
 **Transliteration:** tsadaq
@@ -16,7 +16,7 @@
 - 3ms = "it" (referring to qodesh, "sanctuary")
 - **Literal:** "and [the] sanctuary will be justified/vindicated"
 
-### All Translations of [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} in the KJV
+### All Translations of H6663 in the KJV
 
 | Translation | Count | Key Verses |
 |-------------|-------|------------|
@@ -27,7 +27,7 @@
 | **be cleansed** | **1** | **Dan 8:14** (ONLY occurrence translated "cleansed") |
 | to righteousness | 1 | Dan 12:3 |
 
-**Critical finding:** Dan 8:14 is the ONLY verse in the entire OT where [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq is translated "cleansed." All other occurrences are translated with forensic/legal vocabulary: justified, just, righteous, justify, clear. The KJV "cleansed" follows the LXX rendering (katharisthesetai), not the Hebrew.
+**Critical finding:** Dan 8:14 is the ONLY verse in the entire OT where H6663 tsadaq is translated "cleansed." All other occurrences are translated with forensic/legal vocabulary: justified, just, righteous, justify, clear. The KJV "cleansed" follows the LXX rendering (katharisthesetai), not the Hebrew.
 
 ### Every Niphal/Passive Occurrence of tsadaq
 
@@ -45,16 +45,16 @@
 
 ### LXX Translation Pattern
 
-The LXX standard equivalent for [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq is **[G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} dikaioo** ("to justify/vindicate"):
+The LXX standard equivalent for H6663 tsadaq is **G1344 dikaioo** ("to justify/vindicate"):
 - PMI score: 8.73 (highest of all LXX translations for tsadaq)
 - Count: 21 occurrences where LXX renders tsadaq as dikaioo
 - Key examples: Psa 51:4 → LXX Psa 50:6 uses dikaioo; Isa 43:9,26 → dikaioo
 
-**The anomaly:** In Daniel 8:14, the LXX uses **katharisthesetai** (from [G2511](https://www.blueletterbible.org/lexicon/g2511/kjv/tr/0-1/){:target="_blank"} katharizo, "to cleanse") instead of the expected dikaiothesetai. This substituted the Hebrew meaning entirely, replacing "vindicated" with "cleansed." The KJV followed this LXX rendering rather than the Hebrew original.
+**The anomaly:** In Daniel 8:14, the LXX uses **katharisthesetai** (from G2511 katharizo, "to cleanse") instead of the expected dikaiothesetai. This substituted the Hebrew meaning entirely, replacing "vindicated" with "cleansed." The KJV followed this LXX rendering rather than the Hebrew original.
 
 ---
 
-## [H2891](https://www.blueletterbible.org/lexicon/h2891/kjv/wlc/0-1/){:target="_blank"} — טָהֵר (taher) — The Cleansing Word Daniel AVOIDED
+## H2891 — טָהֵר (taher) — The Cleansing Word Daniel AVOIDED
 
 **Original:** טָהֵר
 **Transliteration:** taher
@@ -93,7 +93,7 @@ Hebrew: לְטַהֵ֣ר (letaher) — Piel Infinitive Construct
 
 ---
 
-## [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} — כָּפַר (kaphar) — The Atonement Word Daniel AVOIDED in 8:14
+## H3722 — כָּפַר (kaphar) — The Atonement Word Daniel AVOIDED in 8:14
 
 **Original:** כָּפַר
 **Transliteration:** kaphar
@@ -123,14 +123,14 @@ Kaphar appears extensively in Leviticus 16 — the DOA chapter:
 
 ---
 
-## [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} — קֹדֶשׁ (qodesh) — The Subject Being Vindicated
+## H6944 — קֹדֶשׁ (qodesh) — The Subject Being Vindicated
 
 **Original:** קֹדֶשׁ
 **Transliteration:** qodesh
 **Pronunciation:** ko-desh
 **Part of Speech:** Masculine noun
 **BLB Count:** 468
-**Definition:** From [H6942](https://www.blueletterbible.org/lexicon/h6942/kjv/wlc/0-1/){:target="_blank"}; a sacred place or thing; rarely abstract, sanctity: consecrated, dedicated, hallowed, holiness, (most) holy (day, portion, thing), saint, sanctuary.
+**Definition:** From H6942; a sacred place or thing; rarely abstract, sanctity: consecrated, dedicated, hallowed, holiness, (most) holy (day, portion, thing), saint, sanctuary.
 
 ### In Daniel 8:13-14
 - Dan 8:13: "to give both the **sanctuary** [qodesh] and the host to be trodden under foot"
@@ -144,14 +144,14 @@ Qodesh covers both the physical sanctuary structure and abstract holiness/sacred
 
 ---
 
-## [H6153](https://www.blueletterbible.org/lexicon/h6153/kjv/wlc/0-1/){:target="_blank"} — עֶרֶב (ereb) — Evening
+## H6153 — עֶרֶב (ereb) — Evening
 
 **Original:** עֶרֶב
 **Transliteration:** ereb
 **Pronunciation:** eh-reb
 **Part of Speech:** Masculine noun
 **BLB Count:** 137
-**Definition:** From [H6150](https://www.blueletterbible.org/lexicon/h6150/kjv/wlc/0-1/){:target="_blank"}; dusk: day, even(-ing, tide), night.
+**Definition:** From H6150; dusk: day, even(-ing, tide), night.
 
 ### In Daniel 8:14 vs. Other Constructions
 
@@ -165,14 +165,14 @@ Qodesh covers both the physical sanctuary structure and abstract holiness/sacred
 
 ---
 
-## [H1242](https://www.blueletterbible.org/lexicon/h1242/kjv/wlc/0-1/){:target="_blank"} — בֹּקֶר (boqer) — Morning
+## H1242 — בֹּקֶר (boqer) — Morning
 
 **Original:** בֹּקֶר
 **Transliteration:** boqer
 **Pronunciation:** bo-ker
 **Part of Speech:** Masculine noun
 **BLB Count:** 205
-**Definition:** From [H1239](https://www.blueletterbible.org/lexicon/h1239/kjv/wlc/0-1/){:target="_blank"}; properly, dawn (as the break of day); generally, morning: day, early, morning, morrow.
+**Definition:** From H1239; properly, dawn (as the break of day); generally, morning: day, early, morning, morrow.
 
 ### Critical Absence in Day of Atonement
 Leviticus 23:32 defines the Day of Atonement as "from evening to evening" (me-ereb ad-ereb) — there is NO morning (boqer) component. Daniel 8:14 includes morning (boqer) — matching the Genesis creation pattern, NOT the DOA pattern.
@@ -184,14 +184,14 @@ Leviticus 23:32 defines the Day of Atonement as "from evening to evening" (me-er
 
 ---
 
-## [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} — פֶּשַׁע (pesha) — Transgression/Rebellion (The Accusation)
+## H6588 — פֶּשַׁע (pesha) — Transgression/Rebellion (The Accusation)
 
 **Original:** פֶּשַׁע
 **Transliteration:** pesha
 **Pronunciation:** peh-shah
 **Part of Speech:** Masculine noun
 **BLB Count:** 93
-**Definition:** From [H6586](https://www.blueletterbible.org/lexicon/h6586/kjv/wlc/0-1/){:target="_blank"}; a revolt (national, moral or religious): rebellion, sin, transgression, trespass.
+**Definition:** From H6586; a revolt (national, moral or religious): rebellion, sin, transgression, trespass.
 
 ### In Daniel 8-9 Context
 - **Dan 8:12** — "by reason of **transgression** [pesha]" — the little horn acts through rebellion
@@ -209,17 +209,17 @@ The answer matches the question: rebellion (pesha) is answered by vindication (t
 
 ---
 
-## [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} — δικαιόω (dikaioo) — Greek NT "Justify"
+## G1344 — δικαιόω (dikaioo) — Greek NT "Justify"
 
 **Original:** δικαιόω
 **Transliteration:** dikaioo
 **Pronunciation:** dik-ah-yo-o
 **Part of Speech:** Verb
 **BLB Count:** 40 (43 total occurrences)
-**Definition:** From [G1342](https://www.blueletterbible.org/lexicon/g1342/kjv/tr/0-1/){:target="_blank"}; to render (i.e. show or regard as) just or innocent: free, justify.
+**Definition:** From G1342; to render (i.e. show or regard as) just or innocent: free, justify.
 
 ### The Standard LXX Translation of tsadaq
-dikaioo is the PRIMARY Greek equivalent of [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq in the LXX:
+dikaioo is the PRIMARY Greek equivalent of H6663 tsadaq in the LXX:
 - PMI score: 8.73 (highest correlation)
 - 21 co-occurrences across the OT Greek
 - This is the expected word for Dan 8:14 in Greek
@@ -239,14 +239,14 @@ This is the NT courtroom equivalent of Daniel 8:14's vindication — God as judg
 
 ---
 
-## [G2511](https://www.blueletterbible.org/lexicon/g2511/kjv/tr/0-1/){:target="_blank"} — καθαρίζω (katharizo) — Greek "Cleanse" (Anomalous LXX Translation)
+## G2511 — καθαρίζω (katharizo) — Greek "Cleanse" (Anomalous LXX Translation)
 
 **Original:** καθαρίζω
 **Transliteration:** katharizo
 **Pronunciation:** kath-ar-id-zo
 **Part of Speech:** Verb
 **BLB Count:** 30
-**Definition:** From [G2513](https://www.blueletterbible.org/lexicon/g2513/kjv/tr/0-1/){:target="_blank"}; to cleanse (literally or figuratively): (make) clean(-se), purge, purify.
+**Definition:** From G2513; to cleanse (literally or figuratively): (make) clean(-se), purge, purify.
 
 ### Usage Domain: Physical/Ritual Cleansing
 - Cleansing lepers: Mat 8:2-3; Mrk 1:40-42; Luk 4:27; 17:14,17
@@ -268,39 +268,39 @@ The correct rendering should reflect the Hebrew: "then shall the sanctuary be **
 
 ---
 
-## [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"} — צֶדֶק (tsedeq) — Righteousness (Same Root as tsadaq)
+## H6664 — צֶדֶק (tsedeq) — Righteousness (Same Root as tsadaq)
 
 **Original:** צֶדֶק
 **Transliteration:** tsedeq
 **Pronunciation:** tseh-dek
 **Part of Speech:** Masculine noun
 **BLB Count:** 116
-**Definition:** From [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"}; the right (natural, moral or legal); equity or prosperity: just(-ice), right(-eous, -eousness).
+**Definition:** From H6663; the right (natural, moral or legal); equity or prosperity: just(-ice), right(-eous, -eousness).
 
 ### In Daniel 9:24
 > "to bring in everlasting **righteousness** [tsedeq olamim]"
 
-Hebrew parsing: צֶדֶק (tsedeq, [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"}, Noun.ms.Cst) + עֹלָמִים (olamim, Noun.mp.Abs, "eternities")
+Hebrew parsing: צֶדֶק (tsedeq, H6664, Noun.ms.Cst) + עֹלָמִים (olamim, Noun.mp.Abs, "eternities")
 
 This is the noun form of the same root as Dan 8:14's verb nitsdaq (H6663). Gabriel's explanation in 9:24 uses the SAME ROOT as the prophecy being explained in 8:14, linking them explicitly:
 - 8:14: the sanctuary will be **vindicated** (nitsdaq — verbal form)
 - 9:24: to bring in everlasting **righteousness** (tsedeq — noun form)
 
-### Translation Distribution for [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"}
+### Translation Distribution for H6664
 - "righteousness" — 27 times (including Dan 9:24)
 - "justice/just" — various forms
 - "right" — various forms
 
 ---
 
-## [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} — מִשְׁפָּט (mishpat) — Verdict/Judgment
+## H4941 — מִשְׁפָּט (mishpat) — Verdict/Judgment
 
 **Original:** מִשְׁפָּט
 **Transliteration:** mishpat
 **Pronunciation:** mish-pawt
 **Part of Speech:** Masculine noun
 **BLB Count:** 421
-**Definition:** From [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"}; properly, a verdict (favorable or unfavorable) pronounced judicially, especially a sentence or formal decree; abstractly, justice; a participant's right or privilege: judgment, justice, manner, ordinance, right, sentence.
+**Definition:** From H8199; properly, a verdict (favorable or unfavorable) pronounced judicially, especially a sentence or formal decree; abstractly, justice; a participant's right or privilege: judgment, justice, manner, ordinance, right, sentence.
 
 ### Key Uses in Daniel and the Forensic Framework
 - **Dan 7:10** — "the **judgment** [dina, Aramaic] was set, and the books were opened"
@@ -315,14 +315,14 @@ mishpat and tsadaq belong to the SAME semantic domain — forensic/legal/courtro
 
 ---
 
-## [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} — כִּפֻּר (kippur) — Expiation/Atonement (Day of Atonement Term)
+## H3725 — כִּפֻּר (kippur) — Expiation/Atonement (Day of Atonement Term)
 
 **Original:** כִּפֻּר
 **Transliteration:** kippur
 **Pronunciation:** kip-poor
 **Part of Speech:** Masculine plural noun
 **BLB Count:** 8
-**Definition:** From [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} (kaphar); expiation (only in plural): atonement.
+**Definition:** From H3722 (kaphar); expiation (only in plural): atonement.
 
 ### Occurrences — ALL Related to DOA/Atonement Rituals
 - Exo 29:36; 30:10,16
@@ -334,7 +334,7 @@ This is the specific DOA vocabulary. Daniel does NOT use this word family in 8:1
 
 ---
 
-## [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} — שָׁפַט (shaphat) — To Judge/Vindicate
+## H8199 — שָׁפַט (shaphat) — To Judge/Vindicate
 
 **Original:** שָׁפַט
 **Transliteration:** shaphat

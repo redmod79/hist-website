@@ -256,7 +256,7 @@ This three-fold repetition emphasizes that the judgment's purpose is not merely 
 
 **דִּינָא (dina, H1780) -- "judgment":** Appears 5 times in Aramaic Daniel. In Dan 7:10, 22, and 26, it designates the heavenly court. The phrase דִּינָא יְתִב ("the judgment sat/took its seat") pictures a court convening as a formal judicial body. The LXX translates דִּין as κρίσις (G2920), creating the terminological bridge to Revelation's judgment language (Rev 14:7, "the hour of his judgment is come," ἡ ὥρα τῆς κρίσεως αὐτοῦ).
 
-**עַתִּיק יוֹמִין (attiyq yomin, [H6268](https://www.blueletterbible.org/lexicon/h6268/kjv/wlc/0-1/){:target="_blank"} + H3118) -- "Ancient of Days":** This title is unique to Daniel 7 (vv.9, 13, 22). The root עתק means "to advance," giving the sense of "One Advanced in Days" -- the Eternal God. The imagery of white garments and wool-like hair conveys dignity, purity, and venerability. Revelation applies this imagery to Christ (Rev 1:14), merging the Ancient of Days and the Son of Man into a single divine figure.
+**עַתִּיק יוֹמִין (attiyq yomin, H6268 + H3118) -- "Ancient of Days":** This title is unique to Daniel 7 (vv.9, 13, 22). The root עתק means "to advance," giving the sense of "One Advanced in Days" -- the Eternal God. The imagery of white garments and wool-like hair conveys dignity, purity, and venerability. Revelation applies this imagery to Christ (Rev 1:14), merging the Ancient of Days and the Son of Man into a single divine figure.
 
 **עִדָּן (iddan, H5732) -- "time/year":** 13 occurrences in Aramaic Daniel. In Dan 4 it unambiguously means "year" (seven times = seven years). In Dan 7:25 it yields the 3.5-times formula. BDB defines it as "a set time; technically, a year" (Brown, Driver, and Briggs, 1906, p. 1105).
 

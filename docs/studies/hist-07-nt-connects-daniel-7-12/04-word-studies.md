@@ -5,7 +5,7 @@ How do NT authors treat Daniel 7-12? What vocabulary links demonstrate that Reve
 
 ---
 
-## 1. δεῖ (dei) - [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} - "must / it is necessary"
+## 1. δεῖ (dei) - G1163 - "must / it is necessary"
 
 **Original:** δεῖ
 **Transliteration:** deî
@@ -49,7 +49,7 @@ This substitution is the programmatic claim of Revelation: what Daniel saw as di
 
 ---
 
-## 2. ἀποκάλυψις (apokalypsis) - [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} - "revelation / unveiling"
+## 2. ἀποκάλυψις (apokalypsis) - G602 - "revelation / unveiling"
 
 **Original:** ἀποκάλυψις
 **Transliteration:** apokálypsis
@@ -77,7 +77,7 @@ This substitution is the programmatic claim of Revelation: what Daniel saw as di
 
 ---
 
-## 3. βλασφημία (blasphemia) - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} - "blasphemy"
+## 3. βλασφημία (blasphemia) - G988 - "blasphemy"
 
 **Original:** βλασφημία
 **Transliteration:** blasphēmía
@@ -103,7 +103,7 @@ The Greek phrase is VERBATIM from LXX Daniel 7:8,20. Revelation ADDS "kai blasph
 
 ---
 
-## 4. βδέλυγμα (bdelygma) - [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} - "abomination"
+## 4. βδέλυγμα (bdelygma) - G946 - "abomination"
 
 **Original:** βδέλυγμα
 **Transliteration:** bdélygma
@@ -120,15 +120,15 @@ The Greek phrase is VERBATIM from LXX Daniel 7:8,20. Revelation ADDS "kai blasph
 | **Rev 21:27** | "worketh **abomination**" | New Jerusalem exclusion |
 
 ### Hebrew Source: shiqquts (H8251)
-- Translates [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} in LXX for Dan 9:27; 11:31; 12:11
-- [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} appears 28 times in OT, ALWAYS for idolatrous objects -- never generic sin
+- Translates H8251 in LXX for Dan 9:27; 11:31; 12:11
+- H8251 appears 28 times in OT, ALWAYS for idolatrous objects -- never generic sin
 - Used for pagan gods: Chemosh (1Ki 11:5), Milcom (2Ki 23:24), various idols (Jer 4:1; 7:30; Ezk 5:11)
 
 **Significance:** 4 of 6 NT uses of bdelygma are in eschatological/apocalyptic contexts tied to Daniel. When Jesus says "the abomination of desolation, spoken of by Daniel the prophet" (Mat 24:15), he uses this specific Greek word that the LXX chose to translate Daniel's Hebrew shiqquts -- preserving the connotation of idolatrous sacrilege.
 
 ---
 
-## 5. ἐρήμωσις (eremosis) - [G2050](https://www.blueletterbible.org/lexicon/g2050/kjv/tr/0-1/){:target="_blank"} - "desolation"
+## 5. ἐρήμωσις (eremosis) - G2050 - "desolation"
 
 **Original:** ἐρήμωσις
 **Transliteration:** erḗmōsis
@@ -146,7 +146,7 @@ The Greek phrase is VERBATIM from LXX Daniel 7:8,20. Revelation ADDS "kai blasph
 
 ---
 
-## 6. σφραγίς (sphragis) - [G4973](https://www.blueletterbible.org/lexicon/g4973/kjv/tr/0-1/){:target="_blank"} - "seal" (noun)
+## 6. σφραγίς (sphragis) - G4973 - "seal" (noun)
 
 **Original:** σφραγίς
 **Transliteration:** sphragís
@@ -170,7 +170,7 @@ The Greek phrase is VERBATIM from LXX Daniel 7:8,20. Revelation ADDS "kai blasph
 
 ---
 
-## 7. σφραγίζω (sphragizo) - [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} - "to seal" (verb)
+## 7. σφραγίζω (sphragizo) - G4972 - "to seal" (verb)
 
 **Original:** σφραγίζω
 **Transliteration:** sphragízō
@@ -193,7 +193,7 @@ The Greek phrase is VERBATIM from LXX Daniel 7:8,20. Revelation ADDS "kai blasph
 
 ---
 
-## 8. ἀνομία (anomia) - [G458](https://www.blueletterbible.org/lexicon/g458/kjv/tr/0-1/){:target="_blank"} - "lawlessness / iniquity"
+## 8. ἀνομία (anomia) - G458 - "lawlessness / iniquity"
 
 **Original:** ἀνομία
 **Transliteration:** anomía
@@ -221,7 +221,7 @@ Dan 7:25: "think to change **times and laws**"
 
 ---
 
-## 9. ἀπώλεια (apoleia) - [G684](https://www.blueletterbible.org/lexicon/g684/kjv/tr/0-1/){:target="_blank"} - "perdition / destruction"
+## 9. ἀπώλεια (apoleia) - G684 - "perdition / destruction"
 
 **Original:** ἀπώλεια
 **Transliteration:** apṓleia
@@ -250,7 +250,7 @@ The beast of Revelation is described as going "into perdition" (Rev 17:8,11) -- 
 
 ---
 
-## 10. ἀντίχριστος (antichristos) - [G500](https://www.blueletterbible.org/lexicon/g500/kjv/tr/0-1/){:target="_blank"} - "antichrist"
+## 10. ἀντίχριστος (antichristos) - G500 - "antichrist"
 
 **Original:** ἀντίχριστος
 **Transliteration:** antíchristos
@@ -278,7 +278,7 @@ This parallels Paul's "already at work" in 2Th 2:7 (ἤδη ἐνεργεῖτα
 
 ---
 
-## 11. καιρός (kairos) - [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} - "appointed time / season"
+## 11. καιρός (kairos) - G2540 - "appointed time / season"
 
 **Original:** καιρός
 **Transliteration:** kairós
@@ -314,7 +314,7 @@ The "time, times, half a time" formula traverses three languages:
 
 ---
 
-## 12. ναός (naos) - [G3485](https://www.blueletterbible.org/lexicon/g3485/kjv/tr/0-1/){:target="_blank"} - "temple / shrine"
+## 12. ναός (naos) - G3485 - "temple / shrine"
 
 **Original:** ναός
 **Transliteration:** naós
@@ -342,7 +342,7 @@ The "time, times, half a time" formula traverses three languages:
 
 ---
 
-## 13. שִׁקּוּץ (shiqquts) - [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} - "abomination / idol"
+## 13. שִׁקּוּץ (shiqquts) - H8251 - "abomination / idol"
 
 **Original:** שִׁקּוּץ
 **Transliteration:** shiqqûwts
@@ -367,7 +367,7 @@ Every single occurrence of shiqquts in the OT refers to an idolatrous object or 
 
 ---
 
-## 14. עִדָּן (iddan) - [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} - Aramaic "time"
+## 14. עִדָּן (iddan) - H5732 - Aramaic "time"
 
 **Original:** עִדָּן
 **Transliteration:** ʻiddân
@@ -385,7 +385,7 @@ All three words carry the sense of "appointed/set time," and all three appear in
 
 ---
 
-## 15. מוֹעֵד (moed) - [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} - "appointed time / assembly"
+## 15. מוֹעֵד (moed) - H4150 - "appointed time / assembly"
 
 **Original:** מוֹעֵד
 **Transliteration:** môwʻêd

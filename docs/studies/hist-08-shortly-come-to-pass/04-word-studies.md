@@ -5,7 +5,7 @@ What does "shortly come to pass" (*en tachei*) in Revelation 1:1 and 22:6 actual
 
 ---
 
-## [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} — τάχος (tachos) — quickness, speed
+## G5034 — τάχος (tachos) — quickness, speed
 
 **Original:** τάχος
 **Transliteration:** táchos
@@ -44,12 +44,12 @@ The eschatological uses cannot be reduced to simple temporal nearness:
 - Romans 16:20: "shortly" in context of Gen 3:15 promise — still unfulfilled ~2,000 years later
 
 ### Hebrew Background (via LXX mapping)
-[H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} meherah maps to [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} tachos in the LXX (5 shared occurrences, PMI: 8.47). The Hebrew source words:
-- **[H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} meherah** (score: 15.17) — "a hurry; promptly" — 20 OT occurrences
-- **[H4118](https://www.blueletterbible.org/lexicon/h4118/kjv/wlc/0-1/){:target="_blank"} maher** (score: 13.49) — "hurrying, hastily"
-- **[H4116](https://www.blueletterbible.org/lexicon/h4116/kjv/wlc/0-1/){:target="_blank"} mahar** (score: 10.56) — root verb: "to hurry, flow easily" — 64 OT occurrences
+H4120 meherah maps to G5034 tachos in the LXX (5 shared occurrences, PMI: 8.47). The Hebrew source words:
+- **H4120 meherah** (score: 15.17) — "a hurry; promptly" — 20 OT occurrences
+- **H4118 maher** (score: 13.49) — "hurrying, hastily"
+- **H4116 mahar** (score: 10.56) — root verb: "to hurry, flow easily" — 64 OT occurrences
 
-Key [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} (meherah) occurrences showing manner-of-action:
+Key H4120 (meherah) occurrences showing manner-of-action:
 - Ps 147:15 — "his word runneth **swiftly**" (manner of divine word)
 - Isa 5:26 — nations come "with **speed**" (manner of military movement)
 - Eccl 8:11 — sentence not executed "**speedily**" (moral function — preventing complacency)
@@ -57,7 +57,7 @@ Key [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target=
 
 ---
 
-## [G5035](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/){:target="_blank"} — ταχύ (tachy) — quickly
+## G5035 — ταχύ (tachy) — quickly
 
 **Original:** ταχύ
 **Transliteration:** tachý
@@ -97,7 +97,7 @@ Key [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target=
 
 ---
 
-## [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} — ὑπομονή (hypomonE) — patience, endurance
+## G5281 — ὑπομονή (hypomonE) — patience, endurance
 
 **Original:** ὑπομονή
 **Transliteration:** hupŏmŏnē
@@ -141,7 +141,7 @@ The 7 hypomonE references co-occur with 8+ "quickly/shortly" references across R
 
 ---
 
-## [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} — καιρός (kairos) — appointed time, season
+## G2540 — καιρός (kairos) — appointed time, season
 
 **Original:** καιρός
 **Transliteration:** kairós
@@ -167,7 +167,7 @@ The 7 hypomonE references co-occur with 8+ "quickly/shortly" references across R
 
 ---
 
-## [G1451](https://www.blueletterbible.org/lexicon/g1451/kjv/tr/0-1/){:target="_blank"} — ἐγγύς (engys) — near, at hand
+## G1451 — ἐγγύς (engys) — near, at hand
 
 **Original:** ἐγγύς
 **Transliteration:** engýs
@@ -187,7 +187,7 @@ The 7 hypomonE references co-occur with 8+ "quickly/shortly" references across R
 
 ---
 
-## [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} — δεῖ (dei) — it is necessary, must
+## G1163 — δεῖ (dei) — it is necessary, must
 
 **Original:** δεῖ
 **Transliteration:** deî
@@ -205,7 +205,7 @@ dei (present tense, active indicative, 3rd singular) conveys **divine necessity*
 
 ---
 
-## [G3114](https://www.blueletterbible.org/lexicon/g3114/kjv/tr/0-1/){:target="_blank"} — μακροθυμέω (makrothumeO) — to be long-spirited, patient
+## G3114 — μακροθυμέω (makrothumeO) — to be long-spirited, patient
 
 **Original:** μακροθυμέω
 **Transliteration:** makrothyméō
@@ -230,7 +230,7 @@ makrothumeO is the positive counterpart to bradynO: God is not "slow/slack" (bra
 
 ---
 
-## [G1019](https://www.blueletterbible.org/lexicon/g1019/kjv/tr/0-1/){:target="_blank"} — βραδύνω (bradynO) — to delay, be slow
+## G1019 — βραδύνω (bradynO) — to delay, be slow
 
 **Original:** βραδύνω
 **Transliteration:** bradýnō
@@ -251,7 +251,7 @@ Peter uses bradynO to deny that God is "delaying" and uses makrothumeO to explai
 
 ---
 
-## [G1022](https://www.blueletterbible.org/lexicon/g1022/kjv/tr/0-1/){:target="_blank"} — βραδύτης (bradytes) — slackness, tardiness
+## G1022 — βραδύτης (bradytes) — slackness, tardiness
 
 **Original:** βραδύτης
 **Transliteration:** bradýtēs
@@ -263,7 +263,7 @@ Peter uses bradynO to deny that God is "delaying" and uses makrothumeO to explai
 
 ---
 
-## [G5549](https://www.blueletterbible.org/lexicon/g5549/kjv/tr/0-1/){:target="_blank"} — χρονίζω (chronizO) — to delay, tarry
+## G5549 — χρονίζω (chronizO) — to delay, tarry
 
 **Original:** χρονίζω
 **Transliteration:** chronízō
@@ -289,7 +289,7 @@ The NT parables thus INCORPORATE delay into the eschatological framework while m
 
 ---
 
-## [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} — מְהֵרָה (meherah) — hurry, speed
+## H4120 — מְהֵרָה (meherah) — hurry, speed
 
 **Original:** מְהֵרָה
 **Transliteration:** mᵉhêrâh
@@ -321,8 +321,8 @@ The NT parables thus INCORPORATE delay into the eschatological framework while m
 
 ### LXX Mapping to Greek
 meherah (H4120) maps to the tachos word-group in the LXX:
-- [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} tachos (5 shared, PMI: 8.47) — PRIMARY
-- [G5030](https://www.blueletterbible.org/lexicon/g5030/kjv/tr/0-1/){:target="_blank"} tacheOs (3 shared, PMI: 8.92) — speedily
-- [G5036](https://www.blueletterbible.org/lexicon/g5036/kjv/tr/0-1/){:target="_blank"} tachys-forms (8 shared) — quick/swift
+- G5034 tachos (5 shared, PMI: 8.47) — PRIMARY
+- G5030 tacheOs (3 shared, PMI: 8.92) — speedily
+- G5036 tachys-forms (8 shared) — quick/swift
 
 This confirms that the Greek tachos carries the Hebrew semantic range of meherah, which predominantly describes **the manner of divine action** (how God acts once He acts) rather than calendar proximity.

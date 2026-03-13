@@ -29,7 +29,7 @@
 ### 3. rev-6-14-vs-16-20-same-event
 **Question:** Is Rev 6:14 the same event as Rev 16:20?
 **Key Findings:**
-- Rev 6:14 (kineo G2795) and Rev 16:20 (pheugo [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} + ouch heurethesan) describe the same event
+- Rev 6:14 (kineo G2795) and Rev 16:20 (pheugo G5343 + ouch heurethesan) describe the same event
 - Different emphasis: terror vs finality; or progression within same event
 - After 6th seal SC vision, narrative "rewinds"; after 7th bowl, narrative proceeds forward
 - This IS recapitulation structure
@@ -61,7 +61,7 @@
 **Question:** Are trumpets warnings during intercession?
 **Key Findings:**
 - Incense scene (Rev 8:3-5): prayers ascending = open intercession
-- 1/3 limitation (tritos [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"}, 13+ times in trumpets, 0 in bowls): partial warnings
+- 1/3 limitation (tritos G5154, 13+ times in trumpets, 0 in bowls): partial warnings
 - "Repented not" (Rev 9:20-21): presupposes repentance possible = probation open
 - Feast of Trumpets (Lev 23:24, Tishri 1) precedes Day of Atonement (Lev 23:27, Tishri 10)
 

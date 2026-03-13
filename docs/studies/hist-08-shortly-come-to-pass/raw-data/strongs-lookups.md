@@ -1,12 +1,12 @@
 # Raw Data: Strong's Lookups
 
-## [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} — τάχος (tachos) — quickness/speed
+## G5034 — τάχος (tachos) — quickness/speed
 - Transliteration: táchos
 - POS: neuter noun
 - BLB Count: 7
 - Definition: a brief space (of time), i.e. (with en) in haste
 - Translations: shortly (4x: Acts 25:4, Rom 16:20, Rev 1:1, Rev 22:6), quickly (3x: Acts 12:7, Acts 22:18, Rev 2:5), speedily (1x: Luk 18:8)
-- Total: 8 KJV occurrences, 7 unique verses (Rev 2:5 maps to [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} in some MSS)
+- Total: 8 KJV occurrences, 7 unique verses (Rev 2:5 maps to G5034 in some MSS)
 - Outline: Luke 18:8; Acts 12:7; 22:18; 25:4; Romans 16:20; 1 Timothy 3:14; Revelation 1:1; 22:6
 
 ### Verses by translation:
@@ -15,13 +15,13 @@
 - "speedily": Luk 18:8
 
 ### Hebrew sources (via --hebrew-source G5034):
-- [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} meherah (count: 5, PMI: 8.47, score: 15.17) — PRIMARY COGNATE
-- [H4118](https://www.blueletterbible.org/lexicon/h4118/kjv/wlc/0-1/){:target="_blank"} maher (count: 4, PMI: 8.38, score: 13.49) — hurrying, hastily
-- [H4116](https://www.blueletterbible.org/lexicon/h4116/kjv/wlc/0-1/){:target="_blank"} mahar (count: 4, PMI: 6.56, score: 10.56) — root verb: to hurry/flow easily
+- H4120 meherah (count: 5, PMI: 8.47, score: 15.17) — PRIMARY COGNATE
+- H4118 maher (count: 4, PMI: 8.38, score: 13.49) — hurrying, hastily
+- H4116 mahar (count: 4, PMI: 6.56, score: 10.56) — root verb: to hurry/flow easily
 
 ---
 
-## [G5035](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/){:target="_blank"} — ταχύ (tachy) — quickly
+## G5035 — ταχύ (tachy) — quickly
 - Transliteration: tachý
 - POS: adverb
 - BLB Count: 13
@@ -32,7 +32,7 @@
 
 ---
 
-## [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} — ὑπομονή (hypomonE) — patience/endurance
+## G5281 — ὑπομονή (hypomonE) — patience/endurance
 - Transliteration: hupŏmŏnē
 - POS: feminine noun
 - BLB Count: 32
@@ -46,7 +46,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} — καιρός (kairos) — appointed time/season
+## G2540 — καιρός (kairos) — appointed time/season
 - Transliteration: kairós
 - POS: masculine noun
 - BLB Count: 87
@@ -57,7 +57,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G5550](https://www.blueletterbible.org/lexicon/g5550/kjv/tr/0-1/){:target="_blank"} — χρόνος (chronos) — time/duration
+## G5550 — χρόνος (chronos) — time/duration
 - Transliteration: chrónos
 - POS: masculine noun
 - BLB Count: 53
@@ -68,7 +68,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G1451](https://www.blueletterbible.org/lexicon/g1451/kjv/tr/0-1/){:target="_blank"} — ἐγγύς (engys) — near/at hand
+## G1451 — ἐγγύς (engys) — near/at hand
 - Transliteration: engýs
 - POS: adverb
 - BLB Count: 30
@@ -78,7 +78,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} — δεῖ (dei) — it is necessary/must
+## G1163 — δεῖ (dei) — it is necessary/must
 - Transliteration: deî
 - POS: verb
 - BLB Count: 106
@@ -89,7 +89,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G3114](https://www.blueletterbible.org/lexicon/g3114/kjv/tr/0-1/){:target="_blank"} — μακροθυμέω (makrothumeO) — to be long-spirited/patient
+## G3114 — μακροθυμέω (makrothumeO) — to be long-spirited/patient
 - Transliteration: makrothyméō
 - POS: verb
 - BLB Count: 10
@@ -99,7 +99,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G1019](https://www.blueletterbible.org/lexicon/g1019/kjv/tr/0-1/){:target="_blank"} — βραδύνω (bradynO) — to delay/be slack
+## G1019 — βραδύνω (bradynO) — to delay/be slack
 - Transliteration: bradýnō
 - POS: verb
 - BLB Count: 2
@@ -111,7 +111,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G1022](https://www.blueletterbible.org/lexicon/g1022/kjv/tr/0-1/){:target="_blank"} — βραδύτης (bradytes) — slackness/tardiness
+## G1022 — βραδύτης (bradytes) — slackness/tardiness
 - Transliteration: bradýtēs
 - POS: feminine noun
 - BLB Count: 1
@@ -121,7 +121,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [G5549](https://www.blueletterbible.org/lexicon/g5549/kjv/tr/0-1/){:target="_blank"} — χρονίζω (chronizO) — to delay/tarry
+## G5549 — χρονίζω (chronizO) — to delay/tarry
 - Transliteration: chronízō
 - POS: verb
 - BLB Count: 5
@@ -132,7 +132,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 
 ---
 
-## [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} — מְהֵרָה (meherah) — hurry/speed
+## H4120 — מְהֵרָה (meherah) — hurry/speed
 - Transliteration: mᵉhêrâh
 - POS: feminine noun
 - BLB Count: 20
@@ -142,7 +142,7 @@ Luk 8:15; 21:19; Rom 5:3; 5:4; 8:25; 15:4; 2Co 6:4; 12:12; Col 1:11; 1Th 1:3; 2T
 - Key verses: Eccl 8:11 ("not executed speedily"); Ps 147:15 ("his word runneth swiftly"); Isa 5:26 ("with speed"); Jer 27:16 ("shortly")
 
 ### LXX mapping (H4120 -> Greek):
-- [G5036](https://www.blueletterbible.org/lexicon/g5036/kjv/tr/0-1/){:target="_blank"} (8x) — tachys-based forms
-- [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} tachos (5x, PMI: 8.47) — PRIMARY MAPPING
-- [G5030](https://www.blueletterbible.org/lexicon/g5030/kjv/tr/0-1/){:target="_blank"} tacheOs (3x, PMI: 8.92) — speedily
-- [G4692](https://www.blueletterbible.org/lexicon/g4692/kjv/tr/0-1/){:target="_blank"} speudO (3x, PMI: 6.24) — to hasten
+- G5036 (8x) — tachys-based forms
+- G5034 tachos (5x, PMI: 8.47) — PRIMARY MAPPING
+- G5030 tacheOs (3x, PMI: 8.92) — speedily
+- G4692 speudO (3x, PMI: 6.24) — to hasten

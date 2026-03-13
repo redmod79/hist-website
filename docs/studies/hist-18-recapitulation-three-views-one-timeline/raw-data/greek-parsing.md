@@ -6,19 +6,19 @@ Greek Text: hoti elthen he hemera he megale tes orges auton, kai tis dynatai sta
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| hoti | hoti | [G3754](https://www.blueletterbible.org/lexicon/g3754/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| **elthen** | **erchomai** | **[G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"}** | **V-2AAI-3S (Aorist Active Indicative, 3rd Singular)** |
-| he | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | T-NSF (Article Nom Sg F) |
-| hemera | hemera | [G2250](https://www.blueletterbible.org/lexicon/g2250/kjv/tr/0-1/){:target="_blank"} | N-NSF (Noun Nom Sg F) |
-| he | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | T-NSF |
-| megale | megas | [G3173](https://www.blueletterbible.org/lexicon/g3173/kjv/tr/0-1/){:target="_blank"} | A-NSF (Adj Nom Sg F) |
-| tes | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | T-GSF (Article Gen Sg F) |
-| **orges** | **orge** | **[G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"}** | **N-GSF (Noun Gen Sg F)** |
-| auton | autos | [G846](https://www.blueletterbible.org/lexicon/g846/kjv/tr/0-1/){:target="_blank"} | P-GPM (Pronoun Gen Pl M) |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| tis | tis | [G5101](https://www.blueletterbible.org/lexicon/g5101/kjv/tr/0-1/){:target="_blank"} | I-NSM (Interrogative Nom Sg M) |
-| dynatai | dynamai | [G1410](https://www.blueletterbible.org/lexicon/g1410/kjv/tr/0-1/){:target="_blank"} | V-PNI-3S (Pres M/P Ind 3S) |
-| stathenai | histemi | [G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"} | V-APN (Aor Pass Inf) |
+| hoti | hoti | G3754 | CONJ |
+| **elthen** | **erchomai** | **G2064** | **V-2AAI-3S (Aorist Active Indicative, 3rd Singular)** |
+| he | ho | G3588 | T-NSF (Article Nom Sg F) |
+| hemera | hemera | G2250 | N-NSF (Noun Nom Sg F) |
+| he | ho | G3588 | T-NSF |
+| megale | megas | G3173 | A-NSF (Adj Nom Sg F) |
+| tes | ho | G3588 | T-GSF (Article Gen Sg F) |
+| **orges** | **orge** | **G3709** | **N-GSF (Noun Gen Sg F)** |
+| auton | autos | G846 | P-GPM (Pronoun Gen Pl M) |
+| kai | kai | G2532 | CONJ |
+| tis | tis | G5101 | I-NSM (Interrogative Nom Sg M) |
+| dynatai | dynamai | G1410 | V-PNI-3S (Pres M/P Ind 3S) |
+| stathenai | histemi | G2476 | V-APN (Aor Pass Inf) |
 
 **Critical parsing:** elthen = aorist active indicative 3rd singular of erchomai. The aorist presents the arrival of wrath as a completed/punctiliar event. "The great day of their wrath HAS COME."
 
@@ -30,28 +30,28 @@ Greek Text: kai ta ethne orgisthesan, kai elthen he orge sou kai ho kairos ton n
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| ta | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | T-NPN |
-| ethne | ethnos | [G1484](https://www.blueletterbible.org/lexicon/g1484/kjv/tr/0-1/){:target="_blank"} | N-NPN (nations) |
-| **orgisthesan** | **orgizo** | **[G3710](https://www.blueletterbible.org/lexicon/g3710/kjv/tr/0-1/){:target="_blank"}** | **V-API-3P (Aor Pass Ind 3rd Plural)** |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| **elthen** | **erchomai** | **[G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"}** | **V-2AAI-3S (Aorist Active Indicative, 3rd Singular)** |
-| **he** | **ho** | **[G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"}** | **T-NSF** |
-| **orge** | **orge** | **[G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"}** | **N-NSF (Noun Nom Sg F)** |
-| sou | sy | [G4771](https://www.blueletterbible.org/lexicon/g4771/kjv/tr/0-1/){:target="_blank"} | P-2GS (Pronoun Gen Sg) |
+| kai | kai | G2532 | CONJ |
+| ta | ho | G3588 | T-NPN |
+| ethne | ethnos | G1484 | N-NPN (nations) |
+| **orgisthesan** | **orgizo** | **G3710** | **V-API-3P (Aor Pass Ind 3rd Plural)** |
+| kai | kai | G2532 | CONJ |
+| **elthen** | **erchomai** | **G2064** | **V-2AAI-3S (Aorist Active Indicative, 3rd Singular)** |
+| **he** | **ho** | **G3588** | **T-NSF** |
+| **orge** | **orge** | **G3709** | **N-NSF (Noun Nom Sg F)** |
+| sou | sy | G4771 | P-2GS (Pronoun Gen Sg) |
 | kai ho kairos | ... | ... | "and the time" |
-| ton nekron | nekros | [G3498](https://www.blueletterbible.org/lexicon/g3498/kjv/tr/0-1/){:target="_blank"} | "of the dead" (Gen Pl M) |
-| krithenai | krino | [G2919](https://www.blueletterbible.org/lexicon/g2919/kjv/tr/0-1/){:target="_blank"} | V-APN (Aor Pass Inf — "to be judged") |
-| dounai | didomi | [G1325](https://www.blueletterbible.org/lexicon/g1325/kjv/tr/0-1/){:target="_blank"} | V-2AAN (Aor Act Inf — "to give") |
-| ton misthon | misthos | [G3408](https://www.blueletterbible.org/lexicon/g3408/kjv/tr/0-1/){:target="_blank"} | "the reward" (Acc Sg M) |
+| ton nekron | nekros | G3498 | "of the dead" (Gen Pl M) |
+| krithenai | krino | G2919 | V-APN (Aor Pass Inf — "to be judged") |
+| dounai | didomi | G1325 | V-2AAN (Aor Act Inf — "to give") |
+| ton misthon | misthos | G3408 | "the reward" (Acc Sg M) |
 | tois doulois sou tois prophetais | ... | ... | "to your servants the prophets" |
-| kai tois hagiois | hagios | [G40](https://www.blueletterbible.org/lexicon/g40/kjv/tr/0-1/){:target="_blank"} | "and to the saints" |
-| kai tois phoboumenois | phobeo | [G5399](https://www.blueletterbible.org/lexicon/g5399/kjv/tr/0-1/){:target="_blank"} | V-PNP-DPM "and to those fearing" |
-| to onoma sou | onoma | [G3686](https://www.blueletterbible.org/lexicon/g3686/kjv/tr/0-1/){:target="_blank"} | "your name" |
-| tois mikrois kai tois megalois | mikros/megas | [G3398](https://www.blueletterbible.org/lexicon/g3398/kjv/tr/0-1/){:target="_blank"}/G3173 | "the small and the great" |
-| kai diaphtheirai | diaphtheiro | [G1311](https://www.blueletterbible.org/lexicon/g1311/kjv/tr/0-1/){:target="_blank"} | V-AAN (Aor Act Inf — "and to destroy") |
-| tous diaphtheirontas | diaphtheiro | [G1311](https://www.blueletterbible.org/lexicon/g1311/kjv/tr/0-1/){:target="_blank"} | V-PAP-APM (Pres Act Ptcp — "those destroying") |
-| ten gen | ge | [G1093](https://www.blueletterbible.org/lexicon/g1093/kjv/tr/0-1/){:target="_blank"} | "the earth" |
+| kai tois hagiois | hagios | G40 | "and to the saints" |
+| kai tois phoboumenois | phobeo | G5399 | V-PNP-DPM "and to those fearing" |
+| to onoma sou | onoma | G3686 | "your name" |
+| tois mikrois kai tois megalois | mikros/megas | G3398/G3173 | "the small and the great" |
+| kai diaphtheirai | diaphtheiro | G1311 | V-AAN (Aor Act Inf — "and to destroy") |
+| tous diaphtheirontas | diaphtheiro | G1311 | V-PAP-APM (Pres Act Ptcp — "those destroying") |
+| ten gen | ge | G1093 | "the earth" |
 
 **Critical parsing:** IDENTICAL construction to 6:17 — elthen (V-2AAI-3S) + he orge (N-NSF) = "the wrath has come." The only difference is the possessive sou ("thy wrath") and the addition of "and the time of the dead to be judged." Both declare wrath as having arrived (aorist).
 
@@ -63,20 +63,20 @@ Greek Text: Kai ho hebdomos execheen ten phialen autou epi ton aera; kai exelthe
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| Kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| ho | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | T-NSM |
-| hebdomos | hebdomos | [G1442](https://www.blueletterbible.org/lexicon/g1442/kjv/tr/0-1/){:target="_blank"} | A-NSM (seventh) |
-| execheen | ekcheo | [G1632](https://www.blueletterbible.org/lexicon/g1632/kjv/tr/0-1/){:target="_blank"} | V-AAI-3S (poured out) |
-| ten phialen | phiale | [G5357](https://www.blueletterbible.org/lexicon/g5357/kjv/tr/0-1/){:target="_blank"} | N-ASF (the bowl) |
-| autou | autos | [G846](https://www.blueletterbible.org/lexicon/g846/kjv/tr/0-1/){:target="_blank"} | P-GSM |
-| epi ton aera | aer | [G109](https://www.blueletterbible.org/lexicon/g109/kjv/tr/0-1/){:target="_blank"} | upon the air |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| exelthen | exerchomai | [G1831](https://www.blueletterbible.org/lexicon/g1831/kjv/tr/0-1/){:target="_blank"} | V-2AAI-3S (came out) |
-| phone megale | phone/megas | [G5456](https://www.blueletterbible.org/lexicon/g5456/kjv/tr/0-1/){:target="_blank"}/G3173 | a great voice |
-| ek tou naou | naos | [G3485](https://www.blueletterbible.org/lexicon/g3485/kjv/tr/0-1/){:target="_blank"} | from the temple |
-| apo tou thronou | thronos | [G2362](https://www.blueletterbible.org/lexicon/g2362/kjv/tr/0-1/){:target="_blank"} | from the throne |
-| legousa | lego | [G3004](https://www.blueletterbible.org/lexicon/g3004/kjv/tr/0-1/){:target="_blank"} | V-PAP-NSF (saying) |
-| **Gegonen** | **ginomai** | **[G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"}** | **V-2RAI-3S (Perfect Active Indicative, 3rd Singular)** |
+| Kai | kai | G2532 | CONJ |
+| ho | ho | G3588 | T-NSM |
+| hebdomos | hebdomos | G1442 | A-NSM (seventh) |
+| execheen | ekcheo | G1632 | V-AAI-3S (poured out) |
+| ten phialen | phiale | G5357 | N-ASF (the bowl) |
+| autou | autos | G846 | P-GSM |
+| epi ton aera | aer | G109 | upon the air |
+| kai | kai | G2532 | CONJ |
+| exelthen | exerchomai | G1831 | V-2AAI-3S (came out) |
+| phone megale | phone/megas | G5456/G3173 | a great voice |
+| ek tou naou | naos | G3485 | from the temple |
+| apo tou thronou | thronos | G2362 | from the throne |
+| legousa | lego | G3004 | V-PAP-NSF (saying) |
+| **Gegonen** | **ginomai** | **G1096** | **V-2RAI-3S (Perfect Active Indicative, 3rd Singular)** |
 
 **Critical parsing:** Gegonen = perfect tense of ginomai. The PERFECT tense (not aorist like elthen) indicates a completed state with ongoing results — "it has been accomplished and remains so." This is STRONGER than the aorist at 6:17 and 11:18. The same form reappears at Rev 21:6 ("It is done") in the new creation.
 
@@ -88,12 +88,12 @@ Greek Text: kai ho ouranos apechoristhe hos biblion helissomenon, kai pan oros k
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| kai pan | pas | [G3956](https://www.blueletterbible.org/lexicon/g3956/kjv/tr/0-1/){:target="_blank"} | "and every" (A-NSN) |
-| **oros** | **oros** | **[G3735](https://www.blueletterbible.org/lexicon/g3735/kjv/tr/0-1/){:target="_blank"}** | **N-NSN (mountain, Nom Sg N)** |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| **nesos** | **nesos** | **[G3520](https://www.blueletterbible.org/lexicon/g3520/kjv/tr/0-1/){:target="_blank"}** | **N-NSF (island, Nom Sg F)** |
-| ek ton topon auton | topos | [G5117](https://www.blueletterbible.org/lexicon/g5117/kjv/tr/0-1/){:target="_blank"} | "out of their places" (Gen Pl M) |
-| **ekinethisan** | **kineo** | **[G2795](https://www.blueletterbible.org/lexicon/g2795/kjv/tr/0-1/){:target="_blank"}** | **V-API-3P (Aorist Passive Indicative, 3rd Plural)** |
+| kai pan | pas | G3956 | "and every" (A-NSN) |
+| **oros** | **oros** | **G3735** | **N-NSN (mountain, Nom Sg N)** |
+| kai | kai | G2532 | CONJ |
+| **nesos** | **nesos** | **G3520** | **N-NSF (island, Nom Sg F)** |
+| ek ton topon auton | topos | G5117 | "out of their places" (Gen Pl M) |
+| **ekinethisan** | **kineo** | **G2795** | **V-API-3P (Aorist Passive Indicative, 3rd Plural)** |
 
 **Critical parsing:** ekinethisan = aorist passive of kineo — "were moved." Passive voice = acted upon by external force. The subject "every mountain and island" is singular (pan oros kai nesos) but the verb is plural (ekinethisan), suggesting they are treated as a collective group. kineo = displacement, shaking, being moved from one's place.
 
@@ -105,14 +105,14 @@ Greek Text: kai pasa nesos ephugen, kai ore ouch heurethesan.
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| pasa | pas | [G3956](https://www.blueletterbible.org/lexicon/g3956/kjv/tr/0-1/){:target="_blank"} | A-NSF (every) |
-| **nesos** | **nesos** | **[G3520](https://www.blueletterbible.org/lexicon/g3520/kjv/tr/0-1/){:target="_blank"}** | **N-NSF (island)** |
-| **ephugen** | **pheugo** | **[G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"}** | **V-2AAI-3S (Aorist Active Indicative, 3rd Sg)** |
-| kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| **ore** | **oros** | **[G3735](https://www.blueletterbible.org/lexicon/g3735/kjv/tr/0-1/){:target="_blank"}** | **N-NPN (mountains, Nom Plural N)** |
-| ouch | ou | [G3756](https://www.blueletterbible.org/lexicon/g3756/kjv/tr/0-1/){:target="_blank"} | PRT-N (negation) |
-| **heurethesan** | **heurisko** | **[G2147](https://www.blueletterbible.org/lexicon/g2147/kjv/tr/0-1/){:target="_blank"}** | **V-API-3P (Aorist Passive Indicative, 3rd Pl)** |
+| kai | kai | G2532 | CONJ |
+| pasa | pas | G3956 | A-NSF (every) |
+| **nesos** | **nesos** | **G3520** | **N-NSF (island)** |
+| **ephugen** | **pheugo** | **G5343** | **V-2AAI-3S (Aorist Active Indicative, 3rd Sg)** |
+| kai | kai | G2532 | CONJ |
+| **ore** | **oros** | **G3735** | **N-NPN (mountains, Nom Plural N)** |
+| ouch | ou | G3756 | PRT-N (negation) |
+| **heurethesan** | **heurisko** | **G2147** | **V-API-3P (Aorist Passive Indicative, 3rd Pl)** |
 
 **Critical parsing:** TWO verbs of destruction:
 1. ephugen (pheugo, aorist ACTIVE) — islands "fled away" — personification, as if running
@@ -130,17 +130,17 @@ Greek Text: legon en phone megale; Phobethete ton Theon kai dote auto doxan, hot
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| Phobethete | phobeo | [G5399](https://www.blueletterbible.org/lexicon/g5399/kjv/tr/0-1/){:target="_blank"} | V-AOM-2P (Aor Pass Imperative — "Fear!") |
-| ton Theon | theos | [G2316](https://www.blueletterbible.org/lexicon/g2316/kjv/tr/0-1/){:target="_blank"} | N-ASM (God) |
-| kai dote | didomi | [G1325](https://www.blueletterbible.org/lexicon/g1325/kjv/tr/0-1/){:target="_blank"} | V-2AAM-2P (Aor Act Imperative — "give!") |
-| auto doxan | doxa | [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} | "him glory" |
-| hoti | hoti | [G3754](https://www.blueletterbible.org/lexicon/g3754/kjv/tr/0-1/){:target="_blank"} | CONJ (because) |
-| **elthen** | **erchomai** | **[G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"}** | **V-2AAI-3S (Aorist Active Indicative, 3rd Sg)** |
-| **he hora** | **hora** | **[G5610](https://www.blueletterbible.org/lexicon/g5610/kjv/tr/0-1/){:target="_blank"}** | **N-NSF (the hour)** |
-| **tes kriseos** | **krisis** | **[G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}** | **N-GSF (of the judgment)** |
-| autou | autos | [G846](https://www.blueletterbible.org/lexicon/g846/kjv/tr/0-1/){:target="_blank"} | P-GSM (his) |
-| kai proskynesate | proskyneo | [G4352](https://www.blueletterbible.org/lexicon/g4352/kjv/tr/0-1/){:target="_blank"} | V-AAM-2P (Aor Act Imperative — "worship!") |
-| to poiesanti | poieo | [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} | V-AAP-DSM (the one who made) |
+| Phobethete | phobeo | G5399 | V-AOM-2P (Aor Pass Imperative — "Fear!") |
+| ton Theon | theos | G2316 | N-ASM (God) |
+| kai dote | didomi | G1325 | V-2AAM-2P (Aor Act Imperative — "give!") |
+| auto doxan | doxa | G1391 | "him glory" |
+| hoti | hoti | G3754 | CONJ (because) |
+| **elthen** | **erchomai** | **G2064** | **V-2AAI-3S (Aorist Active Indicative, 3rd Sg)** |
+| **he hora** | **hora** | **G5610** | **N-NSF (the hour)** |
+| **tes kriseos** | **krisis** | **G2920** | **N-GSF (of the judgment)** |
+| autou | autos | G846 | P-GSM (his) |
+| kai proskynesate | proskyneo | G4352 | V-AAM-2P (Aor Act Imperative — "worship!") |
+| to poiesanti | poieo | G4160 | V-AAP-DSM (the one who made) |
 | ton ouranon kai ten gen kai thalassan kai pegas hydaton | ... | ... | heaven, earth, sea, fountains of waters |
 
 **Critical parsing:** IDENTICAL elthen (V-2AAI-3S) to 6:17 and 11:18. The construction is "elthen he hora tes kriseos autou" = "the hour of his judgment has come." Same grammatical pattern: aorist erchomai + nominative subject declaring arrival of an eschatological moment.
@@ -153,15 +153,15 @@ Greek Text: Kai hotan enoixen ten sphragida ten hebdomen, egeneto sige en to our
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| Kai | kai | [G2532](https://www.blueletterbible.org/lexicon/g2532/kjv/tr/0-1/){:target="_blank"} | CONJ |
-| hotan | hotan | [G3752](https://www.blueletterbible.org/lexicon/g3752/kjv/tr/0-1/){:target="_blank"} | CONJ (when) |
-| enoixen | anoigo | [G455](https://www.blueletterbible.org/lexicon/g455/kjv/tr/0-1/){:target="_blank"} | V-AAI-3S (opened) |
-| ten sphragida | sphragis | [G4973](https://www.blueletterbible.org/lexicon/g4973/kjv/tr/0-1/){:target="_blank"} | N-ASF (the seal) |
-| ten hebdomen | hebdomos | [G1442](https://www.blueletterbible.org/lexicon/g1442/kjv/tr/0-1/){:target="_blank"} | A-ASF (the seventh) |
-| **egeneto** | **ginomai** | **[G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"}** | **V-2ADI-3S (Aorist Middle Indicative, 3rd Sg)** |
-| **sige** | **sige** | **[G4602](https://www.blueletterbible.org/lexicon/g4602/kjv/tr/0-1/){:target="_blank"}** | **N-NSF (silence)** |
-| en to ourano | ouranos | [G3772](https://www.blueletterbible.org/lexicon/g3772/kjv/tr/0-1/){:target="_blank"} | in heaven |
-| hos hemiorion | hemioron | [G2256](https://www.blueletterbible.org/lexicon/g2256/kjv/tr/0-1/){:target="_blank"} | N-ASN (about half an hour) |
+| Kai | kai | G2532 | CONJ |
+| hotan | hotan | G3752 | CONJ (when) |
+| enoixen | anoigo | G455 | V-AAI-3S (opened) |
+| ten sphragida | sphragis | G4973 | N-ASF (the seal) |
+| ten hebdomen | hebdomos | G1442 | A-ASF (the seventh) |
+| **egeneto** | **ginomai** | **G1096** | **V-2ADI-3S (Aorist Middle Indicative, 3rd Sg)** |
+| **sige** | **sige** | **G4602** | **N-NSF (silence)** |
+| en to ourano | ouranos | G3772 | in heaven |
+| hos hemiorion | hemioron | G2256 | N-ASN (about half an hour) |
 
 **Critical parsing:** egeneto (aorist middle of ginomai) — "there came to be silence." The 7th seal produces NO closing formula, NO kingdom declaration, NO theophany — only silence. This absence of expected climactic content is itself structural evidence that the 7th seal's content IS the trumpets (telescoping).
 
@@ -173,14 +173,14 @@ Greek Text: Kai eidon allo semeion en to ourano mega kai thaumaston, angelous he
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| plegas | plege | [G4127](https://www.blueletterbible.org/lexicon/g4127/kjv/tr/0-1/){:target="_blank"} | N-APF (plagues) |
-| hepta | hepta | [G2033](https://www.blueletterbible.org/lexicon/g2033/kjv/tr/0-1/){:target="_blank"} | A-NUI (seven) |
-| tas | ho | [G3588](https://www.blueletterbible.org/lexicon/g3588/kjv/tr/0-1/){:target="_blank"} | T-APF |
-| **eschatas** | **eschatos** | **[G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"}** | **A-APF-S (Adjective Acc Pl F, Superlative)** |
+| plegas | plege | G4127 | N-APF (plagues) |
+| hepta | hepta | G2033 | A-NUI (seven) |
+| tas | ho | G3588 | T-APF |
+| **eschatas** | **eschatos** | **G2078** | **A-APF-S (Adjective Acc Pl F, Superlative)** |
 | hoti en autais | ... | ... | "because in them" |
-| **etelesthe** | **teleo** | **[G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"}** | **V-API-3S (Aorist Passive Indicative — "was completed")** |
-| ho **thymos** | **thymos** | **[G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"}** | **N-NSM (the wrath/fury)** |
-| tou Theou | theos | [G2316](https://www.blueletterbible.org/lexicon/g2316/kjv/tr/0-1/){:target="_blank"} | "of God" |
+| **etelesthe** | **teleo** | **G5055** | **V-API-3S (Aorist Passive Indicative — "was completed")** |
+| ho **thymos** | **thymos** | **G2372** | **N-NSM (the wrath/fury)** |
+| tou Theou | theos | G2316 | "of God" |
 
 **Critical parsing:** eschatas (superlative of eschatos) = "last" — these are the final/ultimate plagues. teleo (etelesthe) = "was completed/finished" in aorist passive — God's fury reaches its completion in these seven plagues. This explicitly positions the bowls as the climactic final stage of divine judgment.
 
@@ -193,17 +193,17 @@ Greek Text: Kai ho hebdomos aggelos esalpisen; kai egenonto phonai megalai en to
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
 | ho hebdomos aggelos | ... | ... | "the seventh angel" |
-| **esalpisen** | **salpizo** | **[G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"}** | **V-AAI-3S (Aorist Act Ind — "sounded")** |
-| egenonto | ginomai | [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | V-2ADI-3P (Aorist Mid Ind 3P — "there came to be") |
-| phonai megalai | phone/megas | [G5456](https://www.blueletterbible.org/lexicon/g5456/kjv/tr/0-1/){:target="_blank"}/G3173 | "great voices" |
-| legontes | lego | [G3004](https://www.blueletterbible.org/lexicon/g3004/kjv/tr/0-1/){:target="_blank"} | V-PAP-NPM ("saying") |
-| **Egeneto** | **ginomai** | **[G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"}** | **V-2ADI-3S (Aorist Mid Ind — "became")** |
-| **he basileia** | **basileia** | **[G932](https://www.blueletterbible.org/lexicon/g932/kjv/tr/0-1/){:target="_blank"}** | **N-NSF (the kingdom)** |
-| tou kosmou | kosmos | [G2889](https://www.blueletterbible.org/lexicon/g2889/kjv/tr/0-1/){:target="_blank"} | "of the world" |
-| tou Kyriou hemon | kyrios | [G2962](https://www.blueletterbible.org/lexicon/g2962/kjv/tr/0-1/){:target="_blank"} | "of our Lord" |
-| kai tou Christou autou | Christos | [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} | "and of his Christ" |
-| kai basileusei | basileuo | [G936](https://www.blueletterbible.org/lexicon/g936/kjv/tr/0-1/){:target="_blank"} | V-FAI-3S ("and he shall reign") |
-| eis tous aionas ton aionon | aion | [G165](https://www.blueletterbible.org/lexicon/g165/kjv/tr/0-1/){:target="_blank"} | "forever and ever" |
+| **esalpisen** | **salpizo** | **G4537** | **V-AAI-3S (Aorist Act Ind — "sounded")** |
+| egenonto | ginomai | G1096 | V-2ADI-3P (Aorist Mid Ind 3P — "there came to be") |
+| phonai megalai | phone/megas | G5456/G3173 | "great voices" |
+| legontes | lego | G3004 | V-PAP-NPM ("saying") |
+| **Egeneto** | **ginomai** | **G1096** | **V-2ADI-3S (Aorist Mid Ind — "became")** |
+| **he basileia** | **basileia** | **G932** | **N-NSF (the kingdom)** |
+| tou kosmou | kosmos | G2889 | "of the world" |
+| tou Kyriou hemon | kyrios | G2962 | "of our Lord" |
+| kai tou Christou autou | Christos | G5547 | "and of his Christ" |
+| kai basileusei | basileuo | G936 | V-FAI-3S ("and he shall reign") |
+| eis tous aionas ton aionon | aion | G165 | "forever and ever" |
 
 **Critical parsing:** Egeneto he basileia = "the kingdom became" — aorist, declaring the kingdom transfer as accomplished. The future basileusi ("he shall reign") follows the aorist declaration, indicating the kingdom has been claimed and eternal reign follows.
 
@@ -252,13 +252,13 @@ Greek: kai eidon tous hepta angelous hoi enopion tou Theou hestēkasin, kai edot
 
 | Word | Lemma | Strong's | Parsing |
 |------|-------|----------|---------|
-| kai eidon | horao | [G3708](https://www.blueletterbible.org/lexicon/g3708/kjv/tr/0-1/){:target="_blank"} | V-2AAI-1S (I saw) |
-| tous hepta angelous | aggelos | [G32](https://www.blueletterbible.org/lexicon/g32/kjv/tr/0-1/){:target="_blank"} | the seven angels (Acc Pl) |
+| kai eidon | horao | G3708 | V-2AAI-1S (I saw) |
+| tous hepta angelous | aggelos | G32 | the seven angels (Acc Pl) |
 | hoi enopion tou Theou | ... | ... | who before God |
-| **hestēkasin** | **histēmi** | **[G2476](https://www.blueletterbible.org/lexicon/g2476/kjv/tr/0-1/){:target="_blank"}** | **V-RAI-3P (Perfect Active Indicative — "have been standing")** |
-| kai edothēsan | didomi | [G1325](https://www.blueletterbible.org/lexicon/g1325/kjv/tr/0-1/){:target="_blank"} | V-API-3P (Aorist Passive — "were given") |
-| autois | autos | [G846](https://www.blueletterbible.org/lexicon/g846/kjv/tr/0-1/){:target="_blank"} | to them |
-| hepta | hepta | [G2033](https://www.blueletterbible.org/lexicon/g2033/kjv/tr/0-1/){:target="_blank"} | seven |
-| **salpigges** | **salpinx** | **[G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"}** | **N-NPF (trumpets)** |
+| **hestēkasin** | **histēmi** | **G2476** | **V-RAI-3P (Perfect Active Indicative — "have been standing")** |
+| kai edothēsan | didomi | G1325 | V-API-3P (Aorist Passive — "were given") |
+| autois | autos | G846 | to them |
+| hepta | hepta | G2033 | seven |
+| **salpigges** | **salpinx** | **G4536** | **N-NPF (trumpets)** |
 
 **Critical observation:** Rev 8:1 (7th seal = silence) flows directly into 8:2 (seven angels given trumpets) with NO closing formula, no worship scene, no kingdom declaration. The 7th seal opens and its contents ARE the seven trumpets. This grammatical and literary continuity (kai + aorist sequence) is the structural basis for the telescoping model.

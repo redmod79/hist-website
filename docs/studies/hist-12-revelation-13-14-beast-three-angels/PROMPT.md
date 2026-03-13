@@ -99,18 +99,18 @@ INVESTIGATIVE METHODOLOGY:
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} | therion (wild beast, dangerous animal) | The beast of Rev 13:1; used 36x as "beast" — the primary term for the sea beast and earth beast |
-| [G2226](https://www.blueletterbible.org/lexicon/g2226/kjv/tr/0-1/){:target="_blank"} | zoon (living thing, animal) | Used for the four living creatures around God's throne (Rev 4); contrasts with therion |
-| [H929](https://www.blueletterbible.org/lexicon/h929/kjv/wlc/0-1/){:target="_blank"} | behemah (dumb beast, large quadruped) | OT beast vocabulary; connects to Daniel's beast imagery |
-| [G2326](https://www.blueletterbible.org/lexicon/g2326/kjv/tr/0-1/){:target="_blank"} | therismos (harvest, reaping, the crop) | Used 10x as "harvest" — the harvest of Rev 14:15; Matt 13:39 "harvest is end of the world" |
-| [G2325](https://www.blueletterbible.org/lexicon/g2325/kjv/tr/0-1/){:target="_blank"} | therizo (to harvest, to reap) | Used 5x as "reap" — the reaping action of Rev 14:15-16 |
-| [G1407](https://www.blueletterbible.org/lexicon/g1407/kjv/tr/0-1/){:target="_blank"} | drepanon (gathering hook, sickle) | Used 8x as "sickle" — the sickle in Rev 14:14-19 |
-| [H4038](https://www.blueletterbible.org/lexicon/h4038/kjv/wlc/0-1/){:target="_blank"} | maggal (sickle, for reaping) | OT sickle; Joel 3:13 "put ye in the sickle, for the harvest is ripe" |
-| [G32](https://www.blueletterbible.org/lexicon/g32/kjv/tr/0-1/){:target="_blank"} | aggelos (angel, messenger) | Used 71x as "angel" — the three angels of Rev 14:6-12 |
-| [G2098](https://www.blueletterbible.org/lexicon/g2098/kjv/tr/0-1/){:target="_blank"} | euaggelion (good message, gospel) | Used 64x as "gospel" — "the everlasting gospel" of Rev 14:6 |
-| [G2099](https://www.blueletterbible.org/lexicon/g2099/kjv/tr/0-1/){:target="_blank"} | euangelistes (preacher of the gospel, evangelist) | Related to the angel's proclamation role |
-| [G5456](https://www.blueletterbible.org/lexicon/g5456/kjv/tr/0-1/){:target="_blank"} | phone (voice, tone, sound) | Used 62x as "voice" — "saying with a loud voice" (Rev 14:7,9) |
-| [H3581](https://www.blueletterbible.org/lexicon/h3581/kjv/wlc/0-1/){:target="_blank"} | koach (vigor, strength, power) | Power/authority — relates to the beast's power (Rev 13:2) |
+| G2342 | therion (wild beast, dangerous animal) | The beast of Rev 13:1; used 36x as "beast" — the primary term for the sea beast and earth beast |
+| G2226 | zoon (living thing, animal) | Used for the four living creatures around God's throne (Rev 4); contrasts with therion |
+| H929 | behemah (dumb beast, large quadruped) | OT beast vocabulary; connects to Daniel's beast imagery |
+| G2326 | therismos (harvest, reaping, the crop) | Used 10x as "harvest" — the harvest of Rev 14:15; Matt 13:39 "harvest is end of the world" |
+| G2325 | therizo (to harvest, to reap) | Used 5x as "reap" — the reaping action of Rev 14:15-16 |
+| G1407 | drepanon (gathering hook, sickle) | Used 8x as "sickle" — the sickle in Rev 14:14-19 |
+| H4038 | maggal (sickle, for reaping) | OT sickle; Joel 3:13 "put ye in the sickle, for the harvest is ripe" |
+| G32 | aggelos (angel, messenger) | Used 71x as "angel" — the three angels of Rev 14:6-12 |
+| G2098 | euaggelion (good message, gospel) | Used 64x as "gospel" — "the everlasting gospel" of Rev 14:6 |
+| G2099 | euangelistes (preacher of the gospel, evangelist) | Related to the angel's proclamation role |
+| G5456 | phone (voice, tone, sound) | Used 62x as "voice" — "saying with a loud voice" (Rev 14:7,9) |
+| H3581 | koach (vigor, strength, power) | Power/authority — relates to the beast's power (Rev 13:2) |
 
 ### Related Existing Studies
 
@@ -170,7 +170,7 @@ INVESTIGATIVE METHODOLOGY:
 2. **Rev 13:5-7 Verbal Quotation of Dan 7:8 — "Mouth Speaking Great Things" + 42 Months:**
    WHAT: Rev 13:5 states "stoma laloun megala" — identical to Dan 7:8 (LXX/Theodotion). The 42-month duration explicitly matches Dan 7:25's "time, times, and half a time." Rev 13:7 "make war with the saints, and to overcome them" matches Dan 7:21.
    WHY: The daniel-7-8-9-revelation-parallels study confirmed this is a verbatim Greek quotation. This verbal identity proves literary dependence and same-referent identification.
-   HOW: Retrieve REV 13:5-7 full text. Run greek_parser.py on REV 13:5 and REV 13:6 and REV 13:7. Look up [G4750](https://www.blueletterbible.org/lexicon/g4750/kjv/tr/0-1/){:target="_blank"} (stoma), [G2980](https://www.blueletterbible.org/lexicon/g2980/kjv/tr/0-1/){:target="_blank"} (laleo), [G3173](https://www.blueletterbible.org/lexicon/g3173/kjv/tr/0-1/){:target="_blank"} (megas), [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia). Run cross-testament parallels on REV 13:5 (both OT and NT). Compare with Dan 7:8,20-21,25.
+   HOW: Retrieve REV 13:5-7 full text. Run greek_parser.py on REV 13:5 and REV 13:6 and REV 13:7. Look up G4750 (stoma), G2980 (laleo), G3173 (megas), G988 (blasphemia). Run cross-testament parallels on REV 13:5 (both OT and NT). Compare with Dan 7:8,20-21,25.
 
 3. **Rev 13:7 — "Power Over All Kindreds" and Universal Scope:**
    WHAT: "Power was given him over all kindreds, and tongues, and nations" (Rev 13:7). This echoes Dan 7:14 "all people, nations, and languages" and Rev 14:6 "every nation, and kindred, and tongue, and people."
@@ -180,27 +180,27 @@ INVESTIGATIVE METHODOLOGY:
 4. **Rev 13:11-18 — Earth Beast and the Image/Mark System:**
    WHAT: A second beast rises from the earth with two horns like a lamb but speaks as a dragon. It causes all to worship the sea beast, makes an image to it, and imposes a mark (charagma, G5480) on forehead or hand.
    WHY: The rev-13-image-mark-beast-worship-grammar study analyzed the Greek grammar. The mark-of-beast-vs-seal-of-god study established the mark/seal contrast. This power acts AFTER the sea beast's wound heals — a sequential requirement.
-   HOW: Retrieve REV 13:11-18 full text. Run greek_parser.py on REV 13:11, REV 13:14, REV 13:15, REV 13:16, REV 13:17. Look up [G5480](https://www.blueletterbible.org/lexicon/g5480/kjv/tr/0-1/){:target="_blank"} (charagma), [G1504](https://www.blueletterbible.org/lexicon/g1504/kjv/tr/0-1/){:target="_blank"} (eikon). Run cross-testament parallels on REV 13:15 and REV 13:16.
+   HOW: Retrieve REV 13:11-18 full text. Run greek_parser.py on REV 13:11, REV 13:14, REV 13:15, REV 13:16, REV 13:17. Look up G5480 (charagma), G1504 (eikon). Run cross-testament parallels on REV 13:15 and REV 13:16.
 
 5. **Rev 14:6-7 — First Angel: "Everlasting Gospel" + "Hour of His Judgment IS COME" (elthen, aorist):**
    WHAT: The first angel flies in mid-heaven with the "everlasting gospel" (euaggelion aionion) to every nation. The announcement: "Fear God, give glory, for the hour of his judgment IS COME (elthen)" and "worship him that made heaven, and earth, and the sea."
    WHY: The three-angels-messages study established: (a) elthen is aorist indicative = the judgment has arrived; (b) the Creator worship language echoes Exodus 20:11 word-for-word; (c) the LXX bridges OT concepts to NT usage. The hist-02 study linked this to Dan 7:9-10 judgment scene.
-   HOW: Retrieve REV 14:6-7 full text. Run greek_parser.py on REV 14:6 and REV 14:7. Look up [G2098](https://www.blueletterbible.org/lexicon/g2098/kjv/tr/0-1/){:target="_blank"} (euaggelion), [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (aionios), [G5399](https://www.blueletterbible.org/lexicon/g5399/kjv/tr/0-1/){:target="_blank"} (phobeo), [G1391](https://www.blueletterbible.org/lexicon/g1391/kjv/tr/0-1/){:target="_blank"} (doxa), [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (krisis), [G4352](https://www.blueletterbible.org/lexicon/g4352/kjv/tr/0-1/){:target="_blank"} (proskuneo), [G4160](https://www.blueletterbible.org/lexicon/g4160/kjv/tr/0-1/){:target="_blank"} (poieo). Run cross-testament parallels on REV 14:7 (both OT and NT). Retrieve EXO 20:11 for verbal comparison. Retrieve DAN 7:9-10 for judgment scene.
+   HOW: Retrieve REV 14:6-7 full text. Run greek_parser.py on REV 14:6 and REV 14:7. Look up G2098 (euaggelion), G166 (aionios), G5399 (phobeo), G1391 (doxa), G2920 (krisis), G4352 (proskuneo), G4160 (poieo). Run cross-testament parallels on REV 14:7 (both OT and NT). Retrieve EXO 20:11 for verbal comparison. Retrieve DAN 7:9-10 for judgment scene.
 
 6. **Rev 14:8 — Second Angel: "Babylon Is Fallen" (epesen, aorist):**
    WHAT: "Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication."
    WHY: The three-angels-messages study showed this directly quotes Isaiah 21:9 (LXX peptoken peptoken). Jer 51:7 provides the "golden cup" / "all the earth drunken" background. Babylon is figurative in Revelation (Rev 14:8; 16:19; 17; 18).
-   HOW: Retrieve REV 14:8. Run greek_parser.py on REV 14:8. Retrieve ISA 21:9 and JER 51:7 for source texts. Run cross-testament parallels on REV 14:8 (both OT and NT). Look up [G4098](https://www.blueletterbible.org/lexicon/g4098/kjv/tr/0-1/){:target="_blank"} (pipto), [G3631](https://www.blueletterbible.org/lexicon/g3631/kjv/tr/0-1/){:target="_blank"} (oinos), [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thumos), [G4202](https://www.blueletterbible.org/lexicon/g4202/kjv/tr/0-1/){:target="_blank"} (porneia).
+   HOW: Retrieve REV 14:8. Run greek_parser.py on REV 14:8. Retrieve ISA 21:9 and JER 51:7 for source texts. Run cross-testament parallels on REV 14:8 (both OT and NT). Look up G4098 (pipto), G3631 (oinos), G2372 (thumos), G4202 (porneia).
 
 7. **Rev 14:9-12 — Third Angel: Final Warning + "Here Is the Patience of the Saints":**
    WHAT: Warning against worshiping the beast/image and receiving the mark. Consequence: "wine of the wrath of God poured out without mixture." Saints described as those who "keep the commandments of God, and the faith of Jesus" (Rev 14:12).
    WHY: Rev 14:12 parallels Rev 12:17 (remnant = commandments + testimony of Jesus). The "patience of the saints" (hupomone) connects to endurance under persecution. The commandments + faith formula defines the faithful in contrast to beast worshipers.
-   HOW: Retrieve REV 14:9-12 full text. Run greek_parser.py on REV 14:9, REV 14:10, REV 14:11, REV 14:12. Look up [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} (hupomone), [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} (entole), [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} (pistis). Retrieve REV 12:17 for parallel. Run cross-testament parallels on REV 14:12 (both OT and NT).
+   HOW: Retrieve REV 14:9-12 full text. Run greek_parser.py on REV 14:9, REV 14:10, REV 14:11, REV 14:12. Look up G5281 (hupomone), G1785 (entole), G4102 (pistis). Retrieve REV 12:17 for parallel. Run cross-testament parallels on REV 14:12 (both OT and NT).
 
 8. **Rev 14:14-20 — Harvest: Son of Man on Cloud with Sickle = Second Coming:**
    WHAT: "One sat like unto the Son of man" on a white cloud with a golden crown and sharp sickle. The harvest is reaped. Then the winepress of God's wrath (Rev 14:19-20).
    WHY: The Son of Man on a cloud directly echoes Dan 7:13. "The harvest is the end of the world" (Mat 13:39). Joel 3:13 "put in the sickle, for the harvest is ripe" is the OT source text. The dual harvest (grain + grapes) parallels Mat 13:30 (wheat and tares).
-   HOW: Retrieve REV 14:14-20 full text. Run greek_parser.py on REV 14:14, REV 14:15, REV 14:19. Retrieve DAN 7:13, MAT 13:39-43, JOL 3:13. Run cross-testament parallels on REV 14:14 and REV 14:15 (both OT and NT). Look up [G1407](https://www.blueletterbible.org/lexicon/g1407/kjv/tr/0-1/){:target="_blank"} (drepanon), [G2326](https://www.blueletterbible.org/lexicon/g2326/kjv/tr/0-1/){:target="_blank"} (therismos), [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lenos, winepress).
+   HOW: Retrieve REV 14:14-20 full text. Run greek_parser.py on REV 14:14, REV 14:15, REV 14:19. Retrieve DAN 7:13, MAT 13:39-43, JOL 3:13. Run cross-testament parallels on REV 14:14 and REV 14:15 (both OT and NT). Look up G1407 (drepanon), G2326 (therismos), G3025 (lenos, winepress).
 
 9. **The Rev 12-14 Timeline as a Single Continuous Narrative:**
    WHAT: Rev 12:5 (Christ born/ascended) → Rev 12:6,14 (1260 days) → Rev 12:17 (remnant) → Rev 13:1-10 (sea beast, 42 months) → Rev 13:11-18 (earth beast) → Rev 14:1-5 (144,000) → Rev 14:6-12 (three angels) → Rev 14:14-20 (harvest). This is a single continuous narrative spanning from the first century to the second coming.
@@ -234,19 +234,19 @@ You are the Research Agent. Execute this study by:
      - **Rev 12:5-6, 12:13-17** — preceding narrative context (man child, 1260, remnant)
      - **Ecclesiastes 12:13-14** — "Fear God, keep commandments, judgment" parallel
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} (therion) — beast, trace all Revelation occurrences
-     - [G1407](https://www.blueletterbible.org/lexicon/g1407/kjv/tr/0-1/){:target="_blank"} (drepanon) — sickle, all 8 NT uses
-     - [G2326](https://www.blueletterbible.org/lexicon/g2326/kjv/tr/0-1/){:target="_blank"} (therismos) — harvest
-     - [G2098](https://www.blueletterbible.org/lexicon/g2098/kjv/tr/0-1/){:target="_blank"} (euaggelion) — gospel
-     - [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} (aionios) — everlasting/eternal
-     - [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (krisis) — judgment
-     - [G4352](https://www.blueletterbible.org/lexicon/g4352/kjv/tr/0-1/){:target="_blank"} (proskuneo) — worship
-     - [G5480](https://www.blueletterbible.org/lexicon/g5480/kjv/tr/0-1/){:target="_blank"} (charagma) — mark
-     - [G1504](https://www.blueletterbible.org/lexicon/g1504/kjv/tr/0-1/){:target="_blank"} (eikon) — image
-     - [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} (hupomone) — patience/endurance
-     - [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} (pistis) — faith
-     - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia) — blasphemy
-     - [G4098](https://www.blueletterbible.org/lexicon/g4098/kjv/tr/0-1/){:target="_blank"} (pipto) — fall (for "Babylon is fallen")
+     - G2342 (therion) — beast, trace all Revelation occurrences
+     - G1407 (drepanon) — sickle, all 8 NT uses
+     - G2326 (therismos) — harvest
+     - G2098 (euaggelion) — gospel
+     - G166 (aionios) — everlasting/eternal
+     - G2920 (krisis) — judgment
+     - G4352 (proskuneo) — worship
+     - G5480 (charagma) — mark
+     - G1504 (eikon) — image
+     - G5281 (hupomone) — patience/endurance
+     - G4102 (pistis) — faith
+     - G988 (blasphemia) — blasphemy
+     - G4098 (pipto) — fall (for "Babylon is fallen")
    - `raw-data/` - Raw tool output organized by category
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -284,12 +284,12 @@ You are the Research Agent. Execute this study by:
    - Run hebrew_parser.py on: DAN 7:7, DAN 7:8, DAN 7:9, DAN 7:10, DAN 7:13, DAN 7:25
 
 10. **Required word traces:**
-    - [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} (therion) — run --verses for all translation variants
-    - [G1407](https://www.blueletterbible.org/lexicon/g1407/kjv/tr/0-1/){:target="_blank"} (drepanon) — run --verses for all uses
-    - [G5480](https://www.blueletterbible.org/lexicon/g5480/kjv/tr/0-1/){:target="_blank"} (charagma) — run --verses for all uses (all 9 in Revelation)
-    - [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} (krisis) — run --verses for key translations
-    - [G4352](https://www.blueletterbible.org/lexicon/g4352/kjv/tr/0-1/){:target="_blank"} (proskuneo) — run --verses in Revelation specifically
-    - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia) — run --verses for Revelation uses
+    - G2342 (therion) — run --verses for all translation variants
+    - G1407 (drepanon) — run --verses for all uses
+    - G5480 (charagma) — run --verses for all uses (all 9 in Revelation)
+    - G2920 (krisis) — run --verses for key translations
+    - G4352 (proskuneo) — run --verses in Revelation specifically
+    - G988 (blasphemia) — run --verses for Revelation uses
 
 11. **Key verbal parallels to document:**
     - Rev 13:5 stoma laloun megala ↔ Dan 7:8 LXX stoma laloun megala

@@ -52,7 +52,7 @@
 - Trumpets function as warnings during active intercessory period
 - Incense scene (Rev 8:3-5) depicts prayers ascending = open intercession
 - Bowl introduction (Rev 15:8) = no one enters
-- 1/3 limitation (tritos, [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"}, 13+ times in trumpets, ZERO in bowls) marks trumpet judgments as partial
+- 1/3 limitation (tritos, G5154, 13+ times in trumpets, ZERO in bowls) marks trumpet judgments as partial
 - "Repented not" (Rev 9:20-21) presupposes repentance possible only while probation open
 - Feast of Trumpets (Lev 23:24, Tishri 1) precedes Day of Atonement (Lev 23:27, Tishri 10)
 

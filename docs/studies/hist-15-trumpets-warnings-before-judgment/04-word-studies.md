@@ -5,7 +5,7 @@ Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's in
 
 ---
 
-## [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} — σάλπιγξ (salpinx) — Trumpet
+## G4536 — σάλπιγξ (salpinx) — Trumpet
 
 **Original:** σάλπιγξ
 **Transliteration:** salpinx
@@ -41,7 +41,7 @@ Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's in
 
 ---
 
-## [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} — σαλπίζω (salpizo) — To Trumpet / To Sound
+## G4537 — σαλπίζω (salpizo) — To Trumpet / To Sound
 
 **Original:** σαλπίζω
 **Transliteration:** salpizo
@@ -78,7 +78,7 @@ The verb appears in the aorist active indicative 3rd person singular form **7 ti
 
 ---
 
-## [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} — μετανοέω (metanoeo) — To Repent
+## G3340 — μετανοέω (metanoeo) — To Repent
 
 **Original:** μετανοέω
 **Transliteration:** metanoeo
@@ -124,7 +124,7 @@ The verb appears in the aorist active indicative 3rd person singular form **7 ti
 
 ---
 
-## [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} — βλασφημέω (blasphemeo) — To Blaspheme
+## G987 — βλασφημέω (blasphemeo) — To Blaspheme
 
 **Original:** βλασφημέω
 **Transliteration:** blasphemeo
@@ -144,7 +144,7 @@ The verb appears in the aorist active indicative 3rd person singular form **7 ti
 
 ---
 
-## [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — ὀργή (orge) — Wrath (Settled Indignation)
+## G3709 — ὀργή (orge) — Wrath (Settled Indignation)
 
 **Original:** ὀργή
 **Transliteration:** orge
@@ -165,7 +165,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} — θυμός (thymos) — Wrath (Fierce Passion)
+## G2372 — θυμός (thymos) — Wrath (Fierce Passion)
 
 **Original:** θυμός
 **Transliteration:** thymos
@@ -197,7 +197,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} — ἔσχατος (eschatos) — Last
+## G2078 — ἔσχατος (eschatos) — Last
 
 **Original:** ἔσχατος
 **Transliteration:** eschatos
@@ -212,7 +212,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G3031](https://www.blueletterbible.org/lexicon/g3031/kjv/tr/0-1/){:target="_blank"} — λιβανωτός (libanotos) — Censer
+## G3031 — λιβανωτός (libanotos) — Censer
 
 **Original:** λιβανωτός
 **Transliteration:** libanotos
@@ -228,7 +228,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G2368](https://www.blueletterbible.org/lexicon/g2368/kjv/tr/0-1/){:target="_blank"} — θυμίαμα (thymiama) — Incense
+## G2368 — θυμίαμα (thymiama) — Incense
 
 **Original:** θυμίαμα
 **Transliteration:** thymiama
@@ -247,7 +247,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} — θυσιαστήριον (thysiastērion) — Altar
+## G2379 — θυσιαστήριον (thysiastērion) — Altar
 
 **Original:** θυσιαστήριον
 **Transliteration:** thysiastērion
@@ -270,7 +270,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} — τρίτος (tritos) — Third
+## G5154 — τρίτος (tritos) — Third
 
 **Original:** τρίτος
 **Transliteration:** tritos
@@ -295,7 +295,7 @@ Orge appears at the trumpet CLIMAX (11:18) as an announcement: "thy wrath IS COM
 
 ---
 
-## [G3341](https://www.blueletterbible.org/lexicon/g3341/kjv/tr/0-1/){:target="_blank"} — μετάνοια (metanoia) — Repentance (Noun)
+## G3341 — μετάνοια (metanoia) — Repentance (Noun)
 
 **Original:** μετάνοια
 **Transliteration:** metanoia
@@ -312,7 +312,7 @@ This verse establishes God's character: He delays judgment specifically to allow
 
 ## Hebrew Word Studies
 
-## [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} — תְּרוּעָה (teruah) — Shout / Alarm / Blast
+## H8643 — תְּרוּעָה (teruah) — Shout / Alarm / Blast
 
 **Original:** תְּרוּעָה
 **Transliteration:** teruah
@@ -348,7 +348,7 @@ The construct chain means "a remembrance OF blowing/alarm." The Feast of Trumpet
 
 ---
 
-## [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} — שׁוֹפָר (shophar) — Ram's Horn / Trumpet
+## H7782 — שׁוֹפָר (shophar) — Ram's Horn / Trumpet
 
 **Original:** שׁוֹפָר
 **Transliteration:** shophar
@@ -389,7 +389,7 @@ The construct chain means "a remembrance OF blowing/alarm." The Feast of Trumpet
 
 ---
 
-## [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} — כִּפֻּר (kippur) — Atonement
+## H3725 — כִּפֻּר (kippur) — Atonement
 
 **Original:** כִּפֻּר
 **Transliteration:** kippur
@@ -422,20 +422,20 @@ The construct chain means "day OF the atonements" — the designated day when at
 
 | Word | Key Finding | Significance for Trumpets |
 |------|-------------|--------------------------|
-| [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} salpinx | 7/11 NT uses in Rev 8-9 | Massive concentration in trumpet sequence |
-| [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} salpizo | 7x "esalpisen" formula | Structured sequence spanning chapters |
-| [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} metanoeo | Present in trumpets, present in bowls | But ONLY negated — trajectory from refusal to hostility |
-| [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} blasphemeo | ABSENT from trumpets, 3x in bowls | Escalation: passive refusal -> active blasphemy |
-| [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} orge | At trumpet CLIMAX (11:18) | Wrath announced, not yet poured |
-| [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} thymos | At bowl EXECUTION (15:1,7; 16:1) | Wrath poured out |
-| [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} eschatos | "LAST plagues" (15:1) | Implies PRIOR plagues (trumpets) |
-| [G3031](https://www.blueletterbible.org/lexicon/g3031/kjv/tr/0-1/){:target="_blank"} libanotos | ONLY Rev 8:3 and 8:5 in entire NT | Same vessel transitions intercession -> judgment |
-| [G2368](https://www.blueletterbible.org/lexicon/g2368/kjv/tr/0-1/){:target="_blank"} thymiama | = prayers in Rev 5:8 | Incense explicitly identified as prayer |
-| [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} thysiastērion | Across ALL judgment sequences | Altar = vindication arc connecting sequences |
-| [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} tritos | 13+ times in trumpets, ZERO in bowls | 1/3 fraction = partial = warning |
-| [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} teruah | "Memorial of alarm/blowing" | Feast of Trumpets = warning by definition |
-| [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} shophar | Trumpet + warning grammatically parallel | To blow = to warn |
-| [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} kippur | Same chapter as teruah (Lev 23) | Warning PRECEDES atonement/judgment |
+| G4536 salpinx | 7/11 NT uses in Rev 8-9 | Massive concentration in trumpet sequence |
+| G4537 salpizo | 7x "esalpisen" formula | Structured sequence spanning chapters |
+| G3340 metanoeo | Present in trumpets, present in bowls | But ONLY negated — trajectory from refusal to hostility |
+| G987 blasphemeo | ABSENT from trumpets, 3x in bowls | Escalation: passive refusal -> active blasphemy |
+| G3709 orge | At trumpet CLIMAX (11:18) | Wrath announced, not yet poured |
+| G2372 thymos | At bowl EXECUTION (15:1,7; 16:1) | Wrath poured out |
+| G2078 eschatos | "LAST plagues" (15:1) | Implies PRIOR plagues (trumpets) |
+| G3031 libanotos | ONLY Rev 8:3 and 8:5 in entire NT | Same vessel transitions intercession -> judgment |
+| G2368 thymiama | = prayers in Rev 5:8 | Incense explicitly identified as prayer |
+| G2379 thysiastērion | Across ALL judgment sequences | Altar = vindication arc connecting sequences |
+| G5154 tritos | 13+ times in trumpets, ZERO in bowls | 1/3 fraction = partial = warning |
+| H8643 teruah | "Memorial of alarm/blowing" | Feast of Trumpets = warning by definition |
+| H7782 shophar | Trumpet + warning grammatically parallel | To blow = to warn |
+| H3725 kippur | Same chapter as teruah (Lev 23) | Warning PRECEDES atonement/judgment |
 
 ---
 
