@@ -2,9 +2,9 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-The Bible contains an important question that affects how we understand prophecy: Do the New Testament authors treat Daniel chapters 7-12 as separate, unrelated visions, or as one connected prophetic story? This study examines exactly what Jesus, Paul, and John actually do when they quote from Daniel, and the results show a clear pattern.
+The Bible contains an important question that affects how one understands prophecy: Do the New Testament authors treat Daniel chapters 7-12 as separate, unrelated visions, or as one connected prophetic story? This study examines exactly what Jesus, Paul, and John actually do when they quote from Daniel, and the results show a clear pattern.
 
-When we look carefully at the text, we find that New Testament writers don't just pick isolated verses from Daniel. Instead, they weave together material from multiple Daniel chapters, use the same Greek words Daniel used, and create structural connections that span from Daniel's time to the book of Revelation. The evidence suggests they understood Daniel 7-12 as describing one unified prophetic timeline, not disconnected visions.
+A careful look at the text reveals that New Testament writers don't just pick isolated verses from Daniel. Instead, they weave together material from multiple Daniel chapters, use the same Greek words Daniel used, and create structural connections that span from Daniel's time to the book of Revelation. The evidence suggests they understood Daniel 7-12 as describing one unified prophetic timeline, not disconnected visions.
 
 ---
 
@@ -20,7 +20,7 @@ Daniel was told to *seal* his prophecies because their fulfillment lay far in th
 
 This reversal is deliberate and profound. What Daniel was told to seal because the time was distant, John is told *not* to seal because "the time is at hand." The entire book of Revelation positions itself as the era when Daniel's sealed visions are being opened and revealed.
 
-This creates what we might call a "sealed-to-unsealed arc"—Daniel seals his book for a future time, and Revelation opens it because that time has arrived. The very title "Revelation" (Greek *apokalypsis*) means "unveiling" or "uncovering," the exact opposite of Daniel's sealing.
+This creates what might be called a "sealed-to-unsealed arc"—Daniel seals his book for a future time, and Revelation opens it because that time has arrived. The very title "Revelation" (Greek *apokalypsis*) means "unveiling" or "uncovering," the exact opposite of Daniel's sealing.
 
 ---
 
@@ -108,7 +108,7 @@ The time period is also significant. Revelation's "forty and two months" equals 
 
 ## The Time Period Chain
 
-This brings us to one of the most precise connections: the prophetic time period that appears in three languages across three biblical books. In Aramaic, Daniel 7:25 gives "a time and times and the dividing of time." In Hebrew, Daniel 12:7 gives "a time, times, and an half." In Greek, Revelation 12:14 gives "a time, and times, and half a time."
+This leads to one of the most precise connections: the prophetic time period that appears in three languages across three biblical books. In Aramaic, Daniel 7:25 gives "a time and times and the dividing of time." In Hebrew, Daniel 12:7 gives "a time, times, and an half." In Greek, Revelation 12:14 gives "a time, and times, and half a time."
 
 All three use words that mean "appointed time" (*iddan* in Aramaic, *moed* in Hebrew, *kairos* in Greek). The Greek translation bridges the languages, and Revelation reuses the same Greek formula. But Revelation also provides the mathematical key:
 
@@ -182,7 +182,7 @@ The evidence particularly supports historicism in several ways:
 
 **The kingdom progression:** Daniel's prophecies consistently place God's eternal kingdom at the end of a succession of earthly kingdoms. The New Testament presents this kingdom as having been inaugurated by Christ but not yet consummated, supporting a view where the prophetic timeline spans from Daniel's time through church history to Christ's return.
 
-However, the evidence doesn't absolutely rule out other approaches. Preterist interpreters could argue that the "shortly" and "at hand" language requires first-century fulfillment, while futurist interpreters might see the systematic connections as describing events still future from our perspective.
+However, the evidence doesn't absolutely rule out other approaches. Preterist interpreters could argue that the "shortly" and "at hand" language requires first-century fulfillment, while futurist interpreters might see the systematic connections as describing events still future from a modern perspective.
 
 ---
 
@@ -202,6 +202,6 @@ This systematic treatment has important implications for biblical interpretation
 
 The weight of evidence supports the historical-continuous view where Daniel's prophecies describe a timeline spanning from ancient empires through church history to Christ's return. The "already at work" pattern from Paul and John, combined with the sealed-to-unsealed structural arc, suggests this timeline entered its fulfillment phase in the apostolic era and continues to unfold through history.
 
-Most significantly, this unified treatment demonstrates that biblical prophecy is not merely predictive but revelatory—it unveils God's sovereign plan for history. Daniel sealed his visions because their time was distant; Revelation unseals them because their fulfillment era has begun. We live in the time between the sealing and the final consummation, when prophecy serves not just to inform us about the future, but to reveal God's present activity in bringing His kingdom to completion.
+Most significantly, this unified treatment demonstrates that biblical prophecy is not merely predictive but revelatory—it unveils God's sovereign plan for history. Daniel sealed his visions because their time was distant; Revelation unseals them because their fulfillment era has begun. The reader lives in the time between the sealing and the final consummation, when prophecy serves not just to inform about the future, but to reveal God's present activity in bringing His kingdom to completion.
 
 *Based on the full technical study completed December 12, 2026*

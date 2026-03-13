@@ -2,9 +2,9 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-When we open the book of Revelation, we encounter an immediate puzzle. The very first verse promises to show "things which must shortly come to pass," and the final chapter repeats this same claim about events that "must shortly be done." Yet nearly two thousand years have passed since John received this vision on Patmos. What did "shortly" actually mean?
+When one opens the book of Revelation, an immediate puzzle emerges. The very first verse promises to show "things which must shortly come to pass," and the final chapter repeats this same claim about events that "must shortly be done." Yet nearly two thousand years have passed since John received this vision on Patmos. What did "shortly" actually mean?
 
-This question sits at the heart of how we understand Bible prophecy. Some argue that since Revelation said "shortly," all its prophecies must have been fulfilled in the first century. Others suggest that "shortly" describes only the manner of God's action—how He acts when He acts—but says nothing about timing. Still others propose that "shortly" marked the beginning of the end times, a period that would unfold over centuries but move with divine swiftness when fulfillment came.
+This question sits at the heart of how one understands Bible prophecy. Some argue that since Revelation said "shortly," all its prophecies must have been fulfilled in the first century. Others suggest that "shortly" describes only the manner of God's action—how He acts when He acts—but says nothing about timing. Still others propose that "shortly" marked the beginning of the end times, a period that would unfold over centuries but move with divine swiftness when fulfillment came.
 
 What does the Bible itself actually say about this timing? The answer emerges from a careful examination of how Scripture uses this language, what internal evidence Revelation provides about its own timing, and how other biblical writers addressed similar questions about prophetic delay.
 
@@ -28,13 +28,13 @@ The most revealing example appears in Luke 18:7-8, where Jesus creates an intent
 
 Notice the internal contradiction if "speedily" (*en tachei*) meant immediate fulfillment: Jesus speaks of God bearing long with His people (showing patience over time), promises speedy vindication, then asks whether faith will survive until His coming. If vindication came within weeks or months, why would faith be in danger of disappearing? The question only makes sense if there might be a significant interval—long enough to test faith to the point of potential extinction—yet Jesus insists vindication is "speedily."
 
-The resolution is that *en tachei* describes the character of God's action: decisive, complete, without unnecessary delay. When the appointed time arrives, vindication is swift and total. God is not dragging His feet, but neither is He bound by our human timescales.
+The resolution is that *en tachei* describes the character of God's action: decisive, complete, without unnecessary delay. When the appointed time arrives, vindication is swift and total. God is not dragging His feet, but neither is He bound by human timescales.
 
 ---
 
 ## The Connection to Daniel's Prophecy
 
-Revelation's timing claim becomes clearer when we understand its connection to the book of Daniel. Revelation 1:1 deliberately echoes Daniel 2:28, but with a crucial change. Daniel's original text said:
+Revelation's timing claim becomes clearer when one understands its connection to the book of Daniel. Revelation 1:1 deliberately echoes Daniel 2:28, but with a crucial change. Daniel's original text said:
 
 > "But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days."
 
@@ -156,7 +156,7 @@ Zephaniah's prophecy was fulfilled approximately 44 years later with Jerusalem's
 
 While the biblical evidence points in a clear direction, it's important to acknowledge what Scripture does not explicitly state:
 
-**Scripture does not specify exactly how many years constitute "shortly."** The Bible works with divine perspective on time, not human calendars. What seems like delay to us operates within God's purposeful timeline.
+**Scripture does not specify exactly how many years constitute "shortly."** The Bible works with divine perspective on time, not human calendars. What seems like delay from a human perspective operates within God's purposeful timeline.
 
 **Scripture does not state that all of Revelation's prophecies must be fulfilled within a single generation.** The book's own "little season" passages and the present-tense elements in Revelation 1:19 suggest a more complex unfolding over time.
 
@@ -172,7 +172,7 @@ The biblical evidence regarding Revelation's timing claims points toward what sc
 
 This reading accounts for all the biblical data: the Daniel allusion that imports a multi-century prophetic scope now entering its fulfillment phase; the present-tense elements showing some fulfillment had already begun in John's time; the "little season" passages acknowledging temporal extension; the consistent pairing of "shortly" promises with calls to patient endurance; the apostolic framework treating apparent delay as purposeful longsuffering; and the precedent of Jesus declaring the kingdom "at hand" while still praying "thy kingdom come."
 
-The phrase "shortly come to pass" sustains hope (fulfillment is certain and divinely swift) while the calls to patience sustain perseverance (the interval requires endurance). God is not slow concerning His promises, but neither is He bound by human timescales. From His perspective, the end is imminent. From our perspective, we need patient faith. Both are true simultaneously because divine time differs from human time, and the interval serves redemptive purposes.
+The phrase "shortly come to pass" sustains hope (fulfillment is certain and divinely swift) while the calls to patience sustain perseverance (the interval requires endurance). God is not slow concerning His promises, but neither is He bound by human timescales. From His perspective, the end is imminent. From the human perspective, patient faith is needed. Both are true simultaneously because divine time differs from human time, and the interval serves redemptive purposes.
 
 Rather than creating a contradiction, the biblical timing language reflects the nature of inaugurated eschatology itself: already begun, not yet complete, unfolding with divine certainty and swiftness across whatever span of human history God deems necessary for His redemptive purposes to be fully accomplished.
 

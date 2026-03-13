@@ -2,7 +2,7 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-When Jesus predicted the destruction of Jerusalem's temple, his disciples asked him two crucial questions: "When will this happen?" and "What will be the sign of your coming and the end of the world?" This launched what we call the Olivet Discourse—Jesus's longest prophetic teaching, recorded in Matthew 24, Mark 13, and Luke 21. But does this prophecy describe only the events of AD 70 when Rome destroyed Jerusalem? Or does it span the entire period from the first century until Christ's return?
+When Jesus predicted the destruction of Jerusalem's temple, his disciples asked him two crucial questions: "When will this happen?" and "What will be the sign of your coming and the end of the world?" This launched what is known as the Olivet Discourse—Jesus's longest prophetic teaching, recorded in Matthew 24, Mark 13, and Luke 21. But does this prophecy describe only the events of AD 70 when Rome destroyed Jerusalem? Or does it span the entire period from the first century until Christ's return?
 
 The biblical evidence reveals that Jesus answered both questions his disciples asked. His discourse weaves together near events (like the temple's destruction) with far events (like his visible return in glory), creating a prophetic timeline that stretches across history. The text itself provides clear markers showing this extended timeframe, while also offering a potential template for understanding the seven seals of Revelation.
 
@@ -16,7 +16,7 @@ The Olivet Discourse begins with a dual question that sets the stage for everyth
 
 The disciples weren't asking about just one event. Their first question concerned the temple's destruction that Jesus had just predicted. But their second question used two specific Greek terms that point to the ultimate end: *parousia* (Christ's coming) and *synteleia* (the complete consummation of the age). Throughout the New Testament, *parousia* is the standard technical term for Christ's Second Coming—his visible, personal return in glory. The word *synteleia* means not just an ending, but an entire completion or winding-up of history.
 
-Matthew alone preserves both parts of this question, while Mark and Luke record more limited versions. This suggests that Matthew's Gospel gives us the fullest picture of what the disciples actually asked and what Jesus intended to answer.
+Matthew alone preserves both parts of this question, while Mark and Luke record more limited versions. This suggests that Matthew's Gospel gives the fullest picture of what the disciples actually asked and what Jesus intended to answer.
 
 Since Jesus addresses both questions in his response—speaking about both the temple's fate and his future coming—his answer necessarily spans from the near events of the first century to the far events of the end times.
 

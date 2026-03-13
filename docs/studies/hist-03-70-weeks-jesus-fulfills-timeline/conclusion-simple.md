@@ -14,7 +14,7 @@ The prophecy continues with specific timing:
 
 > "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times." (Daniel 9:25)
 
-This gives us a mathematical formula: sixty-nine weeks from a Persian decree to restore Jerusalem until "Messiah the Prince" appears. But are these literal weeks of seven days each, or do they represent something longer?
+This yields a mathematical formula: sixty-nine weeks from a Persian decree to restore Jerusalem until "Messiah the Prince" appears. But are these literal weeks of seven days each, or do they represent something longer?
 
 ---
 
@@ -199,11 +199,11 @@ These are not political goals but redemptive ones, comprehensively accomplished 
 
 ## Conclusion
 
-The biblical evidence demonstrates that Daniel's seventy-weeks prophecy was precisely fulfilled through Jesus Christ. The day-year principle is proven by Daniel's own reaction to the 2300-day vision, validated by explicit biblical precedent, and confirmed by the seventy weeks' mathematical precision. Starting from Artaxerxes' decree in 457 BC, exactly 483 years later brings us to AD 27 — the year of Jesus' baptism as confirmed by Luke's six-ruler synchronism and multiple independent lines of evidence.
+The biblical evidence demonstrates that Daniel's seventy-weeks prophecy was precisely fulfilled through Jesus Christ. The day-year principle is proven by Daniel's own reaction to the 2300-day vision, validated by explicit biblical precedent, and confirmed by the seventy weeks' mathematical precision. Starting from Artaxerxes' decree in 457 BC, exactly 483 years later arrives at AD 27 — the year of Jesus' baptism as confirmed by Luke's six-ruler synchronism and multiple independent lines of evidence.
 
 The seventieth week encompasses Jesus' ministry (AD 27-34), with His crucifixion occurring "in the midst of the week" around AD 30-31. The prophecy presents all seventy weeks as continuous, and the New Testament explicitly declares that the prophetic timetable was fulfilled in the first century.
 
-This remarkable alignment between prophecy and history validates both the precision of biblical prophecy and the historical approach to understanding it. Rather than looking for future fulfillment, we can see God's perfect timing in sending His Son "when the fulness of the time was come" exactly as Daniel's prophecy predicted centuries earlier.
+This remarkable alignment between prophecy and history validates both the precision of biblical prophecy and the historical approach to understanding it. Rather than looking for future fulfillment, the reader can see God's perfect timing in sending His Son "when the fulness of the time was come" exactly as Daniel's prophecy predicted centuries earlier.
 
 The seventy weeks stand as one of the most compelling evidences for both the divine inspiration of Scripture and the Messiahship of Jesus. The mathematical precision, the historical alignment, and the theological significance all point to the same conclusion: Jesus is the Messiah whom Daniel's prophecy foretold, and His first coming fulfilled this remarkable prediction down to the very year.
 

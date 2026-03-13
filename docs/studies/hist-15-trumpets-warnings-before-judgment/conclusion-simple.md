@@ -2,7 +2,7 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-This study investigates one of the most important questions about the book of Revelation: Are the seven trumpets of Revelation 8-11 warnings that God sounds during Christ's ongoing ministry in heaven? Or are they part of the final judgment itself? The answer affects how we understand both the timing and the purpose of these dramatic prophetic events.
+This study investigates one of the most important questions about the book of Revelation: Are the seven trumpets of Revelation 8-11 warnings that God sounds during Christ's ongoing ministry in heaven? Or are they part of the final judgment itself? The answer affects how one understands both the timing and the purpose of these dramatic prophetic events.
 
 Three converging lines of biblical evidence point to a clear conclusion: the seven trumpets function as warnings during an active period of Christ's intercession, before the close of human probation. This finding emerges from careful examination of the text itself, comparison with other judgment sequences in Revelation, and the consistent Old Testament pattern of trumpets sounding before judgment falls.
 
@@ -18,19 +18,19 @@ This is clearly a scene of active intercession. Prayers are ascending to God thr
 
 The same angel then takes this censer, fills it with fire from the altar, and casts it to earth (verse 5), after which the seven trumpets begin to sound. The sequence is deliberate: intercession first, then the transition to judgment, then the trumpets. The trumpets are structurally embedded within this intercessory framework.
 
-This stands in stark contrast to what we find when the seven bowl judgments are introduced in Revelation 15:8:
+This stands in stark contrast to what appears when the seven bowl judgments are introduced in Revelation 15:8:
 
 > "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled."
 
-Here we see the opposite situation entirely. No one can enter the temple. Intercessory access is completely denied. The temple is closed. This absolute contrast—access during the trumpets versus no access during the bowls—proves that the trumpets occur while intercession is active and the bowls occur after it has ended.
+Here the text presents the opposite situation entirely. No one can enter the temple. Intercessory access is completely denied. The temple is closed. This absolute contrast—access during the trumpets versus no access during the bowls—proves that the trumpets occur while intercession is active and the bowls occur after it has ended.
 
-The connection to Christ's ongoing intercession is clear from passages like Hebrews 7:25, which tells us that Christ "ever liveth to make intercession for them," and Romans 8:34, which says Christ "maketh intercession for us." The heavenly incense and prayer ministry depicted in Revelation 8:3-4 shows this ongoing intercessory work in action.
+The connection to Christ's ongoing intercession is clear from passages like Hebrews 7:25, which states that Christ "ever liveth to make intercession for them," and Romans 8:34, which says Christ "maketh intercession for us." The heavenly incense and prayer ministry depicted in Revelation 8:3-4 shows this ongoing intercessory work in action.
 
 ---
 
 ## The One-Third Limitation: Partial Judgment as Warning
 
-A second powerful line of evidence comes from a simple but telling pattern in the text. Throughout the trumpet judgments, we repeatedly encounter the phrase "the third part" or "one third." This fraction appears more than thirteen times in Revelation 8-9 and exactly zero times in the bowl judgments of Revelation 16.
+A second powerful line of evidence comes from a simple but telling pattern in the text. Throughout the trumpet judgments, the phrase "the third part" or "one third" appears repeatedly. This fraction appears more than thirteen times in Revelation 8-9 and exactly zero times in the bowl judgments of Revelation 16.
 
 Consider the systematic nature of this pattern:
 - The first trumpet burns "the third part of trees" (8:7)
@@ -43,7 +43,7 @@ Even the fifth trumpet, while not using the one-third fraction, limits its locus
 
 The corresponding bowl judgments use completely different language. The second bowl: "every living soul died in the sea" (16:3). The fourth bowl scorches "men with fire"—not one-third, but those scorched. The sixth bowl dries the entire Euphrates River (16:12). The seventh bowl brings the greatest earthquake since human beings existed on earth (16:18).
 
-This progression from one-third to all is the structural progression from warning to final judgment. Partial judgment logically implies surviving recipients who can still respond. When one-third of mankind dies at the sixth trumpet, two-thirds survive. The text immediately records their response, which brings us to our third line of evidence.
+This progression from one-third to all is the structural progression from warning to final judgment. Partial judgment logically implies surviving recipients who can still respond. When one-third of mankind dies at the sixth trumpet, two-thirds survive. The text immediately records their response, which brings the reader to the third line of evidence.
 
 ---
 
@@ -53,9 +53,9 @@ Revelation 9:20-21 provides explicit evidence that repentance was the intended r
 
 > "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk: Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts."
 
-The phrase "repented not" reveals everything about God's purpose in the trumpet judgments. You cannot record the failure to do something that was never intended. The very fact that the text laments their failure to repent shows that repentance was the expected outcome.
+The phrase "repented not" reveals everything about God's purpose in the trumpet judgments. One cannot record the failure to do something that was never intended. The very fact that the text laments their failure to repent shows that repentance was the expected outcome.
 
-This interpretation gains strength when we compare the responses recorded during the trumpet and bowl sequences. During the trumpets, we read only "repented not"—there is no mention of people cursing or blaspheming God. During the bowls, however, both elements appear together:
+This interpretation gains strength when comparing the responses recorded during the trumpet and bowl sequences. During the trumpets, the text records only "repented not"—there is no mention of people cursing or blaspheming God. During the bowls, however, both elements appear together:
 
 > "And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory" (16:9).
 
@@ -95,7 +95,7 @@ This pattern appears throughout the Old Testament. In every case, the trumpet an
 
 ## The Calendar Connection: Trumpets Before Atonement
 
-The biblical calendar itself provides a striking precedent for the pattern we see in Revelation. Leviticus 23 prescribes the Lord's appointed feasts in a single legislative chapter. The Feast of Trumpets appears first:
+The biblical calendar itself provides a striking precedent for the pattern found in Revelation. Leviticus 23 prescribes the Lord's appointed feasts in a single legislative chapter. The Feast of Trumpets appears first:
 
 > "Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation" (23:24).
 
@@ -103,9 +103,9 @@ Nine days later comes the Day of Atonement:
 
 > "Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD" (23:27).
 
-The same chapter, the same month, the same legislative unit places trumpets (the first day) before atonement and judgment (the tenth day). This is not a theological interpretation imposed on the text—it is simply the calendar's own structure. The sequential ordering requires extended time between warning and judgment, just as we see in Revelation's extended trumpet sequence before the bowl judgments.
+The same chapter, the same month, the same legislative unit places trumpets (the first day) before atonement and judgment (the tenth day). This is not a theological interpretation imposed on the text—it is simply the calendar's own structure. The sequential ordering requires extended time between warning and judgment, just as Revelation's extended trumpet sequence demonstrates before the bowl judgments.
 
-The connection becomes even stronger when we notice that Revelation 8:3-5 shares sanctuary vocabulary with the Day of Atonement censer ritual described in Leviticus 16:12-13, and that the ark of the covenant is revealed at the climax of the seventh trumpet (Revelation 11:19), evoking the Most Holy Place that was accessed only on the Day of Atonement.
+The connection becomes even stronger when one notices that Revelation 8:3-5 shares sanctuary vocabulary with the Day of Atonement censer ritual described in Leviticus 16:12-13, and that the ark of the covenant is revealed at the climax of the seventh trumpet (Revelation 11:19), evoking the Most Holy Place that was accessed only on the Day of Atonement.
 
 ---
 

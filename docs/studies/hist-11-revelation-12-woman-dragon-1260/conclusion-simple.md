@@ -64,7 +64,7 @@ Most significantly, Revelation 12:14 directly quotes the Greek translation of Da
 
 ## From Days to Years: The Prophetic Principle
 
-The text states "1260 days," not "1260 years." How do we know this refers to years rather than literal days?
+The text states "1260 days," not "1260 years." How can one know this refers to years rather than literal days?
 
 The Bible itself establishes this principle. In Numbers 14:34, God declared: "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years." In Ezekiel 4:6, God said to the prophet: "I have appointed thee each day for a year." In both cases, God himself established that in prophecy, a day can represent a year.
 
@@ -160,6 +160,6 @@ The post-1260 remnant is defined by two ongoing characteristics: keeping the com
 
 This three-part structure—a first-century anchor, an extended duration, and a present-era remnant—requires the chapter to span centuries rather than being confined to any single historical period. The sequential timeline creates textual constraints that are most consistently satisfied by the historicist reading, which sees the chapter as covering the broad sweep of Christian history from Christ's first advent to the time of the end.
 
-The evidence shows that Revelation 12 is not merely describing isolated events but presenting a comprehensive timeline that helps us understand where we stand in the flow of prophetic history.
+The evidence shows that Revelation 12 is not merely describing isolated events but presenting a comprehensive timeline that helps the reader understand where the present era stands in the flow of prophetic history.
 
 *Based on the full technical study completed March 12, 2026*

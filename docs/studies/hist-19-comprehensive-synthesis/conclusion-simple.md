@@ -4,9 +4,9 @@
 
 For centuries, Bible students have debated how to interpret the prophetic books of Daniel and Revelation. Do these visions describe events that were fulfilled in ancient times, or do they point to future events still to come? Are they meant to teach timeless spiritual truths, or do they actually trace the flow of history from the prophet's day to the second coming of Christ?
 
-To answer this question, I conducted a comprehensive 18-study investigation examining every major passage in Daniel and Revelation. The goal was simple: let the Bible speak for itself about the scope and timing of these prophecies, without imposing any preconceived framework.
+To answer this question, this study conducted a comprehensive 18-part investigation examining every major passage in Daniel and Revelation. The goal was simple: let the Bible speak for itself about the scope and timing of these prophecies, without imposing any preconceived framework.
 
-The results reveal a clear and consistent pattern. When we examine what the biblical text actually says—the explicit statements rather than our interpretations—the evidence overwhelmingly supports what Bible scholars call the "historicist" view: that Daniel and Revelation together describe a continuous span of history from the prophet's time to Christ's second coming.
+The results reveal a clear and consistent pattern. When the biblical text is examined for what it actually says—the explicit statements rather than imposed interpretations—the evidence overwhelmingly supports what Bible scholars call the "historicist" view: that Daniel and Revelation together describe a continuous span of history from the prophet's time to Christ's second coming.
 
 ---
 
@@ -80,9 +80,9 @@ Gabriel then provided a precise timeline:
 
 > "from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks" (Daniel 9:25)
 
-This equals 69 weeks, or 483 prophetic days. History records that the decree to restore Jerusalem was issued in 457 BC. If we apply the day-year principle found elsewhere in Scripture—where God explicitly states "I have appointed thee each day for a year" (Ezekiel 4:6; Numbers 14:34)—then 483 prophetic days equal 483 literal years.
+This equals 69 weeks, or 483 prophetic days. History records that the decree to restore Jerusalem was issued in 457 BC. If the day-year principle found elsewhere in Scripture is applied—where God explicitly states "I have appointed thee each day for a year" (Ezekiel 4:6; Numbers 14:34)—then 483 prophetic days equal 483 literal years.
 
-Counting 483 years from 457 BC brings us to AD 27, the exact year of Jesus' baptism when he was anointed as Messiah. This isn't theory or interpretation—it's mathematical precision that can be verified by any calendar. The prophecy then states:
+Counting 483 years from 457 BC arrives at AD 27, the exact year of Jesus' baptism when he was anointed as Messiah. This isn't theory or interpretation—it's mathematical precision that can be verified by any calendar. The prophecy then states:
 
 > "in the midst of the week he shall cause the sacrifice and the oblation to cease" (Daniel 9:27)
 
@@ -252,6 +252,6 @@ The evidence includes:
 
 While specific historical identifications and precise dates require inference beyond what individual verses state, the overall framework—that biblical prophecy traces continuous history—emerges directly from what the inspired writers explicitly declared.
 
-The Bible presents prophecy not as disconnected snapshots of the distant past or future, but as God's revelation of the great controversy between good and evil as it unfolds through history toward its ultimate resolution at Christ's return. Understanding this timeline helps us locate ourselves in the flow of prophetic events and recognize God's hand guiding history toward its appointed end.
+The Bible presents prophecy not as disconnected snapshots of the distant past or future, but as God's revelation of the great controversy between good and evil as it unfolds through history toward its ultimate resolution at Christ's return. Understanding this timeline helps the reader locate the present era in the flow of prophetic events and recognize God's hand guiding history toward its appointed end.
 
 *Based on the full technical study completed 2026-03-13*

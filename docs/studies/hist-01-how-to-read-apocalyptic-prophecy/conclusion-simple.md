@@ -2,9 +2,9 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-When we open the books of Daniel and Revelation, we enter a world of strange symbols: metallic statues, fearsome beasts, numbered horns, and mysterious time periods. How should we read these apocalyptic prophecies? Should we expect them to describe events in the distant future, or were they fulfilled in ancient times? Do they present a continuous timeline of world history, or do they speak in timeless spiritual truths?
+Opening the books of Daniel and Revelation means entering a world of strange symbols: metallic statues, fearsome beasts, numbered horns, and mysterious time periods. How should these apocalyptic prophecies be read? Should the reader expect them to describe events in the distant future, or were they fulfilled in ancient times? Do they present a continuous timeline of world history, or do they speak in timeless spiritual truths?
 
-The good news is that the Bible doesn't leave us guessing. Scripture provides its own instruction manual for reading apocalyptic prophecy. Through angel interpreters, explicit symbol-to-meaning equations, and clear prophetic frameworks, the Bible teaches us how to understand its own prophetic books.
+The good news is that the Bible does not leave the reader guessing. Scripture provides its own instruction manual for reading apocalyptic prophecy. Through angel interpreters, explicit symbol-to-meaning equations, and clear prophetic frameworks, the Bible teaches how to understand its own prophetic books.
 
 This study examines what the Bible itself says about how to read apocalyptic prophecy, focusing particularly on Daniel's foundational vision of four world empires and how Revelation builds upon that framework.
 
@@ -12,23 +12,23 @@ This study examines what the Bible itself says about how to read apocalyptic pro
 
 ## The Bible Announces Its Own Symbolic Nature
 
-The book of Revelation opens with a crucial word that tells us exactly what kind of communication we're encountering:
+The book of Revelation opens with a crucial word that indicates exactly what kind of communication the reader is encountering:
 
 > **Revelation 1:1** "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John."
 
-That word "signified" comes from the Greek word *semaino*, which means to communicate through signs or symbols. It's the same word used when Jesus indicated symbolically what kind of death He would die (John 12:33), or when a prophet communicated through symbolic actions (Acts 11:28). Right from the first verse, Revelation tells us: "This message comes to you in symbolic language that requires interpretation."
+That word "signified" comes from the Greek word *semaino*, which means to communicate through signs or symbols. It's the same word used when Jesus indicated symbolically what kind of death He would die (John 12:33), or when a prophet communicated through symbolic actions (Acts 11:28). Right from the first verse, Revelation declares: "This message comes to you in symbolic language that requires interpretation."
 
-This isn't a puzzle designed to confuse us. Rather, Revelation repeatedly identifies itself as prophecy:
+This is not a puzzle designed to confuse. Rather, Revelation repeatedly identifies itself as prophecy:
 
 > **Revelation 1:3** "Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand."
 
-The word "prophecy" appears six times throughout Revelation, framing the entire book from beginning (1:3) to end (22:7, 10, 18-19). The Bible is telling us clearly: "This is prophetic communication through symbols, and it's meant to be understood."
+The word "prophecy" appears six times throughout Revelation, framing the entire book from beginning (1:3) to end (22:7, 10, 18-19). The Bible states clearly: "This is prophetic communication through symbols, and it's meant to be understood."
 
 ---
 
 ## Scripture Interprets Its Own Symbols
 
-Perhaps the most important discovery in studying apocalyptic prophecy is that the Bible provides its own decoding keys. We don't have to guess what the symbols mean—Scripture tells us.
+Perhaps the most important discovery in studying apocalyptic prophecy is that the Bible provides its own decoding keys. There is no need to guess what the symbols mean—Scripture provides the answers.
 
 This pattern appears consistently throughout both Daniel and Revelation. In every major apocalyptic vision, an angel or divine interpreter explains the symbols:
 
@@ -40,9 +40,9 @@ This pattern appears consistently throughout both Daniel and Revelation. In ever
 
 > **Revelation 17:15** "The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues."
 
-Through these divine interpretations, the Bible establishes a consistent symbolic vocabulary: beasts represent kingdoms or kings, horns represent rulers, waters represent peoples and nations, stars represent angels, candlesticks represent churches. When Scripture provides these X-equals-Y equations, they govern how we understand these symbols wherever they appear.
+Through these divine interpretations, the Bible establishes a consistent symbolic vocabulary: beasts represent kingdoms or kings, horns represent rulers, waters represent peoples and nations, stars represent angels, candlesticks represent churches. When Scripture provides these X-equals-Y equations, they govern how these symbols should be understood wherever they appear.
 
-The principle is clear: Scripture interprets its own symbols. We don't impose meaning from outside; we let the Bible's angel-interpreters teach us the symbolic language.
+The principle is clear: Scripture interprets its own symbols. The reader need not impose meaning from outside; the Bible's angel-interpreters teach the symbolic language directly.
 
 ---
 
@@ -64,11 +64,11 @@ Most importantly, the sequence has a definite endpoint:
 
 This isn't an endless cycle of human empires. The sequence terminates when God establishes His everlasting kingdom that will never be destroyed.
 
-Later in Daniel, we learn the identities of the second and third kingdoms:
+Later in Daniel, the identities of the second and third kingdoms are revealed:
 
 > **Daniel 8:20-21** "The ram which thou sawest having two horns are the kings of Media and Persia. And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king."
 
-The angel Gabriel explicitly names them: the second kingdom is Medo-Persia, and the third is Greece. This gives us the sequence: Babylon → Medo-Persia → Greece → Fourth Kingdom → God's Eternal Kingdom.
+The angel Gabriel explicitly names them: the second kingdom is Medo-Persia, and the third is Greece. This yields the sequence: Babylon → Medo-Persia → Greece → Fourth Kingdom → God's Eternal Kingdom.
 
 The fourth kingdom isn't named in Daniel, but historically, Rome was the empire that succeeded the Greek kingdoms and dominated the Mediterranean world when Christ was born. Most Bible students across different traditions have identified Rome as the fourth kingdom.
 
@@ -162,7 +162,7 @@ It's important to understand what the biblical evidence does not support regardi
 
 **The Bible does not present these visions as merely spiritual or symbolic truths with no connection to actual history.** While the visions use symbolic language, they consistently connect to real historical kingdoms (Babylon, Medo-Persia, Greece) and real historical events. The symbols represent historical realities, not just abstract spiritual principles.
 
-**The Bible does not leave us without interpretive keys.** Every major apocalyptic vision includes divine interpretation through angels or Christ Himself. We don't have to guess what the symbols mean—Scripture provides the decoding keys.
+**The Bible does not leave the reader without interpretive keys.** Every major apocalyptic vision includes divine interpretation through angels or Christ Himself. There is no need to guess what the symbols mean—Scripture provides the decoding keys.
 
 **The Bible does not present multiple, disconnected prophetic programs.** Daniel's visions consistently present the same basic four-kingdom sequence from different angles. Revelation builds on this same foundation rather than starting something entirely new. The prophetic program is unified and coherent across both books.
 
@@ -178,7 +178,7 @@ The day-year principle provides the key to understanding prophetic time periods,
 
 Perhaps most importantly, these prophecies demonstrate that history is not random but moves according to God's sovereign plan. From Nebuchadnezzar's dream to John's Revelation, the message is consistent: human kingdoms rise and fall, but God's kingdom will be established and will never be destroyed. The apparent chaos of world history has meaning and direction, moving toward the ultimate triumph of God's eternal purposes.
 
-For readers today, this means apocalyptic prophecy is neither irrelevant ancient literature nor purely future speculation disconnected from present reality. Instead, it provides a prophetic roadmap that helps us understand where we are in the flow of history and what we can expect as God's plan continues to unfold toward its glorious conclusion.
+For readers today, this means apocalyptic prophecy is neither irrelevant ancient literature nor purely future speculation disconnected from present reality. Instead, it provides a prophetic roadmap that helps one understand where humanity stands in the flow of history and what to expect as God's plan continues to unfold toward its glorious conclusion.
 
 ---
 

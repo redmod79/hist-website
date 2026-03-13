@@ -2,9 +2,9 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-When we read Revelation chapters 2 and 3, we encounter seven letters addressed to seven specific churches in ancient Asia (modern-day Turkey). But what exactly are these letters? Are they simply historical correspondence to first-century congregations? Or do they contain deeper prophetic meaning that extends across church history to Christ's return? The biblical evidence reveals a remarkable three-layered design that encompasses all of these dimensions.
+Reading Revelation chapters 2 and 3, one encounters seven letters addressed to seven specific churches in ancient Asia (modern-day Turkey). But what exactly are these letters? Are they simply historical correspondence to first-century congregations? Or do they contain deeper prophetic meaning that extends across church history to Christ's return? The biblical evidence reveals a remarkable three-layered design that encompasses all of these dimensions.
 
-The question matters because it affects how we understand the entire book of Revelation. If the seven churches represent only local first-century situations, then Revelation's prophetic content begins in chapter 4. But if the churches themselves contain prophetic meaning that spans from the apostolic era to the Second Coming, then the entire book forms a unified prophetic survey from John's day to the end of time.
+The question matters because it affects how the reader understands the entire book of Revelation. If the seven churches represent only local first-century situations, then Revelation's prophetic content begins in chapter 4. But if the churches themselves contain prophetic meaning that spans from the apostolic era to the Second Coming, then the entire book forms a unified prophetic survey from John's day to the end of time.
 
 ---
 

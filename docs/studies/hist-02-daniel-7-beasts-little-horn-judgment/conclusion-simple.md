@@ -2,7 +2,7 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-The book of Daniel presents some of the Bible's most detailed prophecies about world history and God's ultimate kingdom. Chapter 7 builds directly upon the vision of Daniel 2, but adds crucial new elements that help us understand how God's eternal kingdom will be established. This study examines what the Bible actually says about the four beasts, the mysterious "little horn" power, and the dramatic judgment scene that determines the fate of nations and saints alike.
+The book of Daniel presents some of the Bible's most detailed prophecies about world history and God's ultimate kingdom. Chapter 7 builds directly upon the vision of Daniel 2, but adds crucial new elements that help the reader understand how God's eternal kingdom will be established. This study examines what the Bible actually says about the four beasts, the mysterious "little horn" power, and the dramatic judgment scene that determines the fate of nations and saints alike.
 
 Daniel 7 was given during the first year of Belshazzar, king of Babylon, placing it chronologically before the fall of Babylon in Daniel 5. The prophet receives a night vision of four great beasts rising from the sea, followed by a heavenly court scene where books are opened and an eternal kingdom is given to "one like the Son of man." The chapter concludes with an angelic interpretation that identifies these symbols and their historical fulfillment.
 

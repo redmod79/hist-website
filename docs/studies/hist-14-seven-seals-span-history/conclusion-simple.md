@@ -12,7 +12,7 @@ This investigation examines what the Bible actually says about the timeline and 
 
 The seal sequence begins not in Revelation 6, but in the throne room scene of Revelation 5. John sees a scroll "written within and on the backside, sealed with seven seals" in God's right hand (Rev 5:1). No one in heaven or earth can open it until the Lamb appears — Christ, who was slain and has "redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation" (Rev 5:9).
 
-Crucially, one of the elders declares that this Lamb "hath prevailed to open the book, and to loose the seven seals thereof" (Rev 5:5). The word "prevailed" translates the Greek word *nikao* — meaning to conquer or overcome. This creates the first link in what we might call the "conquest chain" that runs from Christ's victory to the first seal's conquering rider.
+Crucially, one of the elders declares that this Lamb "hath prevailed to open the book, and to loose the seven seals thereof" (Rev 5:5). The word "prevailed" translates the Greek word *nikao* — meaning to conquer or overcome. This creates the first link in what might be called the "conquest chain" that runs from Christ's victory to the first seal's conquering rider.
 
 The sealed scroll connects directly to Daniel's prophecy, where Daniel was told to "shut up the words, and seal the book, even to the time of the end" (Dan 12:4). What Daniel sealed because fulfillment was distant, the Lamb now opens because "the time is at hand." This establishes the seals as the unveiling of history that was hidden from Daniel but revealed to John.
 

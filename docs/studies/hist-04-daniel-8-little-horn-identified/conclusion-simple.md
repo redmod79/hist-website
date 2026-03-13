@@ -4,7 +4,7 @@
 
 The book of Daniel contains several prophetic visions that describe the rise and fall of world empires from ancient times to the end of history. In Daniel 8, the prophet receives a vision featuring a ram, a goat, four horns, and finally a "little horn" that becomes the dominant power. While the angel Gabriel explicitly identifies the first two symbols — the ram as Medo-Persia and the goat as Greece — the identity of the little horn has been debated for centuries. Does this prophecy point to Antiochus Epiphanes, the Greek king who persecuted the Jews in the second century BC? Or does it describe a different power entirely?
 
-By carefully examining what Daniel 8 itself says — its Hebrew grammar, word choices, and prophetic scope — we can let the Bible determine which identification fits all the evidence.
+By carefully examining what Daniel 8 itself says — its Hebrew grammar, word choices, and prophetic scope — the Bible itself can determine which identification fits all the evidence.
 
 ---
 
@@ -169,7 +169,7 @@ It's important to note what Daniel 8 does not explicitly state:
 
 ## Conclusion: The Weight of Biblical Evidence
 
-When we let Daniel 8 interpret itself through its own vocabulary, grammar, cross-references, and prophetic scope, the evidence points consistently in one direction. The little horn represents a power that:
+When Daniel 8 is allowed to interpret itself through its own vocabulary, grammar, cross-references, and prophetic scope, the evidence points consistently in one direction. The little horn represents a power that:
 
 - Begins small and grows to exceed both Persia and Greece in greatness
 - Expands in the three directions specified (south, east, pleasant land)

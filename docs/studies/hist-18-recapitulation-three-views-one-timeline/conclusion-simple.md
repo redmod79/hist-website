@@ -2,7 +2,7 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-The book of Revelation contains four major prophetic sequences — the seven churches, seven seals, seven trumpets, and seven bowls — but how do these sequences relate to each other? Do they describe consecutive historical periods, or do they all cover the same span of history from different perspectives? This study examines what the Bible actually says about the structure of these prophecies and where they place us in the flow of history.
+The book of Revelation contains four major prophetic sequences — the seven churches, seven seals, seven trumpets, and seven bowls — but how do these sequences relate to each other? Do they describe consecutive historical periods, or do they all cover the same span of history from different perspectives? This study examines what the Bible actually says about the structure of these prophecies and where they place the reader in the flow of history.
 
 This question is central to understanding biblical prophecy. Some believe Revelation describes events in strict chronological order: first the churches, then the seals, then the trumpets, then the bowls. Others propose that these sequences "recapitulate" — they all cover the same historical period but from different viewpoints, like four camera angles filming the same event. Still others confine all the prophecies to the first century or push them entirely into the future.
 
@@ -74,7 +74,7 @@ The three judgment sequences show a systematic quantitative progression:
 
 **Trumpets:** The word "third" appears repeatedly throughout the sequence: "the third part of trees burnt up" (8:7), "the third part of the sea became blood" (8:8), "the third part of the creatures... died" (8:9), and many more instances.
 
-**Bowls:** The word "third" appears exactly zero times. Instead, we find universal language: "every living soul died" (16:3), not "the third part."
+**Bowls:** The word "third" appears exactly zero times. Instead, the text uses universal language: "every living soul died" (16:3), not "the third part."
 
 The progression is clear: 1/4 → 1/3 → total. The judgments escalate from partial to complete, indicating either intensification across time or different perspectives on the same events with different emphasis.
 
@@ -168,7 +168,7 @@ Still others see the sequences as timeless portrayals of the ongoing conflict be
 
 ## The Weight of Evidence
 
-When we examine what Revelation actually says, the structural evidence points toward sequences that are interconnected rather than independent. The identical wrath declarations, the shared cosmic events, the vocabulary chains spanning all sections, the domain correspondence, and especially the chronological regression at Revelation 12 all suggest that these prophecies cover the same historical span from different perspectives.
+When one examines what Revelation actually says, the structural evidence points toward sequences that are interconnected rather than independent. The identical wrath declarations, the shared cosmic events, the vocabulary chains spanning all sections, the domain correspondence, and especially the chronological regression at Revelation 12 all suggest that these prophecies cover the same historical span from different perspectives.
 
 The pattern appears to be:
 - **Churches:** The internal spiritual experience of God's people through history

@@ -2,9 +2,9 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-The prophecies of Daniel and Revelation have puzzled readers for centuries. Do they describe events that happened long ago, things yet to come, or timeless spiritual truths? When we examine Revelation 13-14 carefully, comparing it with Daniel 7 and other Scripture, a clear pattern emerges that helps answer this question.
+The prophecies of Daniel and Revelation have puzzled readers for centuries. Do they describe events that happened long ago, things yet to come, or timeless spiritual truths? When Revelation 13-14 is examined carefully, comparing it with Daniel 7 and other Scripture, a clear pattern emerges that helps answer this question.
 
-This study investigates three key elements in Revelation 13-14: the beast that rises from the sea, the three angels who proclaim messages to the world, and the harvest scene at the chapter's end. What we discover is a carefully constructed prophetic timeline that builds directly on Daniel's visions, creating a continuous narrative from the first century to the second coming of Christ.
+This study investigates three key elements in Revelation 13-14: the beast that rises from the sea, the three angels who proclaim messages to the world, and the harvest scene at the chapter's end. What emerges is a carefully constructed prophetic timeline that builds directly on Daniel's visions, creating a continuous narrative from the first century to the second coming of Christ.
 
 ---
 
@@ -14,7 +14,7 @@ Revelation 13 opens with John's vision of a terrifying beast rising from the sea
 
 > "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority." (Revelation 13:1-2)
 
-This description is not random imagery. It deliberately combines all four beasts from Daniel's earlier vision. In Daniel 7, the prophet saw four separate beasts: a lion (7:4), a bear (7:5), a leopard with four heads (7:6), and a fourth beast with ten horns (7:7). When we count the heads, we get exactly seven total (1+1+4+1), and the fourth beast contributes ten horns. Revelation's sea beast has seven heads and ten horns—the precise combination of all Daniel's beasts rolled into one.
+This description is not random imagery. It deliberately combines all four beasts from Daniel's earlier vision. In Daniel 7, the prophet saw four separate beasts: a lion (7:4), a bear (7:5), a leopard with four heads (7:6), and a fourth beast with ten horns (7:7). Counting the heads yields exactly seven total (1+1+4+1), and the fourth beast contributes ten horns. Revelation's sea beast has seven heads and ten horns—the precise combination of all Daniel's beasts rolled into one.
 
 The order is also significant. Daniel saw lion, then bear, then leopard. John sees the reverse: leopard, bear, lion. This suggests the beast is looking backward through history, having absorbed all the previous powers into itself.
 
@@ -106,7 +106,7 @@ The three angels' messages culminate in the harvest scene:
 
 > "And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle. And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe." (Revelation 14:14-15)
 
-The phrase "like unto the Son of man" echoes Daniel 7:13, where "one like the Son of man came with the clouds of heaven." The harvest imagery comes from Joel 3:13: "Put ye in the sickle, for the harvest is ripe." But Jesus himself gave us the key to interpreting the harvest:
+The phrase "like unto the Son of man" echoes Daniel 7:13, where "one like the Son of man came with the clouds of heaven." The harvest imagery comes from Joel 3:13: "Put ye in the sickle, for the harvest is ripe." But Jesus himself provided the key to interpreting the harvest:
 
 > "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels." (Matthew 13:39)
 
@@ -116,7 +116,7 @@ Christ's own words identify "the harvest" as "the end of the world." The harvest
 
 ## A Continuous Timeline from Christ to His Return
 
-When we step back and look at Revelation 12-14 as a whole, we see a continuous narrative spanning from the first century to the end of time:
+Stepping back to view Revelation 12-14 as a whole, the reader finds a continuous narrative spanning from the first century to the end of time:
 
 1. **The man child (Christ) is born and caught up to God's throne** (12:5)—this anchors the timeline in the first century
 2. **The woman flees to the wilderness for 1,260 days** (12:6, 14)—a long period of persecution following Christ's ascension  
@@ -133,7 +133,7 @@ This narrative begins with an event all interpreters place in the first century 
 
 ## What the Bible Does NOT Say
 
-Before drawing conclusions, we must note what Scripture does not explicitly state:
+Before drawing conclusions, it is important to note what Scripture does not explicitly state:
 
 **The Bible does not name the beasts by historical identity.** While the descriptions provide clear characteristics, no angel interpretation identifies specific nations or leaders by name. Any historical identification requires comparing the biblical descriptions with historical realities.
 
@@ -141,7 +141,7 @@ Before drawing conclusions, we must note what Scripture does not explicitly stat
 
 **The Bible does not explain exactly when the three angels begin their work.** While their position in the narrative sequence is clear (after the beast period, before the harvest), pinpointing their historical commencement requires interpretive application.
 
-**The Bible does not define "the patience of the saints" in specific behavioral terms.** We know they "keep the commandments of God, and the faith of Jesus" (14:12), but the text doesn't elaborate on what this looks like in practical daily life.
+**The Bible does not define "the patience of the saints" in specific behavioral terms.** The text states they "keep the commandments of God, and the faith of Jesus" (14:12), but does not elaborate on what this looks like in practical daily life.
 
 Common misconceptions should also be addressed:
 
@@ -163,7 +163,7 @@ Several key findings emerge from careful examination of these passages:
 
 **The harvest represents Christ's second coming.** Christ's own interpretation of harvest symbolism (Matthew 13:39), combined with the "Son of man" language from Daniel 7:13 and the harvest imagery from Joel 3:13, establishes this connection beyond reasonable doubt.
 
-This evidence pattern strongly supports the historicist interpretation—the view that Daniel and Revelation describe a continuous sweep of history from the prophet's time to the end of the world. The beast's authority period represents an extended era of persecution (historicists typically apply a day-for-year principle, making the 1,260 days represent 1,260 years). The three angels mark the period after this persecution ends but before Christ returns—essentially marking where we are now in prophetic time.
+This evidence pattern strongly supports the historicist interpretation—the view that Daniel and Revelation describe a continuous sweep of history from the prophet's time to the end of the world. The beast's authority period represents an extended era of persecution (historicists typically apply a day-for-year principle, making the 1,260 days represent 1,260 years). The three angels mark the period after this persecution ends but before Christ returns—essentially marking the present position in prophetic time.
 
 Alternative interpretations face significant challenges from the biblical evidence. The preterist view (that these prophecies were fulfilled in the first century) must explain how a narrative beginning with Christ's ascension can end with "the end of the world" within the same century. The futurist view (that these are purely future events) must explain how a narrative that begins with Christ's ascension—indisputably past from any modern vantage point—can be exclusively future. The idealist view (that these represent timeless spiritual truths) must account for the specific numerical time periods and their mathematical equivalence across multiple passages.
 
@@ -173,7 +173,7 @@ The historicist reading, while requiring interpretive application of prophetic t
 
 ## Living in the Time of the Angels
 
-If this interpretation is correct, we are living in the time period marked by the three angels' messages. This means several things are happening simultaneously in our world:
+If this interpretation is correct, the present age falls within the time period marked by the three angels' messages. This means several things are happening simultaneously in the world:
 
 The everlasting gospel is being preached to every nation, kindred, tongue, and people (first angel). Modern global communications and missionary efforts have made worldwide gospel proclamation possible in unprecedented ways.
 
@@ -183,11 +183,11 @@ A final warning is going out about the dangers of following human authority in r
 
 Heaven's judgment has begun (first angel's announcement that "the hour of his judgment is come"), examining the records and preparing for the final resolution when Christ returns as the Son of man to harvest the earth.
 
-Understanding these prophecies is not merely an academic exercise. They reveal where we stand in the flow of prophetic time and what God expects of His people in earth's final crisis. The repeated emphasis on keeping "the commandments of God" alongside "the faith of Jesus" suggests that true Christianity involves both trust in Christ for salvation and obedience to God's moral law—including those commandments that distinguish God's people from those who follow human religious traditions.
+Understanding these prophecies is not merely an academic exercise. They reveal where the present generation stands in the flow of prophetic time and what God expects of His people in earth's final crisis. The repeated emphasis on keeping "the commandments of God" alongside "the faith of Jesus" suggests that true Christianity involves both trust in Christ for salvation and obedience to God's moral law—including those commandments that distinguish God's people from those who follow human religious traditions.
 
 The patience of the saints (Revelation 14:12) becomes crucial in this time period. As pressure mounts to conform to popular religious and social trends, God's people must demonstrate the same kind of patient endurance that sustained believers through the long centuries of persecution described earlier in the prophecy.
 
-Most importantly, these prophecies assure us that history is moving toward a definite conclusion. The harvest is coming. Christ will return as the Son of man with the clouds of heaven. The current conflict between truth and error, between God's commandments and human traditions, between the Creator and the beast, will be resolved when Jesus takes His great power and reigns.
+Most importantly, these prophecies assure the reader that history is moving toward a definite conclusion. The harvest is coming. Christ will return as the Son of man with the clouds of heaven. The current conflict between truth and error, between God's commandments and human traditions, between the Creator and the beast, will be resolved when Jesus takes His great power and reigns.
 
 Until that glorious day, the three angels continue their urgent work, calling the world to fear God, give Him glory, worship Him as Creator, come out of fallen religious systems, and avoid the mark of the beast by maintaining faithful obedience to God's commandments and faith in Jesus Christ.
 

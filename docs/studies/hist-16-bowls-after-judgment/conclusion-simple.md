@@ -4,7 +4,7 @@
 
 Have you ever wondered what happens when God's patience finally runs out? The book of Revelation describes seven "bowls" of judgment that represent exactly that moment — when divine mercy gives way to pure, undiluted wrath. This study examines what the Bible actually says about these final plagues and why they are necessary.
 
-The investigation centers on a crucial question: Do the seven bowls of Revelation 15-16 come after what many call the "close of probation" — that moment when God's intercession for humanity ends and final judgment begins? The biblical evidence reveals a striking contrast between these bowls and the earlier trumpet judgments, showing us two distinct phases of God's dealing with rebellious humanity.
+The investigation centers on a crucial question: Do the seven bowls of Revelation 15-16 come after what many call the "close of probation" — that moment when God's intercession for humanity ends and final judgment begins? The biblical evidence reveals a striking contrast between these bowls and the earlier trumpet judgments, showing two distinct phases of God's dealing with rebellious humanity.
 
 ---
 
@@ -14,7 +14,7 @@ Revelation introduces the bowl judgments with a specific and significant title: 
 
 The word "last" here is the Greek *eschatos*, meaning "final" or "uttermost." This isn't just any series of judgments — these are explicitly the *final* plagues. But this raises an obvious question: if these are the "last" plagues, what were the earlier ones?
 
-The Bible itself answers this question. Earlier in Revelation, when describing human response to the trumpet judgments, the text states: "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands" (Rev 9:20). The word translated "plagues" is the same Greek word (*plege*) used for the bowls. So Revelation presents us with two plague series: the trumpets as earlier plagues, and the bowls as the final ones.
+The Bible itself answers this question. Earlier in Revelation, when describing human response to the trumpet judgments, the text states: "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands" (Rev 9:20). The word translated "plagues" is the same Greek word (*plege*) used for the bowls. So Revelation presents two plague series: the trumpets as earlier plagues, and the bowls as the final ones.
 
 The phrase "for in them is filled up the wrath of God" uses a Greek word (*teleo*) meaning "completed" or "finished." God's wrath reaches its completion in these seven bowls. This isn't the beginning of judgment — it's the climax and conclusion.
 
@@ -24,7 +24,7 @@ The phrase "for in them is filled up the wrath of God" uses a Greek word (*teleo
 
 Perhaps the most theologically significant detail about the bowls appears in their introduction: "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled" (Rev 15:8).
 
-This scene presents a stark contrast with the introduction to the trumpet judgments. Before the trumpets, we read: "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne. And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hand" (Rev 8:3-4).
+This scene presents a stark contrast with the introduction to the trumpet judgments. Before the trumpets, the text reads: "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne. And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hand" (Rev 8:3-4).
 
 The difference is striking:
 - **Before the trumpets**: Prayers ascending, incense offered, access to God's throne open
@@ -56,7 +56,7 @@ A careful comparison of the trumpet and bowl judgments reveals a systematic diff
 - Second trumpet: "the third part of the sea became blood... and the third part of the creatures which were in the sea, and had life, died" (Rev 8:8-9)
 - Third trumpet: "the third part of the waters became wormwood" (Rev 8:11)
 
-The word "third" appears over thirteen times in the trumpet sequence. But in the bowls, this fraction language disappears completely. Instead, we find universal, total effects:
+The word "third" appears over thirteen times in the trumpet sequence. But in the bowls, this fraction language disappears completely. Instead, the text describes universal, total effects:
 
 - First bowl: "a noisome and grievous sore upon the men which had the mark of the beast" — all who have the mark (Rev 16:2)
 - Second bowl: "every living soul died in the sea" — complete destruction (Rev 16:3)
@@ -86,7 +86,7 @@ Significantly, by the seventh bowl, the text no longer even mentions whether the
 
 ## Why the Bowls Are Necessary — Divine Justice Vindicated
 
-The bowls serve a crucial purpose beyond mere punishment. They vindicate God's justice and character. When the third bowl turns all waters to blood, we hear this response:
+The bowls serve a crucial purpose beyond mere punishment. They vindicate God's justice and character. When the third bowl turns all waters to blood, the text records this response:
 
 > "And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus. For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy. And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments" (Rev 16:5-7).
 
@@ -156,6 +156,6 @@ The biblical evidence shows clear structural differences between the trumpets an
 
 Most significantly, the bowls reveal that divine wrath, when unmixed with mercy, is a terrible reality. But they also show that this wrath comes only after divine longsuffering has reached its limit. As the angels and the altar declare in the midst of judgment: "Thou art righteous, O Lord... true and righteous are thy judgments" (Rev 16:5-7).
 
-The bowls remind us that while God's mercy is patient and long-suffering, it is not infinite in time. There comes a moment when the temple closes, when "it is done," and when judgment falls without mixture. This sobering reality makes the gospel call all the more urgent: "Fear God, and give glory to him; for the hour of his judgment is come" (Rev 14:7).
+The bowls serve as a reminder that while God's mercy is patient and long-suffering, it is not infinite in time. There comes a moment when the temple closes, when "it is done," and when judgment falls without mixture. This sobering reality makes the gospel call all the more urgent: "Fear God, and give glory to him; for the hour of his judgment is come" (Rev 14:7).
 
 *Based on the full technical study completed 2026-03-12*

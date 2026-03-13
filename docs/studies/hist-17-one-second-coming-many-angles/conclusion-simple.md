@@ -20,7 +20,7 @@ The same universal language appears throughout the other second coming passages 
 
 > "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?"
 
-This enumeration from kings down to slaves represents complete human society. Everyone sees, everyone responds. Later, at Christ's return as the conquering Rider in Revelation 19:17-18, we find the same social classes listed again: "kings, captains, mighty men... free, bond, small, great." The repetition of these categories across multiple passages shows they're describing the same event from different perspectives.
+This enumeration from kings down to slaves represents complete human society. Everyone sees, everyone responds. Later, at Christ's return as the conquering Rider in Revelation 19:17-18, the same social classes appear again: "kings, captains, mighty men... free, bond, small, great." The repetition of these categories across multiple passages shows they're describing the same event from different perspectives.
 
 Jesus himself confirmed this universal visibility when he described his return:
 
@@ -107,7 +107,7 @@ The passage most often cited to support a secret rapture actually describes the 
 
 Three phrases describe how Christ descends: "with a shout," "with the voice of the archangel," and "with the trump of God." These are the loudest possible sounds — a military command, an angelic announcement, and a divine trumpet blast. This is the opposite of secrecy.
 
-The word "caught up" (Greek harpazō) simply describes the action of being taken. It appears thirteen times in the New Testament and always refers to forceful seizure — it tells us what happens, not how publicly or secretly it happens.
+The word "caught up" (Greek harpazō) simply describes the action of being taken. It appears thirteen times in the New Testament and always refers to forceful seizure — it communicates what happens, not how publicly or secretly it happens.
 
 But the key word is "meet" (Greek apantēsis). This term appears only three other times in the New Testament, and in every case it follows the same pattern of a civic delegation:
 
@@ -176,6 +176,6 @@ The vocabulary chains that link Revelation's scattered second coming passages le
 
 The additional arguments for a pre-tribulation rapture — from Revelation 4:1's "come up hither," from the church's absence in Revelation 4-21, or from redefining "falling away" as "departure" — each fail under careful examination of the Greek text and biblical context.
 
-This doesn't diminish the blessed hope that believers have in Christ's return. Rather, it clarifies what that hope actually is: not escape from tribulation, but the glorious transformation that awaits all God's people when Jesus appears. As Paul wrote, we are "looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ" — one hope, one appearing, one magnificent return that will be seen by every eye and will gather all believers to be with the Lord forever.
+This doesn't diminish the blessed hope that believers have in Christ's return. Rather, it clarifies what that hope actually is: not escape from tribulation, but the glorious transformation that awaits all God's people when Jesus appears. As Paul wrote, believers are "looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ" — one hope, one appearing, one magnificent return that will be seen by every eye and will gather all believers to be with the Lord forever.
 
 *Based on the full technical study completed March 13, 2026*

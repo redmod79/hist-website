@@ -2,7 +2,7 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-This study investigates one of Daniel's most important prophecies: "Unto two thousand and three hundred days; then shall the sanctuary be cleansed" (Daniel 8:14). The question is not just what this verse means, but what it actually says in the original Hebrew language. Does it describe a ritual cleansing, or something else entirely? The answer matters because it affects how we understand both Daniel's prophecy and related passages in Revelation.
+This study investigates one of Daniel's most important prophecies: "Unto two thousand and three hundred days; then shall the sanctuary be cleansed" (Daniel 8:14). The question is not just what this verse means, but what it actually says in the original Hebrew language. Does it describe a ritual cleansing, or something else entirely? The answer matters because it affects how one understands both Daniel's prophecy and related passages in Revelation.
 
 The investigation focuses on the Hebrew text, examining Daniel's actual word choices, the grammar he used, and how these words are used elsewhere in the Bible. It also traces how this Hebrew text was translated into Greek, Latin, and English to understand where the word "cleansed" comes from.
 
@@ -12,7 +12,7 @@ The investigation focuses on the Hebrew text, examining Daniel's actual word cho
 
 The heart of Daniel 8:14 contains the Hebrew word *nitsdaq* (נִצְדַּק), which comes from the root *tsadaq* (צָדַק). This is not a word about cleaning or purification. In Hebrew, *tsadaq* belongs to the courtroom. It means "to be justified," "to be vindicated," or "to be declared righteous" in a legal sense.
 
-This becomes crystal clear when we examine every single time this Hebrew word appears in its passive form throughout the Old Testament:
+This becomes crystal clear when examining every single time this Hebrew word appears in its passive form throughout the Old Testament:
 
 > "How should man be just with God?" (Job 9:2)
 
@@ -46,7 +46,7 @@ This wasn't an accident. Daniel deliberately selected legal vocabulary over ritu
 
 ## The Question Demands a Legal Answer
 
-Daniel's word choice makes perfect sense when we read the question that prompted it. Daniel 8:13 asks:
+Daniel's word choice makes perfect sense when the question that prompted it is read in context. Daniel 8:13 asks:
 
 > "How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
 
@@ -64,7 +64,7 @@ When Jewish scholars translated the Hebrew Old Testament into Greek (creating th
 
 But in Daniel 8:14, something unusual happened. Instead of using *dikaioo*, the Greek translators chose *katharisthesetai* (from *katharizo*, meaning "to cleanse"). This was the only time in the entire Old Testament that they translated *tsadaq* with a cleaning word instead of a legal word.
 
-Why did they make this change? We can't be certain, but it appears they were influenced by the context of the sanctuary and imported a cleansing concept rather than translating what the Hebrew verb actually meant.
+Why did they make this change? The reason cannot be determined with certainty, but it appears they were influenced by the context of the sanctuary and imported a cleansing concept rather than translating what the Hebrew verb actually meant.
 
 This Greek translation then influenced later translations:
 - Hebrew *nitsdaq* (vindicated) 
@@ -72,7 +72,7 @@ This Greek translation then influenced later translations:
 - → Latin *mundabitur* (cleansed) 
 - → English "cleansed"
 
-The King James Version and most other English translations followed this tradition. But when we go back to the original Hebrew text, we find a legal verdict, not a ritual cleansing.
+The King James Version and most other English translations followed this tradition. But when one goes back to the original Hebrew text, the evidence reveals a legal verdict, not a ritual cleansing.
 
 ---
 
@@ -144,7 +144,7 @@ Several common interpretations go beyond what the biblical text actually states:
 
 ## The Chronological Framework
 
-If we accept the day-year principle (where prophetic days represent literal years, as established in Numbers 14:34 and Ezekiel 4:6), then the 2300 evening-mornings become 2300 years. The starting point connects to Daniel's seventy weeks prophecy through Gabriel's explicit statement that he came to explain the previous vision (Daniel 9:21-23).
+If the day-year principle is accepted (where prophetic days represent literal years, as established in Numbers 14:34 and Ezekiel 4:6), then the 2300 evening-mornings become 2300 years. The starting point connects to Daniel's seventy weeks prophecy through Gabriel's explicit statement that he came to explain the previous vision (Daniel 9:21-23).
 
 The seventy weeks prophecy begins with the command to restore and rebuild Jerusalem, historically identified with Artaxerxes' decree in 457 BC. Since Gabriel presents the seventy weeks as part of his explanation of the 2300-day vision, they share the same starting point. The seventy weeks (490 years) are "cut off" from the larger time period, meaning they represent the first 490 years of the 2300.
 
@@ -164,11 +164,11 @@ Their convergence on both the legal meaning of *nitsdaq* and the chronological c
 
 ## Conclusion
 
-When we examine Daniel 8:14 in its original Hebrew, paying attention to Daniel's actual word choices and how those words are used throughout Scripture, a clear picture emerges. This is not a verse about ritual cleansing but about legal vindication. The sanctuary, having been wrongfully attacked and trampled, receives a favorable verdict in heaven's court.
+When Daniel 8:14 is examined in its original Hebrew, with attention to Daniel's actual word choices and how those words are used throughout Scripture, a clear picture emerges. This is not a verse about ritual cleansing but about legal vindication. The sanctuary, having been wrongfully attacked and trampled, receives a favorable verdict in heaven's court.
 
 The Hebrew verb *nitsdaq* means "to be vindicated" or "to be declared righteous"—legal language, not ritual language. Daniel deliberately chose this forensic term over the available cleansing vocabulary he used elsewhere. The evening-morning time expression matches the creation day-cycle, not Day of Atonement terminology. The judgment scene of Daniel 7 provides the courtroom context where this vindication takes place.
 
-This forensic reading transforms our understanding of the prophecy. Rather than describing a ritual purification, Daniel 8:14 announces the outcome of a heavenly legal proceeding. The sanctuary's truth is upheld, its cause is vindicated, and justice is finally served after a long period of wrongful oppression.
+This forensic reading transforms the understanding of the prophecy. Rather than describing a ritual purification, Daniel 8:14 announces the outcome of a heavenly legal proceeding. The sanctuary's truth is upheld, its cause is vindicated, and justice is finally served after a long period of wrongful oppression.
 
 The implications extend to Revelation's first angel message, which announces that "the hour of his judgment is come" while calling people to worship the Creator. This combines the same two themes—judgment and creation—that appear in Daniel 8:14's legal verdict (*nitsdaq*) delivered at the end of creation-cycle time units (*ereb boqer*).
 

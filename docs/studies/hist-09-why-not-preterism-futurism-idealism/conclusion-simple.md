@@ -2,9 +2,9 @@
 
 ## A Plain-English Summary of the Biblical Evidence
 
-Many Christians wonder which approach to interpreting Bible prophecy is correct. Should we understand the prophecies of Daniel and Revelation as describing events that happened in the first century (preterism), events that are yet future (futurism), continuous history from Christ's time to His return (historicism), or timeless spiritual truths (idealism)? This study examines what the Bible itself actually says and asks a crucial question: which interpretive framework can account for ALL the biblical evidence?
+Many Christians wonder which approach to interpreting Bible prophecy is correct. Should the prophecies of Daniel and Revelation be understood as describing events that happened in the first century (preterism), events that are yet future (futurism), continuous history from Christ's time to His return (historicism), or timeless spiritual truths (idealism)? This study examines what the Bible itself actually says and asks a crucial question: which interpretive framework can account for ALL the biblical evidence?
 
-The answer may surprise you. When we carefully examine the text of Scripture, we find that three of these four approaches fail to handle specific, clear statements in the Bible. Only one framework — historicism — can accommodate all the biblical evidence simultaneously.
+The answer may surprise you. When the text of Scripture is carefully examined, it becomes clear that three of these four approaches fail to handle specific, clear statements in the Bible. Only one framework — historicism — can accommodate all the biblical evidence simultaneously.
 
 ---
 
@@ -20,7 +20,7 @@ The Bible clearly identifies this "man child" through cross-references to Psalm 
 
 But here's the problem for preterism: this past event (Christ's ascension) appears within a prophetic sequence that continues through the woman's 1,260-day wilderness period (Revelation 12:6), the dragon's war with the remnant (Revelation 12:17), the beast's 42-month authority (Revelation 13:5), the Three Angels' Messages (Revelation 14:6-12), and culminates in the harvest of the earth (Revelation 14:14-20).
 
-Jesus Himself taught that "the harvest is the end of the world" (Matthew 13:39). So we have a continuous prophetic sequence that begins with Christ's ascension (around 30 AD) and extends to the end of the world — a span of approximately 2,000 years compressed within a single prophetic narrative with no break markers.
+Jesus Himself taught that "the harvest is the end of the world" (Matthew 13:39). The result is a continuous prophetic sequence that begins with Christ's ascension (around 30 AD) and extends to the end of the world — a span of approximately 2,000 years compressed within a single prophetic narrative with no break markers.
 
 Preterism must squeeze this entire sequence into the roughly 37 years between Christ's ascension and Jerusalem's destruction in 70 AD. But the 1,260-day period alone (mentioned in four mathematically equivalent forms: 42 months, 1,260 days, "time, times and half a time," and 3.5 years) exceeds three and a half literal years — and it's embedded within a sequence that begins before it and continues after it.
 
@@ -71,7 +71,7 @@ These are present-tense realities for historical churches, not future conditions
 
 ### The Imaginary Gap in Daniel's 70 Weeks
 
-Dispensational futurism requires a gap of 2,000+ years between Daniel's 69th and 70th week. Here's the theory: 69 weeks of years (483 years) bring us to Christ's first coming, then a long gap occurs, and the final "week" (7 years) will be a future tribulation period.
+Dispensational futurism requires a gap of 2,000+ years between Daniel's 69th and 70th week. Here's the theory: 69 weeks of years (483 years) reach to Christ's first coming, then a long gap occurs, and the final "week" (7 years) will be a future tribulation period.
 
 The problem? Daniel's text states no gap. Consider the language:
 
@@ -163,7 +163,7 @@ It's important to clarify what the Bible does NOT teach, since many common belie
 
 ## Why Only Historicism Accounts for All the Evidence
 
-Having examined the failures of each alternative, we must ask: which framework accounts for ALL the biblical evidence?
+Having examined the failures of each alternative, the crucial question remains: which framework accounts for ALL the biblical evidence?
 
 The text of Scripture contains six categories of evidence that any viable interpretation must accommodate:
 
@@ -189,7 +189,7 @@ The evidence doesn't merely permit historicism — it requires a framework spann
 
 ## Conclusion
 
-When we examine what the Bible actually says rather than what our traditions tell us it says, the evidence points decisively toward historicism as the correct interpretive framework for understanding Daniel and Revelation.
+When the Bible is examined for what it actually says rather than what inherited traditions suggest, the evidence points decisively toward historicism as the correct interpretive framework for understanding Daniel and Revelation.
 
 Preterism fails because it cannot compress a sequence spanning from Christ's ascension to the end of the world into the first century. The mathematical impossibility of fitting 1,260 days within a narrative that includes both Christ's past ascension and the future harvest demonstrates that more time is required than 70 AD allows.
 
@@ -201,6 +201,6 @@ Each system handles some evidence while failing to account for evidence that the
 
 The Protestant Reformers understood this. From Luther to Wesley, they unanimously interpreted these prophecies as spanning church history from their own time to Christ's return. They saw themselves living within the prophetic timeline, not before it (preterism) or after it (futurism) or outside it (idealism).
 
-Modern Christians need not choose between scholarly sophistication and biblical faithfulness. The most careful attention to what the Bible actually says leads us back to the historicist framework that sustained the church through centuries of persecution and triumph. The text itself requires no less than a view that sees God's hand in all of history, from the apostolic age to the glorious return of our Lord Jesus Christ.
+Modern Christians need not choose between scholarly sophistication and biblical faithfulness. The most careful attention to what the Bible actually says leads back to the historicist framework that sustained the church through centuries of persecution and triumph. The text itself requires no less than a view that sees God's hand in all of history, from the apostolic age to the glorious return of the Lord Jesus Christ.
 
 *Based on the full technical study completed March 12, 2026*

@@ -22,7 +22,7 @@ The angel Gabriel receives a clear assignment: make Daniel understand "the visio
 
 The Hebrew text reveals that Gabriel's mission failed. The word "understood" in verse 27 uses the same Hebrew root (biyn) as Gabriel's commission in verse 16. Daniel was told Gabriel would "make him understand" (haben), but the result was "none understood" (ein mebin). The mission was incomplete.
 
-This becomes crucial when we reach Daniel 9. After Daniel's prayer about the 70-year captivity, an unexpected visitor arrives:
+This becomes crucial upon reaching Daniel 9. After Daniel's prayer about the 70-year captivity, an unexpected visitor arrives:
 
 > "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation. And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding." (Daniel 9:21-22)
 
@@ -103,7 +103,7 @@ Historical records establish this decree as occurring in the seventh year of Art
 
 ## The Day-Year Principle
 
-To calculate the end point of the 2300 days, we must understand how biblical prophecy measures time. The Bible establishes a pattern where prophetic days represent years in certain contexts:
+To calculate the end point of the 2300 days, one must understand how biblical prophecy measures time. The Bible establishes a pattern where prophetic days represent years in certain contexts:
 
 > "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years." (Numbers 14:34)
 
