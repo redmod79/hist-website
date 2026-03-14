@@ -139,17 +139,17 @@ Read and follow the investigative methodology in `D:/bible/bible-studies/hist-se
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| H7620 | shabuwa (week/seven) | The core word in Dan 9:24 -- "seventy weeks" |
-| H2852 | chathak (cut off/determined) | Hapax legomenon -- "are determined" in Dan 9:24; primary meaning "cut off" |
-| H4899 | mashiyach (anointed one/Messiah) | "Messiah the Prince" in Dan 9:25-26 |
-| H1285 | beriyth (covenant) | "Confirm the covenant" in Dan 9:27 |
-| H3772 | karath (cut off/make covenant) | Used for both covenant-making and cutting off; "Messiah be cut off" Dan 9:26 |
-| H1504 | gazar (cut off/divide/decree) | Related to the concept of determining/decreeing |
-| G5547 | Christos (Christ/anointed) | Greek equivalent of mashiyach; "Christ" = the Anointed One |
-| G5548 | chrio (to anoint) | "God anointed Jesus" in Acts 10:38; Luke 4:18 |
-| H2856 | chatham (seal up) | "Seal up the vision and prophecy" in Dan 9:24 |
-| H5057 | nagiyd (prince/leader) | "Messiah the Prince" in Dan 9:25; "the prince that shall come" in Dan 9:26 |
-| G758 | archon (ruler/prince) | Greek parallel for "prince" |
+| [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} | shabuwa (week/seven) | The core word in Dan 9:24 -- "seventy weeks" |
+| [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} | chathak (cut off/determined) | Hapax legomenon -- "are determined" in Dan 9:24; primary meaning "cut off" |
+| [H4899](https://www.blueletterbible.org/lexicon/h4899/kjv/wlc/0-1/){:target="_blank"} | mashiyach (anointed one/Messiah) | "Messiah the Prince" in Dan 9:25-26 |
+| [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} | beriyth (covenant) | "Confirm the covenant" in Dan 9:27 |
+| [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} | karath (cut off/make covenant) | Used for both covenant-making and cutting off; "Messiah be cut off" Dan 9:26 |
+| [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"} | gazar (cut off/divide/decree) | Related to the concept of determining/decreeing |
+| [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} | Christos (Christ/anointed) | Greek equivalent of mashiyach; "Christ" = the Anointed One |
+| [G5548](https://www.blueletterbible.org/lexicon/g5548/kjv/tr/0-1/){:target="_blank"} | chrio (to anoint) | "God anointed Jesus" in Acts 10:38; Luke 4:18 |
+| [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} | chatham (seal up) | "Seal up the vision and prophecy" in Dan 9:24 |
+| [H5057](https://www.blueletterbible.org/lexicon/h5057/kjv/wlc/0-1/){:target="_blank"} | nagiyd (prince/leader) | "Messiah the Prince" in Dan 9:25; "the prince that shall come" in Dan 9:26 |
+| [G758](https://www.blueletterbible.org/lexicon/g758/kjv/tr/0-1/){:target="_blank"} | archon (ruler/prince) | Greek parallel for "prince" |
 
 ### Related Existing Studies
 
@@ -167,10 +167,10 @@ Read and follow the investigative methodology in `D:/bible/bible-studies/hist-se
 **Key Findings from Related Studies:**
 
 **From daniel-9-24-weeks-grammar/CONCLUSION.md:**
-- H7620 (shabuwa) literally means "a period of seven" -- can refer to either weeks of days or weeks of years
+- [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} (shabuwa) literally means "a period of seven" -- can refer to either weeks of days or weeks of years
 - Genesis 29:27-28 is decisive: Jacob's "week" for Leah was 7 YEARS, proving shabuwa can mean year-week
 - Daniel distinguishes deliberately: uses shabuim YAMIM ("weeks of DAYS") in Dan 10:2-3, but omits YAMIM in Dan 9:24
-- H2852 (chathak) -- "cut off" -- is a hapax legomenon (occurs only in Dan 9:24); primary meaning is "to cut off," implying severance from a larger whole (the 2300 days)
+- [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak) -- "cut off" -- is a hapax legomenon (occurs only in Dan 9:24); primary meaning is "to cut off," implying severance from a larger whole (the 2300 days)
 - The omission of yamim in 9:24 vs. its presence in 10:2-3 is the same-author-same-book grammatical distinction
 - Vocabulary links to Daniel 8:14: Gabriel, mar'eh, biyn, tsedeq, qodesh
 - Historical fulfillment: 457 BC + 483 years = 27 AD (Jesus baptized); crucifixion 31 AD; gospel to Gentiles 34 AD
@@ -179,7 +179,7 @@ Read and follow the investigative methodology in `D:/bible/bible-studies/hist-se
 - Gabriel's mission spans both Daniel 8 and 9 -- same angel, unfinished explanation
 - Two Hebrew words for "vision": chazon (general) vs. mar'eh (specific time element)
 - Dan 8:26 links mar'eh to "the evening and the morning" (2300 days); Dan 9:23 tells Daniel to understand "the mar'eh"
-- H2852 (chathak) = "cut off" -- the 70 weeks are severed from the 2300 days
+- [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak) = "cut off" -- the 70 weeks are severed from the 2300 days
 - Shared vocabulary: Gabriel, mar'eh, biyn, tsedeq root, qodesh
 - Both prophecies share the starting point of 457 BC (Artaxerxes' decree, Ezra 7)
 - The 70-weeks fulfillment proves the day-year principle; then the same principle applied to the 2300 days yields 2300 years
@@ -209,11 +209,11 @@ Read and follow the investigative methodology in `D:/bible/bible-studies/hist-se
 
 ### Focus Areas
 
-1. **The Day-Year Principle: Biblical Foundation**: WHAT -- Establish from Scripture the principle that prophetic days represent years. WHY -- Nave's DAY entry lists Dan 8:14; 9:24-27; 12:11,12; Rev 11:3; 12:6 under "Prophetic" -- confirming that Scripture itself treats prophetic time as distinct from literal time. Num 14:34 and Ezek 4:6 both use the identical Hebrew formula yom lashshanah ("each day for a year"). HOW -- Retrieve full text of Num 14:34, Ezek 4:6, and 2PE 3:8 with chapter context. Run hebrew_parser.py on Num 14:34 and Ezek 4:6 to parse the day-for-year formula. Look up H3117 (yom) and H8141 (shanah) for the "day for a year" construction.
+1. **The Day-Year Principle: Biblical Foundation**: WHAT -- Establish from Scripture the principle that prophetic days represent years. WHY -- Nave's DAY entry lists Dan 8:14; 9:24-27; 12:11,12; Rev 11:3; 12:6 under "Prophetic" -- confirming that Scripture itself treats prophetic time as distinct from literal time. Num 14:34 and Ezek 4:6 both use the identical Hebrew formula yom lashshanah ("each day for a year"). HOW -- Retrieve full text of Num 14:34, Ezek 4:6, and 2PE 3:8 with chapter context. Run hebrew_parser.py on Num 14:34 and Ezek 4:6 to parse the day-for-year formula. Look up [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"} (yom) and [H8141](https://www.blueletterbible.org/lexicon/h8141/kjv/wlc/0-1/){:target="_blank"} (shanah) for the "day for a year" construction.
 
-2. **Genesis 29:27-28 and the Lexical Proof That Shabuwa Means Year-Weeks**: WHAT -- Demonstrate from Genesis that the Hebrew word H7620 (shabuwa) can mean a week of YEARS, not only days. WHY -- The prior grammar study identified this as "decisive" evidence. The Sabbatic Year entry (Nave's) shows Israel's entire legal system was built on seven-year cycles (Lev 25; Exo 23:9-11), providing the cultural context for year-weeks. HOW -- Retrieve Gen 29:27-28 with chapter context. Run hebrew_parser.py on Gen 29:27. Look up H7620 (shabuwa) with --verses to trace all occurrences. Retrieve Lev 25:1-8 (sabbatic year) and 2Ch 36:21 (land sabbath fulfillment).
+2. **Genesis 29:27-28 and the Lexical Proof That Shabuwa Means Year-Weeks**: WHAT -- Demonstrate from Genesis that the Hebrew word [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} (shabuwa) can mean a week of YEARS, not only days. WHY -- The prior grammar study identified this as "decisive" evidence. The Sabbatic Year entry (Nave's) shows Israel's entire legal system was built on seven-year cycles (Lev 25; Exo 23:9-11), providing the cultural context for year-weeks. HOW -- Retrieve Gen 29:27-28 with chapter context. Run hebrew_parser.py on Gen 29:27. Look up [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} (shabuwa) with --verses to trace all occurrences. Retrieve Lev 25:1-8 (sabbatic year) and 2Ch 36:21 (land sabbath fulfillment).
 
-3. **Daniel 9:24 -- The Six Goals of the 70 Weeks**: WHAT -- Analyze the six purposes stated in Dan 9:24 (finish transgression, make end of sins, make reconciliation, bring everlasting righteousness, seal up vision and prophecy, anoint the Most Holy). WHY -- These goals define WHAT the 70-weeks prophecy accomplishes. The Strong's results show H2852 (chathak, "cut off/determined") is a hapax legomenon whose primary meaning is "cut off from a larger whole." H2856 (chatham, "seal up") appears in the list of key terms. HOW -- Retrieve Dan 9:24-27 with full chapter context (Dan 9:1-27). Run hebrew_parser.py on Dan 9:24. Look up H2852, H2856, H5057 (nagiyd, "prince"), H4899 (mashiyach). Run cross-testament parallels on Dan 9:24 in both directions.
+3. **Daniel 9:24 -- The Six Goals of the 70 Weeks**: WHAT -- Analyze the six purposes stated in Dan 9:24 (finish transgression, make end of sins, make reconciliation, bring everlasting righteousness, seal up vision and prophecy, anoint the Most Holy). WHY -- These goals define WHAT the 70-weeks prophecy accomplishes. The Strong's results show [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak, "cut off/determined") is a hapax legomenon whose primary meaning is "cut off from a larger whole." [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} (chatham, "seal up") appears in the list of key terms. HOW -- Retrieve Dan 9:24-27 with full chapter context (Dan 9:1-27). Run hebrew_parser.py on Dan 9:24. Look up [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"}, [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"}, [H5057](https://www.blueletterbible.org/lexicon/h5057/kjv/wlc/0-1/){:target="_blank"} (nagiyd, "prince"), [H4899](https://www.blueletterbible.org/lexicon/h4899/kjv/wlc/0-1/){:target="_blank"} (mashiyach). Run cross-testament parallels on Dan 9:24 in both directions.
 
 4. **The Starting Point: Artaxerxes' Decree (Ezra 7) vs. Competing Decrees**: WHAT -- Identify which historical decree fulfills "the commandment to restore and to build Jerusalem" (Dan 9:25). WHY -- Nave's ARTAXERXES entry lists two decrees: EZR 4:7-24 (prohibiting rebuilding) and EZR 7/NEH 2 (authorizing). The JERUSALEM entry references DAN 9:25 under "Prophecies of rebuilding." Three candidates exist: Cyrus (538/537 BC), Artaxerxes to Ezra (457 BC), Artaxerxes to Nehemiah (444 BC). HOW -- Retrieve EZR 7:1-26 with full chapter context. Retrieve 2CH 36:22-23; EZR 1:1-4 (Cyrus' decree). Retrieve NEH 2:1-8 (Nehemiah's commission). Retrieve ISA 44:28 (prophecy of rebuilding). Investigate what each decree authorized -- physical city vs. walls vs. full civil restoration. Use WebSearch for historical dating of Artaxerxes I's 7th year.
 
@@ -221,7 +221,7 @@ Read and follow the investigative methodology in `D:/bible/bible-studies/hist-se
 
 6. **The 70th Week: Messiah's Ministry (27-34 AD)**: WHAT -- Trace the events of the 70th week: Jesus' 3.5-year ministry, crucifixion "in the midst of the week" (31 AD), and the gospel to Gentiles (34 AD). WHY -- Dan 9:27 says "he shall confirm the covenant with many for one week" and "in the midst of the week he shall cause the sacrifice and the oblation to cease." The COVENANT entry references Dan 9:27 under "to be confirmed." The prior grammar study established this fulfillment timeline. HOW -- Retrieve DAN 9:27 with context. Retrieve MAT 26:28 / MRK 14:24 / LUK 22:20 (new covenant in blood). Retrieve MAT 27:50-51 (veil rent). Retrieve HEB 10:1-14 (one sacrifice). Retrieve ACT 7:54-60 (Stephen stoned). Retrieve ACT 8:1-4 (gospel scattered). Retrieve ACT 13:46 (turn to Gentiles). Run hebrew_parser.py on Dan 9:27 to parse "higbiyr" (H1396, to confirm/prevail/strengthen).
 
-7. **"He Shall Confirm" -- Subject Identification in Dan 9:27**: WHAT -- Determine whether the "he" in Dan 9:27 ("he shall confirm the covenant with many for one week") refers to the Messiah (sustained subject from v.25-26) or to "the prince that shall come" (a different antecedent). WHY -- This is the critical grammatical question. The prior grammar study found that the sustained subject from Dan 9:25-26 is Messiah. The Hebrew verb higbiyr (H1396) means "to make strong/prevail" -- strengthening an existing covenant, not creating a new one. The dispensationalist reading requires a subject switch to an Antichrist figure, which the grammar does not support. HOW -- Run hebrew_parser.py on Dan 9:26-27 for full clause analysis. Look up H1396 (gabar) with --verses to see how it is used elsewhere. Look up H5057 (nagiyd) to distinguish "Messiah the Prince" (v.25) from "the prince that shall come" (v.26). Run semantic_grammar.py "Hebrew pronoun antecedent" for grammatical principles on pronoun reference.
+7. **"He Shall Confirm" -- Subject Identification in Dan 9:27**: WHAT -- Determine whether the "he" in Dan 9:27 ("he shall confirm the covenant with many for one week") refers to the Messiah (sustained subject from v.25-26) or to "the prince that shall come" (a different antecedent). WHY -- This is the critical grammatical question. The prior grammar study found that the sustained subject from Dan 9:25-26 is Messiah. The Hebrew verb higbiyr (H1396) means "to make strong/prevail" -- strengthening an existing covenant, not creating a new one. The dispensationalist reading requires a subject switch to an Antichrist figure, which the grammar does not support. HOW -- Run hebrew_parser.py on Dan 9:26-27 for full clause analysis. Look up [H1396](https://www.blueletterbible.org/lexicon/h1396/kjv/wlc/0-1/){:target="_blank"} (gabar) with --verses to see how it is used elsewhere. Look up [H5057](https://www.blueletterbible.org/lexicon/h5057/kjv/wlc/0-1/){:target="_blank"} (nagiyd) to distinguish "Messiah the Prince" (v.25) from "the prince that shall come" (v.26). Run semantic_grammar.py "Hebrew pronoun antecedent" for grammatical principles on pronoun reference.
 
 8. **The Gap Theory: Is There Justification for Separating the 70th Week from the 69?**: WHAT -- Examine whether the text permits a gap of 2000+ years between the 69th and 70th weeks. WHY -- Hist-01 established (as I-D inference) that inserting a gap requires adding a concept the text does not state (prophetic parenthesis). Dan 9:24 says "Seventy weeks are determined" -- a continuous period. MRK 1:15 ("the time is fulfilled") and GAL 4:4 ("the fulness of the time") both use language suggesting a specific prophetic timetable reaching completion, not an interrupted one. The arithmetic is simple: 7 + 62 + 1 = 70 continuous weeks. HOW -- Retrieve DAN 9:24 with the Hebrew text parsed. Examine MRK 1:15 ("the time [kairos] is fulfilled [pepleerotai]") -- run greek_parser.py on MRK 1:15. Run greek_parser.py on GAL 4:4 ("the fulness [pleroma] of the time [chronos]"). Document the dispensationalist gap theory's textual basis (or lack thereof). Search for any biblical precedent for interrupted prophetic time periods.
 
@@ -253,16 +253,16 @@ You are the Research Agent. Execute this study by:
      - **Gospel to Gentiles texts** (Act 7:54-60; 8:1-4; 13:46; 10:45; Rom 1:16)
      - **Jesus' ministry to Israel first** (Mat 15:24; 10:5-6; Rom 15:8; Act 3:25-26)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - H7620 (shabuwa, "week") -- CRITICAL: trace ALL OT occurrences with --verses
-     - H2852 (chathak, "cut off/determined") -- hapax, run --lexicon
-     - H4899 (mashiyach, "Messiah/anointed") -- run --verses for all translations
-     - H1285 (beriyth, "covenant") -- key occurrences in Daniel context
-     - H3772 (karath, "cut off/make covenant") -- dual usage
-     - H1396 (gabar, "prevail/confirm") -- CRITICAL for Dan 9:27 interpretation
-     - H5057 (nagiyd, "prince") -- distinguish two "princes" in Dan 9:25-26
-     - H2856 (chatham, "seal up") -- Dan 9:24 usage
-     - G5547 (Christos, "Christ/anointed")
-     - G4137 (pleroo, "fulfill") -- "the time is fulfilled" in Mrk 1:15
+     - [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} (shabuwa, "week") -- CRITICAL: trace ALL OT occurrences with --verses
+     - [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak, "cut off/determined") -- hapax, run --lexicon
+     - [H4899](https://www.blueletterbible.org/lexicon/h4899/kjv/wlc/0-1/){:target="_blank"} (mashiyach, "Messiah/anointed") -- run --verses for all translations
+     - [H1285](https://www.blueletterbible.org/lexicon/h1285/kjv/wlc/0-1/){:target="_blank"} (beriyth, "covenant") -- key occurrences in Daniel context
+     - [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} (karath, "cut off/make covenant") -- dual usage
+     - [H1396](https://www.blueletterbible.org/lexicon/h1396/kjv/wlc/0-1/){:target="_blank"} (gabar, "prevail/confirm") -- CRITICAL for Dan 9:27 interpretation
+     - [H5057](https://www.blueletterbible.org/lexicon/h5057/kjv/wlc/0-1/){:target="_blank"} (nagiyd, "prince") -- distinguish two "princes" in Dan 9:25-26
+     - [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} (chatham, "seal up") -- Dan 9:24 usage
+     - [G5547](https://www.blueletterbible.org/lexicon/g5547/kjv/tr/0-1/){:target="_blank"} (Christos, "Christ/anointed")
+     - [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} (pleroo, "fulfill") -- "the time is fulfilled" in Mrk 1:15
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -302,11 +302,11 @@ You are the Research Agent. Execute this study by:
     - Run greek_parser.py on GAL 4:4 ("the fulness of the time")
 
 11. **Required word traces:**
-    - H7620 (shabuwa) -- run search_strongs.py --verses to find every occurrence and every translation
-    - H2852 (chathak) -- run search_strongs.py --lexicon and note that it appears only once
-    - H1396 (gabar/higbiyr) -- run search_strongs.py --verses for all translations; especially note Hiphil form
-    - H4899 (mashiyach) -- run search_strongs.py --verses for all translations
-    - H5057 (nagiyd) -- run search_strongs.py --verses to compare the two "princes" of Dan 9
+    - [H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/){:target="_blank"} (shabuwa) -- run search_strongs.py --verses to find every occurrence and every translation
+    - [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chathak) -- run search_strongs.py --lexicon and note that it appears only once
+    - [H1396](https://www.blueletterbible.org/lexicon/h1396/kjv/wlc/0-1/){:target="_blank"} (gabar/higbiyr) -- run search_strongs.py --verses for all translations; especially note Hiphil form
+    - [H4899](https://www.blueletterbible.org/lexicon/h4899/kjv/wlc/0-1/){:target="_blank"} (mashiyach) -- run search_strongs.py --verses for all translations
+    - [H5057](https://www.blueletterbible.org/lexicon/h5057/kjv/wlc/0-1/){:target="_blank"} (nagiyd) -- run search_strongs.py --verses to compare the two "princes" of Dan 9
 
 12. **Required web research:**
     - Search for historical dating of Artaxerxes I's 7th year (457 BC vs. 458 BC debate)

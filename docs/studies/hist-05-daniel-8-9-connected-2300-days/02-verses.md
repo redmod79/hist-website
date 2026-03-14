@@ -87,7 +87,7 @@ How does Gabriel's return mission connect Daniel 8 and 9? What do the mar'eh and
 - 9:23 — "understand" = u-vin (Qal impv. of biyn); "understand" = ve-haven (Hiphil impv. of biyn); "the vision" = ba-mar'eh (H4758) — pointing back to ch. 8's time prophecy
 - 9:24 — "weeks" = shabuim (H7620); "are determined" = nechtakh (Niphal perf. of chathak, H2852) = "are cut off"; "everlasting righteousness" = tsedeq olamim (cf. tsadaq root in 8:14); "vision" = chazon; "most Holy" = qodesh qodashim
 - 9:25 — "commandment" = davar (word); "restore" = le-hashiv (Hiphil inf. of shuv); "Messiah" = mashiach
-- 9:26 — "cut off" = yikkaret (Niphal of karat, H3772 — different from chathak); "determined" = necheretset (Niphal ptcp. of charats, H2782 — different from chathak)
+- 9:26 — "cut off" = yikkaret (Niphal of karat, [H3772](https://www.blueletterbible.org/lexicon/h3772/kjv/wlc/0-1/){:target="_blank"} — different from chathak); "determined" = necheretset (Niphal ptcp. of charats, [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"} — different from chathak)
 
 ---
 

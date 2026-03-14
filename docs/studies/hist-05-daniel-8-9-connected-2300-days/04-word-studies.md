@@ -27,9 +27,9 @@ Daniel had other Hebrew words available if he merely wanted to say "determined/d
 
 | Word | Strong's | Meaning | Daniel Usage |
 |------|----------|---------|-------------|
-| **חָתַךְ chathak** | **H2852** | **cut off → determine** | **9:24 ONLY** |
-| גָּזַר gazar | H1504 | cut down/off → decree, divide | NOT used in Daniel 9 |
-| חָרַץ charats | H2782 | point sharply → decide, determine | **9:26, 9:27, 11:36** |
+| **חָתַךְ chathak** | **[H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"}** | **cut off → determine** | **9:24 ONLY** |
+| גָּזַר gazar | [H1504](https://www.blueletterbible.org/lexicon/h1504/kjv/wlc/0-1/){:target="_blank"} | cut down/off → decree, divide | NOT used in Daniel 9 |
+| חָרַץ charats | [H2782](https://www.blueletterbible.org/lexicon/h2782/kjv/wlc/0-1/){:target="_blank"} | point sharply → decide, determine | **9:26, 9:27, 11:36** |
 
 **Critical observation:** Daniel uses charats (H2782) three times in the SAME chapter (9:26, 9:27) and once more in 11:36 when he means "determined/decreed." But in 9:24, he deliberately chose a DIFFERENT word — chathak — whose ROOT meaning is "to cut off." If "determined" were the sole intended meaning, there would be no reason to switch from charats to chathak. The choice of chathak imports the "cutting off" metaphor: the 70 weeks are CUT OFF from a larger period.
 

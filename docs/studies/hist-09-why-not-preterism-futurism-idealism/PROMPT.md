@@ -66,16 +66,16 @@ What are the strongest arguments against preterism, futurism, and idealism as in
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| H894 | Babel/Babylon (בָּבֶל) | Core: OT Babylon; prophetic Babylon |
-| G897 | Babylōn (Βαβυλών) | Core: NT "Babylon" -- Rev 14:8; 16:19; 17:5; 18:2,10,21; 1PE 5:13 |
-| G2342 | thērion (θηρίον) | Core: "beast" -- Rev 13:1-18; 17:3-17; Daniel parallels |
-| G1404 | drakōn (δράκων) | Core: "dragon" -- Rev 12:3-17; 13:2,4; 20:2 |
-| H4438 | malkuth (מַלְכוּת) | Core: "kingdom/reign" -- Daniel's kingdoms |
-| H4468 | mamlakuth (מַמְלָכוּת) | Supporting: "kingdom" -- Dan 8:22; 1CH 29:11 |
-| G1411 | dynamis (δύναμις) | Supporting: "power" -- Rev 13:2; 17:13 |
-| G2904 | kratos (κράτος) | Supporting: "dominion/power" |
-| H3581 | koach (כֹּחַ) | Supporting: "power/strength" -- Dan 8:6,22; 11:6 |
-| H6726 | Tsiyown (צִיּוֹן) | Supporting: "Zion" -- identity of God's people |
+| [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} | Babel/Babylon (בָּבֶל) | Core: OT Babylon; prophetic Babylon |
+| [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} | Babylōn (Βαβυλών) | Core: NT "Babylon" -- Rev 14:8; 16:19; 17:5; 18:2,10,21; 1PE 5:13 |
+| [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} | thērion (θηρίον) | Core: "beast" -- Rev 13:1-18; 17:3-17; Daniel parallels |
+| [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} | drakōn (δράκων) | Core: "dragon" -- Rev 12:3-17; 13:2,4; 20:2 |
+| [H4438](https://www.blueletterbible.org/lexicon/h4438/kjv/wlc/0-1/){:target="_blank"} | malkuth (מַלְכוּת) | Core: "kingdom/reign" -- Daniel's kingdoms |
+| [H4468](https://www.blueletterbible.org/lexicon/h4468/kjv/wlc/0-1/){:target="_blank"} | mamlakuth (מַמְלָכוּת) | Supporting: "kingdom" -- Dan 8:22; 1CH 29:11 |
+| [G1411](https://www.blueletterbible.org/lexicon/g1411/kjv/tr/0-1/){:target="_blank"} | dynamis (δύναμις) | Supporting: "power" -- Rev 13:2; 17:13 |
+| [G2904](https://www.blueletterbible.org/lexicon/g2904/kjv/tr/0-1/){:target="_blank"} | kratos (κράτος) | Supporting: "dominion/power" |
+| [H3581](https://www.blueletterbible.org/lexicon/h3581/kjv/wlc/0-1/){:target="_blank"} | koach (כֹּחַ) | Supporting: "power/strength" -- Dan 8:6,22; 11:6 |
+| [H6726](https://www.blueletterbible.org/lexicon/h6726/kjv/wlc/0-1/){:target="_blank"} | Tsiyown (צִיּוֹן) | Supporting: "Zion" -- identity of God's people |
 
 ### Related Existing Studies
 
@@ -156,8 +156,8 @@ What are the strongest arguments against preterism, futurism, and idealism as in
 
 3. **The Nero/666 Gematria Problem**
    WHAT: Examine the claim that 666 (Rev 13:18) = Neron Kaiser via Hebrew gematria. This requires transliterating the Greek Νέρων Καῖσαρ into Hebrew letters (נרון קסר) to produce 666 -- a cross-linguistic operation with significant irregularities.
-   WHY: The Strong's search found G2342 (thērion, "beast") as core vocabulary. The beast's number is central to preterist identification with Nero. The irregularity is that Revelation is a Greek text, and the gematria requires converting to Hebrew. Additionally, the standard Latin spelling "Nero Caesar" (without the final nun) produces 616, not 666 -- explaining the textual variant at Rev 13:18.
-   HOW: Retrieve Rev 13:16-18 with full chapter context. Run greek_parser.py on Rev 13:18. Look up G5585 (psēphizō, "calculate/count") for the verb used. Run web search for scholarly discussion of Nero gematria irregularities. Retrieve Dan 7:25 and Dan 11:36 for the beast/little horn parallels.
+   WHY: The Strong's search found [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} (thērion, "beast") as core vocabulary. The beast's number is central to preterist identification with Nero. The irregularity is that Revelation is a Greek text, and the gematria requires converting to Hebrew. Additionally, the standard Latin spelling "Nero Caesar" (without the final nun) produces 616, not 666 -- explaining the textual variant at Rev 13:18.
+   HOW: Retrieve Rev 13:16-18 with full chapter context. Run greek_parser.py on Rev 13:18. Look up [G5585](https://www.blueletterbible.org/lexicon/g5585/kjv/tr/0-1/){:target="_blank"} (psēphizō, "calculate/count") for the verb used. Run web search for scholarly discussion of Nero gematria irregularities. Retrieve Dan 7:25 and Dan 11:36 for the beast/little horn parallels.
 
 4. **The Israel/Church Question -- Futurism's Foundation**
    WHAT: Demonstrate that the sharp Israel/Church distinction (fundamental to dispensational futurism) is demolished by NT evidence. Futurism requires that God has two separate peoples (Israel and the Church) with separate prophetic programs, creating the "gap" in Daniel's 70 weeks.
@@ -172,7 +172,7 @@ What are the strongest arguments against preterism, futurism, and idealism as in
 6. **The 70 Weeks and the Gap Theory**
    WHAT: Demonstrate that Daniel's 70 weeks (Dan 9:24-27) are a continuous period with no gap between the 69th and 70th week. The dispensational "gap theory" inserts a 2000+ year parenthesis between weeks 69 and 70, making the 70th week a future "tribulation period."
    WHY: The hist-01 study classified the gap theory as I-D (Counter-Evidence External) -- the weakest inference type -- because it adds a concept the text does not state and applies an external dispensationalist framework. Daniel's succession language ("after thee") is explicitly sequential. The PROPHECY topic (score 0.84) included DAN 9:26,27 among fulfilled Messianic prophecies.
-   HOW: Retrieve Dan 9:24-27 with full chapter context. Run hebrew_parser.py on Dan 9:24-27 for verb analysis. Run cross-testament parallels on Dan 9:27 (both directions). Retrieve Mat 27:51 (veil rent -- sacrifice ceased). Retrieve Heb 8:8-12 (new covenant). Look up H2852 (chatak, "determined/cut off") in Dan 9:24.
+   HOW: Retrieve Dan 9:24-27 with full chapter context. Run hebrew_parser.py on Dan 9:24-27 for verb analysis. Run cross-testament parallels on Dan 9:27 (both directions). Retrieve Mat 27:51 (veil rent -- sacrifice ceased). Retrieve Heb 8:8-12 (new covenant). Look up [H2852](https://www.blueletterbible.org/lexicon/h2852/kjv/wlc/0-1/){:target="_blank"} (chatak, "determined/cut off") in Dan 9:24.
 
 7. **Revelation's Numbered Sequences and Concrete Time Periods vs. Idealist Timelessness**
    WHAT: Demonstrate that Revelation contains specific numbered sequences (7 churches, 7 seals, 7 trumpets, 7 bowls), concrete time periods (1260 days, 42 months, "time, times, half a time," five months, an hour/day/month/year), and beginning-to-end markers that resist any purely timeless reading.
@@ -226,12 +226,12 @@ You are the Research Agent. Execute this study by:
      - Rev 9:1-21 (fifth and sixth trumpets -- time periods)
      - Rev 11:1-19 (two witnesses, 42 months, 1260 days, seventh trumpet)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - G897 (Babylōn) -- all NT occurrences, especially Rev and 1 Pet
-     - G2342 (thērion) -- all Rev occurrences showing beast characteristics
-     - H894 (Babel) -- OT Babylon occurrences
-     - G5034 (tachos) -- all NT en tachei occurrences (critical for preterism argument)
-     - G5585 (psēphizō) -- "calculate/count" in Rev 13:18
-     - G1404 (drakōn) -- dragon occurrences in Revelation
+     - [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} (Babylōn) -- all NT occurrences, especially Rev and 1 Pet
+     - [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} (thērion) -- all Rev occurrences showing beast characteristics
+     - [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} (Babel) -- OT Babylon occurrences
+     - [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} (tachos) -- all NT en tachei occurrences (critical for preterism argument)
+     - [G5585](https://www.blueletterbible.org/lexicon/g5585/kjv/tr/0-1/){:target="_blank"} (psēphizō) -- "calculate/count" in Rev 13:18
+     - [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} (drakōn) -- dragon occurrences in Revelation
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -264,10 +264,10 @@ You are the Research Agent. Execute this study by:
    - Run hebrew_parser.py on: Dan 9:24 (chatak, "determined"), Dan 2:39 (succession language), Dan 7:25 (time, times, dividing of time)
 
 10. **Required word traces:**
-    - G5034 (tachos/en tachei) -- all 7 NT occurrences with context
-    - G897 (Babylōn) -- all 12 NT occurrences
-    - G2342 (thērion) -- trace through Revelation
-    - H894 (Babel) -- key OT prophetic uses (Isa 13-14; Jer 50-51)
+    - [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} (tachos/en tachei) -- all 7 NT occurrences with context
+    - [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} (Babylōn) -- all 12 NT occurrences
+    - [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} (thērion) -- trace through Revelation
+    - [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} (Babel) -- key OT prophetic uses (Isa 13-14; Jer 50-51)
 
 11. **Required web searches:**
     - Search for Irenaeus Against Heresies V.30.3 Domitian dating testimony

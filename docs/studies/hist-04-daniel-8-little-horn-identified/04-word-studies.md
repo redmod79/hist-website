@@ -5,7 +5,7 @@ What does Daniel 8's vision show? Does the Hebrew grammar require the little hor
 
 ---
 
-## H3499 — יֶתֶר (yether) — "excess, surplus, preeminence"
+## [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} — יֶתֶר (yether) — "excess, surplus, preeminence"
 **Original:** יֶתֶר
 **Transliteration:** yether
 **Pronunciation:** yeh-ther
@@ -45,7 +45,7 @@ This eliminates Antiochus Epiphanes: he was a minor king within ONE of Greece's 
 
 ---
 
-## H4704 — מִצְּעִירָה (mits'eirah) — "littleness" (HAPAX LEGOMENON)
+## [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} — מִצְּעִירָה (mits'eirah) — "littleness" (HAPAX LEGOMENON)
 **Original:** מִצְּעִירָה
 **Transliteration:** mitstsᵉʻîyrâh
 **Pronunciation:** mits-tseh-ee-raw
@@ -71,7 +71,7 @@ The horn in Dan 8:9 rises FROM a state of littleness. This matches Rome's histor
 
 ---
 
-## H1431 — גָּדַל (gadal) — "to grow great, magnify"
+## [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"} — גָּדַל (gadal) — "to grow great, magnify"
 **Original:** גָּדַל
 **Transliteration:** gadal
 **Pronunciation:** gaw-dal
@@ -103,7 +103,7 @@ When Daniel means personal PRIDE or SELF-MAGNIFICATION, he switches BACK to Hiph
 
 ---
 
-## H3966 — מְאֹד (me'od) — "very, greatly, exceedingly"
+## [H3966](https://www.blueletterbible.org/lexicon/h3966/kjv/wlc/0-1/){:target="_blank"} — מְאֹד (me'od) — "very, greatly, exceedingly"
 **Original:** מְאֹד
 **Transliteration:** me'od
 **Pronunciation:** meh-ode
@@ -121,7 +121,7 @@ In Dan 8:8, higgdil ad me'od = "waxed very great" describes the goat (Greece). M
 
 ---
 
-## H5794 — עַז (az) — "fierce, strong, mighty"
+## [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} — עַז (az) — "fierce, strong, mighty"
 **Original:** עַז
 **Transliteration:** az
 **Pronunciation:** az
@@ -162,7 +162,7 @@ If Deut 28:50 = Rome, then Dan 8:23 = Rome, because they share the unique phrase
 
 ---
 
-## H6440 — פָּנִים (panim) — "face, countenance"
+## [H6440](https://www.blueletterbible.org/lexicon/h6440/kjv/wlc/0-1/){:target="_blank"} — פָּנִים (panim) — "face, countenance"
 **Original:** פָּנִים
 **Transliteration:** panim
 **Pronunciation:** paw-neem
@@ -171,11 +171,11 @@ If Deut 28:50 = Rome, then Dan 8:23 = Rome, because they share the unique phrase
 **Total occurrences:** 2,141 (one of the most common Hebrew words)
 
 ### Significance for This Study
-Panim combined with az (H5794) forms the unique phrase "fierce countenance" found only in Deut 28:50 and Dan 8:23 (see H5794 above).
+Panim combined with az (H5794) forms the unique phrase "fierce countenance" found only in Deut 28:50 and Dan 8:23 (see [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} above).
 
 ---
 
-## H8548 — תָּמִיד (tamid) — "continual, perpetual"
+## [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} — תָּמִיד (tamid) — "continual, perpetual"
 **Original:** תָּמִיד
 **Transliteration:** tamid
 **Pronunciation:** taw-meed
@@ -205,7 +205,7 @@ The word "sacrifice" is NOT in the Hebrew text. The KJV translators added it in 
 
 ---
 
-## H6588 — פֶּשַׁע (pesha) — "transgression, rebellion"
+## [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} — פֶּשַׁע (pesha) — "transgression, rebellion"
 **Original:** פֶּשַׁע
 **Transliteration:** pesha
 **Pronunciation:** peh-shah
@@ -228,7 +228,7 @@ The conjunction ve connects TWO distinct nouns, each with its own definite artic
 
 ---
 
-## H7161 — קֶרֶן (qeren) — "horn"
+## [H7161](https://www.blueletterbible.org/lexicon/h7161/kjv/wlc/0-1/){:target="_blank"} — קֶרֶן (qeren) — "horn"
 **Original:** קֶרֶן
 **Transliteration:** qeren
 **Pronunciation:** keh-ren
@@ -248,7 +248,7 @@ Dan 8:3 (x3), 8:5, 8:6, 8:7 (x2), 8:8, 8:9, 8:20 (x2), 8:21 — 13 total occurre
 
 ---
 
-## H2191 — זְעֵיר (ze'ir) — "little, small"
+## [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} — זְעֵיר (ze'ir) — "little, small"
 **Original:** זְעֵיר
 **Transliteration:** ze'ir
 **Pronunciation:** zeh-ayr
@@ -257,7 +257,7 @@ Dan 8:3 (x3), 8:5, 8:6, 8:7 (x2), 8:8, 8:9, 8:20 (x2), 8:21 — 13 total occurre
 **Total occurrences:** 5
 
 ### Significance
-This is the word used in the Aramaic section of Daniel 7:8 for "another little horn" — ze'irah functions as a simple ADJECTIVE describing the horn's current size. Contrast with H4704 (mits'eirah) in Dan 8:9, which is a NOUN describing the horn's origin in a state of littleness.
+This is the word used in the Aramaic section of Daniel 7:8 for "another little horn" — ze'irah functions as a simple ADJECTIVE describing the horn's current size. Contrast with [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} (mits'eirah) in Dan 8:9, which is a NOUN describing the horn's origin in a state of littleness.
 
 ---
 

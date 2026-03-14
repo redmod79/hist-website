@@ -222,7 +222,7 @@ The dual harvest follows the three angels' messages. Joel 3:13 is the combined O
 
 **Pattern:** Saints go UP to meet the Lord → He is arriving/descending → consistent with apantesis pattern, they accompany him.
 
-**Summary of G529 apantēsis pattern in all three NT occurrences:**
+**Summary of [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} apantēsis pattern in all three NT occurrences:**
 
 | Passage | Who Goes Out | Who Is Arriving | What Happens After |
 |---------|-------------|----------------|--------------------|

@@ -5,7 +5,7 @@ Do the seven seals of Revelation 6 span from the apostolic era to the second com
 
 ---
 
-## G3528 — nikao (overcome, conquer, prevail) — CRITICAL
+## [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — nikao (overcome, conquer, prevail) — CRITICAL
 
 **Original:** νικάω
 **Transliteration:** nikao
@@ -71,9 +71,9 @@ Do the seven seals of Revelation 6 span from the apostolic era to the second com
 
 ---
 
-## G4735 — stephanos (crown, wreath) vs. G1238 — diadema (royal crown)
+## [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} — stephanos (crown, wreath) vs. [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} — diadema (royal crown)
 
-### G4735 stephanos
+### [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} stephanos
 **Original:** στέφανος
 **Transliteration:** stephanos
 **Part of Speech:** masculine noun
@@ -96,7 +96,7 @@ Do the seven seals of Revelation 6 span from the apostolic era to the second com
 
 **Other NT:** 1 Cor 9:25 (incorruptible crown); 2 Tim 4:8 (crown of righteousness); James 1:12 (crown of life); 1 Pet 5:4 (crown of glory)
 
-### G1238 diadema
+### [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} diadema
 **Original:** διάδημα
 **Transliteration:** diadema
 **Part of Speech:** neuter noun
@@ -119,7 +119,7 @@ If John intended the first seal rider to be Antichrist/evil, he would have used 
 
 ---
 
-## G4969 — sphazo (slay, slaughter, butcher)
+## [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} — sphazo (slay, slaughter, butcher)
 
 **Original:** σφάζω
 **Transliteration:** sphazo
@@ -144,7 +144,7 @@ If John intended the first seal rider to be Antichrist/evil, he would have used 
 
 ---
 
-## G615 — apokteino (kill)
+## [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} — apokteino (kill)
 
 **Original:** ἀποκτείνω
 **Transliteration:** apokteino
@@ -161,7 +161,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G4578 — seismos (earthquake)
+## [G4578](https://www.blueletterbible.org/lexicon/g4578/kjv/tr/0-1/){:target="_blank"} — seismos (earthquake)
 
 **Original:** σεισμός
 **Transliteration:** seismos
@@ -189,7 +189,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G3709 — orge (wrath, anger)
+## [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — orge (wrath, anger)
 
 **Original:** ὀργή
 **Transliteration:** orge
@@ -211,7 +211,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G3022 — leukos (white)
+## [G3022](https://www.blueletterbible.org/lexicon/g3022/kjv/tr/0-1/){:target="_blank"} — leukos (white)
 
 **Original:** λευκός
 **Transliteration:** leukos
@@ -241,7 +241,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G3162 — machaira (sword)
+## [G3162](https://www.blueletterbible.org/lexicon/g3162/kjv/tr/0-1/){:target="_blank"} — machaira (sword)
 
 **Original:** μάχαιρα
 **Transliteration:** machaira
@@ -258,7 +258,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G2288 — thanatos (death)
+## [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} — thanatos (death)
 
 **Original:** θάνατος
 **Transliteration:** thanatos
@@ -276,7 +276,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G5550 — chronos (time, season)
+## [G5550](https://www.blueletterbible.org/lexicon/g5550/kjv/tr/0-1/){:target="_blank"} — chronos (time, season)
 
 **Original:** χρόνος
 **Transliteration:** chronos
@@ -294,7 +294,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## H2856 — chatham (close up, seal)
+## [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} — chatham (close up, seal)
 
 **Original:** חָתַם
 **Transliteration:** chatham
@@ -316,7 +316,7 @@ This shared vocabulary (VP207) between Matt 24:9 and Rev 6:9-11 is one of the Ol
 
 ---
 
-## G3042 — limos (famine, hunger)
+## [G3042](https://www.blueletterbible.org/lexicon/g3042/kjv/tr/0-1/){:target="_blank"} — limos (famine, hunger)
 
 **Original:** λιμός
 **Transliteration:** limos
@@ -359,7 +359,7 @@ Third seal connection: While Rev 6:5-6 does not use the word limos directly, it 
 
 ### MAT 24:14 — Gospel preached, THEN the end
 - κηρυχθήσεται (kerusso G2784) — "will be proclaimed" — Future Passive Indicative (divine passive)
-- εὐαγγέλιον τῆς βασιλείας (euangelion tes basileias G2098 + G932) — "the gospel of the kingdom"
+- εὐαγγέλιον τῆς βασιλείας (euangelion tes basileias [G2098](https://www.blueletterbible.org/lexicon/g2098/kjv/tr/0-1/){:target="_blank"} + G932) — "the gospel of the kingdom"
 - τότε ἥξει τὸ τέλος — "and then the end will come" — sequential tote marker
 - Compare with first seal: nikao (conquering) = kerusso + euangelion (gospel proclaimed). Both describe the gospel's advance as preceding the end.
 

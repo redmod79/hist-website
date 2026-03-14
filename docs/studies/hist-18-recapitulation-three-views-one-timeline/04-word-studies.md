@@ -5,7 +5,7 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 
 ---
 
-## G3709 — orge (wrath) — CRITICAL
+## [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — orge (wrath) — CRITICAL
 
 **Original:** orge
 **Transliteration:** orge
@@ -46,7 +46,7 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 
 ---
 
-## G2372 — thymos (fury/wrath) — CRITICAL
+## [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} — thymos (fury/wrath) — CRITICAL
 
 **Original:** thymos
 **Transliteration:** thymos
@@ -86,7 +86,7 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 
 ---
 
-## G2064 — erchomai (come) — CRITICAL
+## [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} — erchomai (come) — CRITICAL
 
 **Original:** erchomai
 **Transliteration:** erchomai
@@ -110,7 +110,7 @@ If the same verb form with nearly identical constructions declares arrival at th
 
 ---
 
-## G1096 — ginomai (become/happen) — CRITICAL
+## [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} — ginomai (become/happen) — CRITICAL
 
 **Original:** ginomai
 **Transliteration:** ginomai
@@ -128,7 +128,7 @@ If the same verb form with nearly identical constructions declares arrival at th
 
 ---
 
-## G5154 — tritos (third) — FRACTION PATTERN
+## [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} — tritos (third) — FRACTION PATTERN
 
 **Original:** tritos
 **Transliteration:** tritos
@@ -163,7 +163,7 @@ If the same verb form with nearly identical constructions declares arrival at th
 
 ---
 
-## G2078 — eschatos (last)
+## [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} — eschatos (last)
 
 **Original:** eschatos
 **Transliteration:** eschatos
@@ -183,7 +183,7 @@ If the same verb form with nearly identical constructions declares arrival at th
 
 ---
 
-## G3528 — nikao (overcome/conquer) — VICTORY CHAIN
+## [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — nikao (overcome/conquer) — VICTORY CHAIN
 
 **Original:** nikao
 **Transliteration:** nikao
@@ -215,14 +215,14 @@ If the same verb form with nearly identical constructions declares arrival at th
 
 ---
 
-## G4536 — salpinx (trumpet, instrument) and G4537 — salpizo (to trumpet, verb)
+## [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} — salpinx (trumpet, instrument) and [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} — salpizo (to trumpet, verb)
 
-### G4536 salpinx (11 occurrences)
+### [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} salpinx (11 occurrences)
 **Definition:** a trumpet
 - MAT 24:31, 1CO 14:8, 1CO 15:52, 1TH 4:16, HEB 12:19
 - **REV 1:10; 4:1; 8:2; 8:6; 8:13; 9:14**
 
-### G4537 salpizo (12 occurrences)
+### [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} salpizo (12 occurrences)
 **Definition:** to trumpet, to sound a blast
 - NUM 10 (LXX ref), MAT 6:2, 1CO 15:52
 - **REV 8:6; 8:7; 8:8; 8:10 (v.9 in N1904); 8:12; 9:1; 9:13; 10:7; 11:15**
@@ -241,7 +241,7 @@ This rigid formulaic structure (7x identical introductory clause) is unique to t
 
 ---
 
-## G3520 — nesos (island)
+## [G3520](https://www.blueletterbible.org/lexicon/g3520/kjv/tr/0-1/){:target="_blank"} — nesos (island)
 
 **Original:** nesos
 **Transliteration:** nesos
@@ -259,9 +259,9 @@ This rigid formulaic structure (7x identical introductory clause) is unique to t
 
 ---
 
-## G2795 — kineo (move/remove) vs. G5343 — pheugo (flee)
+## [G2795](https://www.blueletterbible.org/lexicon/g2795/kjv/tr/0-1/){:target="_blank"} — kineo (move/remove) vs. [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} — pheugo (flee)
 
-### G2795 kineo (8 occurrences)
+### [G2795](https://www.blueletterbible.org/lexicon/g2795/kjv/tr/0-1/){:target="_blank"} kineo (8 occurrences)
 **Definition:** to stir, move, remove
 - MAT 23:4; 27:39; MRK 15:29 — "wagging" heads
 - ACT 17:28 — "in him we live, and move"
@@ -269,7 +269,7 @@ This rigid formulaic structure (7x identical introductory clause) is unique to t
 - **Rev 2:5** — "I will **remove** thy candlestick" (threat to Ephesus)
 - **Rev 6:14** — "every mountain and island were **moved** [ekinethisan] out of their places"
 
-### G5343 pheugo (31 occurrences)
+### [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} pheugo (31 occurrences)
 **Definition:** to run away, flee; by implication, to vanish
 - Commonly: MAT 2:13; 3:7; 24:16 — physical fleeing
 - **Rev 9:6** — "death shall **flee** from them"
@@ -290,7 +290,7 @@ Both describe mountains and islands ceasing to exist in their normal state. The 
 
 ---
 
-## G3710 — orgizo (to be angry/wrathful)
+## [G3710](https://www.blueletterbible.org/lexicon/g3710/kjv/tr/0-1/){:target="_blank"} — orgizo (to be angry/wrathful)
 
 **Original:** orgizo
 **Part of Speech:** verb
@@ -305,7 +305,7 @@ The verbal form orgizo at Rev 11:18 (orgisthesan, "were enraged") directly prece
 
 ---
 
-## G5456 — phone (voice/sound)
+## [G5456](https://www.blueletterbible.org/lexicon/g5456/kjv/tr/0-1/){:target="_blank"} — phone (voice/sound)
 
 **Original:** phone
 **Part of Speech:** feminine noun
@@ -327,7 +327,7 @@ Phone is a structural marker in the theophany formula, appearing in all four bou
 
 ---
 
-## G5067 — tetartos (fourth)
+## [G5067](https://www.blueletterbible.org/lexicon/g5067/kjv/tr/0-1/){:target="_blank"} — tetartos (fourth)
 
 **Original:** tetartos
 **Part of Speech:** adjective

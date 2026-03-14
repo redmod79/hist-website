@@ -59,19 +59,19 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| G3709 | orge (wrath) | Core term: "elthen he orge" at Rev 6:17 and 11:18 — identical wrath-arrival formula at seal and trumpet climaxes |
-| G2372 | thymos (fury/wrath) | Complementary wrath term: bowls use thymos (Rev 15:1,7; 16:1); both combined at Rev 16:19 and 19:15 |
-| G3710 | orgizo (to be wroth) | Verbal form: Rev 11:18 "the nations were angry (orgisthesan)" |
-| G4536 | salpinx (trumpet) | The trumpet instrument: Rev 1:10; 4:1; 8:2,6,13; 9:14 |
-| G4537 | salpizo (to trumpet) | The sounding verb: Rev 8:7,8,10,12; 9:1,13; 10:7; 11:15 — 7x formulaic |
-| G5456 | phone (voice) | "Great voice" declarations: Rev 11:15; 16:17 (7th trumpet and 7th bowl) |
-| G3520 | nesos (island) | Rev 6:14 "every island moved"; Rev 16:20 "every island fled away" |
-| H7494 | ra'ash (earthquake) | OT earthquake/shaking vocabulary — cf. EZK 38:19; ISA 13:13 |
-| G2064 | erchomai (come) | "Elthen he orge" — aorist of erchomai at Rev 6:17 and 11:18 |
-| G1096 | ginomai (become/happen) | "Gegonen" at Rev 16:17 — "It is done" completion declaration; cf. Rev 21:6 |
-| G2078 | eschatos (last) | Rev 15:1 "seven last (eschatas) plagues" — marks bowls as final |
-| G3528 | nikao (overcome/conquer) | Victory chain spanning all sequences: Rev 2:7-3:21; 5:5; 6:2; 12:11; 15:2; 17:14; 21:7 |
-| G5154 | tritos (third) | 13+ times in trumpets (1/3 fraction), zero in bowls — key structural distinction |
+| [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} | orge (wrath) | Core term: "elthen he orge" at Rev 6:17 and 11:18 — identical wrath-arrival formula at seal and trumpet climaxes |
+| [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} | thymos (fury/wrath) | Complementary wrath term: bowls use thymos (Rev 15:1,7; 16:1); both combined at Rev 16:19 and 19:15 |
+| [G3710](https://www.blueletterbible.org/lexicon/g3710/kjv/tr/0-1/){:target="_blank"} | orgizo (to be wroth) | Verbal form: Rev 11:18 "the nations were angry (orgisthesan)" |
+| [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} | salpinx (trumpet) | The trumpet instrument: Rev 1:10; 4:1; 8:2,6,13; 9:14 |
+| [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} | salpizo (to trumpet) | The sounding verb: Rev 8:7,8,10,12; 9:1,13; 10:7; 11:15 — 7x formulaic |
+| [G5456](https://www.blueletterbible.org/lexicon/g5456/kjv/tr/0-1/){:target="_blank"} | phone (voice) | "Great voice" declarations: Rev 11:15; 16:17 (7th trumpet and 7th bowl) |
+| [G3520](https://www.blueletterbible.org/lexicon/g3520/kjv/tr/0-1/){:target="_blank"} | nesos (island) | Rev 6:14 "every island moved"; Rev 16:20 "every island fled away" |
+| [H7494](https://www.blueletterbible.org/lexicon/h7494/kjv/wlc/0-1/){:target="_blank"} | ra'ash (earthquake) | OT earthquake/shaking vocabulary — cf. EZK 38:19; ISA 13:13 |
+| [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} | erchomai (come) | "Elthen he orge" — aorist of erchomai at Rev 6:17 and 11:18 |
+| [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} | ginomai (become/happen) | "Gegonen" at Rev 16:17 — "It is done" completion declaration; cf. Rev 21:6 |
+| [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} | eschatos (last) | Rev 15:1 "seven last (eschatas) plagues" — marks bowls as final |
+| [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} | nikao (overcome/conquer) | Victory chain spanning all sequences: Rev 2:7-3:21; 5:5; 6:2; 12:11; 15:2; 17:14; 21:7 |
+| [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} | tritos (third) | 13+ times in trumpets (1/3 fraction), zero in bowls — key structural distinction |
 
 ### Related Existing Studies
 
@@ -111,7 +111,7 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 - Liturgical pattern: Feast of Trumpets (warnings) precedes Day of Atonement (judgment)
 
 **From rev-6-14-vs-16-20-same-event/CONCLUSION.md:**
-- Rev 6:14 (mountains "moved," kineo G2795) and Rev 16:20 (mountains "not found," pheugo G5343 + ouch heurethesan) describe the same event — Second Coming
+- Rev 6:14 (mountains "moved," kineo G2795) and Rev 16:20 (mountains "not found," pheugo [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} + ouch heurethesan) describe the same event — Second Coming
 - Greek vocabulary differs: kineo = displaced/shaken; pheugo + ouch heurethesan = fled/vanished — different emphasis (terror vs finality) or progression within same event
 - After 6th seal SC vision, narrative "rewinds" through trumpets and bowls; after 7th bowl, narrative proceeds forward — this IS recapitulation structure
 - Rev 6:17 asks "who shall be able to stand?" (question); Rev 16:17 declares "it is done" (completion)
@@ -137,7 +137,7 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 
 **From hist-15-trumpets-warnings-before-judgment/CONCLUSION.md:**
 - Incense scene (Rev 8:3-5): prayers ascending = open intercession; contrasts with bowl intro (Rev 15:8) where no one can enter temple
-- 1/3 limitation (tritos G5154, 13+ times in trumpets, 0 in bowls): marks trumpet judgments as partial warnings
+- 1/3 limitation (tritos [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"}, 13+ times in trumpets, 0 in bowls): marks trumpet judgments as partial warnings
 - "Repented not" (Rev 9:20-21): presupposes repentance as intended response = probation still open
 - Feast of Trumpets (Lev 23:24, Tishri 1) precedes Day of Atonement (Lev 23:27, Tishri 10) in same chapter and month
 
@@ -149,7 +149,7 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 - "It is done" (gegonen, Rev 16:17): completion declaration
 
 **From hist-17-one-second-coming-many-angles/CONCLUSION.md:**
-- Three interlocking vocabulary chains prove single SC: winepress chain (G3025 lenos), wrath chain (G3709 orge + G2372 thymos), cosmic destruction chain (mountains/islands at Rev 6:14, 16:20, 20:11)
+- Three interlocking vocabulary chains prove single SC: winepress chain (G3025 lenos), wrath chain (G3709 orge + [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} thymos), cosmic destruction chain (mountains/islands at Rev 6:14, 16:20, 20:11)
 - Universal visibility: Rev 1:7 "every eye shall see" mirrored by seven social classes at Rev 6:15-17
 - Paul treats parousia, epiphaneia, apokalypsis as interchangeable for single event (2 Thess 1:7-10; 2:1-8)
 
@@ -169,9 +169,9 @@ How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to
 
 3. **7th Seal -> 7 Trumpets Literary Telescoping (Rev 8:1-2)**: WHAT — Analyze the transition from 7th seal directly into trumpet introduction with no closing formula. WHY — If the 7th seal contains/introduces the trumpets, this is structural evidence for telescoping (7th element nests the next sequence). The revs-37 study identified this as TM058 and SP033. HOW — Retrieve REV 8:1-6 with full chapter context. Run greek_parser.py on REV 8:1-2 to examine the grammatical connection. Compare with 7th trumpet -> bowl transition at REV 11:15-19 and REV 15:1-8.
 
-4. **Fraction Escalation: 1/4 -> 1/3 -> Total**: WHAT — Document the systematic fraction progression across the three judgment sequences. WHY — SP036 (Strong validation): seals affect 1/4 (Rev 6:8), trumpets 1/3 (13+ uses of tritos), bowls affect all (zero fraction words). This proves either intensification across sequential periods or increasing severity from different angles. HOW — Retrieve REV 6:8 (tetarton), all trumpet fraction verses (REV 8:7-12; 9:15,18), and bowl verses showing totality (REV 16:2-4,8-10). Run search_strongs.py on G5154 (tritos) and G5067 (tetartos) for all occurrences.
+4. **Fraction Escalation: 1/4 -> 1/3 -> Total**: WHAT — Document the systematic fraction progression across the three judgment sequences. WHY — SP036 (Strong validation): seals affect 1/4 (Rev 6:8), trumpets 1/3 (13+ uses of tritos), bowls affect all (zero fraction words). This proves either intensification across sequential periods or increasing severity from different angles. HOW — Retrieve REV 6:8 (tetarton), all trumpet fraction verses (REV 8:7-12; 9:15,18), and bowl verses showing totality (REV 16:2-4,8-10). Run search_strongs.py on [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} (tritos) and [G5067](https://www.blueletterbible.org/lexicon/g5067/kjv/tr/0-1/){:target="_blank"} (tetartos) for all occurrences.
 
-5. **Complementary Wrath Vocabulary: orge vs thymos**: WHAT — Map the distribution of G3709 (orge) and G2372 (thymos) across all sequences. WHY — SP045 documented complementary distribution: orge at sequence climaxes (Rev 6:16-17; 11:18), thymos in bowl execution (Rev 15:1,7; 16:1), both combined at ultimate climax (Rev 16:19; 19:15). This vocabulary mapping reveals structural relationships between sequences. HOW — Run search_strongs.py --lookup on G3709 and G2372. Use --verses to find all Revelation occurrences. Document which sequences use which term and where they overlap.
+5. **Complementary Wrath Vocabulary: orge vs thymos**: WHAT — Map the distribution of [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) and [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) across all sequences. WHY — SP045 documented complementary distribution: orge at sequence climaxes (Rev 6:16-17; 11:18), thymos in bowl execution (Rev 15:1,7; 16:1), both combined at ultimate climax (Rev 16:19; 19:15). This vocabulary mapping reveals structural relationships between sequences. HOW — Run search_strongs.py --lookup on [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} and [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"}. Use --verses to find all Revelation occurrences. Document which sequences use which term and where they overlap.
 
 6. **Intercession Contrast: Rev 8:3-5 vs Rev 15:8**: WHAT — Compare the trumpet introduction (incense/prayers ascending = open intercession) with the bowl introduction (temple filled with smoke, no entry = closed intercession). WHY — SP058 documents this contrast. If trumpets occur during intercession and bowls after it closes, this establishes a structural and temporal distinction between them. HOW — Retrieve REV 8:3-5 and REV 15:5-8 with full chapter context. Run greek_parser.py on both passages. Run cross-testament parallels for REV 15:8 to find Lev 16:17 connection.
 
@@ -207,17 +207,17 @@ You are the Research Agent. Execute this study by:
      - Laodicea and the judgment era: REV 3:14-22
      - The three perspectives overview: REV 2-3 (churches summary); REV 6:1-8:1 (seals summary); REV 8:2-11:19 (trumpets summary)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - G3709 (orge) — CRITICAL: all Revelation occurrences with verse text
-     - G2372 (thymos) — CRITICAL: all Revelation occurrences, compare distribution with orge
-     - G2064 (erchomai) — trace aorist elthen at Rev 6:17 and 11:18
-     - G1096 (ginomai) — gegonen at Rev 16:17 and 21:6
-     - G5154 (tritos) — all occurrences documenting 1/3 fraction in trumpets
-     - G2078 (eschatos) — "last plagues" designation
-     - G3528 (nikao) — victory chain across all sequences
-     - G4536 (salpinx) and G4537 (salpizo) — trumpet vocabulary
-     - G3520 (nesos) — island at Rev 6:14 and 16:20
-     - G2795 (kineo) — "moved" at Rev 6:14
-     - G5343 (pheugo) — "fled" at Rev 16:20
+     - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) — CRITICAL: all Revelation occurrences with verse text
+     - [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) — CRITICAL: all Revelation occurrences, compare distribution with orge
+     - [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} (erchomai) — trace aorist elthen at Rev 6:17 and 11:18
+     - [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} (ginomai) — gegonen at Rev 16:17 and 21:6
+     - [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} (tritos) — all occurrences documenting 1/3 fraction in trumpets
+     - [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} (eschatos) — "last plagues" designation
+     - [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) — victory chain across all sequences
+     - [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} (salpinx) and [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} (salpizo) — trumpet vocabulary
+     - [G3520](https://www.blueletterbible.org/lexicon/g3520/kjv/tr/0-1/){:target="_blank"} (nesos) — island at Rev 6:14 and 16:20
+     - [G2795](https://www.blueletterbible.org/lexicon/g2795/kjv/tr/0-1/){:target="_blank"} (kineo) — "moved" at Rev 6:14
+     - [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} (pheugo) — "fled" at Rev 16:20
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
 
@@ -255,11 +255,11 @@ You are the Research Agent. Execute this study by:
    - REV 11:15 — parse egeneto he basileia (kingdom became)
 
 10. **Required word traces:**
-    - G3709 (orge) — all Revelation occurrences via search_strongs.py --verses
-    - G2372 (thymos) — all Revelation occurrences via search_strongs.py --verses
-    - G5154 (tritos) — all Revelation occurrences to document fraction pattern
-    - G3528 (nikao) — all Revelation occurrences to document victory chain
-    - G4537 (salpizo) — all Revelation occurrences to document trumpet formula
+    - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) — all Revelation occurrences via search_strongs.py --verses
+    - [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) — all Revelation occurrences via search_strongs.py --verses
+    - [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} (tritos) — all Revelation occurrences to document fraction pattern
+    - [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) — all Revelation occurrences to document victory chain
+    - [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} (salpizo) — all Revelation occurrences to document trumpet formula
 
 ## Workflow
 answer-question

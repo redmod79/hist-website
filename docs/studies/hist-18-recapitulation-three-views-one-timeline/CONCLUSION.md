@@ -158,22 +158,22 @@ The 100% correspondence in sequential order (earth, sea, rivers, sun, darkness, 
 
 ## Word Studies
 
-### G3709 orge / G2372 thymos — Complementary Wrath Distribution
+### [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} orge / [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} thymos — Complementary Wrath Distribution
 *Orge* (6 Revelation occurrences) appears at sequence climaxes (Rev 6:16-17; 11:18; 16:19; 19:15) and functions as the "arrived/declared" wrath. *Thymos* (10 Revelation occurrences) dominates the bowl execution (15:1,7; 16:1,19) and the harvest/winepress imagery (14:8,10,19). Both terms converge at Rev 16:19 (*tou thymou tes orges*, "the fierceness of his wrath") and Rev 19:15 (*ton thython tes orges*, "the fierceness and wrath"), which are the vocabulary summits of Revelation's judgment language. The complementary distribution proves the sequences are interconnected: the *orge* declared at the seal and trumpet endpoints IS the *thymos* poured out in the bowls.
 
-### G2064 erchomai — The elthen Arrival Chain
+### [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} erchomai — The elthen Arrival Chain
 Three structurally parallel uses of the aorist *elthen* declare eschatological arrival: "the day of wrath has come" (6:17), "thy wrath has come" (11:18), "the hour of judgment has come" (14:7). The identical grammatical form (V-2AAI-3S) at three different structural positions links the seal climax, trumpet climax, and three angels' messages to the same eschatological transition.
 
-### G1096 ginomai — egeneto to Gegonen Progression
+### [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} ginomai — egeneto to Gegonen Progression
 The forms of ginomai escalate: *egeneto* (aorist, "there came to be") at the 7th seal (8:1) and 7th trumpet (11:15) -> *Gegonen* (perfect, "it is accomplished") at the 7th bowl (16:17) and new creation (21:6). The shift from aorist to perfect marks escalating finality.
 
-### G5154 tritos — The Trumpet Fraction Marker
+### [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} tritos — The Trumpet Fraction Marker
 *Tritos* ("third") appears 13+ times in the trumpet judgments and zero times in the bowls. This quantitative observation is the clearest structural marker distinguishing the two sequences and establishing the fraction escalation pattern.
 
-### G3528 nikao — Cross-Sequence Unity
+### [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} nikao — Cross-Sequence Unity
 *Nikao* ("overcome") appears 15+ times across every section of Revelation: churches (7x), seals (2x), trumpets/narrative (3x), bowls (3x), kingdom (1x). No other word connects all four sequences as comprehensively.
 
-### G2795 kineo / G5343 pheugo — Escalating Destruction
+### [G2795](https://www.blueletterbible.org/lexicon/g2795/kjv/tr/0-1/){:target="_blank"} kineo / [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} pheugo — Escalating Destruction
 *Kineo* ("displaced," 6:14) vs. *pheugo* ("fled," 16:20) + *ouch heurethesan* ("not found") describe the same subjects (mountains and islands) at the climaxes of two different sequences. The vocabulary escalation from displacement to vanishing reinforces the identification of both passages with the same event.
 
 ---

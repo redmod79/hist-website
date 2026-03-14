@@ -72,7 +72,7 @@ Do the seven bowls of Revelation 15-16 come after the close of probation, and wh
   - **orge** (G3709, settled/judicial wrath): appears at sequence climaxes (6:16-17; 11:18; 16:19; 19:15)
   - At Rev 16:19 both words combine: "tou thymou tes orges" = the culmination of the wrath vocabulary arc
 
-### REPENTANCE (from metanoeo G3340 distribution in Revelation)
+### REPENTANCE (from metanoeo [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} distribution in Revelation)
 - **Churches** (Rev 2-3): 7 occurrences -- repentance COMMANDED ("Repent, or else...")
 - **Trumpets** (Rev 9): 2 occurrences -- repentance EXPECTED but absent ("repented not")
 - **Bowls** (Rev 16): 2 occurrences -- repentance REFUSED with active blasphemy ("blasphemed... repented not")

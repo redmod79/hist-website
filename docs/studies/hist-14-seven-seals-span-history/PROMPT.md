@@ -68,27 +68,27 @@ Do the seven seals of Revelation 6 span from the apostolic era to the second com
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| G3528 | nikao (conquer, overcome, prevail) | CRITICAL: links Rev 5:5 to 6:2 — the nikao chain. 17 uses in Revelation. |
-| G5245 | hupernikao (more than conquer) | ROM 8:37 — believers' victory through Christ |
-| G3534 | nikos (victory) | 1CO 15:54-57 — "death is swallowed up in victory" |
-| G4578 | seismos (earthquake) | REV 6:12; MAT 24:7; MRK 13:8 — shared Olivet-Seals vocabulary |
-| H7494 | raash (earthquake, vibration) | PSA 18:7; ISA 29:6 — OT earthquake judgment language |
-| G2696 | katasphragizo (seal closely) | REV 5:1 — the seven-sealed scroll |
-| G4972 | sphragizo (seal, stamp) | EPH 1:13; 4:30; REV 7:3 — sealing of believers and scroll |
-| H2856 | chatham (close up, seal) | DAN 12:4,9 — "seal the book, to the time of the end" |
-| G380 | anaptysso (unroll a scroll) | LUK 4:17 — opening a scroll |
-| G4735 | stephanos (victor's wreath) | REV 6:2; 2:10; 3:11 — first seal crown = victor's crown, NOT diadema |
-| G1238 | diadema (royal diadem) | REV 12:3; 13:1; 19:12 — dragon/beast crowns vs. stephanos |
-| G615 | apokteino (kill) | MAT 24:9; REV 6:11 — shared Olivet-Seals vocabulary for martyrdom |
-| G4969 | sphazo (slaughter, butcher) | REV 5:6,9,12; 6:4,9; 13:3,8; 18:24 — the Lamb slain and martyrs slain |
-| G3022 | leukos (white) | REV 6:2,11; 19:11,14 — white horse, white robes, positive symbol |
-| G2246 | helios (sun) | MAT 24:29; REV 6:12 — shared Olivet-Seals cosmic sign vocabulary |
-| G4582 | selene (moon) | MAT 24:29; REV 6:12 — shared Olivet-Seals cosmic sign vocabulary |
-| G792 | aster (star) | MAT 24:29; REV 6:13 — shared Olivet-Seals cosmic sign vocabulary |
-| G3042 | limos (famine) | MAT 24:7; LUK 21:11; REV 6:8 — shared vocabulary |
-| G2288 | thanatos (death) | MAT 24:7 (variant); REV 6:8 — fourth horseman named Death |
-| G3162 | machaira (sword) | REV 6:4 — "great sword" of second seal |
-| G3709 | orge (wrath, anger) | REV 6:16,17 — "wrath of the Lamb," "great day of his wrath" |
+| [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} | nikao (conquer, overcome, prevail) | CRITICAL: links Rev 5:5 to 6:2 — the nikao chain. 17 uses in Revelation. |
+| [G5245](https://www.blueletterbible.org/lexicon/g5245/kjv/tr/0-1/){:target="_blank"} | hupernikao (more than conquer) | ROM 8:37 — believers' victory through Christ |
+| [G3534](https://www.blueletterbible.org/lexicon/g3534/kjv/tr/0-1/){:target="_blank"} | nikos (victory) | 1CO 15:54-57 — "death is swallowed up in victory" |
+| [G4578](https://www.blueletterbible.org/lexicon/g4578/kjv/tr/0-1/){:target="_blank"} | seismos (earthquake) | REV 6:12; MAT 24:7; MRK 13:8 — shared Olivet-Seals vocabulary |
+| [H7494](https://www.blueletterbible.org/lexicon/h7494/kjv/wlc/0-1/){:target="_blank"} | raash (earthquake, vibration) | PSA 18:7; ISA 29:6 — OT earthquake judgment language |
+| [G2696](https://www.blueletterbible.org/lexicon/g2696/kjv/tr/0-1/){:target="_blank"} | katasphragizo (seal closely) | REV 5:1 — the seven-sealed scroll |
+| [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} | sphragizo (seal, stamp) | EPH 1:13; 4:30; REV 7:3 — sealing of believers and scroll |
+| [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} | chatham (close up, seal) | DAN 12:4,9 — "seal the book, to the time of the end" |
+| [G380](https://www.blueletterbible.org/lexicon/g380/kjv/tr/0-1/){:target="_blank"} | anaptysso (unroll a scroll) | LUK 4:17 — opening a scroll |
+| [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} | stephanos (victor's wreath) | REV 6:2; 2:10; 3:11 — first seal crown = victor's crown, NOT diadema |
+| [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} | diadema (royal diadem) | REV 12:3; 13:1; 19:12 — dragon/beast crowns vs. stephanos |
+| [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} | apokteino (kill) | MAT 24:9; REV 6:11 — shared Olivet-Seals vocabulary for martyrdom |
+| [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} | sphazo (slaughter, butcher) | REV 5:6,9,12; 6:4,9; 13:3,8; 18:24 — the Lamb slain and martyrs slain |
+| [G3022](https://www.blueletterbible.org/lexicon/g3022/kjv/tr/0-1/){:target="_blank"} | leukos (white) | REV 6:2,11; 19:11,14 — white horse, white robes, positive symbol |
+| [G2246](https://www.blueletterbible.org/lexicon/g2246/kjv/tr/0-1/){:target="_blank"} | helios (sun) | MAT 24:29; REV 6:12 — shared Olivet-Seals cosmic sign vocabulary |
+| [G4582](https://www.blueletterbible.org/lexicon/g4582/kjv/tr/0-1/){:target="_blank"} | selene (moon) | MAT 24:29; REV 6:12 — shared Olivet-Seals cosmic sign vocabulary |
+| [G792](https://www.blueletterbible.org/lexicon/g792/kjv/tr/0-1/){:target="_blank"} | aster (star) | MAT 24:29; REV 6:13 — shared Olivet-Seals cosmic sign vocabulary |
+| [G3042](https://www.blueletterbible.org/lexicon/g3042/kjv/tr/0-1/){:target="_blank"} | limos (famine) | MAT 24:7; LUK 21:11; REV 6:8 — shared vocabulary |
+| [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} | thanatos (death) | MAT 24:7 (variant); REV 6:8 — fourth horseman named Death |
+| [G3162](https://www.blueletterbible.org/lexicon/g3162/kjv/tr/0-1/){:target="_blank"} | machaira (sword) | REV 6:4 — "great sword" of second seal |
+| [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} | orge (wrath, anger) | REV 6:16,17 — "wrath of the Lamb," "great day of his wrath" |
 
 ### Related Existing Studies
 
@@ -161,45 +161,45 @@ Do the seven seals of Revelation 6 span from the apostolic era to the second com
 - Phase 2 (PRESENT): heos pote = "how long?" — semantically impossible unless time has passed and more is expected. Parallels: Ps 6:3; 13:1-2; Zec 1:12 (references 70-year exile).
 - Phase 3 (FUTURE): hoi mellontes apoktennesthai = "those about to be killed" + heos plerosohin = "until should be fulfilled/completed" — implies a quota of future martyrs not yet killed.
 - The three phases CANNOT be compressed into a single moment; they require extended historical duration.
-- G615 apokteino in Rev 6:11 parallels Mat 24:9 (Olivet martyrdom).
-- G4137 pleroo in Rev 6:11 = "to fill up, complete" — a process requiring time.
+- [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} apokteino in Rev 6:11 parallels Mat 24:9 (Olivet martyrdom).
+- [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} pleroo in Rev 6:11 = "to fill up, complete" — a process requiring time.
 
 ### Focus Areas
 
 1. **Rev 5:1-14 — The Sealed Scroll and the Lamb (Setting the Stage)**
    WHAT: Investigate the seven-sealed scroll and the Lamb's qualification to open it. The throne-room scene provides the context for the entire seal sequence.
-   WHY: Tool discoveries show the scroll connects to Daniel's sealed book (Dan 12:4,9 via H2856 chatham) and the title deed tradition (Jer 32:10-14, Est 8:8). The Lamb's "prevailing" (nikao, G3528, Rev 5:5) establishes the foundation for the first seal's "conquering" (nikao, Rev 6:2). The LAMB OF GOD topic (Nave's) links Rev 5-6 to JHN 1:29, REV 6:16, 12:11, 17:14.
-   HOW: Retrieve Rev 5:1-14 with full chapter context. Run greek_parser.py on REV 5:5 (nikao tense/mood). Run cross-testament parallels on REV 5:1 (both OT and NT). Look up G2696 (katasphragizo) and G4972 (sphragizo).
+   WHY: Tool discoveries show the scroll connects to Daniel's sealed book (Dan 12:4,9 via [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} chatham) and the title deed tradition (Jer 32:10-14, Est 8:8). The Lamb's "prevailing" (nikao, [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"}, Rev 5:5) establishes the foundation for the first seal's "conquering" (nikao, Rev 6:2). The LAMB OF GOD topic (Nave's) links Rev 5-6 to JHN 1:29, REV 6:16, 12:11, 17:14.
+   HOW: Retrieve Rev 5:1-14 with full chapter context. Run greek_parser.py on REV 5:5 (nikao tense/mood). Run cross-testament parallels on REV 5:1 (both OT and NT). Look up [G2696](https://www.blueletterbible.org/lexicon/g2696/kjv/tr/0-1/){:target="_blank"} (katasphragizo) and [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} (sphragizo).
 
 2. **Rev 6:1-2 — First Seal: White Horse, Nikao Chain, Stephanos, Conquering Gospel**
    WHAT: Analyze the first seal as the conquering gospel of the apostolic era. Establish the nikao word chain (Rev 5:5 -> 6:2 -> 12:11) and the stephanos vs. diadema distinction.
    WHY: The nikao-overcoming-chain study established 17 uses of nikao in Revelation with 14+ unambiguously positive. The seals-span-history study identified the nikao chain as the primary evidence for gospel identification. The stephanos (G4735) vs. diadema (G1238) distinction is critical — first seal has victor's wreath, not royal diadem.
-   HOW: Retrieve Rev 6:1-2 with context. Run greek_parser.py on REV 6:2 (nikao forms, stephanos). Look up G3528 (nikao) with --verses for all Revelation occurrences. Look up G4735 (stephanos) and G1238 (diadema) with --verses. Run cross-testament parallels on REV 6:2. Retrieve NT gospel expansion texts: Acts 19:20; Col 1:6,23; Rom 10:18.
+   HOW: Retrieve Rev 6:1-2 with context. Run greek_parser.py on REV 6:2 (nikao forms, stephanos). Look up [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) with --verses for all Revelation occurrences. Look up [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} (stephanos) and [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} (diadema) with --verses. Run cross-testament parallels on REV 6:2. Retrieve NT gospel expansion texts: Acts 19:20; Col 1:6,23; Rom 10:18.
 
 3. **Rev 6:3-4 — Second Seal: Red Horse, Peace Taken, Great Sword**
    WHAT: Analyze the second seal as the era of war and bloodshed following the apostolic peace.
    WHY: The Olivet-Seals parallel study (revs-45) documented shared vocabulary VP206: polemos, killing, machaira (G3162) — 3 shared items between Mat 24:6-7 and Rev 6:3-4. The SWORD topic (Nave's) links Rev 6:4 to judgment passages.
-   HOW: Retrieve Rev 6:3-4 with context. Run greek_parser.py on REV 6:4 (machaira, eirene). Look up G3162 (machaira) and G1515 (eirene). Run cross-testament parallels on REV 6:4 (both directions).
+   HOW: Retrieve Rev 6:3-4 with context. Run greek_parser.py on REV 6:4 (machaira, eirene). Look up [G3162](https://www.blueletterbible.org/lexicon/g3162/kjv/tr/0-1/){:target="_blank"} (machaira) and [G1515](https://www.blueletterbible.org/lexicon/g1515/kjv/tr/0-1/){:target="_blank"} (eirene). Run cross-testament parallels on REV 6:4 (both directions).
 
 4. **Rev 6:5-6 — Third Seal: Black Horse, Balances, Famine Pricing**
    WHAT: Analyze the third seal's famine imagery — the black horse, pair of balances, wheat/barley pricing, and the protection of oil and wine.
    WHY: The FAMINE topic (Nave's) directly lists Rev 6:5-8. Nave's also lists AMO 8:11 as FIGURATIVE famine ("not a famine of bread... but of hearing the words of the LORD"). The Olivet parallel identifies limos (G3042) as shared vocabulary between Mat 24:7 and Rev 6:8.
-   HOW: Retrieve Rev 6:5-6 with context. Run greek_parser.py on REV 6:5-6. Look up G3042 (limos). Run cross-testament parallels on REV 6:5-6. Retrieve Amos 8:11 for spiritual famine comparison.
+   HOW: Retrieve Rev 6:5-6 with context. Run greek_parser.py on REV 6:5-6. Look up [G3042](https://www.blueletterbible.org/lexicon/g3042/kjv/tr/0-1/){:target="_blank"} (limos). Run cross-testament parallels on REV 6:5-6. Retrieve Amos 8:11 for spiritual famine comparison.
 
 5. **Rev 6:7-8 — Fourth Seal: Pale Horse, Death and Hades, Four Instruments**
    WHAT: Analyze the fourth seal's comprehensive judgment — Death personified, Hades following, authority over a fourth of the earth, the four instruments (sword, hunger, death/pestilence, beasts).
    WHY: The OT allusion to Ezek 14:21 is rated Strong (AN024, VP074) with 5 shared elements: sword, famine, beasts, pestilence/death, killing scope. This Ezekiel connection is one of the strongest OT backgrounds for the seals. The PESTILENCE topic lists LEV 26:16,25. The fourth seal's tetarton tes ges (TM062) is the first fraction in Revelation's escalation series.
-   HOW: Retrieve Rev 6:7-8 with context. Run greek_parser.py on REV 6:8 (thanatos, hades, chloros). Retrieve Ezek 14:21 and run cross-testament parallels on REV 6:8 (both directions). Look up G2288 (thanatos), G86 (hades), G5515 (chloros).
+   HOW: Retrieve Rev 6:7-8 with context. Run greek_parser.py on REV 6:8 (thanatos, hades, chloros). Retrieve Ezek 14:21 and run cross-testament parallels on REV 6:8 (both directions). Look up [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (thanatos), [G86](https://www.blueletterbible.org/lexicon/g86/kjv/tr/0-1/){:target="_blank"} (hades), [G5515](https://www.blueletterbible.org/lexicon/g5515/kjv/tr/0-1/){:target="_blank"} (chloros).
 
 6. **Rev 6:9-11 — Fifth Seal: The Duration Proof (CRITICAL)**
    WHAT: Analyze the fifth seal as the strongest internal proof that the seals span extended historical duration. Three temporal phases: (1) PAST martyrs already slain (esphagmenon, perfect passive participle), (2) PRESENT waiting with "how long?" (heos pote), (3) FUTURE martyrs still to come (hoi mellontes apoktennesthai + heos plerosohin).
    WHY: Prior studies (seals-span-history, 06c-fifth-seal-duration-evidence) identified this as the passage that CANNOT be compressed into a single moment. The grammar is explicit: perfect participle = past completed action; heos pote = requires elapsed time; mello + apokteino = future anticipated killing. The "how long?" formula (heos pote) parallels Ps 6:3; 13:1-2; Zec 1:12 (70-year exile), always indicating extended duration. The Olivet parallel (VP207) shares apokteino (G615) and 5th-position persecution.
-   HOW: Retrieve Rev 6:9-11 with full chapter context. Run greek_parser.py on REV 6:9 (sphazo G4969, perfect participle), REV 6:10 (heos pote), REV 6:11 (mello, apokteino, pleroo). Look up G4969 (sphazo) with --verses. Look up G615 (apokteino) with --verses. Run cross-testament parallels on REV 6:10 (both directions). Retrieve Zec 1:12 for "how long?" parallel. Retrieve Ps 6:3; 13:1-2 for OT "how long?" parallels.
+   HOW: Retrieve Rev 6:9-11 with full chapter context. Run greek_parser.py on REV 6:9 (sphazo [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"}, perfect participle), REV 6:10 (heos pote), REV 6:11 (mello, apokteino, pleroo). Look up [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} (sphazo) with --verses. Look up [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} (apokteino) with --verses. Run cross-testament parallels on REV 6:10 (both directions). Retrieve Zec 1:12 for "how long?" parallel. Retrieve Ps 6:3; 13:1-2 for OT "how long?" parallels.
 
 7. **Rev 6:12-17 — Sixth Seal: Cosmic Signs + Second Coming (END ANCHOR)**
    WHAT: Analyze the sixth seal as the unmistakable depiction of the Second Coming. Cosmic upheaval (sun, moon, stars, heaven departing, mountains/islands moved), universal terror, visibility of Christ's face, and "the great day of his wrath."
    WHY: The Olivet-Seals parallel study rated the cosmic-signs correspondence (VP208) as Strong with 4 shared terms: helios (G2246), selene (G4582), aster (G792), pipto (G4098). The OT allusion to Joel 2:31 (AN105) is Probable. The phrase "every mountain and island were moved" (Rev 6:14) recurs at Rev 16:20 in the seventh bowl — same event described twice (recapitulation proof). The phrase "the great day of his wrath" (Rev 6:17) parallels the endpoint language at Rev 11:18 and 16:17 (SP092, shared endpoint across sequences).
-   HOW: Retrieve Rev 6:12-17 with full chapter context. Run greek_parser.py on REV 6:12-14 (seismos, helios, selene, aster). Retrieve Mat 24:29-30 for comparison. Retrieve Joel 2:30-31 and Isa 13:10 and Isa 34:4 for OT cosmic-sign sources. Run cross-testament parallels on REV 6:14 and REV 6:17 (both directions). Look up G3709 (orge). Retrieve Rev 16:20 for recapitulation comparison.
+   HOW: Retrieve Rev 6:12-17 with full chapter context. Run greek_parser.py on REV 6:12-14 (seismos, helios, selene, aster). Retrieve Mat 24:29-30 for comparison. Retrieve Joel 2:30-31 and Isa 13:10 and Isa 34:4 for OT cosmic-sign sources. Run cross-testament parallels on REV 6:14 and REV 6:17 (both directions). Look up [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge). Retrieve Rev 16:20 for recapitulation comparison.
 
 8. **Rev 8:1 — Seventh Seal: Silence in Heaven, Transition to Trumpets**
    WHAT: Analyze the seventh seal's "silence in heaven about the space of half an hour" and its function as transition to the trumpet sequence.
@@ -209,7 +209,7 @@ Do the seven seals of Revelation 6 span from the apostolic era to the second com
 9. **The Olivet-Seals Parallel: Seven-Element Correspondence with Matt 24**
    WHAT: Document the structural correspondence between the Olivet Discourse (Matt 24:4-31) and the seal sequence (Rev 6:1-17; 8:1). Seven elements in the same sequential order.
    WHY: Prior studies (revs-45, hist-13) established this as SP114, rated Moderate. The shared vocabulary is documented: VP206 (wars, 3 items), VP207 (martyrdom, 3 items), VP208 (cosmic signs, 4 items, Strong). The birth-pang metaphor (odin, G5604) in Matt 24:8 frames progressive intensification matching the seal escalation. Both passages draw on Ezek 14:21 and Joel/Isaiah cosmic-sign tradition with independent vocabulary.
-   HOW: Retrieve Mat 24:4-31 with full chapter context. Run greek_parallel_passages.py --compare "MAT 24" "REV 6" for synoptic analysis. Retrieve Mark 13:5-27 and Luke 21:8-28 for synoptic variation. Run cross-testament parallels on MAT 24:9 and MAT 24:29 (both directions). Look up G4105 (planao) to check absence from Rev 6:2. Look up G5580 (pseudochristos) for its NT distribution.
+   HOW: Retrieve Mat 24:4-31 with full chapter context. Run greek_parallel_passages.py --compare "MAT 24" "REV 6" for synoptic analysis. Retrieve Mark 13:5-27 and Luke 21:8-28 for synoptic variation. Run cross-testament parallels on MAT 24:9 and MAT 24:29 (both directions). Look up [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"} (planao) to check absence from Rev 6:2. Look up [G5580](https://www.blueletterbible.org/lexicon/g5580/kjv/tr/0-1/){:target="_blank"} (pseudochristos) for its NT distribution.
 
 10. **Rev 6:14 = Rev 16:20 — Recapitulation Proof**
     WHAT: Compare "every mountain and island were moved out of their places" (Rev 6:14) with "every island fled away, and the mountains were not found" (Rev 16:20). If both describe the same event, this proves the seals and bowls cover the same time span (recapitulation).
@@ -239,18 +239,18 @@ You are the Research Agent. Execute this study by:
      - Recapitulation comparison: Rev 16:17-21; 11:15-18
      - Kinsman-redeemer background: Lev 25:25; Ruth 4:1-12
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - G3528 (nikao) — CRITICAL: trace all NT occurrences, especially 17 Revelation uses
-     - G4735 (stephanos) vs. G1238 (diadema) — crown distinction
-     - G4969 (sphazo) — slaughter vocabulary shared between Lamb and martyrs
-     - G615 (apokteino) — killing vocabulary shared Olivet-Seals
-     - G4578 (seismos) — earthquake in both passages
-     - G2246 (helios), G4582 (selene), G792 (aster) — cosmic sign shared vocabulary
-     - G3709 (orge) — wrath of the Lamb
-     - G3042 (limos) — famine shared vocabulary
-     - G2288 (thanatos) — Death as horseman
-     - G3022 (leukos) — white symbolism in Revelation
-     - G3162 (machaira) — great sword of second seal
-     - H2856 (chatham) — seal in Daniel
+     - [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) — CRITICAL: trace all NT occurrences, especially 17 Revelation uses
+     - [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} (stephanos) vs. [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} (diadema) — crown distinction
+     - [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} (sphazo) — slaughter vocabulary shared between Lamb and martyrs
+     - [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} (apokteino) — killing vocabulary shared Olivet-Seals
+     - [G4578](https://www.blueletterbible.org/lexicon/g4578/kjv/tr/0-1/){:target="_blank"} (seismos) — earthquake in both passages
+     - [G2246](https://www.blueletterbible.org/lexicon/g2246/kjv/tr/0-1/){:target="_blank"} (helios), [G4582](https://www.blueletterbible.org/lexicon/g4582/kjv/tr/0-1/){:target="_blank"} (selene), [G792](https://www.blueletterbible.org/lexicon/g792/kjv/tr/0-1/){:target="_blank"} (aster) — cosmic sign shared vocabulary
+     - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) — wrath of the Lamb
+     - [G3042](https://www.blueletterbible.org/lexicon/g3042/kjv/tr/0-1/){:target="_blank"} (limos) — famine shared vocabulary
+     - [G2288](https://www.blueletterbible.org/lexicon/g2288/kjv/tr/0-1/){:target="_blank"} (thanatos) — Death as horseman
+     - [G3022](https://www.blueletterbible.org/lexicon/g3022/kjv/tr/0-1/){:target="_blank"} (leukos) — white symbolism in Revelation
+     - [G3162](https://www.blueletterbible.org/lexicon/g3162/kjv/tr/0-1/){:target="_blank"} (machaira) — great sword of second seal
+     - [H2856](https://www.blueletterbible.org/lexicon/h2856/kjv/wlc/0-1/){:target="_blank"} (chatham) — seal in Daniel
    - `raw-data/` - Raw tool output organized by category
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
 
@@ -282,12 +282,12 @@ You are the Research Agent. Execute this study by:
    - Run greek_parser.py on: MAT 24:6-8; 24:9; 24:14; 24:29-30
 
 9. **Required word traces:**
-   - G3528 (nikao) — --verses for ALL translations, trace through Revelation
-   - G4735 (stephanos) — --verses, compare distribution with G1238 (diadema)
-   - G4969 (sphazo) — --verses, trace slaughter language
-   - G615 (apokteino) — --verses, trace killing across Mat 24 and Rev 6
-   - G3709 (orge) — --verses, trace wrath language
-   - G4578 (seismos) — --verses, trace earthquake across both passages
+   - [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} (nikao) — --verses for ALL translations, trace through Revelation
+   - [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} (stephanos) — --verses, compare distribution with [G1238](https://www.blueletterbible.org/lexicon/g1238/kjv/tr/0-1/){:target="_blank"} (diadema)
+   - [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} (sphazo) — --verses, trace slaughter language
+   - [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} (apokteino) — --verses, trace killing across Mat 24 and Rev 6
+   - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) — --verses, trace wrath language
+   - [G4578](https://www.blueletterbible.org/lexicon/g4578/kjv/tr/0-1/){:target="_blank"} (seismos) — --verses, trace earthquake across both passages
 
 ## Workflow
 answer-question

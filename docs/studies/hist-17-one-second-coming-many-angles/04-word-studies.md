@@ -1,6 +1,6 @@
 # Word Studies
 
-## G3952 — παρουσία (parousia) — "coming, presence"
+## [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} — παρουσία (parousia) — "coming, presence"
 
 **Original:** παρουσία
 **Transliteration:** parousía
@@ -42,7 +42,7 @@
 
 ---
 
-## G2015 — ἐπιφάνεια (epiphaneia) — "appearing, manifestation"
+## [G2015](https://www.blueletterbible.org/lexicon/g2015/kjv/tr/0-1/){:target="_blank"} — ἐπιφάνεια (epiphaneia) — "appearing, manifestation"
 
 **Original:** ἐπιφάνεια
 **Transliteration:** epipháneia
@@ -68,7 +68,7 @@
 
 ---
 
-## G602 — ἀποκάλυψις (apokalypsis) — "revelation, unveiling"
+## [G602](https://www.blueletterbible.org/lexicon/g602/kjv/tr/0-1/){:target="_blank"} — ἀποκάλυψις (apokalypsis) — "revelation, unveiling"
 
 **Original:** ἀποκάλυψις
 **Transliteration:** apokálypsis
@@ -107,7 +107,7 @@ All three words describe the SAME event in the same letter. If there were two ph
 
 ---
 
-## G726 — ἁρπάζω (harpazō) — "to seize, catch up, snatch away"
+## [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"} — ἁρπάζω (harpazō) — "to seize, catch up, snatch away"
 
 **Original:** ἁρπάζω
 **Transliteration:** harpázō
@@ -142,7 +142,7 @@ All three words describe the SAME event in the same letter. If there were two ph
 
 ---
 
-## G529 — ἀπάντησις (apantēsis) — "a (friendly) encounter, meeting"
+## [G529](https://www.blueletterbible.org/lexicon/g529/kjv/tr/0-1/){:target="_blank"} — ἀπάντησις (apantēsis) — "a (friendly) encounter, meeting"
 
 **Original:** ἀπάντησις
 **Transliteration:** apántēsis
@@ -178,7 +178,7 @@ In 1 Thess 4:17, saints are caught UP to meet the Lord in the air. The consisten
 
 ---
 
-## G528 — ἀπαντάω (apantaō) — "to meet away, encounter" (verb form)
+## [G528](https://www.blueletterbible.org/lexicon/g528/kjv/tr/0-1/){:target="_blank"} — ἀπαντάω (apantaō) — "to meet away, encounter" (verb form)
 
 **Original:** ἀπαντάω
 **Transliteration:** apantáō
@@ -201,7 +201,7 @@ In 1 Thess 4:17, saints are caught UP to meet the Lord in the air. The consisten
 
 ---
 
-## G3025 — ληνός (lēnos) — "winepress, wine-vat"
+## [G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} — ληνός (lēnos) — "winepress, wine-vat"
 
 **Original:** ληνός
 **Transliteration:** lēnós
@@ -229,17 +229,17 @@ In 1 Thess 4:17, saints are caught UP to meet the Lord in the air. The consisten
 | **Isa 63:2** | גַּת (H1660 gath) | "thy garments like him that treadeth in the winefat" | SOURCE: warrior with blood-stained garments |
 | **Isa 63:3** | פּוּרָה (H6333 purah) + דָּרַךְ (H1869 darak) | "I have trodden the winepress alone... I will tread them in mine anger" | SOURCE: treading in anger, blood on garments |
 | **Lam 1:15** | גַּת (H1660 gath) + דָּרַךְ (H1869 darak) | "the Lord hath trodden... as in a winepress" | God treads his people in judgment |
-| **Joel 3:13** | (No explicit H1660/H6333, uses figurative "press") | "the press is full, the fats overflow" | COMBINED with sickle harvest |
+| **Joel 3:13** | (No explicit [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"}/H6333, uses figurative "press") | "the press is full, the fats overflow" | COMBINED with sickle harvest |
 | **Rev 14:19** | ληνός (G3025 lēnos) | "the great winepress of the wrath of God" | NT FULFILLMENT: angel gathers vine |
 | **Rev 14:20** | ληνός (G3025 lēnos) | "the winepress was trodden" | Blood to horse bridles |
 | **Rev 19:15** | ληνός (G3025 lēnos) + πατέω (G3961 pateō) | "he treadeth the winepress of the fierceness and wrath of Almighty God" | CHRIST HIMSELF treads, echoing Isa 63 |
 | **Rev 19:13** | βάπτω (G911 baptō) | "vesture dipped in blood" | ECHOES Isa 63:1-3 blood-stained garments |
 
-G3025 (lēnos) appears ONLY in Rev 14:19, 14:20, and 19:15 in eschatological context — binding these passages as descriptions of one event.
+[G3025](https://www.blueletterbible.org/lexicon/g3025/kjv/tr/0-1/){:target="_blank"} (lēnos) appears ONLY in Rev 14:19, 14:20, and 19:15 in eschatological context — binding these passages as descriptions of one event.
 
 ---
 
-## G3709 — ὀργή (orgē) — "wrath"
+## [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — ὀργή (orgē) — "wrath"
 
 **Original:** ὀργή
 **Transliteration:** orgḗ
@@ -264,7 +264,7 @@ The orgē chain links Rev 6:16-17 → Rev 14:10 → Rev 16:19 → Rev 19:15 as e
 
 ---
 
-## G3631 — οἶνος (oinos) — "wine"
+## [G3631](https://www.blueletterbible.org/lexicon/g3631/kjv/tr/0-1/){:target="_blank"} — οἶνος (oinos) — "wine"
 
 **Original:** οἶνος
 **Transliteration:** oînos
@@ -285,7 +285,7 @@ The orgē chain links Rev 6:16-17 → Rev 14:10 → Rev 16:19 → Rev 19:15 as e
 
 ---
 
-## H1660 — גַּת (gath) — "winepress"
+## [H1660](https://www.blueletterbible.org/lexicon/h1660/kjv/wlc/0-1/){:target="_blank"} — גַּת (gath) — "winepress"
 
 **Original:** גַּת
 **Transliteration:** gath
@@ -301,7 +301,7 @@ The orgē chain links Rev 6:16-17 → Rev 14:10 → Rev 16:19 → Rev 19:15 as e
 
 ---
 
-## H6333 — פּוּרָה (purah) — "winepress"
+## [H6333](https://www.blueletterbible.org/lexicon/h6333/kjv/wlc/0-1/){:target="_blank"} — פּוּרָה (purah) — "winepress"
 
 **Original:** פּוּרָה
 **Transliteration:** pûwrâh
@@ -315,7 +315,7 @@ The orgē chain links Rev 6:16-17 → Rev 14:10 → Rev 16:19 → Rev 19:15 as e
 
 ---
 
-## H1869 — דָּרַךְ (darak) — "to tread, walk, bend"
+## [H1869](https://www.blueletterbible.org/lexicon/h1869/kjv/wlc/0-1/){:target="_blank"} — דָּרַךְ (darak) — "to tread, walk, bend"
 
 **Original:** דָּרַךְ
 **Transliteration:** dârak
@@ -337,7 +337,7 @@ The orgē chain links Rev 6:16-17 → Rev 14:10 → Rev 16:19 → Rev 19:15 as e
 
 ---
 
-## G3788 — ὀφθαλμός (ophthalmos) — "eye"
+## [G3788](https://www.blueletterbible.org/lexicon/g3788/kjv/tr/0-1/){:target="_blank"} — ὀφθαλμός (ophthalmos) — "eye"
 
 From Rev 1:7 parsing: πᾶς ὀφθαλμός (pas ophthalmos) — "every eye"
 - πᾶς (G3956) = Nominative Singular Masculine, "every/all"

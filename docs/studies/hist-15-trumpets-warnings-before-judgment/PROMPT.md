@@ -56,23 +56,23 @@ Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's in
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| G4536 | salpinx (trumpet) | Core term — the trumpet instrument in Revelation |
-| G4537 | salpizo (to trumpet, to sound) | The verb for each trumpet blast; "esalpisen" formula x7 |
-| G4538 | salpistes (trumpeter) | Trumpeter — related noun |
-| H8643 | teruah (alarm, shout, blowing) | "Memorial of blowing" — Feast of Trumpets term (Lev 23:24) |
-| H7782 | shophar (trumpet, cornet) | OT trumpet instrument — Joel 2:1, Ezek 33:3, Amos 3:6 |
-| H3104 | yobel (jubilee, blast of horn) | Jubilee trumpet, Day of Atonement connection (Lev 25:9) |
-| H7321 | rua (to shout, to sound alarm) | Root of teruah — to raise an alarm |
-| G2369 | thymiastērion (censer, altar of incense) | The golden censer in Rev 8:3 |
-| H7004 | qetoreth (incense) | OT incense — offered with prayers |
-| G5552 | chryseos (golden) | "Golden altar," "golden censer" — sanctuary imagery |
-| G2379 | thysiastērion (altar) | Altar — appears 8x in Revelation across all judgment sequences |
-| G3341 | metanoia (repentance) | The intended response to trumpet warnings |
-| G987 | blasphemeo (to blaspheme) | Appears 3x in bowls (16:9,11,21) but ZERO times in trumpets (9:20-21) — key distinction |
-| G3709 | orge (wrath) | 7th trumpet: "thy wrath is come" (11:18) |
-| G2372 | thymos (fierce anger, passion) | Bowl wrath vocabulary — bowls pour thymos, not orge |
-| H3725 | kippur (atonement) | Day of Atonement — the judgment that follows the trumpet warnings |
-| H3722 | kaphar (to cover, atone) | Root verb for atonement — 16x in Lev 16 |
+| [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} | salpinx (trumpet) | Core term — the trumpet instrument in Revelation |
+| [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} | salpizo (to trumpet, to sound) | The verb for each trumpet blast; "esalpisen" formula x7 |
+| [G4538](https://www.blueletterbible.org/lexicon/g4538/kjv/tr/0-1/){:target="_blank"} | salpistes (trumpeter) | Trumpeter — related noun |
+| [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} | teruah (alarm, shout, blowing) | "Memorial of blowing" — Feast of Trumpets term (Lev 23:24) |
+| [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} | shophar (trumpet, cornet) | OT trumpet instrument — Joel 2:1, Ezek 33:3, Amos 3:6 |
+| [H3104](https://www.blueletterbible.org/lexicon/h3104/kjv/wlc/0-1/){:target="_blank"} | yobel (jubilee, blast of horn) | Jubilee trumpet, Day of Atonement connection (Lev 25:9) |
+| [H7321](https://www.blueletterbible.org/lexicon/h7321/kjv/wlc/0-1/){:target="_blank"} | rua (to shout, to sound alarm) | Root of teruah — to raise an alarm |
+| [G2369](https://www.blueletterbible.org/lexicon/g2369/kjv/tr/0-1/){:target="_blank"} | thymiastērion (censer, altar of incense) | The golden censer in Rev 8:3 |
+| [H7004](https://www.blueletterbible.org/lexicon/h7004/kjv/wlc/0-1/){:target="_blank"} | qetoreth (incense) | OT incense — offered with prayers |
+| [G5552](https://www.blueletterbible.org/lexicon/g5552/kjv/tr/0-1/){:target="_blank"} | chryseos (golden) | "Golden altar," "golden censer" — sanctuary imagery |
+| [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} | thysiastērion (altar) | Altar — appears 8x in Revelation across all judgment sequences |
+| [G3341](https://www.blueletterbible.org/lexicon/g3341/kjv/tr/0-1/){:target="_blank"} | metanoia (repentance) | The intended response to trumpet warnings |
+| [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} | blasphemeo (to blaspheme) | Appears 3x in bowls (16:9,11,21) but ZERO times in trumpets (9:20-21) — key distinction |
+| [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} | orge (wrath) | 7th trumpet: "thy wrath is come" (11:18) |
+| [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} | thymos (fierce anger, passion) | Bowl wrath vocabulary — bowls pour thymos, not orge |
+| [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} | kippur (atonement) | Day of Atonement — the judgment that follows the trumpet warnings |
+| [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} | kaphar (to cover, atone) | Root verb for atonement — 16x in Lev 16 |
 
 ### Related Existing Studies
 
@@ -147,7 +147,7 @@ Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's in
 - Lev 23:26-29: Day of Atonement = Tishri 10; "afflict your souls" or "cut off"
 - Num 29:1, 29:7: parallel statements confirming the calendar
 - Num 10:10: trumpets blown "over burnt offerings" = trumpets accompany intercession
-- Hebrew word studies: H8643 teruah (alarm/shout), H7782 shophar (trumpet), H3725 kippur (atonement), H3722 kaphar (to cover/atone)
+- Hebrew word studies: [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} teruah (alarm/shout), [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} shophar (trumpet), [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} kippur (atonement), [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} kaphar (to cover/atone)
 - Three-phase pattern: WARNING (Tishri 1) -> INTERCESSION (Tishri 2-9, Days of Awe) -> JUDGMENT (Tishri 10)
 - Rev 8:2-5 maps to pattern: trumpets given (v.2), incense with prayers (v.3-4), censer cast to earth (v.5)
 - Rev 9:20-21: "repented not" = Days of Awe function — repentance expected during warning period
@@ -165,22 +165,22 @@ Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's in
 1. **Rev 8:3-5 — The Incense Scene Places Trumpets During Intercession**
    WHAT: Analyze the incense/prayer scene that introduces the seven trumpets. An angel offers incense "with the prayers of all saints" on the golden altar; smoke ascends before God; then the censer is filled with fire and cast to earth.
    WHY: Tool discoveries show this is the primary structural evidence that trumpets occur during Christ's intercessory ministry. The revs-17 study documented 5 shared vocabulary elements with Lev 16:12-13 (Day of Atonement censer ritual), plus libanotos (G3031) appearing ONLY at Rev 8:3,5 in the NT — the same vessel transitions from intercession to judgment. The Nave's INCENSE entry connects incense to prayer (Psa 141:2, Rev 5:8, 8:3-4) and atonement (Lev 16:12-13, Num 16:46-47).
-   HOW: Retrieve Rev 8:1-6 with full chapter context. Run greek_parser.py on Rev 8:3-5. Run parallels for "REV 8:3" both directions. Look up G3031 (libanotos), G2368 (thymiama), G2379 (thysiastērion). Retrieve Num 10:10, Lev 16:12-13, Exo 30:7-8 for OT background. Retrieve 2 Chr 29:27-28 for trumpets-with-offerings connection.
+   HOW: Retrieve Rev 8:1-6 with full chapter context. Run greek_parser.py on Rev 8:3-5. Run parallels for "REV 8:3" both directions. Look up [G3031](https://www.blueletterbible.org/lexicon/g3031/kjv/tr/0-1/){:target="_blank"} (libanotos), [G2368](https://www.blueletterbible.org/lexicon/g2368/kjv/tr/0-1/){:target="_blank"} (thymiama), [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} (thysiastērion). Retrieve Num 10:10, Lev 16:12-13, Exo 30:7-8 for OT background. Retrieve 2 Chr 29:27-28 for trumpets-with-offerings connection.
 
 2. **The 1/3 Limitation (Rev 8:7-12) — Partial Judgment = Warning, Not Final**
    WHAT: Document the systematic 1/3 limitation across trumpets 1-4, the 5-month torment limitation at trumpet 5, and the 1/3 killed at trumpet 6. Contrast with bowls where ALL are affected.
    WHY: Tool discoveries show the fraction marker to triton (G5154) appears 13+ times in the trumpet sequence but ZERO times in the bowl sequence (TM075, TM107). The revs-23 study documented universalizing language in bowls replacing the fractions. Nave's JUDGMENT entry establishes that partial judgment is distinct from final judgment.
-   HOW: Retrieve Rev 8:7-12 and Rev 9:1-21 with full text. Retrieve Rev 16:1-12 for bowl comparison. Run greek_parser.py on Rev 8:7 and Rev 16:2 to compare vocabulary. Look up G5154 (tritos). Create a systematic table comparing each trumpet with its corresponding bowl.
+   HOW: Retrieve Rev 8:7-12 and Rev 9:1-21 with full text. Retrieve Rev 16:1-12 for bowl comparison. Run greek_parser.py on Rev 8:7 and Rev 16:2 to compare vocabulary. Look up [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} (tritos). Create a systematic table comparing each trumpet with its corresponding bowl.
 
 3. **Rev 9:20-21 "Repented Not" — The PURPOSE Is Repentance**
    WHAT: Analyze the "repented not" passage where the text explicitly states that the remaining people failed to repent of idolatry, murders, sorceries, fornication, and thefts.
    WHY: Tool discoveries show this is classified as Explicit (E) evidence — the text directly states repentance was the intended response. The Nave's REPENTANCE entry contains extensive verse lists for repentance as God's desired response. The revs-23 study showed impenitence escalation: metanoeo negated at trumpets -> blasphemeo added at bowls -> blasphemeo alone at final bowl.
-   HOW: Retrieve Rev 9:20-21 with full chapter context. Run greek_parser.py on Rev 9:20-21. Look up G3340 (metanoeo) with --verses to trace all repentance calls in Revelation (2:5,16,21,22; 3:3,19; 9:20,21; 16:9,11). Compare with OT parallels: Jer 6:17 ("we will not hearken"), Isa 6:9-10. Run parallels for "REV 9:20" both directions.
+   HOW: Retrieve Rev 9:20-21 with full chapter context. Run greek_parser.py on Rev 9:20-21. Look up [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo) with --verses to trace all repentance calls in Revelation (2:5,16,21,22; 3:3,19; 9:20,21; 16:9,11). Compare with OT parallels: Jer 6:17 ("we will not hearken"), Isa 6:9-10. Run parallels for "REV 9:20" both directions.
 
 4. **The Woe-Trumpet Subdivision (Rev 8:13) — Three Woes Intensify**
    WHAT: Analyze the eagle's announcement of "Woe, woe, woe, to the inhabiters of the earth" that divides the trumpets into two groups: trumpets 1-4 (affecting nature) and trumpets 5-7 (woes, directly affecting humanity).
    WHY: Tool discoveries show the triple ouai (TM070) is a structural marker dividing the trumpet sequence. The "inhabiters of the earth" phrase establishes universal scope. The woe structure connects to the missing 3rd woe closure (TM071) and the telescoping evidence.
-   HOW: Retrieve Rev 8:13 with surrounding context. Run greek_parser.py on Rev 8:13. Look up G3759 (ouai). Retrieve Rev 9:12 and 11:14 for the woe-closure formula. Run parallels for "REV 8:13" both directions.
+   HOW: Retrieve Rev 8:13 with surrounding context. Run greek_parser.py on Rev 8:13. Look up [G3759](https://www.blueletterbible.org/lexicon/g3759/kjv/tr/0-1/){:target="_blank"} (ouai). Retrieve Rev 9:12 and 11:14 for the woe-closure formula. Run parallels for "REV 8:13" both directions.
 
 5. **Fifth Trumpet: Locusts That Torment but Do Not Kill (Rev 9:1-11)**
    WHAT: Analyze the fifth trumpet's locust plague — the command NOT to kill, only to torment for 5 months; the protection of the sealed (9:4); the imagery drawn from Joel 2.
@@ -200,17 +200,17 @@ Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's in
 8. **Seventh Trumpet (Rev 11:15-19) — Kingdom, Judgment, and Ark Revealed**
    WHAT: Analyze the 7th trumpet's announcement: kingdoms become the Lord's (11:15), wrath is come, dead are judged, servants rewarded, destroyers destroyed (11:18), temple opened and ark of the testament revealed (11:19).
    WHY: Tool discoveries show the 7th trumpet is both the climax of the trumpet sequence and the transition to final judgment. The 5-element programmatic announcement (TM084) maps to Rev 12-22. The ark's revelation evokes the Day of Atonement (only time the ark was seen = Lev 16:2,14-15). The theophany formula escalation (TM057) peaks here with 5 elements. The orge-thymos vocabulary pattern shows orge announced at 7th trumpet, thymos poured at bowls.
-   HOW: Retrieve Rev 11:15-19 with full chapter context. Run greek_parser.py on Rev 11:15,18,19. Look up G3709 (orge) and G2372 (thymos) with --verses to trace distribution. Run parallels for "REV 11:15" and "REV 11:19" both directions. Retrieve Lev 16:2,14-15 for ark/DoA connection. Retrieve Dan 2:44 for kingdom parallel.
+   HOW: Retrieve Rev 11:15-19 with full chapter context. Run greek_parser.py on Rev 11:15,18,19. Look up [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) and [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) with --verses to trace distribution. Run parallels for "REV 11:15" and "REV 11:19" both directions. Retrieve Lev 16:2,14-15 for ark/DoA connection. Retrieve Dan 2:44 for kingdom parallel.
 
 9. **Feast of Trumpets to Day of Atonement — Biblical Calendar Precedent (Lev 23:24-27)**
    WHAT: Analyze the biblical calendar structure — Feast of Trumpets (Tishri 1, Lev 23:24) through the Days of Awe to the Day of Atonement (Tishri 10, Lev 23:27) — as the template for the trumpets-to-bowls structure.
    WHY: Tool discoveries show the Nave's TRUMPETS and ATONEMENT entries explicitly locate these feasts in the calendar. The 08a study established the threefold pattern: WARNING (Tishri 1) -> INTERCESSION (Tishri 2-9) -> JUDGMENT (Tishri 10). Hebrew word studies on teruah (H8643), shophar (H7782), and kippur (H3725) establish the semantic connections.
-   HOW: Retrieve Lev 23:23-32 with full chapter context. Retrieve Num 29:1-11. Run hebrew_parser.py on Lev 23:24 for "zikron teruah." Look up H8643 (teruah), H7782 (shophar), H3725 (kippur), H3722 (kaphar). Run parallels for "LEV 23:24" and "LEV 23:27" both directions. Retrieve Lev 25:9 for jubilee trumpet on Day of Atonement.
+   HOW: Retrieve Lev 23:23-32 with full chapter context. Retrieve Num 29:1-11. Run hebrew_parser.py on Lev 23:24 for "zikron teruah." Look up [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} (teruah), [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} (shophar), [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} (kippur), [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} (kaphar). Run parallels for "LEV 23:24" and "LEV 23:27" both directions. Retrieve Lev 25:9 for jubilee trumpet on Day of Atonement.
 
 10. **Trumpet-Bowl Contrast: 1/3 vs. ALL, Warning vs. Final, Intercession vs. Closed**
     WHAT: Create the systematic parallel showing three contrasts: (a) 1/3 fraction in trumpets vs. universal scope in bowls, (b) "repented not" in trumpets vs. "blasphemed" in bowls, (c) incense/prayers ascending at trumpet introduction (8:3-4) vs. "no man able to enter the temple" at bowl introduction (15:8).
     WHY: Tool discoveries from revs-23 documented the 7-element parallel sequence (SP055, Strong) and multiple escalation patterns. The intercession-to-judgment transition (SP058) is the structural proof that trumpets occur during intercession while bowls occur after it has ended. The impenitence escalation (SP056) shows the trajectory from passive refusal to active hostility. Rev 15:1 calls the bowls "the seven LAST plagues" (eschatas, G2078), implying prior plagues.
-    HOW: Create parallel table for all 7 trumpet-bowl pairs. Retrieve Rev 15:1-8 for bowl introduction (intercession ended). Run greek_parser.py on Rev 15:1,8. Look up G2078 (eschatos) — "last plagues" implies prior plagues. Retrieve Rev 16:9,11,21 for blasphemeo passages. Compare with Rev 9:20-21 for metanoeo passages.
+    HOW: Create parallel table for all 7 trumpet-bowl pairs. Retrieve Rev 15:1-8 for bowl introduction (intercession ended). Run greek_parser.py on Rev 15:1,8. Look up [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} (eschatos) — "last plagues" implies prior plagues. Retrieve Rev 16:9,11,21 for blasphemeo passages. Compare with Rev 9:20-21 for metanoeo passages.
 
 ---
 
@@ -241,19 +241,19 @@ You are the Research Agent. Execute this study by:
      - **Jericho pattern** (Josh 6:4-5,20,25)
      - **Exodus plagues** (Exo 9:23-24; 7:20; 10:1-15,21-22)
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - G4536 (salpinx) — CRITICAL: trace all Rev occurrences
-     - G4537 (salpizo) — the trumpet verb formula
-     - H8643 (teruah) — Feast of Trumpets term
-     - H7782 (shophar) — OT trumpet
-     - G3031 (libanotos) — censer, only Rev 8:3,5 in NT
-     - G2368 (thymiama) — incense
-     - G2379 (thysiastērion) — altar, distributed across all judgment sequences
-     - G3340 (metanoeo) — repentance, trace all Rev occurrences
-     - G987 (blasphemeo) — blaspheme, trace Rev 16 occurrences
-     - G3709 (orge) — wrath at trumpet
-     - G2372 (thymos) — wrath at bowls
-     - G2078 (eschatos) — "last" plagues
-     - H3725 (kippur) — atonement
+     - [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} (salpinx) — CRITICAL: trace all Rev occurrences
+     - [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} (salpizo) — the trumpet verb formula
+     - [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} (teruah) — Feast of Trumpets term
+     - [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} (shophar) — OT trumpet
+     - [G3031](https://www.blueletterbible.org/lexicon/g3031/kjv/tr/0-1/){:target="_blank"} (libanotos) — censer, only Rev 8:3,5 in NT
+     - [G2368](https://www.blueletterbible.org/lexicon/g2368/kjv/tr/0-1/){:target="_blank"} (thymiama) — incense
+     - [G2379](https://www.blueletterbible.org/lexicon/g2379/kjv/tr/0-1/){:target="_blank"} (thysiastērion) — altar, distributed across all judgment sequences
+     - [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo) — repentance, trace all Rev occurrences
+     - [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} (blasphemeo) — blaspheme, trace Rev 16 occurrences
+     - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) — wrath at trumpet
+     - [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) — wrath at bowls
+     - [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} (eschatos) — "last" plagues
+     - [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} (kippur) — atonement
    - `raw-data/` - Raw tool output organized by category
 5. Do NOT write `03-analysis.md` or `CONCLUSION.md` -- those are for the analysis agent
 
@@ -293,12 +293,12 @@ You are the Research Agent. Execute this study by:
    - Num 10:9 (taqa + teruah — "blow an alarm")
 
 10. **Required word traces:**
-    - G4537 (salpizo) — --verses for every NT occurrence, especially all 7 "esalpisen" formulas
-    - G3340 (metanoeo) — --verses for ALL Revelation occurrences (trace from letters through trumpets to bowls)
-    - G987 (blasphemeo) — --verses for Revelation occurrences (present in bowls, absent from trumpets)
-    - G3709 (orge) — --verses for Revelation occurrences (distribution across sequences)
-    - G2372 (thymos) — --verses for Revelation occurrences (distribution across sequences)
-    - H8643 (teruah) — --verses for key OT contexts
+    - [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} (salpizo) — --verses for every NT occurrence, especially all 7 "esalpisen" formulas
+    - [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} (metanoeo) — --verses for ALL Revelation occurrences (trace from letters through trumpets to bowls)
+    - [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} (blasphemeo) — --verses for Revelation occurrences (present in bowls, absent from trumpets)
+    - [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} (orge) — --verses for Revelation occurrences (distribution across sequences)
+    - [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} (thymos) — --verses for Revelation occurrences (distribution across sequences)
+    - [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} (teruah) — --verses for key OT contexts
 
 ## Workflow
 answer-question

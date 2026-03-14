@@ -1,6 +1,6 @@
 # Word Studies
 
-## G3952 — παρουσία (parousia) — "coming/presence"
+## [G3952](https://www.blueletterbible.org/lexicon/g3952/kjv/tr/0-1/){:target="_blank"} — παρουσία (parousia) — "coming/presence"
 **Original:** παρουσία
 **Transliteration:** parousia
 **Definition:** "a being near, i.e. advent; often return; specifically, of Christ to punish Jerusalem, or finally the wicked" (Strong's). Feminine noun. BLB Count: 24.
@@ -38,7 +38,7 @@ parousia is the standard technical term for Christ's Second Coming throughout th
 
 ---
 
-## G1074 — γενεά (genea) — "generation/race/age"
+## [G1074](https://www.blueletterbible.org/lexicon/g1074/kjv/tr/0-1/){:target="_blank"} — γενεά (genea) — "generation/race/age"
 **Original:** γενεά
 **Transliteration:** genea
 **Definition:** "a generation; by implication, an age." Feminine noun. BLB Count: 42.
@@ -95,7 +95,7 @@ Three possible meanings:
 
 ---
 
-## G2347 — θλῖψις (thlipsis) — "tribulation/affliction"
+## [G2347](https://www.blueletterbible.org/lexicon/g2347/kjv/tr/0-1/){:target="_blank"} — θλῖψις (thlipsis) — "tribulation/affliction"
 **Original:** θλῖψις
 **Transliteration:** thlipsis
 **Definition:** "pressure (literally or figuratively): affliction, tribulation." Feminine noun. BLB Count: 45.
@@ -125,7 +125,7 @@ Three possible meanings:
 
 ---
 
-## G946 — βδέλυγμα (bdelygma) — "abomination"
+## [G946](https://www.blueletterbible.org/lexicon/g946/kjv/tr/0-1/){:target="_blank"} — βδέλυγμα (bdelygma) — "abomination"
 **Original:** βδέλυγμα
 **Transliteration:** bdelygma
 **Definition:** "a detestation, i.e. (specially) idolatry: abomination." Neuter noun. BLB Count: 6.
@@ -140,12 +140,12 @@ Three possible meanings:
 - Rev 17:4 — "full of ABOMINATIONS [bdelygmaton]"
 - Rev 21:27 — "worketh ABOMINATION [bdelygma]"
 
-### Hebrew Counterpart: H8251 (shiqquts)
+### Hebrew Counterpart: [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} (shiqquts)
 The Greek bdelygma translates Hebrew shiqquts, which occurs 28x in the OT — ALL referring to idolatrous objects/practices. This restricts the "abomination of desolation" to something connected with false worship, not generic sin.
 
 ---
 
-## G4930 — συντέλεια (synteleia) — "consummation/end"
+## [G4930](https://www.blueletterbible.org/lexicon/g4930/kjv/tr/0-1/){:target="_blank"} — συντέλεια (synteleia) — "consummation/end"
 **Original:** συντέλεια
 **Transliteration:** synteleia
 **Definition:** "entire completion, i.e. consummation (of a dispensation)." Feminine noun. BLB Count: 6.
@@ -166,7 +166,7 @@ synteleia is stronger than telos (G5056). Where telos means "end/termination," s
 
 ---
 
-## G5604 — ὠδίν (odin) — "birth-pang/sorrow"
+## [G5604](https://www.blueletterbible.org/lexicon/g5604/kjv/tr/0-1/){:target="_blank"} — ὠδίν (odin) — "birth-pang/sorrow"
 **Original:** ὠδίν
 **Transliteration:** odin
 **Definition:** "a pang or throe, especially of childbirth." Feminine noun. BLB Count: 4.
@@ -182,7 +182,7 @@ The birth-pang metaphor frames the Olivet Discourse events as progressive labor:
 
 ---
 
-## G4105 — πλανάω (planao) — "to deceive/lead astray"
+## [G4105](https://www.blueletterbible.org/lexicon/g4105/kjv/tr/0-1/){:target="_blank"} — πλανάω (planao) — "to deceive/lead astray"
 **Original:** πλανάω
 **Transliteration:** planao
 **Definition:** "to (properly, cause to) roam (from safety, truth, or virtue)." Verb. BLB Count: 39.
@@ -211,7 +211,7 @@ NOTE: planao appears in BOTH Olivet Discourse AND Revelation, but NOT in Rev 6:2
 
 ---
 
-## G5580 — ψευδόχριστος (pseudochristos) — "false Christ"
+## [G5580](https://www.blueletterbible.org/lexicon/g5580/kjv/tr/0-1/){:target="_blank"} — ψευδόχριστος (pseudochristos) — "false Christ"
 **Original:** ψευδόχριστος
 **Transliteration:** pseudochristos
 **Definition:** "a spurious Messiah: false Christ." Masculine noun. BLB Count: 2.
@@ -225,7 +225,7 @@ pseudochristos is EXCLUSIVELY Olivet Discourse vocabulary. It does NOT appear in
 
 ---
 
-## G5578 — ψευδοπροφήτης (pseudoprophetes) — "false prophet"
+## [G5578](https://www.blueletterbible.org/lexicon/g5578/kjv/tr/0-1/){:target="_blank"} — ψευδοπροφήτης (pseudoprophetes) — "false prophet"
 **Original:** ψευδοπροφήτης
 **Transliteration:** pseudoprophetes
 **Definition:** "a spurious prophet, i.e. pretended foreteller or religious impostor." Masculine noun. BLB Count: 11.
@@ -253,7 +253,7 @@ Unlike pseudochristos, pseudoprophetes bridges the Olivet Discourse and Revelati
 
 ---
 
-## G5119 — τότε (tote) — "then/at that time"
+## [G5119](https://www.blueletterbible.org/lexicon/g5119/kjv/tr/0-1/){:target="_blank"} — τότε (tote) — "then/at that time"
 **Original:** τότε
 **Transliteration:** tote
 **Definition:** "the when, i.e. at the time that (implying sequence)." Adverb. BLB Count: 159 (147 in KJV translation data).
@@ -274,7 +274,7 @@ The repeated tote creates a temporal chain: each event follows the previous one.
 
 ---
 
-## H8251 — שִׁקּוּץ (shiqquts) — "abomination/detestable thing"
+## [H8251](https://www.blueletterbible.org/lexicon/h8251/kjv/wlc/0-1/){:target="_blank"} — שִׁקּוּץ (shiqquts) — "abomination/detestable thing"
 **Original:** שִׁקּוּץ
 **Transliteration:** shiqquts
 **Definition:** "disgusting, i.e. filthy; especially idolatrous or (concretely) an idol: abominable filth (idol, -ation), detestable (thing)." Masculine noun. BLB Count: 28.
@@ -289,7 +289,7 @@ ALL 28 OT uses refer to idolatrous objects/practices (Milcom, Chemosh, Molech, A
 
 ---
 
-## H8074 — שָׁמֵם (shamem) — "to be desolate/appalled"
+## [H8074](https://www.blueletterbible.org/lexicon/h8074/kjv/wlc/0-1/){:target="_blank"} — שָׁמֵם (shamem) — "to be desolate/appalled"
 **Original:** שָׁמֵם
 **Transliteration:** shamem
 **Definition:** "to stun or devastate; make amazed, be astonished, make/be/lay desolate, destroy, waste, wonder." Verb. BLB Count: 92.
@@ -306,7 +306,7 @@ This creates a grammatical reversal: the one who causes desolation will himself 
 
 ---
 
-## G3625 — οἰκουμένη (oikoumene) — "inhabited world"
+## [G3625](https://www.blueletterbible.org/lexicon/g3625/kjv/tr/0-1/){:target="_blank"} — οἰκουμένη (oikoumene) — "inhabited world"
 **Original:** οἰκουμένη
 **Transliteration:** oikoumene
 **Definition:** Feminine participle of oikeo used as noun; the inhabited earth, the world. BLB Count: 15.

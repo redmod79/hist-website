@@ -123,7 +123,7 @@ Ezekiel 12:21-28 provides the OT background for prophetic "at hand" language. Is
 
 The "days are at hand" (*qarav*, cognate of Greek *engys*) functions as a REBUKE against delay-dismissal. God is not providing a calendar date; he is confronting an attitude. This function maps directly onto Rev 22:10 ("Seal not... for the time is at hand") and 2 Pet 3:3-4 (where scoffers make the same dismissive argument). The declaration of nearness prevents the complacency that arises when prophecy is treated as irrelevant because fulfillment has not yet arrived. Ecclesiastes 8:11 states the principle explicitly: "Because sentence against an evil work is not executed speedily [*meherah*, H4120], therefore the heart of the sons of men is fully set in them to do evil."
 
-Zephaniah 1:14 provides the closest OT structural parallel to Revelation's temporal framework: "The great day of the LORD is near [*qarov*], it is near [*qarov*], and hasteth greatly [*umaher me'od*]." The dual use of *qarov* combined with *maher* (root of *meherah*, H4120, the Hebrew source for Greek *tachos*) mirrors Revelation's dual markers: *en tachei* (1:1) + *kairos engys* (1:3). Zephaniah's prophecy (~630 BC) was fulfilled approximately 44 years later with the fall of Jerusalem (~586 BC) -- "near and hastening greatly" was compatible with a significant interval (Guinness, 1886, p. 38).
+Zephaniah 1:14 provides the closest OT structural parallel to Revelation's temporal framework: "The great day of the LORD is near [*qarov*], it is near [*qarov*], and hasteth greatly [*umaher me'od*]." The dual use of *qarov* combined with *maher* (root of *meherah*, [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"}, the Hebrew source for Greek *tachos*) mirrors Revelation's dual markers: *en tachei* (1:1) + *kairos engys* (1:3). Zephaniah's prophecy (~630 BC) was fulfilled approximately 44 years later with the fall of Jerusalem (~586 BC) -- "near and hastening greatly" was compatible with a significant interval (Guinness, 1886, p. 38).
 
 ### 10. The "Already Begun" Evidence
 
@@ -165,35 +165,35 @@ The coexistence of "shortly/quickly" promises with explicit delay in Jesus' para
 
 ## Word Studies
 
-### G5034 -- *tachos* (quickness/speed)
+### [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} -- *tachos* (quickness/speed)
 Seven NT occurrences, all as *en tachei*. Semantic range: manner-of-action (Acts 12:7; 22:18), temporal nearness (Acts 25:4), eschatological (Luk 18:8; Rom 16:20; Rev 1:1; 22:6). BDAG: "a brief period of time, with focus on speed of occurrence" (BDAG, 3rd ed., 992). TDNT: the prepositional phrase *en tachei* can function as dative of manner or dative of time (TDNT, vol. 8, 33-34). Hebrew source: *meherah* (H4120) via LXX (5 shared occurrences, PMI 8.47). The Hebrew predominantly describes manner-of-divine-action: Ps 147:15 ("his word runneth very swiftly"), Isa 5:26 ("they shall come with speed"), Eccl 8:11 ("not executed speedily" -- moral function).
 
-### G5035 -- *tachy* (quickly)
+### [G5035](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/){:target="_blank"} -- *tachy* (quickly)
 Thirteen NT occurrences; seven in Revelation. Revelation distribution divides into four functional categories: conditional-disciplinary (2:5; 2:16 -- swift church judgment), transitional (3:11 -- bridging both categories), narrative-sequential (11:14 -- visionary pace), eschatological (22:7; 22:12; 22:20 -- parousia). The triple *erchomai tachy* in the epilogue escalates: plain statement (22:7), with reward (22:12), emphatic *Nai* (22:20).
 
-### G5281 -- *hypomonE* (patience/endurance)
+### [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} -- *hypomonE* (patience/endurance)
 Twenty-nine NT occurrences; seven in Revelation (1:9; 2:2; 2:3; 2:19; 3:10; 13:10; 14:12). Louw-Nida: "the capacity to continue to bear up under difficult circumstances" (L-N 25.174). The seven Revelation occurrences escalate from personal (1:9, John's own *hypomonE*) to corporate commendation (2:2-3, 2:19) to definitive characterization of the saints (13:10; 14:12). The structural co-occurrence with *tachy*/*en tachei* is documented in 03-analysis.md.
 
-### G2540 -- *kairos* (appointed time/season)
+### [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} -- *kairos* (appointed time/season)
 Eighty-seven NT occurrences. In Rev 1:3 and 22:10, *kairos* (not *chronos*) is used in "the time is at hand." *Kairos* denotes the appointed, qualitatively decisive season; *chronos* (G5550) denotes quantitative duration (BDAG, s.v. *kairos*: "a point of time or period of time, time, period, frequently with the implication of being especially fit for something and without emphasis on precise chronology"). The choice of *kairos* signals a theological claim about the eschatological season being at hand, not a chronological calculation. Mark 1:15 uses the same vocabulary: "the *kairos* is fulfilled" (*peplErOtai*, perfect tense -- completed with ongoing result).
 
-### G1451 -- *engys* (near/at hand)
+### [G1451](https://www.blueletterbible.org/lexicon/g1451/kjv/tr/0-1/){:target="_blank"} -- *engys* (near/at hand)
 Thirty NT occurrences. In Rev 1:3 and 22:10, *engys* modifies *kairos*: "the appointed season is near." The claim is about the arrival of the eschatological season, not the proximity of a specific calendar date. Heb 8:13 uses *engys* for the old covenant "nigh unto vanishing away" -- a process already underway but not yet complete, providing an already/not-yet precedent for *engys*.
 
-### G1163 -- *dei* (it is necessary/must)
+### [G1163](https://www.blueletterbible.org/lexicon/g1163/kjv/tr/0-1/){:target="_blank"} -- *dei* (it is necessary/must)
 One hundred six NT occurrences. The *dei* in *ha dei genesthai en tachei* (Rev 1:1; 22:6) expresses divine necessity -- these events are under divine decree, not contingent possibilities (Wallace, 1996, p. 447). Present tense indicates ongoing necessity. The formula derives from Dan 2:28 LXX (Beale, 1999, p. 152).
 
-### G3114 -- *makrothumeO* (to be long-spirited/patient)
+### [G3114](https://www.blueletterbible.org/lexicon/g3114/kjv/tr/0-1/){:target="_blank"} -- *makrothumeO* (to be long-spirited/patient)
 Ten NT occurrences. Key: Luk 18:7 (*makrothumei* + *en tachei*), 2 Pet 3:9 (*makrothumei* vs. *ou bradynei*), Jas 5:7-8 (*makrothymEsate* + "the coming of the Lord draweth nigh"). The compound (*makros* + *thymos* = long + spirit/passion) describes deliberate, purposeful patience -- not indifference but intentional forbearance with redemptive purpose.
 
-### G1019 -- *bradynO* (to delay/be slack)
+### [G1019](https://www.blueletterbible.org/lexicon/g1019/kjv/tr/0-1/){:target="_blank"} -- *bradynO* (to delay/be slack)
 Two NT occurrences. 1 Tim 3:15 -- Paul's personal travel delay. 2 Pet 3:9 -- "The Lord is not slack [*bradynei*] concerning his promise." *bradynO* is the semantic ANTONYM of *tachos*/*tachy* (TDNT, vol. 1, 556). Peter's negation of *bradynO* is a deliberate assertion that God IS in *tachos*-mode, not *bradynO*-mode. The scoffers perceive *bradytEs* (G1022, "slackness/tardiness" -- sole NT occurrence in 2 Pet 3:9); Peter corrects with *makrothymia*.
 
-### G5549 -- *chronizO* (to delay/tarry)
+### [G5549](https://www.blueletterbible.org/lexicon/g5549/kjv/tr/0-1/){:target="_blank"} -- *chronizO* (to delay/tarry)
 Five NT occurrences. Mat 24:48 ("my lord delayeth"), Mat 25:5 ("the bridegroom tarried"), Luk 12:45 (parallel to Mat 24:48), Heb 10:37 ("will not tarry" -- quoting Hab 2:3). The delay parables incorporate *chronizO* explicitly, validating temporal extension within the eschatological framework.
 
-### H4120 -- *meherah* (hurry/speed)
-Twenty OT occurrences. Hebrew source for G5034 *tachos* via LXX. Predominantly manner-of-divine-action: Ps 147:15 ("his word runneth swiftly"), Isa 5:26 ("with speed"), Eccl 8:11 ("not executed speedily"), Deut 11:17 ("perish quickly"). The root verb *mahar* (H4116, 64 occurrences) carries the same emphasis on decisiveness of action. Zeph 1:14 combines *qarov* + *maher* in a single verse -- the structural prototype for Revelation's *kairos engys* + *en tachei*.
+### [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} -- *meherah* (hurry/speed)
+Twenty OT occurrences. Hebrew source for [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} *tachos* via LXX. Predominantly manner-of-divine-action: Ps 147:15 ("his word runneth swiftly"), Isa 5:26 ("with speed"), Eccl 8:11 ("not executed speedily"), Deut 11:17 ("perish quickly"). The root verb *mahar* (H4116, 64 occurrences) carries the same emphasis on decisiveness of action. Zeph 1:14 combines *qarov* + *maher* in a single verse -- the structural prototype for Revelation's *kairos engys* + *en tachei*.
 
 ---
 

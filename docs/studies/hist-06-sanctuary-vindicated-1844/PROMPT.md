@@ -95,22 +95,22 @@ What does "then shall the sanctuary be vindicated" (nitsdaq) in Daniel 8:14 mean
 
 | Strong's | Word | Transliteration | Relevance |
 |----------|------|-----------------|-----------|
-| H6663 | צָדַק | tsadaq | **THE KEY VERB** in Dan 8:14 — "to be just/righteous" — forensic/legal, NOT ritual cleansing |
-| H2891 | טָהֵר | taher | "to be clean/pure" — Levitical cleansing word Daniel did NOT use |
-| H3722 | כָּפַר | kaphar | "to cover/atone" — atonement word Daniel did NOT use in 8:14 (but used in 9:24) |
-| H6944 | קֹדֶשׁ | qodesh | "sanctuary/holiness" — the subject of the vindication |
-| H6153 | עֶרֶב | ereb | "evening/dusk" — first element of the time unit |
-| H1242 | בֹּקֶר | boqer | "morning/dawn" — second element of the time unit |
-| H3117 | יוֹם | yom | "day" — the normal word Daniel AVOIDED in 8:14 (but used in 12:11) |
-| H4941 | מִשְׁפָּט | mishpat | "verdict/judgment" — forensic vocabulary domain |
-| H8199 | שָׁפַט | shaphat | "to judge/vindicate" — judicial domain |
-| H3725 | כִּפֻּר | kippur | "expiation/atonement" — Day of Atonement vocabulary |
-| G1344 | δικαιόω | dikaioo | Greek NT "justify" — PRIMARY LXX translation of H6663 tsadaq (PMI score 26.99) |
-| G2511 | καθαρίζω | katharizo | Greek "cleanse" — what the LXX ACTUALLY used in Dan 8:14 instead of dikaioo |
+| [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} | צָדַק | tsadaq | **THE KEY VERB** in Dan 8:14 — "to be just/righteous" — forensic/legal, NOT ritual cleansing |
+| [H2891](https://www.blueletterbible.org/lexicon/h2891/kjv/wlc/0-1/){:target="_blank"} | טָהֵר | taher | "to be clean/pure" — Levitical cleansing word Daniel did NOT use |
+| [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} | כָּפַר | kaphar | "to cover/atone" — atonement word Daniel did NOT use in 8:14 (but used in 9:24) |
+| [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} | קֹדֶשׁ | qodesh | "sanctuary/holiness" — the subject of the vindication |
+| [H6153](https://www.blueletterbible.org/lexicon/h6153/kjv/wlc/0-1/){:target="_blank"} | עֶרֶב | ereb | "evening/dusk" — first element of the time unit |
+| [H1242](https://www.blueletterbible.org/lexicon/h1242/kjv/wlc/0-1/){:target="_blank"} | בֹּקֶר | boqer | "morning/dawn" — second element of the time unit |
+| [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"} | יוֹם | yom | "day" — the normal word Daniel AVOIDED in 8:14 (but used in 12:11) |
+| [H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/){:target="_blank"} | מִשְׁפָּט | mishpat | "verdict/judgment" — forensic vocabulary domain |
+| [H8199](https://www.blueletterbible.org/lexicon/h8199/kjv/wlc/0-1/){:target="_blank"} | שָׁפַט | shaphat | "to judge/vindicate" — judicial domain |
+| [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} | כִּפֻּר | kippur | "expiation/atonement" — Day of Atonement vocabulary |
+| [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} | δικαιόω | dikaioo | Greek NT "justify" — PRIMARY LXX translation of [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq (PMI score 26.99) |
+| [G2511](https://www.blueletterbible.org/lexicon/g2511/kjv/tr/0-1/){:target="_blank"} | καθαρίζω | katharizo | Greek "cleanse" — what the LXX ACTUALLY used in Dan 8:14 instead of dikaioo |
 
 ### LXX Translation Discrepancy (Critical Finding)
 
-The LXX translators rendered Daniel 8:14's נִצְדַּק (nitsdaq, from H6663 tsadaq) as **katharisthesetai** (from G2511 katharizo, "to cleanse") rather than a form of **dikaioo** (G1344, "to justify/vindicate"), which is the standard Greek equivalent of tsadaq across the OT. The LXX-to-Hebrew mapping confirms: G1344 dikaioo maps to H6663 tsadaq with the highest PMI score (8.73, 21 occurrences). Yet in Daniel 8:14, the LXX chose katharizo instead, substituting the meaning. This is the textual origin of the KJV's "cleansed" — the translation followed the LXX rather than the Hebrew.
+The LXX translators rendered Daniel 8:14's נִצְדַּק (nitsdaq, from [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq) as **katharisthesetai** (from [G2511](https://www.blueletterbible.org/lexicon/g2511/kjv/tr/0-1/){:target="_blank"} katharizo, "to cleanse") rather than a form of **dikaioo** (G1344, "to justify/vindicate"), which is the standard Greek equivalent of tsadaq across the OT. The LXX-to-Hebrew mapping confirms: [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} dikaioo maps to [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq with the highest PMI score (8.73, 21 occurrences). Yet in Daniel 8:14, the LXX chose katharizo instead, substituting the meaning. This is the textual origin of the KJV's "cleansed" — the translation followed the LXX rather than the Hebrew.
 
 ### Related Existing Studies
 
@@ -178,19 +178,19 @@ The LXX translators rendered Daniel 8:14's נִצְדַּק (nitsdaq, from H6663
 
 ### Focus Areas
 
-1. **The Hebrew Verb nitsdaq (H6663 Niphal) — What Daniel Actually Wrote**: WHAT: Parse Dan 8:14's verb morphologically and trace every Niphal/passive occurrence of tsadaq in the OT to establish its semantic field. WHY: The entire interpretation of Dan 8:14 hinges on whether this verb means "cleansed" or "vindicated/justified." Tool discoveries show tsadaq maps to dikaioo (G1344) in the LXX with PMI score 26.99, yet the LXX of Dan 8:14 used katharizo instead — a mistranslation that propagated to the KJV. HOW: Run hebrew_parser.py on DAN 8:14. Run search_strongs.py --verses H6663 for ALL translations. Retrieve full text of every Niphal tsadaq occurrence (Job 9:2; 25:4; 13:18; Psa 51:4; 143:2; Isa 43:9,26; 45:25; Dan 8:14). Compare each context for forensic vs. ritual usage.
+1. **The Hebrew Verb nitsdaq (H6663 Niphal) — What Daniel Actually Wrote**: WHAT: Parse Dan 8:14's verb morphologically and trace every Niphal/passive occurrence of tsadaq in the OT to establish its semantic field. WHY: The entire interpretation of Dan 8:14 hinges on whether this verb means "cleansed" or "vindicated/justified." Tool discoveries show tsadaq maps to dikaioo (G1344) in the LXX with PMI score 26.99, yet the LXX of Dan 8:14 used katharizo instead — a mistranslation that propagated to the KJV. HOW: Run hebrew_parser.py on DAN 8:14. Run search_strongs.py --verses [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} for ALL translations. Retrieve full text of every Niphal tsadaq occurrence (Job 9:2; 25:4; 13:18; Psa 51:4; 143:2; Isa 43:9,26; 45:25; Dan 8:14). Compare each context for forensic vs. ritual usage.
 
-2. **The Vocabulary Daniel Deliberately Avoided — taher (H2891) vs. kaphar (H3722) vs. tsadaq (H6663)**: WHAT: Compare the semantic fields of these three Hebrew verbs to demonstrate Daniel's deliberate word choice. WHY: If Daniel meant "cleansed" (Lev 16 sense), he had two standard verbs available: taher (used 94x, the standard Levitical cleansing word) and kaphar (used 102x, the standard atonement word). He used neither. He chose tsadaq — a forensic/courtroom verb. HOW: Run search_strongs.py --lexicon for H6663, H2891, H3722. Retrieve Lev 16:19,30 (taher in DOA context), Lev 16:16-18 (kaphar in DOA context), and Dan 8:14 (tsadaq). Run hebrew_parser.py on each verse to show morphological contrast.
+2. **The Vocabulary Daniel Deliberately Avoided — taher (H2891) vs. kaphar (H3722) vs. tsadaq (H6663)**: WHAT: Compare the semantic fields of these three Hebrew verbs to demonstrate Daniel's deliberate word choice. WHY: If Daniel meant "cleansed" (Lev 16 sense), he had two standard verbs available: taher (used 94x, the standard Levitical cleansing word) and kaphar (used 102x, the standard atonement word). He used neither. He chose tsadaq — a forensic/courtroom verb. HOW: Run search_strongs.py --lexicon for [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"}, [H2891](https://www.blueletterbible.org/lexicon/h2891/kjv/wlc/0-1/){:target="_blank"}, [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"}. Retrieve Lev 16:19,30 (taher in DOA context), Lev 16:16-18 (kaphar in DOA context), and Dan 8:14 (tsadaq). Run hebrew_parser.py on each verse to show morphological contrast.
 
-3. **The LXX Translation Discrepancy — katharisthesetai vs. dikaiothesetai**: WHAT: Document how the LXX translators rendered Dan 8:14 with katharizo ("cleanse") instead of dikaioo ("justify/vindicate"), and trace how this mistranslation entered the KJV tradition. WHY: The LXX mapping shows H6663 tsadaq → G1344 dikaioo as the dominant translation (21 occurrences, highest PMI). The LXX's use of katharizo in Dan 8:14 is anomalous — it substitutes the meaning entirely. The KJV's "cleansed" derives from this LXX rendering, not from the Hebrew. HOW: Use the search_strongs.py --lxx-map H6663 data (already gathered). Retrieve Dan 8:14 in both Hebrew and LXX (if available via tools). Look up how dikaioo is used in key OT passages translated from tsadaq (Psa 51:4/LXX Psa 50:6; Isa 43:9,26; 45:25). Document the pattern.
+3. **The LXX Translation Discrepancy — katharisthesetai vs. dikaiothesetai**: WHAT: Document how the LXX translators rendered Dan 8:14 with katharizo ("cleanse") instead of dikaioo ("justify/vindicate"), and trace how this mistranslation entered the KJV tradition. WHY: The LXX mapping shows [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} tsadaq → [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} dikaioo as the dominant translation (21 occurrences, highest PMI). The LXX's use of katharizo in Dan 8:14 is anomalous — it substitutes the meaning entirely. The KJV's "cleansed" derives from this LXX rendering, not from the Hebrew. HOW: Use the search_strongs.py --lxx-map [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} data (already gathered). Retrieve Dan 8:14 in both Hebrew and LXX (if available via tools). Look up how dikaioo is used in key OT passages translated from tsadaq (Psa 51:4/LXX Psa 50:6; Isa 43:9,26; 45:25). Document the pattern.
 
 4. **The Evening-Morning Construction — Genesis 1 Creation Pattern**: WHAT: Analyze the grammatical construction of erev boqer in Dan 8:14 against the creation formula of Gen 1:5,8,13,19,23,31 and contrast with Lev 23:32's evening-to-evening. WHY: Prior studies prove evening-morning parallels Creation (both include morning) rather than DOA (no morning component). Daniel used yamim in 12:11 but erev boqer in 8:14 — a deliberate distinction. Each erev boqer = one day cycle. 2300 erev boqer = 2300 days. HOW: Run hebrew_parser.py on DAN 8:14, DAN 8:26, DAN 12:11, GEN 1:5, LEV 23:32, EXO 27:21. Compare morphological features (articles, prepositions, conjunction presence/absence).
 
 5. **Daniel 7:9-10 — The Judgment Scene That Defines What Begins**: WHAT: Analyze the court scene in Dan 7:9-14 as the interpretive framework for Dan 8:14's "vindication." WHY: Dan 7 describes the PROCESS (thrones placed, court sits, books opened, verdict for saints, kingdom given to Son of Man). Dan 8:14 names the OUTCOME (sanctuary vindicated). These are the same event. The Son of Man comes TO the Father (7:13), not to earth — this is a heavenly judgment. HOW: Retrieve DAN 7:9-14 with full chapter context. Run hebrew_parser.py on DAN 7:9-10 (Aramaic). Run cross-testament parallels for DAN 7:9, DAN 7:13, DAN 7:22. Trace the throne/judgment/books vocabulary into Revelation.
 
-6. **Daniel 8:13 — The Question That 8:14 Answers**: WHAT: Analyze the accusation vocabulary in Dan 8:13 (pesha = rebellion, mirmac = trampling, truth cast down) to show the answer must be forensic. WHY: The question asks about INJUSTICE — how long will truth be trampled, the sanctuary attacked, the host oppressed? The answer must match: a verdict of JUSTICE, not a ritual bath. The word pesha (rebellion/transgression) in 8:13 reappears in 9:24 ("finish the transgression"). HOW: Run hebrew_parser.py on DAN 8:11-13. Retrieve full text of DAN 8:9-14 with chapter context. Look up H6588 (pesha) and H4823 (mirmac). Run parallels for DAN 8:13.
+6. **Daniel 8:13 — The Question That 8:14 Answers**: WHAT: Analyze the accusation vocabulary in Dan 8:13 (pesha = rebellion, mirmac = trampling, truth cast down) to show the answer must be forensic. WHY: The question asks about INJUSTICE — how long will truth be trampled, the sanctuary attacked, the host oppressed? The answer must match: a verdict of JUSTICE, not a ritual bath. The word pesha (rebellion/transgression) in 8:13 reappears in 9:24 ("finish the transgression"). HOW: Run hebrew_parser.py on DAN 8:11-13. Retrieve full text of DAN 8:9-14 with chapter context. Look up [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} (pesha) and [H4823](https://www.blueletterbible.org/lexicon/h4823/kjv/wlc/0-1/){:target="_blank"} (mirmac). Run parallels for DAN 8:13.
 
-7. **Daniel 9:24 — The Shared Vocabulary with 8:14**: WHAT: Demonstrate that Dan 9:24 uses both the tsadaq root AND kaphar, bridging the forensic and atonement vocabularies. WHY: Dan 9:24 contains "everlasting righteousness" (tsedeq olamim, same root as 8:14's nitsdaq) AND "make reconciliation for iniquity" (kaphar). Gabriel's answer to Daniel uses BOTH word families, showing the vindication of 8:14 includes the atonement work of 9:24. The six purposes of 9:24 define what the sanctuary vindication accomplishes. HOW: Run hebrew_parser.py on DAN 9:24. Look up H6664 (tsedeq). Run search_strongs.py --verses H6664 for "everlasting righteousness." Retrieve DAN 9:21-27 with full context.
+7. **Daniel 9:24 — The Shared Vocabulary with 8:14**: WHAT: Demonstrate that Dan 9:24 uses both the tsadaq root AND kaphar, bridging the forensic and atonement vocabularies. WHY: Dan 9:24 contains "everlasting righteousness" (tsedeq olamim, same root as 8:14's nitsdaq) AND "make reconciliation for iniquity" (kaphar). Gabriel's answer to Daniel uses BOTH word families, showing the vindication of 8:14 includes the atonement work of 9:24. The six purposes of 9:24 define what the sanctuary vindication accomplishes. HOW: Run hebrew_parser.py on DAN 9:24. Look up [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"} (tsedeq). Run search_strongs.py --verses [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"} for "everlasting righteousness." Retrieve DAN 9:21-27 with full context.
 
 8. **Revelation 14:6-7 — "The Hour of His Judgment Is Come"**: WHAT: Analyze Rev 14:6-7's announcement of judgment and its connection to Dan 7:9-10 and 8:14. WHY: Rev 14:7 announces "the hour of his judgment is come" (aorist indicative — arrived). This links the heavenly judgment of Dan 7/8 to the three angels' messages. Rev 14:7 also calls to "worship him that made heaven, and earth" — creation language, connecting to the "evening-morning" creation pattern of Dan 8:14. HOW: Run greek_parser.py on REV 14:6-7. Run cross-testament parallels for REV 14:7 (both OT and NT). Trace the judgment vocabulary. Retrieve the full context of Rev 14:1-12.
 
@@ -223,15 +223,15 @@ You are the Research Agent. Execute this study by:
      - **Zechariah 3:** ZEC 3:1-7 (courtroom vindication model)
      - **Romans justification link:** ROM 8:33-34
    - `04-word-studies.md` - Strong's research for ALL listed numbers:
-     - H6663 (tsadaq) — CRITICAL: trace every translation, every verse, especially Niphal forms
-     - H2891 (taher) — Levitical cleansing word Daniel avoided
-     - H3722 (kaphar) — Atonement word Daniel avoided in 8:14, used in 9:24
-     - H6944 (qodesh) — sanctuary/holiness: the subject being vindicated
-     - H6153 (ereb) — evening: first element of time unit
-     - H1242 (boqer) — morning: second element of time unit
-     - H6588 (pesha) — transgression/rebellion: the accusation vocabulary in 8:13
-     - G1344 (dikaioo) — Greek "justify": LXX standard for tsadaq
-     - G2511 (katharizo) — Greek "cleanse": anomalous LXX rendering in Dan 8:14
+     - [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} (tsadaq) — CRITICAL: trace every translation, every verse, especially Niphal forms
+     - [H2891](https://www.blueletterbible.org/lexicon/h2891/kjv/wlc/0-1/){:target="_blank"} (taher) — Levitical cleansing word Daniel avoided
+     - [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} (kaphar) — Atonement word Daniel avoided in 8:14, used in 9:24
+     - [H6944](https://www.blueletterbible.org/lexicon/h6944/kjv/wlc/0-1/){:target="_blank"} (qodesh) — sanctuary/holiness: the subject being vindicated
+     - [H6153](https://www.blueletterbible.org/lexicon/h6153/kjv/wlc/0-1/){:target="_blank"} (ereb) — evening: first element of time unit
+     - [H1242](https://www.blueletterbible.org/lexicon/h1242/kjv/wlc/0-1/){:target="_blank"} (boqer) — morning: second element of time unit
+     - [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} (pesha) — transgression/rebellion: the accusation vocabulary in 8:13
+     - [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} (dikaioo) — Greek "justify": LXX standard for tsadaq
+     - [G2511](https://www.blueletterbible.org/lexicon/g2511/kjv/tr/0-1/){:target="_blank"} (katharizo) — Greek "cleanse": anomalous LXX rendering in Dan 8:14
    - `raw-data/` - Raw tool output organized by category
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
 
@@ -261,11 +261,11 @@ You are the Research Agent. Execute this study by:
    - Run greek_parser.py on: REV 14:6-7, HEB 8:1-2, HEB 9:23-24
 
 10. **Required word traces:**
-    - H6663 (tsadaq): run --verses for EVERY translation — especially the Niphal forms
-    - H2891 (taher): run --verses to show where it IS used (Lev 16) vs. where tsadaq is used (Dan 8:14)
-    - H6588 (pesha): run --verses to show forensic/rebellion context
-    - G1344 (dikaioo): run --verses to show NT justification vocabulary
-    - H6664 (tsedeq): trace "everlasting righteousness" in Dan 9:24
+    - [H6663](https://www.blueletterbible.org/lexicon/h6663/kjv/wlc/0-1/){:target="_blank"} (tsadaq): run --verses for EVERY translation — especially the Niphal forms
+    - [H2891](https://www.blueletterbible.org/lexicon/h2891/kjv/wlc/0-1/){:target="_blank"} (taher): run --verses to show where it IS used (Lev 16) vs. where tsadaq is used (Dan 8:14)
+    - [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} (pesha): run --verses to show forensic/rebellion context
+    - [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"} (dikaioo): run --verses to show NT justification vocabulary
+    - [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"} (tsedeq): trace "everlasting righteousness" in Dan 9:24
 
 11. **References Requirement for Analysis Agent:**
     The analysis agent MUST include a **References** section at the end of CONCLUSION.md citing specific reference works and commentators that support the textual findings. Permitted sources include: HALOT, BDB, BDAG, GKC, TDOT, TDNT, NIDOTTE, NIDNTT, ICC, WBC, NICOT/NICNT, BECNT, and historicist commentators (Mede, Newton, Elliott, Barnes, Guinness, Froom). Do NOT cite Ellen White or Adventist pioneers as interpretive authority. Scripture is the primary and supreme source; reference works confirm the philological and grammatical findings.

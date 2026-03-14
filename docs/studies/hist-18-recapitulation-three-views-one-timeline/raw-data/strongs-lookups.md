@@ -1,6 +1,6 @@
 # Strong's Lookups Raw Data
 
-## G3709 — orge (wrath)
+## [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — orge (wrath)
 - Transliteration: orge
 - Pronunciation: or-gay
 - Part of Speech: feminine noun (n-f)
@@ -26,7 +26,7 @@ Mat 3:7, Mk 3:5, Lk 3:7, 21:23, Jn 3:36, Rom 1:18, 2:5, 2:8, 3:5, 4:15, 5:9, 9:2
 
 ---
 
-## G2372 — thymos (fury/wrath)
+## [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} — thymos (fury/wrath)
 - Transliteration: thymos
 - Pronunciation: thoo-mos
 - Part of Speech: masculine noun (n-m)
@@ -54,7 +54,7 @@ Deu 9:19, 29:23, 29:28, Isa 51:17, 51:22, Jer 25:15, 32:1, Mic 5:15, Lk 4:28, Ac
 
 ---
 
-## G2064 — erchomai (come)
+## [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} — erchomai (come)
 - Transliteration: erchomai
 - Part of Speech: verb (v)
 - BLB Count: 643
@@ -67,7 +67,7 @@ Rev 1:4, 2:5, 2:16, 4:8, 5:7, 6:1, 6:3 (2x), 6:5, 6:7, **6:17** (elthen), 7:13, 
 
 ---
 
-## G1096 — ginomai (become/happen)
+## [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} — ginomai (become/happen)
 - Transliteration: ginomai
 - Part of Speech: verb (v)
 - BLB Count: 678
@@ -83,7 +83,7 @@ Rev 1:10, 4:2, **6:12**, **8:5**, 8:11, **11:13**, **11:15** (2x), 12:7, 12:10, 
 
 ---
 
-## G5154 — tritos (third)
+## [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} — tritos (third)
 - Transliteration: tritos
 - Part of Speech: adjective (adj)
 - BLB Count: 57
@@ -98,7 +98,7 @@ Rev 4:7 (third beast), 6:5 (third seal), 11:14 (third woe)
 
 ---
 
-## G2078 — eschatos (last)
+## [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} — eschatos (last)
 - Transliteration: eschatos
 - Part of Speech: adjective (superlative)
 - BLB Count: 54
@@ -110,7 +110,7 @@ Rev 1:11, 1:17, 2:8, 2:19, **15:1** (seven last plagues), **21:9** (seven last p
 
 ---
 
-## G3528 — nikao (overcome/conquer)
+## [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — nikao (overcome/conquer)
 - Transliteration: nikao
 - Part of Speech: verb (v)
 - BLB Count: 28
@@ -135,12 +135,12 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G4536 — salpinx (trumpet, instrument)
+## [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} — salpinx (trumpet, instrument)
 - Part of Speech: feminine noun
 - BLB Count: 11
 - Revelation occurrences: 1:10, 4:1, 8:2, 8:6, 8:13, 9:14
 
-## G4537 — salpizo (to trumpet, verb)
+## [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} — salpizo (to trumpet, verb)
 - Part of Speech: verb
 - BLB Count: 12
 - Revelation occurrences: 8:6, 8:7, 8:8, 8:10, 8:12, 9:1, 9:13, 10:7, 11:15
@@ -148,7 +148,7 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G3520 — nesos (island)
+## [G3520](https://www.blueletterbible.org/lexicon/g3520/kjv/tr/0-1/){:target="_blank"} — nesos (island)
 - Part of Speech: feminine noun
 - BLB Count: 9
 - Definition: an island
@@ -157,7 +157,7 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G2795 — kineo (move/remove)
+## [G2795](https://www.blueletterbible.org/lexicon/g2795/kjv/tr/0-1/){:target="_blank"} — kineo (move/remove)
 - Part of Speech: verb
 - BLB Count: 8
 - Definition: to stir, move
@@ -166,7 +166,7 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G5343 — pheugo (flee)
+## [G5343](https://www.blueletterbible.org/lexicon/g5343/kjv/tr/0-1/){:target="_blank"} — pheugo (flee)
 - Part of Speech: verb
 - BLB Count: 31
 - Definition: to run away, flee; by implication, to vanish
@@ -175,7 +175,7 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G3710 — orgizo (to be wroth/angry)
+## [G3710](https://www.blueletterbible.org/lexicon/g3710/kjv/tr/0-1/){:target="_blank"} — orgizo (to be wroth/angry)
 - Part of Speech: verb
 - BLB Count: 8
 - Definition: from orge; to provoke or enrage; passively: become exasperated
@@ -184,7 +184,7 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G5456 — phone (voice/sound)
+## [G5456](https://www.blueletterbible.org/lexicon/g5456/kjv/tr/0-1/){:target="_blank"} — phone (voice/sound)
 - Part of Speech: feminine noun
 - BLB Count: 141
 - 126 total in KJV
@@ -194,7 +194,7 @@ Rev 2:7 (2x), 2:11, 2:17 (2x), 2:26, 3:5, 3:12, 3:21 (2x), 5:5, 6:2, 11:7, 12:11
 
 ---
 
-## G5067 — tetartos (fourth)
+## [G5067](https://www.blueletterbible.org/lexicon/g5067/kjv/tr/0-1/){:target="_blank"} — tetartos (fourth)
 - Part of Speech: adjective
 - BLB Count: 10
 - Definition: ordinal from tessares; fourth

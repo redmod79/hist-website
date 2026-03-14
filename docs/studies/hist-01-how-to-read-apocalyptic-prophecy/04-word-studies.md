@@ -275,7 +275,7 @@ In Daniel 10:7-8,16, mar'ah refers to the overwhelming visual experience that ph
 
 ### Key Occurrences for Seal/Unseal Contrast
 - **Dan 9:24** — "to seal up [sphragizo in LXX] the vision and prophecy"
-- **Dan 12:4** — "shut up the words, and seal the book" (Hebrew: chatam, not in G4972 data but conceptually linked)
+- **Dan 12:4** — "shut up the words, and seal the book" (Hebrew: chatam, not in [G4972](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/){:target="_blank"} data but conceptually linked)
 - **Rev 10:4** — "Seal up those things which the seven thunders uttered"
 - **Rev 22:10** — "Seal not [me sphragises] the sayings of the prophecy"
 

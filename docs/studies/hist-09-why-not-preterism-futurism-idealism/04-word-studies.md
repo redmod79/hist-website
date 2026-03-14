@@ -5,7 +5,7 @@ What are the strongest arguments against preterism, futurism, and idealism as in
 
 ---
 
-## G2342 — therion (beast)
+## [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} — therion (beast)
 **Original:** θηρίον
 **Transliteration:** therion
 **Pronunciation:** thay-ree'-on
@@ -27,7 +27,7 @@ The overwhelming majority of therion occurrences are in Revelation (approximatel
 
 ---
 
-## G897 — Babylon
+## [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} — Babylon
 **Original:** Βαβυλών
 **Transliteration:** Babylon
 **Part of Speech:** proper locative noun
@@ -54,11 +54,11 @@ Six of twelve NT occurrences are in Revelation (chapters 14, 16, 17, 18). The Ba
 
 ---
 
-## H894 — Babel / Babylon
+## [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} — Babel / Babylon
 **Original:** בָּבֶל
 **Transliteration:** Babel
 **Part of Speech:** proper locative noun
-**Definition:** From H1101 (balal, "to confuse"); confusion; Babel (i.e. Babylon)
+**Definition:** From [H1101](https://www.blueletterbible.org/lexicon/h1101/kjv/wlc/0-1/){:target="_blank"} (balal, "to confuse"); confusion; Babel (i.e. Babylon)
 **BLB Count:** 262 OT occurrences
 
 ### Key Prophetic Uses
@@ -79,7 +79,7 @@ Six of twelve NT occurrences are in Revelation (chapters 14, 16, 17, 18). The Ba
 
 ---
 
-## G5034 — tachos (speed/shortly)
+## [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} — tachos (speed/shortly)
 **Original:** τάχος
 **Transliteration:** tachos
 **Part of Speech:** neuter noun
@@ -103,7 +103,7 @@ The en tachei occurrences divide into three semantic categories: (1) physical sp
 
 ---
 
-## G5585 — psephizo (count/calculate)
+## [G5585](https://www.blueletterbible.org/lexicon/g5585/kjv/tr/0-1/){:target="_blank"} — psephizo (count/calculate)
 **Original:** ψηφίζω
 **Transliteration:** psephizo
 **Part of Speech:** verb
@@ -119,7 +119,7 @@ The verb is an aorist imperative in Rev 13:18 — a command to a third person ("
 
 ---
 
-## G706 — arithmos (number)
+## [G706](https://www.blueletterbible.org/lexicon/g706/kjv/tr/0-1/){:target="_blank"} — arithmos (number)
 **Original:** ἀριθμός
 **Transliteration:** arithmos
 **Part of Speech:** masculine noun
@@ -135,7 +135,7 @@ The verb is an aorist imperative in Rev 13:18 — a command to a third person ("
 
 ---
 
-## G4690 — sperma (seed)
+## [G4690](https://www.blueletterbible.org/lexicon/g4690/kjv/tr/0-1/){:target="_blank"} — sperma (seed)
 **Original:** σπέρμα
 **Transliteration:** sperma
 **Part of Speech:** neuter noun
@@ -161,7 +161,7 @@ Paul's argument in Galatians 3 uses the singular sperma to identify Abraham's se
 
 ---
 
-## G1484 — ethnos (nation/Gentile)
+## [G1484](https://www.blueletterbible.org/lexicon/g1484/kjv/tr/0-1/){:target="_blank"} — ethnos (nation/Gentile)
 **Original:** ἔθνος
 **Transliteration:** ethnos
 **Part of Speech:** neuter noun
@@ -179,7 +179,7 @@ In 1 Pet 2:9, ethnos is used to call the church a "holy nation" (ethnos hagion) 
 
 ---
 
-## G1404 — drakon (dragon)
+## [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} — drakon (dragon)
 **Original:** δράκων
 **Transliteration:** drakon
 **Part of Speech:** masculine noun
@@ -194,7 +194,7 @@ The dragon is explicitly identified in Rev 12:9 as "that old serpent, called the
 
 ---
 
-## H4438 — malkuth (kingdom/reign)
+## [H4438](https://www.blueletterbible.org/lexicon/h4438/kjv/wlc/0-1/){:target="_blank"} — malkuth (kingdom/reign)
 **Original:** מַלְכוּת
 **Transliteration:** malkuth
 **Part of Speech:** feminine noun

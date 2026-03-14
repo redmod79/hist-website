@@ -51,7 +51,7 @@
 ### Daniel 7:8
 **Context:** The little horn emerges among the ten.
 **Direct statement:** "I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things."
-**Original language:** קֶרֶן אָחֳרִי זְעֵירָה -- "horn another little" (H7162, H317, H2191). The word אָחֳרִי emphasizes sequential emergence. זְעֵירָה ("little/small") indicates modest origins. פֻם מְמַלִּל רַבְרְבָן -- "a mouth speaking great things." The pael stem of מלל intensifies the speaking. The LXX renders this as στόμα λαλοῦν μεγάλα, the identical phrase found in Rev 13:5.
+**Original language:** קֶרֶן אָחֳרִי זְעֵירָה -- "horn another little" (H7162, [H317](https://www.blueletterbible.org/lexicon/h317/kjv/wlc/0-1/){:target="_blank"}, H2191). The word אָחֳרִי emphasizes sequential emergence. זְעֵירָה ("little/small") indicates modest origins. פֻם מְמַלִּל רַבְרְבָן -- "a mouth speaking great things." The pael stem of מלל intensifies the speaking. The LXX renders this as στόμα λαλοῦν μεγάλα, the identical phrase found in Rev 13:5.
 **Cross-references:** Dan 7:24-25 interprets this horn: it arises "after" the ten, is "diverse from the first," subdues three kings, speaks against the Most High, wears out the saints, and thinks to change times and laws. Rev 13:5-6 uses the identical Greek phrase for the sea beast's blasphemy. 2 Thess 2:3-4 describes the man of sin who "exalteth himself above all that is called God."
 **Relationship to other evidence:** The little horn has "eyes like the eyes of man" (human intelligence directing it) and speaks "great things" (blasphemous claims). These specifications are textual constraints for identification.
 
@@ -126,7 +126,7 @@
 ### Daniel 7:22
 **Context:** The judgment terminates the little horn's persecution.
 **Direct statement:** "Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom."
-**Original language:** H1780 דִּינָא (din, "judgment") -- the same word used in vv.10 and 26 for the judicial proceeding. "Judgment was given TO the saints" -- this can mean judgment rendered in their favor (vindication), consistent with the semantic range of both Aramaic דִּין and Hebrew שָׁפַט (H8199), which carry the dual sense of "to render a verdict" AND "to vindicate/defend."
+**Original language:** [H1780](https://www.blueletterbible.org/lexicon/h1780/kjv/wlc/0-1/){:target="_blank"} דִּינָא (din, "judgment") -- the same word used in vv.10 and 26 for the judicial proceeding. "Judgment was given TO the saints" -- this can mean judgment rendered in their favor (vindication), consistent with the semantic range of both Aramaic דִּין and Hebrew שָׁפַט (H8199), which carry the dual sense of "to render a verdict" AND "to vindicate/defend."
 **Cross-references:** Rev 20:4 -- "judgment was given unto them" uses the same construction. The saints who were "worn out" by the little horn are vindicated by the judgment.
 **Relationship to other evidence:** The temporal sequence is: little horn persecutes (v.21) -> judgment intervenes (v.22a) -> saints receive the kingdom (v.22b). The judgment is the mechanism that transfers dominion from oppressor to oppressed.
 

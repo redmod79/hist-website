@@ -133,22 +133,22 @@ The verbatim quotation chain from Daniel 7 to Revelation 13 (stoma laloun megala
 
 ## Word Studies
 
-### G2342 — thērion (beast)
+### [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} — thērion (beast)
 Thērion (46 NT occurrences, 36x "beast" in Revelation) denotes a dangerous wild animal, distinguished from zōon (living creature, used for the beings around God's throne in Rev 4). The word's use for the sea beast and earth beast of Rev 13 and the beast of Rev 17 marks these powers as predatory and destructive. In the LXX, thērion translates Aramaic chewah (Dan 7:7), providing the linguistic bridge between Daniel's vision and John's (BDAG; TDNT).
 
-### G2768 — keras (horn)
+### [G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} — keras (horn)
 Keras (11 NT occurrences) translates Aramaic qeren in the LXX of Daniel. The ten horns of Dan 7:7 (qarnayyin asar) appear as deka kerata in Rev 13:1. Horns in apocalyptic symbolism represent power or kings (Dan 7:24: "the ten horns out of this kingdom are ten kings"; Rev 17:12: "the ten horns which thou sawest are ten kings"). The identical Greek term in both Daniel (LXX) and Revelation confirms lexical continuity (BDAG).
 
-### G4750 — stoma (mouth)
+### [G4750](https://www.blueletterbible.org/lexicon/g4750/kjv/tr/0-1/){:target="_blank"} — stoma (mouth)
 Stoma (79 NT occurrences) appears in the critical quotation chain: Dan 7:8 LXX stoma laloun megala = Rev 13:5 stoma laloun megala. The beast's mouth, "as the mouth of a lion" (Rev 13:2), combines with the "mouth speaking great things" (13:5) to create a portrait of authoritative, blasphemous speech. The phrase stoma laloun megala appears only in these two passages in all of Greek Scripture (BDAG).
 
-### G2098 — euangelion (gospel)
+### [G2098](https://www.blueletterbible.org/lexicon/g2098/kjv/tr/0-1/){:target="_blank"} — euangelion (gospel)
 Euangelion (77 NT occurrences) appears once in Revelation — at Rev 14:6 with the unique modifier aiōnion ("everlasting"). The concentration of euangelion in Paul (54x) and the Gospels (20x) makes its single Revelation occurrence stand out. The angel proclaims not a new gospel but the euangelion aiōnion — the same gospel qualified as eternal, encompassing all ages (Mounce, 1977; BDAG).
 
-### G2920 — krisis (judgment)
+### [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} — krisis (judgment)
 Krisis (48 NT occurrences) translates Hebrew mishpat in the LXX. In Rev 14:7, the clause ēlthen hē hōra tēs kriseōs autou uses the aorist ēlthen to announce that the judgment has arrived. Dan 7:10 LXX uses krisis for the Aramaic dina in "the judgment was set." The first angel's announcement thus links directly to Daniel 7's judgment scene. Krisis appears four times in Revelation (14:7; 16:7; 18:10; 19:2), all in judgment contexts (BDAG; TDNT).
 
-### G2326 — therismos (harvest) and G1407 — drepanon (sickle)
+### [G2326](https://www.blueletterbible.org/lexicon/g2326/kjv/tr/0-1/){:target="_blank"} — therismos (harvest) and [G1407](https://www.blueletterbible.org/lexicon/g1407/kjv/tr/0-1/){:target="_blank"} — drepanon (sickle)
 Therismos (13 NT occurrences) is explicitly defined by Jesus: "The harvest is the end of the world" (Matt 13:39). Drepanon (8 NT occurrences; 7 in Rev 14:14-19) appears only in harvest contexts. The concentration of drepanon in Rev 14 and the dominical definition of therismos together establish the Rev 14 harvest as the eschatological end (BDAG).
 
 ### Aramaic Key Terms from Daniel 7

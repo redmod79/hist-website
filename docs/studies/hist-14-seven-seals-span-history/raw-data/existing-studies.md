@@ -135,9 +135,9 @@ Dan 12:4,9; Rev 5:5; 6:2,10,11,17; 22:10; John 16:33; Rev 12:11; 1 John 5:4; Mat
 - Only the historicist reading accommodates all three phases: martyrdom began in the past, continues through the present waiting period, and more is anticipated before the end.
 
 ### Shared Vocabulary
-- G615 apokteino in Rev 6:11 parallels Mat 24:9 (Olivet martyrdom)
-- G4137 pleroo in Rev 6:11 = "to fill up, complete" — a process requiring time
-- G4969 sphazo (Rev 6:9) = same word used for the Lamb in Rev 5:6 — martyrs share the Lamb's suffering
+- [G615](https://www.blueletterbible.org/lexicon/g615/kjv/tr/0-1/){:target="_blank"} apokteino in Rev 6:11 parallels Mat 24:9 (Olivet martyrdom)
+- [G4137](https://www.blueletterbible.org/lexicon/g4137/kjv/tr/0-1/){:target="_blank"} pleroo in Rev 6:11 = "to fill up, complete" — a process requiring time
+- [G4969](https://www.blueletterbible.org/lexicon/g4969/kjv/tr/0-1/){:target="_blank"} sphazo (Rev 6:9) = same word used for the Lamb in Rev 5:6 — martyrs share the Lamb's suffering
 
 ---
 

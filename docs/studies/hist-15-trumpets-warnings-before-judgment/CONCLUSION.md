@@ -11,7 +11,7 @@ Evidence items registered in D:/bible/bible-studies/hist-evidence.db.
 ---
 
 ## Summary Answer
-The seven trumpets of Revelation 8-11 function as warnings during an active intercessory period. The text establishes this through three convergent lines of explicit evidence: (1) the incense scene (Rev 8:3-5) depicts prayers ascending before God at the golden altar, indicating open intercession, while the bowl introduction (Rev 15:8) states no one could enter the temple; (2) the 1/3 limitation (tritos, G5154, 13+ times in trumpets, zero in bowls) marks the trumpet judgments as partial, not total; (3) "repented not" (Rev 9:20-21) presupposes repentance as the intended response, which is meaningful only while probation remains open. The Feast of Trumpets (Lev 23:24, Tishri 1) precedes the Day of Atonement (Lev 23:27, Tishri 10) in the same chapter and month, providing the biblical calendar's own precedent for warnings before judgment.
+The seven trumpets of Revelation 8-11 function as warnings during an active intercessory period. The text establishes this through three convergent lines of explicit evidence: (1) the incense scene (Rev 8:3-5) depicts prayers ascending before God at the golden altar, indicating open intercession, while the bowl introduction (Rev 15:8) states no one could enter the temple; (2) the 1/3 limitation (tritos, [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"}, 13+ times in trumpets, zero in bowls) marks the trumpet judgments as partial, not total; (3) "repented not" (Rev 9:20-21) presupposes repentance as the intended response, which is meaningful only while probation remains open. The Feast of Trumpets (Lev 23:24, Tishri 1) precedes the Day of Atonement (Lev 23:27, Tishri 10) in the same chapter and month, providing the biblical calendar's own precedent for warnings before judgment.
 
 ## Key Verses
 
@@ -47,7 +47,7 @@ The seven trumpets of Revelation 8-11 function as warnings during an active inte
 
 The structural introduction to the seven trumpets (Rev 8:2-6) contains what may be the single most important piece of evidence for their warning function. Before any trumpet sounds, an angel performs an incense ritual at the golden altar. The sequence is deliberate: trumpets are given (v.2), then intercession occurs (vv.3-4), then the censer transitions to judgment (v.5), and only then do the trumpets sound (v.6). The trumpets are structurally embedded within an intercessory framework.
 
-The Greek text of Rev 8:3 is rich with sanctuary vocabulary. The angel stands at the thysiastērion (G2379, altar) holding a libanoton chrysoun (golden censer, G3031 + G5552). He is given thymiamata polla (much incense, G2368) to offer tais proseuchais tōn hagiōn pantōn (with the prayers of ALL saints) upon to thysiastērion to chrysoun to enōpion tou thronou (the golden altar before the throne). Three critical observations emerge.
+The Greek text of Rev 8:3 is rich with sanctuary vocabulary. The angel stands at the thysiastērion (G2379, altar) holding a libanoton chrysoun (golden censer, [G3031](https://www.blueletterbible.org/lexicon/g3031/kjv/tr/0-1/){:target="_blank"} + G5552). He is given thymiamata polla (much incense, G2368) to offer tais proseuchais tōn hagiōn pantōn (with the prayers of ALL saints) upon to thysiastērion to chrysoun to enōpion tou thronou (the golden altar before the throne). Three critical observations emerge.
 
 First, the word libanotos (G3031) appears ONLY at Rev 8:3 and 8:5 in the entire New Testament. This same vessel is used for both intercession (v.3, offering incense with prayers) and judgment initiation (v.5, filled with fire and cast to earth). The censer's dual function embodies the study's central finding: the trumpets emerge from within the framework of intercession, and judgment flows from the same instrument that previously mediated prayer (Beale, 1999).
 
@@ -55,7 +55,7 @@ Second, Revelation's own internal definition identifies incense with prayer. Rev
 
 Third, the Old Testament background reinforces the intercession reading. Exo 30:7-8 prescribes perpetual incense on the golden altar — "every morning" and "at even" — establishing an unceasing intercessory ministry. Psa 141:2 makes the metaphor explicit: "Let my prayer be set forth before thee as incense." Lev 16:12-13 describes the Day of Atonement censer ritual, sharing five vocabulary elements with Rev 8:3 (censer, fire, altar, incense, smoke/cloud). Luke 1:9-11 confirms the connection in New Testament practice: while Zacharias burns incense in the temple, "the whole multitude of the people were praying without at the time of incense." In Numbers 16:46-50, Aaron's censer with fire and incense stops a plague — structurally the reverse of Rev 8:5, where the censer filled with fire initiates judgment. Both episodes use the same instruments (censer, fire from the altar, incense) but to opposite effect: intercession halts judgment (Numbers) while its cessation releases judgment (Revelation).
 
-The contrast with the bowl introduction (Rev 15:8) is decisive. At 8:3-4, prayers ascend before God through incense at the golden altar — full intercessory access. At 15:8, "the temple was filled with smoke from the glory of God... and no man was able to enter into the temple" (oudeis edynato eiselthein eis ton naon, G3762 + G1410 imperfect + G1525 aorist infinitive). The imperfect edynato indicates ongoing inability throughout the bowl period. This absolute contrast — access (trumpets) vs. no access (bowls) — structurally proves that the trumpets occur while intercession is active and the bowls occur after it has ended (Aune, 1997-1998; Osborne, 2002).
+The contrast with the bowl introduction (Rev 15:8) is decisive. At 8:3-4, prayers ascend before God through incense at the golden altar — full intercessory access. At 15:8, "the temple was filled with smoke from the glory of God... and no man was able to enter into the temple" (oudeis edynato eiselthein eis ton naon, [G3762](https://www.blueletterbible.org/lexicon/g3762/kjv/tr/0-1/){:target="_blank"} + [G1410](https://www.blueletterbible.org/lexicon/g1410/kjv/tr/0-1/){:target="_blank"} imperfect + [G1525](https://www.blueletterbible.org/lexicon/g1525/kjv/tr/0-1/){:target="_blank"} aorist infinitive). The imperfect edynato indicates ongoing inability throughout the bowl period. This absolute contrast — access (trumpets) vs. no access (bowls) — structurally proves that the trumpets occur while intercession is active and the bowls occur after it has ended (Aune, 1997-1998; Osborne, 2002).
 
 The connection to Christ's ongoing intercession is established by Heb 7:25 ("he ever liveth to make intercession for them") and Rom 8:34 ("who also maketh intercession for us"). The heavenly incense/prayer ministry of Rev 8:3-4 depicts this ongoing intercessory work, confirming that the trumpets sound during the period of Christ's high-priestly ministry. Num 10:10 and 2 Chr 29:27-28 further demonstrate that trumpets accompany offerings — they sound DURING the sacrificial/intercessory service, not after it ends: "And when the burnt offering began, the song of the LORD began also with the trumpets... all this continued until the burnt offering was finished" (2 Chr 29:27-28).
 
@@ -71,7 +71,7 @@ Partial judgment implies surviving recipients who can still respond. When 1/3 of
 
 ### Section 3: "Repented Not" — The Purpose of the Trumpets
 
-Rev 9:20-21 is classified as explicit evidence (E-tier) that repentance was the intended response to the trumpet judgments. The text states: "And the rest of the men which were not killed by these plagues yet repented not (oude metenoesan, G3340 negated with oude, 'not even') of the works of their hands... Neither repented they (ou metenoesan, negated with ou) of their murders, nor of their sorceries, nor of their fornication, nor of their thefts."
+Rev 9:20-21 is classified as explicit evidence (E-tier) that repentance was the intended response to the trumpet judgments. The text states: "And the rest of the men which were not killed by these plagues yet repented not (oude metenoesan, [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} negated with oude, 'not even') of the works of their hands... Neither repented they (ou metenoesan, negated with ou) of their murders, nor of their sorceries, nor of their fornication, nor of their thefts."
 
 The grammatical structure is telling. The construction "repented not" presupposes that repentance was the expected outcome. You cannot record the failure to do something that was never intended. The strong negation oude ("not even") in v.20 intensifies the pathos — despite all the devastation of six trumpets, not even then did they repent. This is the language of thwarted expectation, not mere description (Osborne, 2002).
 
@@ -125,7 +125,7 @@ Additional OT passages reinforce the pattern: Jer 6:17 ("Hearken to the sound of
 
 ### Section 7: Feast of Trumpets to Day of Atonement — The Biblical Precedent
 
-Leviticus 23 prescribes the LORD's appointed feasts in a single legislative chapter. The Feast of Trumpets appears at 23:24 — "In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets (zikron teruah, H2146 + H8643), an holy convocation." The Day of Atonement appears at 23:27 — "Also on the tenth day of this seventh month (hachodesh hashevi'i hazzeh — 'this seventh month,' with the demonstrative pronoun linking back to v.24) there shall be a day of atonement (yom ha-kippurim, H3117 + H3725)."
+Leviticus 23 prescribes the LORD's appointed feasts in a single legislative chapter. The Feast of Trumpets appears at 23:24 — "In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets (zikron teruah, [H2146](https://www.blueletterbible.org/lexicon/h2146/kjv/wlc/0-1/){:target="_blank"} + H8643), an holy convocation." The Day of Atonement appears at 23:27 — "Also on the tenth day of this seventh month (hachodesh hashevi'i hazzeh — 'this seventh month,' with the demonstrative pronoun linking back to v.24) there shall be a day of atonement (yom ha-kippurim, [H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/){:target="_blank"} + H3725)."
 
 The Hebrew construct chain zikron teruah means "a memorial of alarm-blowing." Teruah (H8643) carries a semantic range spanning war alarm, joyful shout, and trumpet blast. The construct with zikron ("memorial/remembrance") emphasizes the alerting, attention-calling function. Num 29:1 parallels: "it is a day of blowing the trumpets unto you."
 
@@ -169,34 +169,34 @@ If the seals span from the apostolic era to the Second Coming (as established in
 
 ## Word Studies
 
-### G4536 salpinx / G4537 salpizo (trumpet / to trumpet)
+### [G4536](https://www.blueletterbible.org/lexicon/g4536/kjv/tr/0-1/){:target="_blank"} salpinx / [G4537](https://www.blueletterbible.org/lexicon/g4537/kjv/tr/0-1/){:target="_blank"} salpizo (trumpet / to trumpet)
 Salpinx appears 11 times in the NT; 7 of 11 are concentrated in Rev 8-9. Salpizo appears 13 times; the aorist esalpisen formula occurs exactly 7 times (Rev 8:7, 8:8, 8:10, 8:12, 9:1, 9:13, 11:15) — one for each trumpet. This formulaic structure marks the trumpet sequence as a deliberate, ceremonial series of authorized divine acts.
 
-### G3340 metanoeo (to repent)
+### [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} metanoeo (to repent)
 36 NT occurrences. In Revelation: 6x in letters as imperative (2:5, 2:16, 2:21, 2:22, 3:3, 3:19), 2x in trumpets as negated aorist (9:20, 9:21), 2x in bowls as negated aorist with blasphemeo (16:9, 16:11). The distribution traces a trajectory from commanded repentance to expected-but-refused repentance to repentance overshadowed by blasphemy. The trumpets occupy the middle position where repentance is still expected and its absence is still noted.
 
-### G987 blasphemeo (to blaspheme)
+### [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} blasphemeo (to blaspheme)
 36 NT occurrences. In Revelation: ZERO times in the trumpet response (9:20-21), 3 times in the bowl responses (16:9, 16:11, 16:21). This distribution is the key to the impenitence escalation pattern: the trumpet victims passively refuse to repent; the bowl victims actively blaspheme God. The qualitative shift between the two series corresponds to the structural shift from open intercession to closed temple.
 
-### G3709 orge / G2372 thymos (wrath, settled / wrath, passionate)
+### [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} orge / [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} thymos (wrath, settled / wrath, passionate)
 Orge appears at the trumpet climax (11:18, "thy wrath is come") as judicial announcement. Thymos characterizes the bowl execution (15:1,7; 16:1, "the wrath [thymos] of God"). At the ultimate climax, both combine (16:19; 19:15). The English "wrath" obscures this distinction; the Greek preserves a functional difference between announcement and execution that maps to the trumpet-bowl transition.
 
-### G2078 eschatos (last)
+### [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} eschatos (last)
 Rev 15:1: "the seven last (eschatas) plagues." The superlative necessarily implies prior plagues. This single word confirms that the trumpet plagues precede the bowl plagues in the judgment sequence.
 
-### G3031 libanotos (censer)
+### [G3031](https://www.blueletterbible.org/lexicon/g3031/kjv/tr/0-1/){:target="_blank"} libanotos (censer)
 Only 2 NT occurrences — both in Rev 8 (vv.3, 5). The same vessel mediates intercession (offering incense with prayers) and initiates judgment (filled with fire, cast to earth). Its unique concentration in the trumpet introduction ties the intercession-to-judgment transition to a single instrument.
 
-### G5154 tritos (third)
+### [G5154](https://www.blueletterbible.org/lexicon/g5154/kjv/tr/0-1/){:target="_blank"} tritos (third)
 57 NT occurrences. In Rev 8-9: 13+ times as the fraction marker (to triton, "the third part"). In Rev 16: zero times. This word's distribution is the quantitative signature of the trumpet-bowl distinction — partial (trumpet/warning) vs. total (bowl/final).
 
-### H8643 teruah (alarm/blowing)
+### [H8643](https://www.blueletterbible.org/lexicon/h8643/kjv/wlc/0-1/){:target="_blank"} teruah (alarm/blowing)
 36 OT occurrences. Used in Lev 23:24 for the Feast of Trumpets (zikron teruah, "memorial of alarm-blowing"). The semantic range spans war alarm, joyful shout, and trumpet blast. The Hebrew parsing of the Lev 23:24 construct chain confirms the alerting, warning function: it is literally a "remembrance of alarm."
 
-### H7782 shophar (trumpet/horn)
+### [H7782](https://www.blueletterbible.org/lexicon/h7782/kjv/wlc/0-1/){:target="_blank"} shophar (trumpet/horn)
 72 OT occurrences. The primary OT trumpet instrument. In Ezek 33:3, shophar is grammatically coordinated with zahar (to warn) — the two verbs are parallel actions linked by waw-consecutive. To blow the shophar IS to warn.
 
-### H3725 kippur (atonement)
+### [H3725](https://www.blueletterbible.org/lexicon/h3725/kjv/wlc/0-1/){:target="_blank"} kippur (atonement)
 8 OT occurrences. Appears 3 times in the Lev 23/25 complex that also contains the Feast of Trumpets (Lev 23:27, 23:28, 25:9). The same legislative unit that prescribes the warning (teruah) also prescribes the judgment (kippurim), confirming that warning precedes judgment in the biblical calendar.
 
 ---

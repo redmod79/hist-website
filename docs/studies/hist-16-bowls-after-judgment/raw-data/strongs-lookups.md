@@ -1,6 +1,6 @@
 # Strong's Lookups Raw Data
 
-## G5357 -- phiale (bowl/vial)
+## [G5357](https://www.blueletterbible.org/lexicon/g5357/kjv/tr/0-1/){:target="_blank"} -- phiale (bowl/vial)
 - Transliteration: phiale
 - Part of Speech: feminine noun
 - Definition: a broad shallow cup ("phial")
@@ -9,7 +9,7 @@
 - Verses: Rev 5:8; 15:7; 16:1; 16:2; 16:3; 16:4; 16:8; 16:10; 16:12; 16:17; 17:1; 21:9
 - Notable: Same vessels (phiale chryse = golden bowls) hold prayers in 5:8, then wrath in 15:7
 
-## G4127 -- plege (plague/wound/stroke)
+## [G4127](https://www.blueletterbible.org/lexicon/g4127/kjv/tr/0-1/){:target="_blank"} -- plege (plague/wound/stroke)
 - Transliteration: plege
 - Part of Speech: feminine noun
 - Definition: a stroke; by implication, a wound; figuratively, a calamity
@@ -19,7 +19,7 @@
 - Also: Luk 10:30; 12:47; Act 16:23; 2Co 6:5; 11:23
 - Notable: Rev 9:20 retroactively labels trumpet judgments as "plagues" -- connects trumpets to Exodus plague tradition
 
-## G2586 -- kapnos (smoke)
+## [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} -- kapnos (smoke)
 - Transliteration: kapnos
 - Part of Speech: masculine noun
 - Definition: smoke
@@ -29,7 +29,7 @@
 - Categories: sacred smoke (8:4 incense; 15:8 glory), judgment smoke (9:2,17,18 pit/horses; 14:11 torment; 18:9,18; 19:3 Babylon)
 - Rev 15:8 is unique: smoke FROM (ek) God's glory and power -- theophanic in source, judgment in context
 
-## G987 -- blasphemeo (blaspheme)
+## [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} -- blasphemeo (blaspheme)
 - Transliteration: blasphemeo
 - Part of Speech: verb
 - Definition: to vilify; specially, to speak impiously
@@ -40,7 +40,7 @@
 - In Rev 9:20-21 (trumpet response): "repented not" but NO blasphemy
 - ESCALATION: trumpets = passive non-repentance; bowls = active blasphemy + non-repentance
 
-## G3340 -- metanoeo (repent)
+## [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} -- metanoeo (repent)
 - Transliteration: metanoeo
 - Part of Speech: verb
 - Definition: to think differently or afterwards; i.e. reconsider
@@ -52,7 +52,7 @@
   - Bowls (Rev 16): 16:9, 16:11 = 2 occurrences ("repented not" + blasphemed -- character confirmed)
 - Pattern: repentance commanded -> expected but absent -> refused with active blasphemy
 
-## G2372 -- thymos (fierce wrath/passion)
+## [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} -- thymos (fierce wrath/passion)
 - Transliteration: thymos
 - Part of Speech: masculine noun
 - Definition: passion (as if breathing hard); fierceness, indignation, wrath
@@ -62,7 +62,7 @@
 - Bowl-specific: 15:1 ("wrath of God"); 15:7 ("wrath of God"); 16:1 ("wrath of God"); 16:19 (combined with orge)
 - This is the EXECUTION wrath word -- predominates during the bowl sequence
 
-## G3709 -- orge (settled wrath/anger)
+## [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} -- orge (settled wrath/anger)
 - Transliteration: orge
 - Part of Speech: feminine noun
 - Definition: desire (as reaching forth); excitement of the mind; anger, vengeance, wrath
@@ -73,7 +73,7 @@
 - Combined formula at Rev 16:19: "tou thymou tes orges" (the fierceness [thymos] of his wrath [orge]) -- both wrath words together at ultimate climax
 - Also at Rev 14:10: "oinou tou thymou ... poterio tes orges" (wine of the wrath ... cup of his indignation)
 
-## G5055 -- teleo (complete/finish)
+## [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} -- teleo (complete/finish)
 - Transliteration: teleo
 - Part of Speech: verb
 - Definition: to end, to complete, to execute, to conclude, to discharge
@@ -84,7 +84,7 @@
 - Both are passive voice: wrath is completed BY God; plagues are fulfilled BY divine decree
 - Connects to John 19:30 tetelestai ("It is finished") -- different verb form but same root
 
-## G2078 -- eschatos (last)
+## [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} -- eschatos (last)
 - Transliteration: eschatos
 - Part of Speech: adjective (superlative)
 - Definition: farthest, final, last
@@ -95,7 +95,7 @@
 - Rev 1:17; 2:8; 22:13: Christ is "the first and the last" -- eschatos as self-designation of God
 - Rev 2:19: "thy LAST works [to be] more than the first" -- temporal comparison
 
-## G1096 -- ginomai (become/happen)
+## [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} -- ginomai (become/happen)
 - Transliteration: ginomai
 - Part of Speech: verb
 - Definition: to cause to be; to become, to come into being, to happen
@@ -105,7 +105,7 @@
 - Compare: Gegonen (16:17, singular, "it is done") vs Gegonan (21:6, plural, "they are done") vs Tetelestai (John 19:30, passive, "it has been accomplished")
 - Rev 16:17 Gegonen: the singular subject is the whole judgment event; it has reached its completion
 
-## G194 -- akratos (unmixed) [listed as G193 in prompt, G194 in text]
+## [G194](https://www.blueletterbible.org/lexicon/g194/kjv/tr/0-1/){:target="_blank"} -- akratos (unmixed) [listed as G193 in prompt, G194 in text]
 - Found in Rev 14:10 parsing: akratou, Gen Sg M, adjective
 - Definition: unmixed, undiluted
 - In ancient world, wine was typically diluted with water. Akratos = full strength, undiluted
@@ -113,7 +113,7 @@
 - Paradox: kekerrasmenou akratou = "mixed unmixed" -- the cup has been prepared but its contents are pure wrath without mercy
 - OT background: Psa 75:8 "wine is red; it is full of mixture" -- God's cup has both mercy and judgment mixed; Rev 14:10 removes the mercy component
 
-## H3722 -- kaphar (atone/cover)
+## [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} -- kaphar (atone/cover)
 - Transliteration: kaphar
 - Part of Speech: verb
 - Definition: to cover (with bitumen); figuratively, to expiate, placate, cancel

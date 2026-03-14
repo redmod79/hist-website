@@ -216,22 +216,22 @@ The textual evidence does not merely permit historicism; it requires a framework
 
 ## Word Studies
 
-### G2342 — therion (beast)
+### [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} — therion (beast)
 Of 45 NT occurrences, approximately 38 are in Revelation. The beast of Rev 13:1 is explicitly composite: leopard body (Dan 7:6), bear feet (Dan 7:5), lion mouth (Dan 7:4). This combination of features from Daniel's four successive beasts into one entity argues against identification with any single individual (such as Nero) and points to a trans-historical power incorporating the characteristics of multiple empires. The genitive therion in Rev 13:18 ("the number of the beast") links the beast's identification to a system, not merely a person.
 
-### G897 — Babylōn (Babylon)
+### [G897](https://www.blueletterbible.org/lexicon/g897/kjv/tr/0-1/){:target="_blank"} — Babylōn (Babylon)
 Twelve NT occurrences: 3 in Matthew (genealogy), 1 in Acts (Stephen's speech), 1 in 1 Peter, 6 in Revelation. The progression from literal (Matthew, Acts) to symbolic (1 Peter, Revelation) is significant. 1 Pet 5:13 ("the church that is at Babylon") is widely understood as a cipher for Rome — establishing that "Babylon" was already used symbolically in the apostolic period (Beale, 1999). The six Revelation occurrences describe a power that "reigneth over the kings of the earth" (Rev 17:18), sits on "peoples, and multitudes, and nations, and tongues" (Rev 17:15), and bears responsibility for "the blood of prophets, and of saints, and of all that were slain upon the earth" (Rev 18:24).
 
-### G706 — arithmos (number) and G5585 — psēphizō (calculate)
+### [G706](https://www.blueletterbible.org/lexicon/g706/kjv/tr/0-1/){:target="_blank"} — arithmos (number) and [G5585](https://www.blueletterbible.org/lexicon/g5585/kjv/tr/0-1/){:target="_blank"} — psēphizō (calculate)
 Arithmos (18 NT occurrences) and psēphizō (2 NT occurrences) converge in Rev 13:18. The imperative psēphisatō ("let him count") presupposes the calculation should be possible for the reader. The only other occurrence of psēphizō is Luke 14:28 (counting construction costs) — a mundane, straightforward calculation. The implication is that the beast's number should be calculable without requiring cross-linguistic transliteration, further weakening the Nero identification.
 
-### G4690 — sperma (seed)
+### [G4690](https://www.blueletterbible.org/lexicon/g4690/kjv/tr/0-1/){:target="_blank"} — sperma (seed)
 Paul's argument in Gal 3:16 pivots on the singular sperma: "And to thy seed, which is Christ" — the singular form points to Christ as the ultimate inheritor of the Abrahamic promise. In Gal 3:29, the same singular sperma is extended to all believers: "if ye be Christ's, then are ye Abraham's seed." Rev 12:17's "remnant of her seed" uses sperma for the woman's offspring — connecting the church to the woman (a figure bridging Israel and the Christian community) through seed language that Paul has already identified with Christ and His people.
 
-### G1484 — ethnos (nation/Gentile)
+### [G1484](https://www.blueletterbible.org/lexicon/g1484/kjv/tr/0-1/){:target="_blank"} — ethnos (nation/Gentile)
 The standard word for "Gentile/nation" (164 NT occurrences) undergoes a remarkable inversion in 1 Pet 2:9: "ethnos hagion" — "holy nation." The very word that normally marks exclusion from Israel is used to designate the church as a "holy nation," applying Israel's Sinai covenant language (Exo 19:6 LXX) to a largely Gentile community. This lexical reversal demonstrates that the categories of "Israel" and "Gentile" have been reconfigured in Christ.
 
-### H894 — Babel (Babylon) and H4438 — malkuth (kingdom)
+### [H894](https://www.blueletterbible.org/lexicon/h894/kjv/wlc/0-1/){:target="_blank"} — Babel (Babylon) and [H4438](https://www.blueletterbible.org/lexicon/h4438/kjv/wlc/0-1/){:target="_blank"} — malkuth (kingdom)
 Babel (262 OT occurrences) is the first kingdom named in Daniel's succession (Dan 2:38). The extensive prophetic oracles against Babylon in Isa 13-14, 47 and Jer 50-51 establish the OT pattern that Revelation escalates. Malkuth/malku (91 Hebrew occurrences + Aramaic cognate in Daniel 2-7) denotes concrete, identifiable domains. Daniel's succession language ("after thee shall arise another kingdom" — Dan 2:39, using malku) presents these as real historical entities, not timeless abstractions.
 
 ## Evidence Tables

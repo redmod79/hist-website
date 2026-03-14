@@ -153,37 +153,37 @@ The bowl sequence intersects the historicist question at several points, though 
 
 ## Word Studies
 
-### G5357 — *phiale* (bowl/vial)
+### [G5357](https://www.blueletterbible.org/lexicon/g5357/kjv/tr/0-1/){:target="_blank"} — *phiale* (bowl/vial)
 A broad, shallow cup used for libation offerings. All 12 NT occurrences are in Revelation. The vessel transformation from prayers (Rev 5:8: *phialas chrysas gemousas thymiamatOn* — "golden bowls full of incense") to wrath (Rev 15:7: *phialas chrysas gemousas tou thymou tou Theou* — "golden bowls full of the wrath of God") physically embodies the intercession-to-judgment transition. The phonetic similarity between *thymiama* (incense) and *thymos* (wrath) may be intentional.
 
-### G4127 — *plege* (plague/wound/stroke)
+### [G4127](https://www.blueletterbible.org/lexicon/g4127/kjv/tr/0-1/){:target="_blank"} — *plege* (plague/wound/stroke)
 Occurs 21 times in the NT; 16 times in Revelation. Used for physical blows/stripes in Luke and Acts, but in Revelation it designates divine judgment plagues. Rev 9:20 retroactively labels the trumpet judgments as *plegai*, establishing the conceptual bridge: the bowls are the "last" (*eschatai*) of a series that includes the trumpets.
 
-### G2078 — *eschatos* (last/final)
+### [G2078](https://www.blueletterbible.org/lexicon/g2078/kjv/tr/0-1/){:target="_blank"} — *eschatos* (last/final)
 A superlative adjective, 43 NT occurrences. At Rev 15:1, it modifies *plegas* ("plagues") to designate the bowls as the concluding installment. The superlative presupposes prior instances. Christ uses the same word for Himself: "the first and the *last*" (Rev 1:17; 22:13).
 
-### G987 — *blasphemeo* (blaspheme)
+### [G987](https://www.blueletterbible.org/lexicon/g987/kjv/tr/0-1/){:target="_blank"} — *blasphemeo* (blaspheme)
 36 NT occurrences. In Revelation, it appears at Rev 13:6 (the beast blasphemes) and three times in Rev 16 (vv. 9, 11, 21 — the human response to the bowls). *Blasphemeo* is entirely absent from the trumpet response (Rev 9:20-21), making it a bowl-exclusive vocabulary marker that distinguishes the two sequences.
 
-### G2372 — *thymos* (fierce wrath/passion)
+### [G2372](https://www.blueletterbible.org/lexicon/g2372/kjv/tr/0-1/){:target="_blank"} — *thymos* (fierce wrath/passion)
 18 NT occurrences; 10 in Revelation. This is the execution-phase wrath word, concentrated in the bowl sequence (Rev 15:1, 15:7, 16:1, 16:19). It conveys passionate, fierce, consuming anger. At Rev 16:19, it combines with *orge* in the formula *tou thymou tes orges*.
 
-### G3709 — *orge* (settled wrath/anger)
+### [G3709](https://www.blueletterbible.org/lexicon/g3709/kjv/tr/0-1/){:target="_blank"} — *orge* (settled wrath/anger)
 33 NT occurrences; 6 in Revelation. This is the climax-declaration wrath word, appearing at the culmination of each major sequence: sixth seal (6:16-17), seventh trumpet (11:18), seventh bowl (16:19), Second Coming (19:15). Its convergence with *thymos* at Rev 16:19 and 19:15 marks the vocabulary summit.
 
-### G5055 — *teleo* (complete/finish)
+### [G5055](https://www.blueletterbible.org/lexicon/g5055/kjv/tr/0-1/){:target="_blank"} — *teleo* (complete/finish)
 26 NT occurrences. Forms the Rev 15 inclusio: *etelesthe* (15:1, aorist passive indicative, "was completed") and *telesthosin* (15:8, aorist passive subjunctive, "should be completed"). Both are passive voice: the wrath/plagues are completed by divine decree. Connected to *tetelestai* ("it is finished," John 19:30) by the same root.
 
-### G1096 — *ginomai* (become/happen)
+### [G1096](https://www.blueletterbible.org/lexicon/g1096/kjv/tr/0-1/){:target="_blank"} — *ginomai* (become/happen)
 629 NT occurrences. The key form is *Gegonen* (Rev 16:17, perfect active indicative 3S): "It has come to be" / "It is done." The perfect tense marks a completed event with permanent, standing results. The voice declaring this comes from inside the closed temple (15:8), identifying God as the speaker.
 
-### G194 — *akratos* (unmixed/undiluted)
+### [G194](https://www.blueletterbible.org/lexicon/g194/kjv/tr/0-1/){:target="_blank"} — *akratos* (unmixed/undiluted)
 Single NT occurrence at Rev 14:10. Means "wine at full strength, without water." The paradoxical phrase *kekerrasmenou akratou* ("mixed unmixed") indicates a prepared cup with undiluted contents. Against the OT background of Psalm 75:8 ("full of mixture"), *akratos* signals the removal of the mercy component from God's cup.
 
-### G2586 — *kapnos* (smoke)
+### [G2586](https://www.blueletterbible.org/lexicon/g2586/kjv/tr/0-1/){:target="_blank"} — *kapnos* (smoke)
 13 NT occurrences (12 in Revelation, 1 in Acts 2:19). Used for incense smoke (Rev 8:4), abyss smoke (9:2), horse judgment smoke (9:17-18), torment smoke (14:11), Babylon's burning (18:9, 18; 19:3), and theophanic smoke (15:8). At Rev 15:8, *kapnos* aligns with Hebrew *'ashan* (Isaiah 6:4), not with *'anan* (cloud of inauguration), directing the allusion toward holiness-judgment rather than inauguration.
 
-### H3722 — *kaphar* (atone/cover)
+### [H3722](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/){:target="_blank"} — *kaphar* (atone/cover)
 130 OT occurrences, overwhelmingly in Leviticus. In Lev 16:17, the Piel infinitive construct *lekapper* ("to make atonement") states the purpose of the high priest's solitary entry. The Piel stem intensifies: not merely covering but actively expiating. The exclusion of all others from the sanctuary during this process parallels the exclusion from the heavenly temple at Rev 15:8.
 
 ---

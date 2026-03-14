@@ -88,7 +88,7 @@ The absence of taher and kaphar from Daniel 8:14 is lexically significant. Danie
 
 ### (c) The LXX Translation Discrepancy: katharisthesetai vs. dikaioo
 
-The Septuagint translators rendered Daniel 8:14's nitsdaq as katharisthesetai (future passive of katharizo G2511, "to cleanse") rather than dikaiothesetai (future passive of dikaioo G1344, "to justify/vindicate"). This substitution replaced the forensic meaning of the Hebrew with a ritual cleansing concept.
+The Septuagint translators rendered Daniel 8:14's nitsdaq as katharisthesetai (future passive of katharizo [G2511](https://www.blueletterbible.org/lexicon/g2511/kjv/tr/0-1/){:target="_blank"}, "to cleanse") rather than dikaiothesetai (future passive of dikaioo [G1344](https://www.blueletterbible.org/lexicon/g1344/kjv/tr/0-1/){:target="_blank"}, "to justify/vindicate"). This substitution replaced the forensic meaning of the Hebrew with a ritual cleansing concept.
 
 The anomaly is measurable. The LXX's own translation pattern for tsadaq is dikaioo -- 21 co-occurrences with the highest PMI score (8.73) of all Greek equivalents. When the LXX translates Psalm 51:4 (LXX 50:6), tsadaq becomes dikaioo: "that thou mightest be justified [dikaiothes]" -- and Paul quotes this exact rendering in Romans 3:4. When the LXX translates Isaiah 43:9,26, tsadaq becomes dikaioo. This is the established, consistent pattern. In Daniel 8:14, the LXX breaks its own pattern and uses katharizo instead.
 
@@ -142,7 +142,7 @@ What begins at the end of the 2300 evening-mornings, therefore, is not the secon
 
 Revelation 14:6-7 announces: "Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters."
 
-The Greek grammar confirms the proclamation's force: elthen (erchomai, Aorist Active Indicative, 3rd singular) -- "has come/has arrived." The aorist presents the judgment as a punctiliar accomplished event. The hour of judgment has arrived. kriseos (krisis, G2920, genitive) -- "of judgment/tribunal." poiesanti (poieo, Aorist Active Participle, Dative singular masculine) -- "the one who made" -- Creator language.
+The Greek grammar confirms the proclamation's force: elthen (erchomai, Aorist Active Indicative, 3rd singular) -- "has come/has arrived." The aorist presents the judgment as a punctiliar accomplished event. The hour of judgment has arrived. kriseos (krisis, [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"}, genitive) -- "of judgment/tribunal." poiesanti (poieo, Aorist Active Participle, Dative singular masculine) -- "the one who made" -- Creator language.
 
 This verse combines two themes that correspond to the two distinctive elements of Daniel 8:14:
 

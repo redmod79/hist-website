@@ -56,7 +56,7 @@ Three textual markers converge in Revelation 12:5 to identify the man child:
 
 First, he "was to rule all nations with a rod of iron" (Rev 12:5). The Greek phrase en rhabdō sidēra ("with a rod of iron") is a verbatim allusion to Psalm 2:9 (LXX: poimaneis autous en rhabdō sidēra). The verb poimainō (G4165, "to shepherd/rule") is used rather than the Hebrew ra'a ("to break"), reflecting the LXX reading. The NT applies Psalm 2 to Christ without exception: Acts 4:25-27 identifies the "kings of the earth" and "rulers" who set themselves "against the Lord, and against his Christ" (Psa 2:1-2) as Herod, Pilate, the Gentiles, and the people of Israel — arrayed against Jesus. Acts 13:33 applies "Thou art my Son; this day have I begotten thee" (Psa 2:7) to Christ's resurrection. Hebrews 1:5 applies the same verse to Christ's divine sonship. Revelation itself uses the "rod of iron" phrase twice more: Rev 2:27, where Christ promises it to Thyatira's overcomers "even as I received of my Father" (confirming that the rod-of-iron authority originates with Christ), and Rev 19:15, where Christ at the second coming "shall rule them with a rod of iron." This chain — Psa 2:9 → Rev 12:5 → Rev 2:27 → Rev 19:15 — identifies the man child as the Messianic ruler of Psalm 2, which the NT consistently identifies as Christ.
 
-Second, "her child was caught up unto God, and to his throne" (Rev 12:5). The verb hērpasthē (from harpazō, G726, "to snatch/catch up") describes a sudden divine seizure. The same verb describes Paul's heavenly translation (2 Cor 12:2) and the rapture (1 Thess 4:17). The destination — "unto God, and to his throne" — corresponds to Christ's ascension (Acts 1:9: "he was taken up") and enthronement (Heb 12:2: "set down at the right hand of the throne of God"). No other figure in Scripture is described as being caught up to God's throne.
+Second, "her child was caught up unto God, and to his throne" (Rev 12:5). The verb hērpasthē (from harpazō, [G726](https://www.blueletterbible.org/lexicon/g726/kjv/tr/0-1/){:target="_blank"}, "to snatch/catch up") describes a sudden divine seizure. The same verb describes Paul's heavenly translation (2 Cor 12:2) and the rapture (1 Thess 4:17). The destination — "unto God, and to his throne" — corresponds to Christ's ascension (Acts 1:9: "he was taken up") and enthronement (Heb 12:2: "set down at the right hand of the throne of God"). No other figure in Scripture is described as being caught up to God's throne.
 
 Third, the man child is born of "the woman" — God's covenant people (Israel). Christ was born a Jew, of the tribe of Judah, in the line of David (Mat 1:1-17; Gal 4:4: "born of a woman, born under the law"). As Osborne (2002) noted, "the male child can be none other than the Messiah."
 
@@ -132,7 +132,7 @@ The prior revelation-12-timing study concluded that Revelation 12 contains two d
 
 Revelation 12:17 is the chapter's chronological terminus: "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."
 
-The word "remnant" (loipōn, G3062) means "the remaining ones." In Revelation, loipos is translated "remnant" in only three verses (11:13; 12:17; 19:21). The genitive construction "of her seed" (tou spermatos autēs) creates a verbal link to Genesis 3:15, where God declares enmity between "thy seed" and "her seed" (zar'ah/sperma, H2233/G4690). The woman's seed in Genesis 3:15 is identified as Christ (Gal 3:16: "to thy seed, which is Christ") in the singular; the "remnant of her seed" in Rev 12:17 refers to Christ's followers collectively — the remaining offspring of the same woman.
+The word "remnant" (loipōn, G3062) means "the remaining ones." In Revelation, loipos is translated "remnant" in only three verses (11:13; 12:17; 19:21). The genitive construction "of her seed" (tou spermatos autēs) creates a verbal link to Genesis 3:15, where God declares enmity between "thy seed" and "her seed" (zar'ah/sperma, [H2233](https://www.blueletterbible.org/lexicon/h2233/kjv/wlc/0-1/){:target="_blank"}/G4690). The woman's seed in Genesis 3:15 is identified as Christ (Gal 3:16: "to thy seed, which is Christ") in the singular; the "remnant of her seed" in Rev 12:17 refers to Christ's followers collectively — the remaining offspring of the same woman.
 
 The temporal placement is significant. The remnant appears AFTER the 1260-day wilderness period. The sequence is: (1) the woman flees into the wilderness for 1260 days (12:6, 14); (2) the dragon attacks with a flood, which fails (12:15-16); (3) the dragon turns to "the remnant of her seed" (12:17). The remnant is chronologically subsequent to the 1260 period.
 
@@ -162,37 +162,37 @@ Neither framework adequately accounts for all three constraints simultaneously. 
 
 ## Word Studies
 
-### G1404 — drakōn (dragon)
+### [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} — drakōn (dragon)
 All 13 NT occurrences are in Revelation; 8 of 13 are in chapter 12. This is exclusively Johannine apocalyptic vocabulary with no wider NT usage to compare. The identification chain of Rev 12:9 / 20:2 (dragon = old serpent = Devil = Satan) is the text's own definition. The word connects to the OT tannin/dragon tradition (Isa 27:1; Psa 74:13; Ezk 29:3).
 
-### G4592 — sēmeion (sign/wonder)
+### [G4592](https://www.blueletterbible.org/lexicon/g4592/kjv/tr/0-1/){:target="_blank"} — sēmeion (sign/wonder)
 The KJV translates this as "wonder" in Rev 12:1, 3, but the standard meaning is "sign." The woman and the dragon are both introduced as sēmeia — they are symbolic representations. This genre marker indicates that the entire chapter operates at the level of symbolic vision, which is relevant to whether the time periods should also be read symbolically.
 
-### G3789 — ophis (serpent)
+### [G3789](https://www.blueletterbible.org/lexicon/g3789/kjv/tr/0-1/){:target="_blank"} — ophis (serpent)
 Appears 14 times in NT. The combination with archaios ("ancient/old") in Rev 12:9 and 20:2 creates a direct link to the serpent of Genesis 3. Paul makes the same connection in 2 Cor 11:3. The dragon IS the Genesis serpent — the same adversary operating across the full span of biblical history.
 
-### G2540 — kairos (time/season)
+### [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} — kairos (time/season)
 Used 87 times in NT. In Rev 12:14, kairos renders the Aramaic iddan (H5732) via the LXX of Daniel 7:25. In Rev 12:12, it describes Satan's "short time" (oligon kairon). BDB defines iddan as "a set time; technically, a year," confirmed by Dan 4 where "seven iddanin" = seven years.
 
-### G3062 — loipos (rest/remaining/remnant)
+### [G3062](https://www.blueletterbible.org/lexicon/g3062/kjv/tr/0-1/){:target="_blank"} — loipos (rest/remaining/remnant)
 Translated "remnant" in only three Revelation verses (11:13; 12:17; 19:21). The word means "the remaining ones" — those left over after the main group has been addressed. In 12:17, the remnant is temporally defined: those remaining after the 1260-day wilderness period.
 
-### G4690 — sperma (seed/offspring)
+### [G4690](https://www.blueletterbible.org/lexicon/g4690/kjv/tr/0-1/){:target="_blank"} — sperma (seed/offspring)
 44 NT occurrences. "Remnant of her seed" (Rev 12:17) verbally connects to "her seed" in Genesis 3:15 (LXX sperma = Hebrew zera, H2233). Galatians 3:16 identifies the singular seed as Christ; the plural remnant in Rev 12:17 represents Christ's collective followers.
 
-### G4165 — poimainō (to shepherd/rule)
+### [G4165](https://www.blueletterbible.org/lexicon/g4165/kjv/tr/0-1/){:target="_blank"} — poimainō (to shepherd/rule)
 11 NT occurrences. The "rod of iron" passages (Rev 2:27; 12:5; 19:15) all allude to Psalm 2:9. The LXX reading (poimainō rather than the Hebrew ra'a) is carried into Revelation. This verb chain identifies the man child as the Psalm 2 ruler = Christ.
 
-### G1785 — entolē (commandment)
+### [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} — entolē (commandment)
 71 NT occurrences. In Revelation: 12:17, 14:12, 22:14. The law-28 study established that entolē with the definite article in the phrase "commandments of God" refers to the Decalogue in 43/43 identifiable NT instances. 1 Cor 7:19 uses the identical phrase while excluding ceremonial content.
 
-### G3141 — martyria (testimony)
+### [G3141](https://www.blueletterbible.org/lexicon/g3141/kjv/tr/0-1/){:target="_blank"} — martyria (testimony)
 37 NT occurrences, 11 in Revelation. Rev 19:10 defines "the testimony of Jesus" as "the spirit of prophecy." The genitive Iēsou is best read as subjective — the prophetic testimony originating FROM Jesus.
 
-### H5732 — iddan (time, Aramaic)
+### [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} — iddan (time, Aramaic)
 13 occurrences, all in Daniel. BDB: "definite time, = year." Dan 4: "seven iddanin" = seven years (contextually proven). Dan 7:25: "iddan ve-iddanin u-pelag iddan" = 3.5 years. The LXX renders iddan as kairos (G2540), which Rev 12:14 quotes.
 
-### H4150 — moed (appointed time)
+### [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} — moed (appointed time)
 223 occurrences. Dan 12:7: "moed moadim va-chetsi" = appointed time + appointed times + half = 3.5 appointed times. This is the Hebrew equivalent of the Aramaic formula in Dan 7:25, yielding the same calculation.
 
 ---

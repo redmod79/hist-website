@@ -1,6 +1,6 @@
 # Word Studies
 
-## G4592 — σημεῖον (semeion) — sign/wonder
+## [G4592](https://www.blueletterbible.org/lexicon/g4592/kjv/tr/0-1/){:target="_blank"} — σημεῖον (semeion) — sign/wonder
 **Original:** σημεῖον
 **Transliteration:** sēmeion
 **Part of Speech:** neuter noun
@@ -30,7 +30,7 @@ The KJV translates semeion as "wonder" in Rev 12:1,3, but the standard translati
 
 ---
 
-## G1404 — δράκων (drakon) — dragon
+## [G1404](https://www.blueletterbible.org/lexicon/g1404/kjv/tr/0-1/){:target="_blank"} — δράκων (drakon) — dragon
 **Original:** δράκων
 **Transliteration:** drakōn
 **Part of Speech:** masculine noun
@@ -68,7 +68,7 @@ Rev 12:9 and 20:2 provide the definitive four-fold identification:
 
 ---
 
-## G3789 — ὄφις (ophis) — serpent
+## [G3789](https://www.blueletterbible.org/lexicon/g3789/kjv/tr/0-1/){:target="_blank"} — ὄφις (ophis) — serpent
 **Original:** ὄφις
 **Transliteration:** ophis
 **Part of Speech:** masculine noun
@@ -92,7 +92,7 @@ The use of ophis with the adjective archaios ("ancient/old") in Rev 12:9 and 20:
 
 ---
 
-## G2540 — καιρός (kairos) — time/season
+## [G2540](https://www.blueletterbible.org/lexicon/g2540/kjv/tr/0-1/){:target="_blank"} — καιρός (kairos) — time/season
 **Original:** καιρός
 **Transliteration:** kairos
 **Part of Speech:** masculine noun
@@ -118,7 +118,7 @@ This construction directly quotes the LXX of Daniel 7:25. The Aramaic 'iddan (H5
 
 ---
 
-## G3062 — λοιπός (loipos) — rest/remaining/remnant
+## [G3062](https://www.blueletterbible.org/lexicon/g3062/kjv/tr/0-1/){:target="_blank"} — λοιπός (loipos) — rest/remaining/remnant
 **Original:** λοιπός
 **Transliteration:** loipos
 **Part of Speech:** adjective
@@ -142,11 +142,11 @@ The KJV translates loipos as "remnant" in only three verses:
 3. **Rev 19:21** — "the **remnant** were slain with the sword"
 
 ### Significance for Rev 12:17
-In Rev 12:17, the "remnant of her seed" (ton loipon tou spermatos autes) refers to those who remain AFTER the 1260-day/year persecution. They are the survivors, the residual offspring of the woman. The genitive construction "of her seed" (tou spermatos autes) connects directly to Genesis 3:15 — "her seed" (zar'ah, H2233 / sperma, G4690).
+In Rev 12:17, the "remnant of her seed" (ton loipon tou spermatos autes) refers to those who remain AFTER the 1260-day/year persecution. They are the survivors, the residual offspring of the woman. The genitive construction "of her seed" (tou spermatos autes) connects directly to Genesis 3:15 — "her seed" (zar'ah, [H2233](https://www.blueletterbible.org/lexicon/h2233/kjv/wlc/0-1/){:target="_blank"} / sperma, G4690).
 
 ---
 
-## G4690 — σπέρμα (sperma) — seed/offspring
+## [G4690](https://www.blueletterbible.org/lexicon/g4690/kjv/tr/0-1/){:target="_blank"} — σπέρμα (sperma) — seed/offspring
 **Original:** σπέρμα
 **Transliteration:** sperma
 **Part of Speech:** neuter noun
@@ -178,7 +178,7 @@ In Rev 12:17, the "remnant of her seed" (ton loipon tou spermatos autes) refers 
 
 ---
 
-## G4165 — ποιμαίνω (poimaino) — to shepherd/rule
+## [G4165](https://www.blueletterbible.org/lexicon/g4165/kjv/tr/0-1/){:target="_blank"} — ποιμαίνω (poimaino) — to shepherd/rule
 **Original:** ποιμαίνω
 **Transliteration:** poimainō
 **Part of Speech:** verb
@@ -210,7 +210,7 @@ All three are allusions to **Psalm 2:9**: "Thou shalt break them with a rod of i
 
 ---
 
-## G1785 — ἐντολή (entole) — commandment
+## [G1785](https://www.blueletterbible.org/lexicon/g1785/kjv/tr/0-1/){:target="_blank"} — ἐντολή (entole) — commandment
 **Original:** ἐντολή
 **Transliteration:** entolē
 **Part of Speech:** feminine noun
@@ -232,7 +232,7 @@ All three are allusions to **Psalm 2:9**: "Thou shalt break them with a rod of i
 
 ---
 
-## G3141 — μαρτυρία (martyria) — testimony
+## [G3141](https://www.blueletterbible.org/lexicon/g3141/kjv/tr/0-1/){:target="_blank"} — μαρτυρία (martyria) — testimony
 **Original:** μαρτυρία
 **Transliteration:** martyria
 **Part of Speech:** feminine noun
@@ -261,7 +261,7 @@ In Rev 19:10, the equation with "spirit of prophecy" favors the subjective genit
 
 ---
 
-## H5732 — עִדָּן (iddan) — time (Aramaic)
+## [H5732](https://www.blueletterbible.org/lexicon/h5732/kjv/wlc/0-1/){:target="_blank"} — עִדָּן (iddan) — time (Aramaic)
 **Original:** עִדָּן
 **Transliteration:** iddan
 **Part of Speech:** masculine noun (Aramaic)
@@ -282,7 +282,7 @@ The LXX renders iddan as kairos (G2540). Rev 12:14 quotes the LXX of Dan 7:25: "
 
 ---
 
-## H4150 — מוֹעֵד (moed) — appointed time
+## [H4150](https://www.blueletterbible.org/lexicon/h4150/kjv/wlc/0-1/){:target="_blank"} — מוֹעֵד (moed) — appointed time
 **Original:** מוֹעֵד
 **Transliteration:** moed
 **Part of Speech:** masculine noun

@@ -5,7 +5,7 @@ Do the seven churches of Revelation 2-3 have a three-fold application: (a) liter
 
 ---
 
-## G3528 — νικάω (nikao) — overcome, conquer
+## [G3528](https://www.blueletterbible.org/lexicon/g3528/kjv/tr/0-1/){:target="_blank"} — νικάω (nikao) — overcome, conquer
 
 **Original:** νικάω
 **Transliteration:** nikao
@@ -58,7 +58,7 @@ Do the seven churches of Revelation 2-3 have a three-fold application: (a) liter
 
 ---
 
-## G1577 — ἐκκλησία (ekklesia) — church, assembly
+## [G1577](https://www.blueletterbible.org/lexicon/g1577/kjv/tr/0-1/){:target="_blank"} — ἐκκλησία (ekklesia) — church, assembly
 
 **Original:** ἐκκλησία
 **Transliteration:** ekklesia
@@ -98,7 +98,7 @@ In the ear formula, ekklesia always appears as the **dative plural** (ταῖς 
 
 ---
 
-## G3340 — μετανοέω (metanoeo) — repent
+## [G3340](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/){:target="_blank"} — μετανοέω (metanoeo) — repent
 
 **Original:** μετανοέω
 **Transliteration:** metanoeo
@@ -142,7 +142,7 @@ In the ear formula, ekklesia always appears as the **dative plural** (ταῖς 
 
 ---
 
-## G4151 — πνεῦμα (pneuma) — spirit
+## [G4151](https://www.blueletterbible.org/lexicon/g4151/kjv/tr/0-1/){:target="_blank"} — πνεῦμα (pneuma) — spirit
 
 **Original:** πνεῦμα
 **Transliteration:** pneuma
@@ -167,7 +167,7 @@ The sevenfold repetition of "what the Spirit saith unto the churches" (to Pneuma
 
 ---
 
-## G4735 — στέφανος (stephanos) — crown (victor's wreath)
+## [G4735](https://www.blueletterbible.org/lexicon/g4735/kjv/tr/0-1/){:target="_blank"} — στέφανος (stephanos) — crown (victor's wreath)
 
 **Original:** στέφανος
 **Transliteration:** stephanos
@@ -202,7 +202,7 @@ This distinction confirms that the crown promised to the churches is the same TY
 
 ---
 
-## G5245 — ὑπερνικάω (hupernikao) — more than conquer
+## [G5245](https://www.blueletterbible.org/lexicon/g5245/kjv/tr/0-1/){:target="_blank"} — ὑπερνικάω (hupernikao) — more than conquer
 
 **Original:** ὑπερνικάω
 **Transliteration:** hupernikao
@@ -214,7 +214,7 @@ This distinction confirms that the crown promised to the churches is the same TY
 
 ---
 
-## G3534 — νῖκος (nikos) — victory
+## [G3534](https://www.blueletterbible.org/lexicon/g3534/kjv/tr/0-1/){:target="_blank"} — νῖκος (nikos) — victory
 
 **Original:** νῖκος
 **Transliteration:** nikos
@@ -228,7 +228,7 @@ This distinction confirms that the crown promised to the churches is the same TY
 
 ---
 
-## G2064 — ἔρχομαι (erchomai) — come
+## [G2064](https://www.blueletterbible.org/lexicon/g2064/kjv/tr/0-1/){:target="_blank"} — ἔρχομαι (erchomai) — come
 
 **Original:** ἔρχομαι
 **Transliteration:** erchomai

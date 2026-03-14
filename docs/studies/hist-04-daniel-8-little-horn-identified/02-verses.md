@@ -255,4 +255,4 @@ What does Daniel 8's vision show (ram, he-goat, four horns, little horn)? Does t
 - KJV text (kjv.txt)
 - Hebrew parsing via hebrew_parser.py (Text-Fabric/BHSA)
 - Cross-testament parallels via cross_testament_parallels_v2.py
-- Strong's numbers: H3499, H4704, H1431, H3966, H5794, H6440, H8548, H6588, H7161
+- Strong's numbers: [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"}, [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"}, [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"}, [H3966](https://www.blueletterbible.org/lexicon/h3966/kjv/wlc/0-1/){:target="_blank"}, [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"}, [H6440](https://www.blueletterbible.org/lexicon/h6440/kjv/wlc/0-1/){:target="_blank"}, [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"}, [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"}, [H7161](https://www.blueletterbible.org/lexicon/h7161/kjv/wlc/0-1/){:target="_blank"}

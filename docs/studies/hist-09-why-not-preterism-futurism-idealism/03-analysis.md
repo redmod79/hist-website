@@ -162,7 +162,7 @@
 ### Ephesians 2:11-16,19
 **Context:** Paul describes the union of Jew and Gentile in Christ.
 **Direct statement:** Gentiles were "aliens from the commonwealth of Israel, and strangers from the covenants of promise" (2:12). Christ "hath made both one, and hath broken down the middle wall of partition" (2:14). He created "in himself of twain one new man" (2:15). Former strangers are now "fellowcitizens with the saints, and of the household of God" (2:19).
-**Original language:** Poiēsas (aorist participle — "having made") and lysas (aorist participle — "having broken down") are completed actions. Mesotoichon ("middle wall," G3320, hapax legomenon) is a unique word for the barrier between Jew and Gentile. Ktisē (aorist subjunctive of ktizo — "might create") uses the verb for creation ex nihilo — this is a NEW creation, not a renovation.
+**Original language:** Poiēsas (aorist participle — "having made") and lysas (aorist participle — "having broken down") are completed actions. Mesotoichon ("middle wall," [G3320](https://www.blueletterbible.org/lexicon/g3320/kjv/tr/0-1/){:target="_blank"}, hapax legomenon) is a unique word for the barrier between Jew and Gentile. Ktisē (aorist subjunctive of ktizo — "might create") uses the verb for creation ex nihilo — this is a NEW creation, not a renovation.
 **Relationship to other evidence:** The wall between Jew and Gentile has been broken down (completed aorist). Two have been made into "one new man" (hena kainon anthrōpon). The creation verb (ktizo) indicates this is an irreversible new reality. Futurism's insistence on maintaining a distinct prophetic program for ethnic Israel requires rebuilding a wall that Paul says Christ demolished.
 
 ### 1 Peter 2:5,9-10

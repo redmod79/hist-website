@@ -62,16 +62,16 @@ What does Daniel 8's vision show (ram, he-goat, four horns, little horn)? Does t
 
 | Strong's | Word | Relevance |
 |----------|------|-----------|
-| H3499 | יֶתֶר (yether) — "excess, surplus, preeminence" | THE decisive term: little horn "waxed exceeding great" — must surpass both Persia and Greece |
-| H4704 | מִצְּעִירָה (mits'eirah) — "littleness" (hapax legomenon) | Occurs ONLY in Dan 8:9; horn rises FROM a state of smallness |
-| H1431 | גָּדַל (gadal) — "to grow great, magnify" | Used in Dan 8:4 (ram), 8:8 (goat), 8:9-11 (little horn), 8:25 (magnify in heart) |
-| H3966 | מְאֹד (me'od) — "very, greatly, exceedingly" | Dan 8:8 modifies goat's greatness ("very great"); absent from 8:9 where yether replaces it |
-| H5794 | עַז (az) — "fierce, strong, mighty" | Dan 8:23 "fierce countenance" — same word in Deut 28:50 describing a nation applied to Judea (universally = Rome) |
-| H6440 | פָּנִים (panim) — "face, countenance" | Dan 8:23 combined with H5794 forms the phrase "fierce countenance" (az panim) |
-| G5236 | ὑπερβολή (huperbole) — "exceeding, surpassing" | Greek concept parallel to Hebrew yether |
-| G2904 | κράτος (kratos) — "power, dominion, strength" | Conceptual parallel to little horn's mighty power |
-| H2191 | זְעֵיר (ze'ir) — "little, small" | Dan 7:8 Aramaic "little horn" — contrast with H4704 in Dan 8:9 |
-| H7161 | קֶרֶן (qeren) — "horn" | The central symbol: Dan 7:7-8,20-24; 8:3-9,20-21 |
+| [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} | יֶתֶר (yether) — "excess, surplus, preeminence" | THE decisive term: little horn "waxed exceeding great" — must surpass both Persia and Greece |
+| [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} | מִצְּעִירָה (mits'eirah) — "littleness" (hapax legomenon) | Occurs ONLY in Dan 8:9; horn rises FROM a state of smallness |
+| [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"} | גָּדַל (gadal) — "to grow great, magnify" | Used in Dan 8:4 (ram), 8:8 (goat), 8:9-11 (little horn), 8:25 (magnify in heart) |
+| [H3966](https://www.blueletterbible.org/lexicon/h3966/kjv/wlc/0-1/){:target="_blank"} | מְאֹד (me'od) — "very, greatly, exceedingly" | Dan 8:8 modifies goat's greatness ("very great"); absent from 8:9 where yether replaces it |
+| [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} | עַז (az) — "fierce, strong, mighty" | Dan 8:23 "fierce countenance" — same word in Deut 28:50 describing a nation applied to Judea (universally = Rome) |
+| [H6440](https://www.blueletterbible.org/lexicon/h6440/kjv/wlc/0-1/){:target="_blank"} | פָּנִים (panim) — "face, countenance" | Dan 8:23 combined with [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} forms the phrase "fierce countenance" (az panim) |
+| [G5236](https://www.blueletterbible.org/lexicon/g5236/kjv/tr/0-1/){:target="_blank"} | ὑπερβολή (huperbole) — "exceeding, surpassing" | Greek concept parallel to Hebrew yether |
+| [G2904](https://www.blueletterbible.org/lexicon/g2904/kjv/tr/0-1/){:target="_blank"} | κράτος (kratos) — "power, dominion, strength" | Conceptual parallel to little horn's mighty power |
+| [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} | זְעֵיר (ze'ir) — "little, small" | Dan 7:8 Aramaic "little horn" — contrast with [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} in Dan 8:9 |
+| [H7161](https://www.blueletterbible.org/lexicon/h7161/kjv/wlc/0-1/){:target="_blank"} | קֶרֶן (qeren) — "horn" | The central symbol: Dan 7:7-8,20-24; 8:3-9,20-21 |
 
 ### Related Existing Studies
 
@@ -92,7 +92,7 @@ What does Daniel 8's vision show (ram, he-goat, four horns, little horn)? Does t
 - 24 specifications from Daniel 8:9-14 and 8:23-25 were systematically compared against Rome's historical record: 23 STRONG matches, 1 MODERATE-STRONG, 0 failures
 - The yether (H3499) progression is "the most decisive single argument": great (Persia) -> very great (Greece) -> surpassing (little horn); eliminates Antiochus, requires Rome
 - The hapax legomenon mits'eirah (H4704) in 8:9 describes the horn's rise FROM a state of littleness — matches Rome's rise from a small city-state
-- "Fierce countenance" (az panim, H5794+H6440) in Dan 8:23 appears in only ONE other OT passage: Deut 28:49-50, universally recognized as prophesying Rome's conquest of Judea
+- "Fierce countenance" (az panim, [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"}+H6440) in Dan 8:23 appears in only ONE other OT passage: Deut 28:49-50, universally recognized as prophesying Rome's conquest of Judea
 - Daniel 8's little horn encompasses BOTH phases of Rome: pagan (expansion, military) and papal (religious warfare, spiritual deception)
 - Antiochus Epiphanes fails on: yether requirement (was minor king within Greece), direction of growth (lost territory), 2300 days, "time of the end" (died 164 BC), "Prince of princes" (160+ years before Christ), "broken without hand," prophetic pattern
 
@@ -158,12 +158,12 @@ What does Daniel 8's vision show (ram, he-goat, four horns, little horn)? Does t
 3. **The Yeter Progression: Great -> Very Great -> Exceeding Great (Dan 8:4, 8:8, 8:9)**
    - WHAT: Demonstrate the three-stage escalation of gadal (H1431) with its modifiers, proving the little horn must surpass both Medo-Persia and Greece
    - WHY: The word yether (H3499, "excess, surplus, preeminence") in Dan 8:9 is alone decisive. Prior study findings: it requires the little horn to SURPASS both previous empires. The shift from Hiphil (causative) to Qal (simple) stem adds nuance. Only Rome qualifies; Antiochus was a minor king WITHIN one of Greece's divisions.
-   - HOW: Run search_strongs.py --lookup H3499 --verses to trace all occurrences of yether. Run search_strongs.py --lookup H1431 --verses for gadal. Run search_strongs.py --lookup H3966 for me'od. Run hebrew_parser.py on Dan 8:4, 8:8, 8:9 to capture the exact verb stems and modifiers. Retrieve Deut 3:11 and other verses where yether appears to establish its semantic range.
+   - HOW: Run search_strongs.py --lookup [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} --verses to trace all occurrences of yether. Run search_strongs.py --lookup [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"} --verses for gadal. Run search_strongs.py --lookup [H3966](https://www.blueletterbible.org/lexicon/h3966/kjv/wlc/0-1/){:target="_blank"} for me'od. Run hebrew_parser.py on Dan 8:4, 8:8, 8:9 to capture the exact verb stems and modifiers. Retrieve Deut 3:11 and other verses where yether appears to establish its semantic range.
 
 4. **The Deut 28:49-50 Cross-Reference: "A Nation of Fierce Countenance" (H5794 + H6440)**
    - WHAT: Demonstrate that the phrase az panim ("fierce countenance") in Dan 8:23 has only ONE other OT occurrence — Deut 28:49-50 — which is universally recognized as prophesying Rome
-   - WHY: Strong's data shows H5794 (az, "fierce") occurs in Deut 28:50 and Dan 8:23 in the same construction. This is a decisive inner-biblical cross-reference: Moses and Daniel use the identical Hebrew phrase to describe the same power. If Deut 28:49-50 describes Rome (which virtually all interpreters agree), then Dan 8:23 does too.
-   - HOW: Retrieve Deut 28:49-57 with full context. Run hebrew_parser.py on Deut 28:49-50 and Dan 8:23. Run search_strongs.py --verses H5794 to find all occurrences of az and verify the uniqueness of the az panim construction. Run cross-testament parallels on Dan 8:23 and Deut 28:50.
+   - WHY: Strong's data shows [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} (az, "fierce") occurs in Deut 28:50 and Dan 8:23 in the same construction. This is a decisive inner-biblical cross-reference: Moses and Daniel use the identical Hebrew phrase to describe the same power. If Deut 28:49-50 describes Rome (which virtually all interpreters agree), then Dan 8:23 does too.
+   - HOW: Retrieve Deut 28:49-57 with full context. Run hebrew_parser.py on Deut 28:49-50 and Dan 8:23. Run search_strongs.py --verses [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} to find all occurrences of az and verify the uniqueness of the az panim construction. Run cross-testament parallels on Dan 8:23 and Deut 28:50.
 
 5. **Why Antiochus Epiphanes Fails Every Critical Test**
    - WHAT: Systematically demonstrate that Antiochus IV Epiphanes fails the text's own requirements on at least 7 specific criteria
@@ -183,7 +183,7 @@ What does Daniel 8's vision show (ram, he-goat, four horns, little horn)? Does t
 8. **Daniel 8:13 — The Two Desolating Powers Connected by "AND"**
    - WHAT: Demonstrate that Dan 8:13's Hebrew connects two distinct desolating powers: ha-tamid ("the continual") AND ha-pesha shomem ("the transgression of desolation")
    - WHY: The prior grammar study found that "sacrifice" is NOT in the Hebrew text; tamid (H8548) means "continual/perpetual." The conjunction ve ("and") connects two separate nouns. This grammatical point shows Daniel 8's little horn encompasses two phases of opposition.
-   - HOW: Run hebrew_parser.py on Dan 8:11-13. Run search_strongs.py --lookup H8548 (tamid) and --lookup H6588 (pesha). Retrieve Dan 11:31 and Dan 12:11 (parallel "abomination" passages) for comparison. NOTE: Present this as a grammatical observation about the text's structure, NOT as a theological interpretation of "the daily" — avoid sanctuary theology per design constraints.
+   - HOW: Run hebrew_parser.py on Dan 8:11-13. Run search_strongs.py --lookup [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} (tamid) and --lookup [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} (pesha). Retrieve Dan 11:31 and Dan 12:11 (parallel "abomination" passages) for comparison. NOTE: Present this as a grammatical observation about the text's structure, NOT as a theological interpretation of "the daily" — avoid sanctuary theology per design constraints.
 
 ---
 
@@ -206,16 +206,16 @@ You are the Research Agent. Execute this study by:
      - Deuteronomy 28:49-57 — "nation of fierce countenance" (CRITICAL cross-reference)
      - All Gabriel verses: Dan 8:16; 9:21-22
    - `04-word-studies.md` — Strong's research for ALL listed numbers:
-     - H3499 (yether) — CRITICAL: trace Dan 8:9 usage and establish "surpassing/excess" meaning
-     - H4704 (mits'eirah) — hapax legomenon, only Dan 8:9
-     - H1431 (gadal) — trace Dan 8:4, 8:8, 8:9, 8:10, 8:11, 8:25
-     - H3966 (me'od) — the modifier replaced by yether in 8:9
-     - H5794 (az) — "fierce," link Dan 8:23 to Deut 28:50
-     - H6440 (panim) — "face/countenance," completes az panim phrase
-     - H8548 (tamid) — "continual/perpetual" — note that "sacrifice" is supplied
-     - H6588 (pesha) — "transgression/rebellion" in Dan 8:13
-     - H7161 (qeren) — "horn" — the central symbol
-     - H2191 (ze'ir) — Aramaic "little" (Dan 7:8) vs. H4704 (Dan 8:9)
+     - [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} (yether) — CRITICAL: trace Dan 8:9 usage and establish "surpassing/excess" meaning
+     - [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} (mits'eirah) — hapax legomenon, only Dan 8:9
+     - [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"} (gadal) — trace Dan 8:4, 8:8, 8:9, 8:10, 8:11, 8:25
+     - [H3966](https://www.blueletterbible.org/lexicon/h3966/kjv/wlc/0-1/){:target="_blank"} (me'od) — the modifier replaced by yether in 8:9
+     - [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} (az) — "fierce," link Dan 8:23 to Deut 28:50
+     - [H6440](https://www.blueletterbible.org/lexicon/h6440/kjv/wlc/0-1/){:target="_blank"} (panim) — "face/countenance," completes az panim phrase
+     - [H8548](https://www.blueletterbible.org/lexicon/h8548/kjv/wlc/0-1/){:target="_blank"} (tamid) — "continual/perpetual" — note that "sacrifice" is supplied
+     - [H6588](https://www.blueletterbible.org/lexicon/h6588/kjv/wlc/0-1/){:target="_blank"} (pesha) — "transgression/rebellion" in Dan 8:13
+     - [H7161](https://www.blueletterbible.org/lexicon/h7161/kjv/wlc/0-1/){:target="_blank"} (qeren) — "horn" — the central symbol
+     - [H2191](https://www.blueletterbible.org/lexicon/h2191/kjv/wlc/0-1/){:target="_blank"} (ze'ir) — Aramaic "little" (Dan 7:8) vs. [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} (Dan 8:9)
    - `raw-data/` — Raw tool output organized by category
 
 6. Do NOT write `03-analysis.md` or `CONCLUSION.md` — those are for the analysis agent
@@ -246,10 +246,10 @@ You are the Research Agent. Execute this study by:
    - Dan 11:4 (acherim — masculine plural for Greek successors)
 
 10. **Required word traces:**
-    - H3499 (yether) — run --lookup and --verses to see all translations
-    - H1431 (gadal) — run --lookup and --verses to trace all Daniel occurrences
-    - H5794 (az) — run --verses to verify the uniqueness of az panim in Deut 28:50 and Dan 8:23
-    - H4704 (mits'eirah) — confirm hapax legomenon status
+    - [H3499](https://www.blueletterbible.org/lexicon/h3499/kjv/wlc/0-1/){:target="_blank"} (yether) — run --lookup and --verses to see all translations
+    - [H1431](https://www.blueletterbible.org/lexicon/h1431/kjv/wlc/0-1/){:target="_blank"} (gadal) — run --lookup and --verses to trace all Daniel occurrences
+    - [H5794](https://www.blueletterbible.org/lexicon/h5794/kjv/wlc/0-1/){:target="_blank"} (az) — run --verses to verify the uniqueness of az panim in Deut 28:50 and Dan 8:23
+    - [H4704](https://www.blueletterbible.org/lexicon/h4704/kjv/wlc/0-1/){:target="_blank"} (mits'eirah) — confirm hapax legomenon status
 
 11. **Required grammar textbook searches:**
     - Run semantic_grammar.py "masculine suffix feminine noun gender discord" --hebrew

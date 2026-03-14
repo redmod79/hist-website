@@ -1,6 +1,6 @@
 # Word Studies
 
-## G2342 — θηρίον (thērion) — Beast
+## [G2342](https://www.blueletterbible.org/lexicon/g2342/kjv/tr/0-1/){:target="_blank"} — θηρίον (thērion) — Beast
 **Original:** θηρίον
 **Transliteration:** thērion
 **Part of Speech:** Neuter noun
@@ -32,7 +32,7 @@ Distinguished from ζῷον (zōon, G2226) — the "living creatures" around Go
 
 ---
 
-## G2768 — κέρας (keras) — Horn
+## [G2768](https://www.blueletterbible.org/lexicon/g2768/kjv/tr/0-1/){:target="_blank"} — κέρας (keras) — Horn
 **Original:** κέρας
 **Transliteration:** keras
 **Part of Speech:** Neuter noun
@@ -59,7 +59,7 @@ Greek keras translates Aramaic קֶרֶן (qeren, H7162) in Daniel. This is the 
 
 ---
 
-## G4750 — στόμα (stoma) — Mouth
+## [G4750](https://www.blueletterbible.org/lexicon/g4750/kjv/tr/0-1/){:target="_blank"} — στόμα (stoma) — Mouth
 **Original:** στόμα
 **Transliteration:** stoma
 **Part of Speech:** Neuter noun
@@ -80,7 +80,7 @@ The phrase στόμα λαλοῦν μεγάλα (stoma laloun megala) is IDENTI
 
 ---
 
-## G2098 — εὐαγγέλιον (euangelion) — Gospel
+## [G2098](https://www.blueletterbible.org/lexicon/g2098/kjv/tr/0-1/){:target="_blank"} — εὐαγγέλιον (euangelion) — Gospel
 **Original:** εὐαγγέλιον
 **Transliteration:** euangelion
 **Part of Speech:** Neuter noun
@@ -104,7 +104,7 @@ Heavily Pauline (54x in Paul's letters). Matthew 4x, Mark 8x, Acts 2x. The singl
 
 ---
 
-## G166 — αἰώνιος (aiōnios) — Everlasting/Eternal
+## [G166](https://www.blueletterbible.org/lexicon/g166/kjv/tr/0-1/){:target="_blank"} — αἰώνιος (aiōnios) — Everlasting/Eternal
 **Original:** αἰώνιος
 **Transliteration:** aiōnios
 **Part of Speech:** Adjective
@@ -126,7 +126,7 @@ Heavily Pauline (54x in Paul's letters). Matthew 4x, Mark 8x, Acts 2x. The singl
 
 ---
 
-## G2920 — κρίσις (krisis) — Judgment
+## [G2920](https://www.blueletterbible.org/lexicon/g2920/kjv/tr/0-1/){:target="_blank"} — κρίσις (krisis) — Judgment
 **Original:** κρίσις
 **Transliteration:** krisis
 **Part of Speech:** Feminine noun
@@ -160,7 +160,7 @@ Heavily Pauline (54x in Paul's letters). Matthew 4x, Mark 8x, Acts 2x. The singl
 
 ---
 
-## G4352 — προσκυνέω (proskyneō) — Worship
+## [G4352](https://www.blueletterbible.org/lexicon/g4352/kjv/tr/0-1/){:target="_blank"} — προσκυνέω (proskyneō) — Worship
 **Original:** προσκυνέω
 **Transliteration:** proskyneō
 **Part of Speech:** Verb
@@ -188,7 +188,7 @@ Revelation frames the cosmic conflict as a contest of worship: proskyneō to the
 
 ---
 
-## G5480 — χάραγμα (charagma) — Mark
+## [G5480](https://www.blueletterbible.org/lexicon/g5480/kjv/tr/0-1/){:target="_blank"} — χάραγμα (charagma) — Mark
 **Original:** χάραγμα
 **Transliteration:** charagma
 **Part of Speech:** Neuter noun
@@ -218,7 +218,7 @@ Revelation frames the cosmic conflict as a contest of worship: proskyneō to the
 
 ---
 
-## G1504 — εἰκών (eikōn) — Image
+## [G1504](https://www.blueletterbible.org/lexicon/g1504/kjv/tr/0-1/){:target="_blank"} — εἰκών (eikōn) — Image
 **Original:** εἰκών
 **Transliteration:** eikōn
 **Part of Speech:** Feminine noun
@@ -242,7 +242,7 @@ Though the Daniel 3 narrative uses the Hebrew צֶלֶם (tselem) rather than ei
 
 ---
 
-## G5281 — ὑπομονή (hypomonē) — Patience/Endurance
+## [G5281](https://www.blueletterbible.org/lexicon/g5281/kjv/tr/0-1/){:target="_blank"} — ὑπομονή (hypomonē) — Patience/Endurance
 **Original:** ὑπομονή
 **Transliteration:** hypomonē
 **Part of Speech:** Feminine noun
@@ -268,7 +268,7 @@ The identical phrase "here is the patience" (Ὧδε ἡ ὑπομονή) links 
 
 ---
 
-## G4102 — πίστις (pistis) — Faith
+## [G4102](https://www.blueletterbible.org/lexicon/g4102/kjv/tr/0-1/){:target="_blank"} — πίστις (pistis) — Faith
 **Original:** πίστις
 **Transliteration:** pistis
 **Part of Speech:** Feminine noun
@@ -297,7 +297,7 @@ The identical phrase "here is the patience" (Ὧδε ἡ ὑπομονή) links 
 
 ---
 
-## G988 — βλασφημία (blasphēmia) — Blasphemy
+## [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} — βλασφημία (blasphēmia) — Blasphemy
 **Original:** βλασφημία
 **Transliteration:** blasphēmia
 **Part of Speech:** Feminine noun
@@ -324,7 +324,7 @@ Blasphemy is the defining characteristic of the beast — it is inscribed on its
 
 ---
 
-## G4098 — πίπτω (piptō) — Fall
+## [G4098](https://www.blueletterbible.org/lexicon/g4098/kjv/tr/0-1/){:target="_blank"} — πίπτω (piptō) — Fall
 **Original:** πίπτω
 **Transliteration:** piptō
 **Part of Speech:** Verb
@@ -349,7 +349,7 @@ Blasphemy is the defining characteristic of the beast — it is inscribed on its
 
 ---
 
-## G1407 — δρέπανον (drepanon) — Sickle
+## [G1407](https://www.blueletterbible.org/lexicon/g1407/kjv/tr/0-1/){:target="_blank"} — δρέπανον (drepanon) — Sickle
 **Original:** δρέπανον
 **Transliteration:** drepanon
 **Part of Speech:** Neuter noun
@@ -370,7 +370,7 @@ Blasphemy is the defining characteristic of the beast — it is inscribed on its
 
 ---
 
-## G2326 — θερισμός (therismos) — Harvest
+## [G2326](https://www.blueletterbible.org/lexicon/g2326/kjv/tr/0-1/){:target="_blank"} — θερισμός (therismos) — Harvest
 **Original:** θερισμός
 **Transliteration:** therismos
 **Part of Speech:** Masculine noun
