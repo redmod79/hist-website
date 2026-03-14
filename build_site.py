@@ -7,7 +7,6 @@ copies files into docs/studies/, generates mkdocs.yml and index.md,
 and copies shared assets from etc-website.
 """
 
-import json
 import os
 import re
 import shutil
@@ -482,22 +481,7 @@ def generate_index_md():
     content.append("")
     content.append("The question is always: **What does the Bible say?**")
     content.append("")
-    content.append("---")
-    content.append("")
-    # Related Studies — read from shared hub-website/related-studies.json
-    links_file = Path("D:/bible/hub-website/related-studies.json")
-    if links_file.exists():
-        links = json.loads(links_file.read_text(encoding="utf-8"))
-        content.append("## Related Studies")
-        content.append("")
-        content.append("These companion sites use the same tool-driven research methodology:")
-        content.append("")
-        content.append("| Site | Description |")
-        content.append("|------|-------------|")
-        for entry in links:
-            if entry["id"] == "hist":
-                continue
-            content.append(f"| [**{entry['name']}**]({entry['url']}) | {entry['description']} |")
+    # Hub banner is injected by hub-website/inject_links.py after build
 
     index_path = DOCS / "index.md"
     index_path.write_text("\n".join(content) + "\n", encoding="utf-8")
