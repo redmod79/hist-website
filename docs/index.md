@@ -4,9 +4,6 @@
 
 ---
 
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## The Question
 
 Four major schools of prophetic interpretation compete for how to read Daniel and Revelation:

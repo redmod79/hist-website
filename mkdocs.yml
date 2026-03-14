@@ -3,6 +3,7 @@ site_description: A 19-study biblical investigation examining whether Daniel and
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: deep purple
