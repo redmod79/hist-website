@@ -472,7 +472,7 @@ def generate_index_md():
     content.append("")
     content.append("## Source Restrictions")
     content.append("")
-    content.append("This series uses **no Ellen White, no Adventist pioneer sources** as authoritative evidence. Permitted sources are:")
+    content.append("This series uses **no denominational or extra-biblical sources** as authoritative evidence. Permitted sources are:")
     content.append("")
     content.append("- Scripture (KJV text with Hebrew/Greek analysis)")
     content.append("- Secular and church historians (for verifying prophetic claims against historical events)")

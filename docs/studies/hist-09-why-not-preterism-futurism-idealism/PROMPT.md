@@ -277,7 +277,7 @@ You are the Research Agent. Execute this study by:
     - Search for Froom Prophetic Faith of Our Fathers interpretation history
     - Search for Maitland Darby Scofield futurism Protestant adoption history
 
-12. **Source restrictions:** NO Ellen White. NO Adventist pioneers. Permitted historical sources: Froom (interpretation history only), Schaff, Guinness, Elliott, Barnes, Clarke. Permitted scholarly sources: Beale, Aune, Mounce, Osborne, Thomas, Walvoord (as futurist representative). Permitted lexicons: BDAG, TDNT, BDB.
+12. **Source restrictions:** No denominational writings. Permitted historical sources: Froom (interpretation history only), Schaff, Guinness, Elliott, Barnes, Clarke. Permitted scholarly sources: Beale, Aune, Mounce, Osborne, Thomas, Walvoord (as futurist representative). Permitted lexicons: BDAG, TDNT, BDB.
 
 ## Workflow
 answer-question

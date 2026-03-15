@@ -19,8 +19,7 @@ Two frameworks are investigated:
 The following source restrictions apply to ALL studies in the hist-XX series:
 
 **NOT PERMITTED as evidence sources:**
-- Ellen White writings (no Great Controversy, Desire of Ages, Early Writings, etc.)
-- Adventist pioneer writings (James White, Uriah Smith, J.N. Andrews, etc.) — UNLESS cited purely as historical documentation of when a particular interpretation existed, not as interpretive authority
+- Denominational writings — UNLESS cited purely as historical documentation of when a particular interpretation existed, not as interpretive authority
 
 **PERMITTED sources:**
 - Scripture (primary and supreme source — all tiers of evidence must be grounded here)

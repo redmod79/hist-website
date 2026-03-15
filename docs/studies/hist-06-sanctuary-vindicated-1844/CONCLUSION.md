@@ -4,7 +4,7 @@
 
 What does "then shall the sanctuary be vindicated" (nitsdaq) in Daniel 8:14 mean? Why did Daniel use forensic vocabulary (tsadaq) instead of cleansing vocabulary (taher/kaphar)? How does the LXX translation (katharisthesetai) relate to the Hebrew original? What is the significance of the "evening-morning" terminology? And what begins in 1844 -- how does this connect to Daniel 7:9-10's judgment scene?
 
-**Source restrictions:** NO Ellen White, NO Adventist pioneers. Permitted: Scripture, historians, historicist commentators, reference works.
+**Source restrictions:** No denominational writings. Permitted: Scripture, historians, historicist commentators, reference works.
 
 **Design principle:** This study focuses on what THE TEXT says. Omit sanctuary theology and Day of Atonement typology.
 

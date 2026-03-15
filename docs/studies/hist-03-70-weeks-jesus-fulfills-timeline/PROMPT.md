@@ -6,8 +6,7 @@ What is the biblical basis for the day-year principle? How does Daniel 9:24-27's
 
 ## Source Restrictions
 
-- NO Ellen White writings
-- NO Adventist pioneer writings unless cited as historical documentation
+- No denominational writings unless cited as historical documentation
 - Permitted: Scripture, secular/church historians, classical historians, historicist commentators, Bible commentators, reference works, web search
 
 ## Design Principles

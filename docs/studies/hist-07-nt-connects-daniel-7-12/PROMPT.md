@@ -6,7 +6,7 @@ How do NT authors treat Daniel 7-12? Do Jesus, Paul, and John/Revelation treat t
 ## Series Context
 This is study **hist-07** in the Historicist Proof series. It must follow the methodology in `D:/bible/bible-studies/hist-series-methodology.md`. The central question of the series is whether Revelation describes a continuous span of history from the prophet's time to the second coming. This study establishes the **Daniel-Revelation intertextual foundation** that undergirds the entire series.
 
-**Source restrictions:** NO Ellen White, NO Adventist pioneers. Permitted: Scripture, historians, commentators (especially Beale for Daniel-Revelation connections). The analysis must be built entirely on biblical text, with commentary used only for confirmation.
+**Source restrictions:** No denominational writings. Permitted: Scripture, historians, commentators (especially Beale for Daniel-Revelation connections). The analysis must be built entirely on biblical text, with commentary used only for confirmation.
 
 ## Discovered Scope
 
@@ -261,7 +261,7 @@ You are the Research Agent. Execute this study by:
     - [G500](https://www.blueletterbible.org/lexicon/g500/kjv/tr/0-1/){:target="_blank"} (antichristos) -- all NT occurrences
     - [G988](https://www.blueletterbible.org/lexicon/g988/kjv/tr/0-1/){:target="_blank"} (blasphemia) -- trace in Revelation
 
-11. **References requirement:** The analysis agent MUST include a References section citing specific commentators (especially Beale, Mounce, Aune, Bauckham for Revelation-Daniel connections). NO Ellen White or Adventist pioneers.
+11. **References requirement:** The analysis agent MUST include a References section citing specific commentators (especially Beale, Mounce, Aune, Bauckham for Revelation-Daniel connections). No denominational writings.
 
 ## Workflow
 answer-question

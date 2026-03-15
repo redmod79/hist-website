@@ -4,7 +4,7 @@
 Does Jesus's Olivet Discourse (Matthew 24) span from the apostolic era to the second coming? How does the dual-question structure explain both near and far fulfillment? What does "this generation" (Matt 24:34) mean? And does this prophecy provide a template for reading Revelation's seals?
 
 ## Source Restrictions
-- NO Ellen White. NO Adventist pioneers.
+- No denominational writings.
 - Permitted: Scripture (primary), secular/church/classical historians, commentators from any tradition, lexicons, grammars.
 
 ## INVESTIGATIVE METHODOLOGY:

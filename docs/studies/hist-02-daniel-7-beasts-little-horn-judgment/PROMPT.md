@@ -8,7 +8,7 @@ What are the four beasts of Daniel 7, what is the little horn that arises among 
 2. **Omit sanctuary theology and Day of Atonement typology.** Do NOT connect Daniel 7:9-14 to Leviticus 16 or Day of Atonement cleansing. Treat the judgment scene on its own terms as a heavenly court proceeding described in Daniel 7.
 3. **Self-contained.** This study must be intelligible without reading any prior study. Reference prior studies only for established conclusions that this study builds upon.
 4. **Argue from textual constraints, then identify.** First show what the text REQUIRES of each symbol, then evaluate which historical candidates fit.
-5. **Source restrictions:** NO Ellen White writings. NO Adventist pioneer writings unless cited purely as historical documentation. Permitted: Scripture, secular/church historians, classical historians, historicist commentators, Bible commentators, reference works, web search.
+5. **Source restrictions:** No denominational writings unless cited purely as historical documentation. Permitted: Scripture, secular/church historians, classical historians, historicist commentators, Bible commentators, reference works, web search.
 
 ## Methodology
 This study follows the hist-series methodology (D:/bible/bible-studies/hist-series-methodology.md). The analysis agent MUST:

@@ -15,7 +15,7 @@ INVESTIGATIVE METHODOLOGY:
 - Never use language like "irrefutable," "obviously," or "clearly proves." Use "the text states," "this is consistent with."
 - The conclusion should emerge FROM the evidence, not be imposed ON it.
 
-SOURCE RESTRICTIONS: No Ellen White or Adventist pioneer writings as interpretive authority. Permitted sources: Scripture (primary), secular/church/classical historians, commentators from any tradition, lexicons, grammars, reference works.
+SOURCE RESTRICTIONS: No denominational writings as interpretive authority. Permitted sources: Scripture (primary), secular/church/classical historians, commentators from any tradition, lexicons, grammars, reference works.
 
 ---
 

@@ -8,7 +8,7 @@ What does Daniel 8's vision show (ram, he-goat, four horns, little horn)? Does t
 - Omit sanctuary theology and Day of Atonement typology
 - Study must be SELF-CONTAINED (no reliance on prior studies for argument structure)
 - Argue from textual constraints first, then identify
-- NO Ellen White writings; NO Adventist pioneer writings unless cited as historical documentation
+- No denominational writings unless cited as historical documentation
 - Permitted sources: Scripture, secular/church historians (Gibbon, Schaff, Josephus, Polybius, Tacitus, Livy), historicist commentators (Elliott, Barnes, Newton, Thomas Newton, Guinness), reference works (Rawlinson, Edersheim)
 
 ---

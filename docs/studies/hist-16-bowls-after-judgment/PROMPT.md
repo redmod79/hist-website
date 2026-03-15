@@ -4,7 +4,7 @@
 Do the seven bowls of Revelation 15-16 come after the close of probation, and why are they necessary? How do they differ from the trumpets, and what is the significance of "no man was able to enter into the temple" (Rev 15:8)?
 
 ## Source Restrictions
-- NO Ellen White. NO Adventist pioneers.
+- No denominational writings.
 - Address the Lev 16:17 / Rev 15:8 connection as a textual observation, not developed sanctuary theology.
 
 ## Discovered Scope

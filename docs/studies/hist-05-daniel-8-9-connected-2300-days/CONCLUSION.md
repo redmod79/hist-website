@@ -8,7 +8,7 @@ This study follows the investigative methodology defined in
 `D:/bible/bible-studies/hist-series-methodology.md`.
 Evidence items registered in D:/bible/bible-studies/hist-evidence.db.
 
-**Source restrictions:** No Ellen White. No Adventist pioneers unless as historical documentation. Permitted: Scripture, secular/church historians, historicist commentators, reference works, lexicons, grammars.
+**Source restrictions:** No denominational writings unless as historical documentation. Permitted: Scripture, secular/church historians, historicist commentators, reference works, lexicons, grammars.
 
 **Design principles:** Prove the interpretive framework from textual constraints. Omit sanctuary theology and Day of Atonement typology. Study is self-contained. Argue from textual constraints, then identify.
 

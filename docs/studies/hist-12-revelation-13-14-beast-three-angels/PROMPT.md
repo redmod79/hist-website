@@ -16,7 +16,7 @@ INVESTIGATIVE METHODOLOGY:
 - The conclusion should emerge FROM the evidence, not be imposed ON it.
 
 ## Source Restrictions
-- NO Ellen White. NO Adventist pioneers.
+- No denominational writings.
 - Permitted: Scripture, historians, commentators, lexicons, grammars, reference works.
 
 ## Discovered Scope

@@ -6,7 +6,7 @@ Do Revelation 1:7, 6:14-17, 14:14-20, and 19:11-21 describe the same event — t
 ## Methodology
 This study follows the investigative methodology defined in `D:/bible/bible-studies/hist-series-methodology.md`. Evidence items must be registered in the evidence database.
 
-**Source Restrictions:** NO Ellen White. NO Adventist pioneers.
+**Source Restrictions:** No denominational writings.
 
 ```
 INVESTIGATIVE METHODOLOGY:

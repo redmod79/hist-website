@@ -3,7 +3,7 @@
 ## Question
 How do Revelation's major sequences (churches, seals, trumpets, bowls) relate to each other? Are they parallel recapitulating sequences spanning the same historical period? What structural evidence PROVES recapitulation rather than strict chronological sequence? And how does the 1844 date from Daniel 8:14 align with where the sequences place us in history?
 
-**Source Restrictions:** NO Ellen White. NO Adventist pioneers (unless citing as historians). Scripture is the primary source. Secular and church historians, Bible commentators, lexicons, and grammars are permitted.
+**Source Restrictions:** No denominational writings (unless citing as historians). Scripture is the primary source. Secular and church historians, Bible commentators, lexicons, and grammars are permitted.
 
 ## Discovered Scope
 

@@ -255,7 +255,7 @@ You are the Research Agent. Execute this study by:
     - Search for Schaff's History of the Christian Church on papal temporal power
 
 12. **Source restrictions (per hist-series-methodology.md):**
-    - NO Ellen White writings. NO Adventist pioneer writings.
+    - No denominational writings.
     - PERMITTED: Scripture (primary), secular historians (Gibbon, Procopius), church historians (Eusebius, Schaff), historicist commentators from any tradition (Barnes, Elliott, Faber, Guinness, Mede, Newton), anti-historicist commentators (for opposing arguments), lexicons and grammars.
 
 ## Workflow

@@ -8,7 +8,7 @@ This study follows the investigative methodology defined in
 `D:/bible/bible-studies/hist-series-methodology.md`.
 Evidence items registered in D:/bible/bible-studies/hist-evidence.db.
 
-Source restrictions: NO Ellen White, NO Adventist pioneers. Permitted: Scripture, historians, commentators (especially Beale, Mounce, Aune, Bauckham for Daniel-Revelation connections).
+Source restrictions: No denominational writings. Permitted: Scripture, historians, commentators (especially Beale, Mounce, Aune, Bauckham for Daniel-Revelation connections).
 
 ---
 

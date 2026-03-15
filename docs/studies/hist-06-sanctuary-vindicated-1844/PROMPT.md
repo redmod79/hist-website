@@ -4,7 +4,7 @@
 
 What does "then shall the sanctuary be vindicated" (nitsdaq) in Daniel 8:14 mean? Why did Daniel use forensic vocabulary (tsadaq) instead of cleansing vocabulary (taher/kaphar)? How does the LXX translation (katharisthesetai) relate to the Hebrew original? What is the significance of the "evening-morning" terminology? And what begins in 1844 — how does this connect to Daniel 7:9-10's judgment scene?
 
-**Source restrictions:** NO Ellen White, NO Adventist pioneers. Permitted: Scripture, historians, historicist commentators, reference works.
+**Source restrictions:** No denominational writings. Permitted: Scripture, historians, historicist commentators, reference works.
 
 **Design principle:** This study focuses on what THE TEXT says. Prove the framework from textual constraints. Omit sanctuary theology and Day of Atonement typology — the prior studies already cover that. This study demonstrates what Daniel 8:14 means from the Hebrew text itself, the vocabulary Daniel chose, the vocabulary he avoided, the evening-morning construction, the Daniel 7 judgment context, and the NT witness.
 
@@ -268,7 +268,7 @@ You are the Research Agent. Execute this study by:
     - [H6664](https://www.blueletterbible.org/lexicon/h6664/kjv/wlc/0-1/){:target="_blank"} (tsedeq): trace "everlasting righteousness" in Dan 9:24
 
 11. **References Requirement for Analysis Agent:**
-    The analysis agent MUST include a **References** section at the end of CONCLUSION.md citing specific reference works and commentators that support the textual findings. Permitted sources include: HALOT, BDB, BDAG, GKC, TDOT, TDNT, NIDOTTE, NIDNTT, ICC, WBC, NICOT/NICNT, BECNT, and historicist commentators (Mede, Newton, Elliott, Barnes, Guinness, Froom). Do NOT cite Ellen White or Adventist pioneers as interpretive authority. Scripture is the primary and supreme source; reference works confirm the philological and grammatical findings.
+    The analysis agent MUST include a **References** section at the end of CONCLUSION.md citing specific reference works and commentators that support the textual findings. Permitted sources include: HALOT, BDB, BDAG, GKC, TDOT, TDNT, NIDOTTE, NIDNTT, ICC, WBC, NICOT/NICNT, BECNT, and historicist commentators (Mede, Newton, Elliott, Barnes, Guinness, Froom). Do NOT cite denominational writings as interpretive authority. Scripture is the primary and supreme source; reference works confirm the philological and grammatical findings.
 
 ## Workflow
 answer-question

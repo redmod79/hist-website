@@ -3,7 +3,7 @@
 ## Question
 Are the seven trumpets of Revelation 8-11 warnings that sound during Christ's intercessory ministry? What evidence proves they are warnings (not final judgment) and that they occur before, not after, the close of probation? What is the biblical basis for connecting the trumpets to the Feast of Trumpets that precedes the Day of Atonement?
 
-**Source restrictions:** NO Ellen White. NO Adventist pioneers. Permitted: Scripture, historians, historicist commentators, reference works, lexicons, grammars.
+**Source restrictions:** No denominational writings. Permitted: Scripture, historians, historicist commentators, reference works, lexicons, grammars.
 
 ---
 

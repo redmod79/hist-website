@@ -8,7 +8,7 @@ This study follows the investigative methodology defined in
 `D:/bible/bible-studies/hist-series-methodology.md`.
 Evidence items registered in D:/bible/bible-studies/hist-evidence.db.
 
-Source restrictions: NO Ellen White, NO Adventist pioneers. Permitted: Scripture, historians, commentators (Beale, Aune, Mounce, Osborne, Thomas, Elliott, Barnes, Guinness; lexicons: BDAG, BDB, TDNT, Louw-Nida, Liddell-Scott; grammars: Wallace, BDF, Robertson).
+Source restrictions: No denominational writings. Permitted: Scripture, historians, commentators (Beale, Aune, Mounce, Osborne, Thomas, Elliott, Barnes, Guinness; lexicons: BDAG, BDB, TDNT, Louw-Nida, Liddell-Scott; grammars: Wallace, BDF, Robertson).
 
 ---
 

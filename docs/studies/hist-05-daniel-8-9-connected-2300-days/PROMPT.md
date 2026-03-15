@@ -10,7 +10,7 @@ This is **hist-05** in the Historicist Proof series. It builds on:
 
 This study demonstrates that the 2300-day prophecy of Daniel 8:14 and the 70-week prophecy of Daniel 9:24-27 are organically connected through Gabriel's continuing interpretive mission, shared vocabulary (mar'eh, biyn), the "cut off" (chathak) relationship, and the shared starting point of 457 BC — yielding an endpoint of 1844 AD for the 2300 days.
 
-**Source restrictions:** NO Ellen White, NO Adventist pioneers unless as historical documentation. Permitted: Scripture, secular/church historians, historicist commentators (Elliott, Barnes, Newton, Thomas Newton, Guinness), reference works.
+**Source restrictions:** No denominational writings unless as historical documentation. Permitted: Scripture, secular/church historians, historicist commentators (Elliott, Barnes, Newton, Thomas Newton, Guinness), reference works.
 
 **Design principles:** Prove the interpretive framework from textual constraints. Omit sanctuary theology and Day of Atonement typology. Study must be self-contained. Argue from textual constraints then identify.
 

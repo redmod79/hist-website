@@ -3,7 +3,7 @@
 ## Question
 What does "shortly come to pass" (*en tachei*) in Revelation 1:1 and 22:6 actually mean? Does it require fulfillment within John's generation, or does it describe the manner of divine action? And does the text show that fulfillment had already begun in John's time?
 
-This study is part of the Historicist Proof series (hist-08). The analysis agent must follow the methodology defined in `D:/bible/bible-studies/hist-series-methodology.md`. Source restrictions: NO Ellen White, NO Adventist pioneers. Permitted sources: Scripture, historians, commentators.
+This study is part of the Historicist Proof series (hist-08). The analysis agent must follow the methodology defined in `D:/bible/bible-studies/hist-series-methodology.md`. Source restrictions: No denominational writings. Permitted sources: Scripture, historians, commentators.
 
 ## Discovered Scope
 
@@ -209,7 +209,7 @@ You are the Research Agent. Execute this study by:
     - search_strongs.py --lxx-map [H4120](https://www.blueletterbible.org/lexicon/h4120/kjv/wlc/0-1/){:target="_blank"} (meherah -> Greek)
     - search_strongs.py --hebrew-source [G5034](https://www.blueletterbible.org/lexicon/g5034/kjv/tr/0-1/){:target="_blank"} (tachos -> Hebrew)
 
-12. **References requirement:** The analysis agent must include a References section at the end of CONCLUSION.md citing all Scripture passages analyzed, organized by book order. Since source restrictions prohibit Ellen White and Adventist pioneers, no extra-biblical sources from those categories should appear.
+12. **References requirement:** The analysis agent must include a References section at the end of CONCLUSION.md citing all Scripture passages analyzed, organized by book order. Since source restrictions prohibit denominational writings, no extra-biblical sources from those categories should appear.
 
 ## Workflow
 answer-question

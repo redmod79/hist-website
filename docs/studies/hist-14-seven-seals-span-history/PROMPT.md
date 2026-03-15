@@ -4,7 +4,7 @@
 Do the seven seals of Revelation 6 span from the apostolic era to the second coming? How do they parallel the Olivet Discourse sequence? What does the first seal represent, how does the fifth seal prove historical duration, and how does the sixth seal describe the second coming?
 
 ## Source Restrictions
-- NO Ellen White. NO Adventist pioneers (except as historical documentation of when an interpretation existed, not as interpretive authority).
+- No denominational writings (except as historical documentation of when an interpretation existed, not as interpretive authority).
 - Permitted: Scripture (primary), secular historians, church historians, classical historians, historicist and anti-historicist commentators, Bible commentators and reference works, lexicons and grammars.
 
 ## Discovered Scope

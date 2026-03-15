@@ -4,7 +4,7 @@
 Do the seven churches of Revelation 2-3 have a three-fold application: (a) literal churches of John's day, (b) prophetic church-history eras from the apostolic age to the second coming, and (c) universal application for all who read/hear? What textual evidence supports each layer?
 
 ## Source Restrictions
-- NO Ellen White. NO Adventist pioneers.
+- No denominational writings.
 - Permitted: Scripture, historians (Schaff, Eusebius, Pliny), commentators (Beale, Aune, Mounce, Ramsay, Hemer), historicist (Elliott, Barnes, Guinness)
 
 ## Discovered Scope

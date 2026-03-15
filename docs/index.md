@@ -140,7 +140,7 @@ The Historicist position never requires overriding explicit text (zero I-D items
 
 ## Source Restrictions
 
-This series uses **no Ellen White, no Adventist pioneer sources** as authoritative evidence. Permitted sources are:
+This series uses **no denominational or extra-biblical sources** as authoritative evidence. Permitted sources are:
 
 - Scripture (KJV text with Hebrew/Greek analysis)
 - Secular and church historians (for verifying prophetic claims against historical events)
